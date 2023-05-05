@@ -6,7 +6,7 @@ This repository contains the data and generation code for the `KITMUS` test suit
 The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources
 ```
 
-A preprint is available [on ArXiv](https://arxiv.org/abs/2212.08192).
+A preprint of the paper is available [on ArXiv](https://arxiv.org/abs/2212.08192).
 
 
 ## Setup
@@ -16,8 +16,8 @@ Runs on Python 3.8. Required packages can be installed with `pip install -r requ
 
 ## Usage
 
-Run `python generate.py` to generate the KITMUS dataset with default hyperparameters. This will create a folder `kitmus/` which will take up about 4GB of space.
+Run `python generate.py` to (re-)generate the KITMUS dataset with default hyperparameters. This will create a folder `kitmus/` which will take up about 4GB of space.
 
-Run `python evaluate.py <PATH-TO-GOLD-CONLL-FILE> <PATH-TO-PREDICTED-FILE>` to evaluate a prediction. The predicted file can be a `jsonlines` or `tsv` file.
+Run `python evaluate.py <PATH-TO-GOLD-CONLL-FILE> <PATH-TO-PREDICTION-FILE>` to evaluate a prediction. The prediction file can be a `jsonlines` or `tsv` file. Predictions for the experiments featured in the paper can be found in `predictions/`.
 
 To learn more about any script and its parameters, run `python <SCRIPT> -h`.
