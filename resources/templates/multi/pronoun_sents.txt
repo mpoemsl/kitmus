@@ -1,0 +1,36 @@
+f"""[('After', 'IN'), ('a', 'DT'), ('long', 'JJ'), ('day', 'NN'), ('at', 'IN'), ('work', 'NN')] + {situation} + [(',', ',')] + \
+[{pronoun}, {be}] + [('happy', 'JJ'), ('to', 'TO'), ('relax', 'VB'), ('.', '.')]
+"""
+
+
+f"""[{pronoun}, ('told', 'VBD'), ('anecdotes', 'NNS'), ('from', 'IN'), ('a', 'DT'), ('career', 'NN'), ('of', 'IN')] + {situation} + [('.', '.')]
+"""
+
+
+f"""[{pronoun}, ('reflected', 'VBD'), ('on', 'IN'), ('whether', 'IN')] + {situation} + [('for', 'IN'), ('a', 'DT'), ('living', 'NN')] + \
+[('was', 'VBD'), ('a', 'DT'), ('good', 'JJ'), ('career', 'NN'), ('choice', 'NN'), ('.', '.')]
+"""
+
+
+f"""[('When', 'WRB'), ('a', 'DT'), ('question', 'NN'), ('related', 'VBN'), ('to', 'IN')] + {situation} + [('arose', 'VBD'), (',', ',')] + \
+[{pronoun}, ('offered', 'VBD'), ('a', 'DT'), ('professional', 'JJ'), ('opinion', 'NN'), ('.', '.')]
+"""
+
+
+f"""[{pronoun}, {be}, ('relieved', 'VBN'), ('to', 'TO'), ('unwind', 'VB'), ('after', 'IN'), ('a', 'DT'), ('demanding', 'JJ'), ('day', 'NN')] + \
+[('at', 'IN'), ('work', 'NN')] + {situation} + [('.', '.')]
+"""
+
+
+f"""[{pronoun}, {be}, ('relieved', 'VBN'), ('to', 'TO'), ('unwind', 'VB'), ('after', 'IN'), ('a', 'DT'), ('long', 'JJ'), ('day', 'NN')] + \
+[('at', 'IN'), ('work', 'NN')] + {situation} + [('.', '.')]
+"""
+
+
+f"""[{pronoun}, ('shared', 'VBD'), ('experiences', 'NNS'), ('from', 'IN'), ('a', 'DT'), ('career', 'NN'), ('of', 'IN')] + {situation} + [('.', '.')]
+"""
+
+
+f"""[{pronoun}, ('pondered', 'VBD'), ('whether', 'IN'), ('choosing', 'VBG')] + {situation} + [('as', 'IN'), ('a', 'DT'), ('career', 'NN')] + \
+[('was', 'VBD'), ('a', 'DT'), ('wise', 'JJ'), ('decision', 'NN'), ('.', '.')]
+"""

@@ -1,0 +1,112 @@
+location,noise_fp
+"[('the', 'DT'), ('bar', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('public', 'JJ'), ('transport', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('volunteer', 'NN'), ('work', 'NN')]",resources/noise/volunteering.txt
+"[('the', 'DT'), ('dog', 'NN'), ('park', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('club', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('museum', 'NN')]",resources/noise/museum.txt
+"[('the', 'DT'), ('evening', 'NN'), ('language', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('boardwalk', 'NN'), ('arcade', 'NN')]",resources/noise/games.txt
+"[('the', 'DT'), ('yoga', 'NN'), ('class', 'NN')]",resources/noise/yoga-class.txt
+"[('the', 'DT'), ('rock', 'NN'), ('climbing', 'VBG'), ('gym', 'NN')]",resources/noise/gym.txt
+"[('the', 'DT'), ('book', 'NN'), ('club', 'NN')]",resources/noise/book-club.txt
+"[('the', 'DT'), ('food', 'NN'), ('co-op', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('stadium', 'NN')]",resources/noise/games.txt
+"[('the', 'DT'), ('photography', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('flea', 'NN'), ('market', 'NN')]",resources/noise/market.txt
+"[('the', 'DT'), ('park', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('music', 'NN'), ('festival', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('market', 'NN')]",resources/noise/market.txt
+"[('the', 'DT'), ('brewery', 'NN'), ('tour', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('garden', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('open', 'JJ'), ('gallery', 'NN'), ('museum', 'NN')]",resources/noise/museum.txt
+"[('the', 'DT'), ('charity', 'NN'), ('run', 'NN')]",resources/noise/games.txt
+"[('the', 'DT'), ('improvisation', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('specialty', 'NN'), ('retail', 'JJ'), ('store', 'NN')]",resources/noise/market.txt
+"[('the', 'DT'), ('crossfit', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('high', 'JJ'), ('intensity', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('grocery', 'NN'), ('store', 'NN')]",resources/noise/market.txt
+"[('the', 'DT'), ('commuter', 'NN'), ('bus', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('yoga', 'NN'), ('studio', 'NN')]",resources/noise/yoga-class.txt
+"[('the', 'DT'), ('hotel', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('restaurant', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('library', 'NN')]",resources/noise/book-club.txt
+"[('the', 'DT'), ('wine', 'NN'), ('tasting', 'VBG')]",resources/noise/food.txt
+"[('the', 'DT'), ('cooking', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('partner', 'NN'), ('dancing', 'NN'), ('classes', 'NNS')]",resources/noise/class.txt
+"[('the', 'DT'), ('dance', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('museum', 'NN'), ('tour', 'NN')]",resources/noise/museum.txt
+"[('the', 'DT'), ('gallery', 'NN')]",resources/noise/museum.txt
+"[('the', 'DT'), ('sports', 'NNS'), ('bar', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('coffee', 'NN'), ('shop', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('subway', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('bus', 'NN'), ('station', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('carpool', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('fitness', 'NN'), ('class', 'NN')]",resources/noise/yoga-class.txt
+"[('the', 'DT'), ('cafe', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('train', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('metro', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('food', 'NN'), ('court', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('food', 'NN'), ('festival', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('car', 'NN'), ('show', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('business', 'NN'), ('expo', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('design', 'NN'), ('expo', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('art', 'NN'), ('expo', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('trivia', 'NNS'), ('night', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('comic', 'JJ'), ('book', 'NN'), ('expo', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('food', 'NN'), ('and', 'CC'), ('drink', 'NN'), ('festival', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('beer', 'NN'), ('making', 'VBG'), ('classes', 'NNS')]",resources/noise/class.txt
+"[('the', 'DT'), ('music', 'NN'), ('and', 'CC'), ('art', 'NN'), ('festival', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('concert', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('open', 'JJ'), ('mic', 'JJ'), ('night', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('community', 'NN'), ('garden', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('religious', 'JJ'), ('and', 'CC'), ('spiritual', 'JJ'), ('gathering', 'NN')]",resources/noise/community.txt
+"[('the', 'DT'), ('winery', 'NN'), ('tour', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('bike', 'NN'), ('tour', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('walking', 'NN'), ('tour', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('group', 'NN'), ('vacation', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('bar', 'NN'), ('crawl', 'NN')]",resources/noise/tour.txt
+"[('the', 'DT'), ('social', 'JJ'), ('community', 'NN'), ('gathering', 'NN')]",resources/noise/community.txt
+"[('the', 'DT'), ('community', 'NN'), ('service', 'NN'), ('day', 'NN'), ('event', 'NN')]",resources/noise/community.txt
+"[('the', 'DT'), ('alumni', 'NNS'), ('event', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('animal', 'NN'), ('shelter', 'NN')]",resources/noise/volunteering.txt
+"[('the', 'DT'), ('archery', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('beach', 'NN')]",resources/noise/beach.txt
+"[('the', 'DT'), ('book', 'NN'), ('store', 'NN')]",resources/noise/book-club.txt
+"[('the', 'DT'), ('cigar', 'NN'), ('bar', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('communal', 'JJ'), ('dining', 'NN'), ('restaurant', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('fundraiser', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('gallery', 'NN'), ('opening', 'NN'), ('event', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('halloweeen', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('happy', 'JJ'), ('hours', 'NNS')]",resources/noise/food.txt
+"[('the', 'DT'), ('holiday', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('house', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('birthday', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('local', 'JJ'), ('talk', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('networking', 'NN'), ('event', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('paintball', 'NN'), ('courses', 'NNS')]",resources/noise/class.txt
+"[('the', 'DT'), ('retreat', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('school', 'NN'), ('reunion', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('school', 'NN'), ('sports', 'NNS'), ('event', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('ski', 'NN'), ('resort', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('street', 'NN'), ('fair', 'JJ')]",resources/noise/event.txt
+"[('the', 'DT'), ('pool', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('theater', 'NN'), ('festival', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('wedding', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('new', 'JJ'), ('year', 'NN'), ('party', 'NN')]",resources/noise/party.txt
+"[('the', 'DT'), ('french', 'JJ'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('piano', 'NN'), ('class', 'NN')]",resources/noise/class.txt
+"[('the', 'DT'), ('power', 'NN'), ('yoga', 'NN'), ('class', 'NN')]",resources/noise/yoga-class.txt
+"[('the', 'DT'), ('job', 'NN'), ('fair', 'JJ')]",resources/noise/event.txt
+"[('the', 'DT'), ('business', 'NN'), ('meet', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('charity', 'NN'), ('car', 'NN'), ('wash', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('local', 'JJ'), ('reading', 'NN')]",resources/noise/book-club.txt
+"[('the', 'DT'), ('poolside', 'NN'), ('event', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('private', 'JJ'), ('club', 'NN')]",resources/noise/food.txt
+"[('the', 'DT'), ('public', 'JJ'), ('park', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('rideshare', 'NN')]",resources/noise/public-transport.txt
+"[('the', 'DT'), ('school', 'NN'), ('reunion', 'NN')]",resources/noise/event.txt
+"[('the', 'DT'), ('specialty', 'NN'), ('retail', 'JJ'), ('market', 'NN')]",resources/noise/market.txt
+"[('the', 'DT'), ('theme', 'NN'), ('park', 'NN')]",resources/noise/park.txt
+"[('the', 'DT'), ('volunteer', 'NN'), ('organization', 'NN'), ('meet', 'NN')]",resources/noise/volunteering.txt
