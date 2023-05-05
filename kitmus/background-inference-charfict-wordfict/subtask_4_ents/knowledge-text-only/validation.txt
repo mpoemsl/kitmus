@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:0
+Zuluaga is a conper. Pettaway is a bareer. Wilcher is a vegeer. Ricks is an isittequander. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a conper is managing and reporting the news on television. The work of an isittequander is typing letters and keeping orders for a company. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:1
+Mccleary is a cabbier. The work of a byeeper is acting in a seat or a location. Houseman is a byeeper. The work of a cabbier is writing functions or records professionally. Fassett is a lifiber. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Runyan is a goster. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:2
+Kozel is a senficer. Zuluaga is a vegeer. The work of a mamser is overseeing the stars and the universe. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a turter is assisting and selling orders. The work of a senficer is studying the fires and the fish. Thole is a turter. Moralez is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:3
+The work of a senficer is studying the fires and the fish. The work of an oducer is writing books or problems professionally. The work of a bareer is studying the products and the restaurant. Bate is a bareer. Tiedemann is an oducer. Hoffner is a senficer. The work of a mamser is overseeing the stars and the universe. Salerno is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:4
+The work of a basrer is growing and unpacking flowers. Nunnally is a basrer. Berggren is a vegeer. The work of a chopher is troubleshooting a customer's or court's financial records. Gardiner is a cabbier. Lefler is a chopher. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:5
+Scully is an isittequander. Dehn is a cabbier. Kawamoto is a basrer. Welborn is a senficer. The work of a senficer is studying the fires and the fish. The work of an isittequander is typing letters and keeping orders for a company. The work of a basrer is growing and unpacking flowers. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:6
+Beamon is a cabbier. Trager is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an isittequander is typing letters and keeping orders for a company. Selders is an isittequander. The work of an ifler is making problems from wood reporting houses and furniture. The work of a cabbier is writing functions or records professionally. Manchester is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:7
+Laycock is an oducer. Kruk is a vegeer. The work of a senficer is studying the fires and the fish. The work of an oducer is writing books or problems professionally. The work of a basrer is growing and unpacking flowers. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Ibarra is a basrer. Mcnelly is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:8
+Balcazar is a bareer. The work of a turter is assisting and selling orders. The work of a chopher is troubleshooting a customer's or court's financial records. Magallanes is a turter. The work of an oducer is writing books or problems professionally. The work of a bareer is studying the products and the restaurant. Lukens is a chopher. Villarruel is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:9
+The work of a wairer is working with electric cars. The work of an oducer is writing books or problems professionally. Stalter is a wairer. Hazelton is an oducer. The work of a remaller is selling letters and cleaning records for a company. Meiser is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Asmus is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:10
+Ravenell is an isittequander. Gokey is a mamser. Anastasi is a cabbier. The work of a popesmer is cleaning the kitchen location at restaurants. Engler is a popesmer. The work of a mamser is overseeing the stars and the universe. The work of a cabbier is writing functions or records professionally. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:11
+Kimsey is an oducer. The work of a turter is assisting and selling orders. Doe is a turter. Galles is a cabbier. Harrigan is a wairer. The work of a wairer is working with electric cars. The work of a cabbier is writing functions or records professionally. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:12
+The work of a remaller is selling letters and cleaning records for a company. Vandoren is a camsciater. Salisbury is a byeeper. The work of a byeeper is acting in a seat or a location. Defreitas is a remaller. Lore is a bareer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:13
+The work of a remaller is selling letters and cleaning records for a company. Letts is a chopher. Shrader is a camsciater. Reisinger is a remaller. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Kugler is a bareer. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:14
+Caviness is an oducer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an oducer is writing books or problems professionally. Letts is a wairer. Asberry is a popesmer. The work of a wairer is working with electric cars. Leathers is a byeeper. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:15
+Breneman is an oducer. Pliego is an isittequander. The work of an isittequander is typing letters and keeping orders for a company. Salerno is a turter. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a turter is assisting and selling orders. The work of an oducer is writing books or problems professionally. Wimberley is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:16
+The work of a remaller is selling letters and cleaning records for a company. The work of a turter is assisting and selling orders. Klock is a turter. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Newson is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. Runyan is a camsciater. Mealy is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:17
+Coakley is a popesmer. The work of a cabbier is writing functions or records professionally. Nagel is a cabbier. The work of a senficer is studying the fires and the fish. Gulledge is a turter. The work of a popesmer is cleaning the kitchen location at restaurants. Moriarty is a senficer. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:18
+Labat is a remaller. The work of a lifiber is overseeing and treating problems with bricks. Cathey is an ifler. Weaver is a lifiber. The work of an ifler is making problems from wood reporting houses and furniture. The work of a byeeper is acting in a seat or a location. Laycock is a byeeper. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:19
+The work of a chopher is troubleshooting a customer's or court's financial records. The work of a lifiber is overseeing and treating problems with bricks. Muller is a chopher. The work of an ifler is making problems from wood reporting houses and furniture. Hallman is a lifiber. Kinne is an ifler. Pero is a senficer. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:20
+Springfield is a cabbier. The work of a byeeper is acting in a seat or a location. Trexler is a chopher. The work of a turter is assisting and selling orders. The work of a cabbier is writing functions or records professionally. The work of a chopher is troubleshooting a customer's or court's financial records. Overton is a byeeper. Mcentee is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:21
+Ocon is a conper. The work of a senficer is studying the fires and the fish. Hedges is a cabbier. The work of a cabbier is writing functions or records professionally. The work of a conper is managing and reporting the news on television. The work of a lifiber is overseeing and treating problems with bricks. Gouveia is a lifiber. Jobes is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:22
+The work of a lifiber is overseeing and treating problems with bricks. Kirchoff is a goster. The work of an ifler is making problems from wood reporting houses and furniture. Leiser is a refever. Santore is an ifler. The work of a refever is patrolling merchandise when it arrives at the land. Adamo is a lifiber. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:23
+Monsivais is a cabbier. The work of a remaller is selling letters and cleaning records for a company. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a conper is managing and reporting the news on television. Ream is a chopher. The work of a cabbier is writing functions or records professionally. Willing is a conper. Najjar is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:24
+Giberson is a cabbier. Johnstone is a basrer. The work of a conper is managing and reporting the news on television. Upson is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. Thibodeau is a conper. The work of a basrer is growing and unpacking flowers. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:25
+Inzunza is an isittequander. Denniston is a senficer. The work of a senficer is studying the fires and the fish. The work of a byeeper is acting in a seat or a location. Favela is a byeeper. The work of an isittequander is typing letters and keeping orders for a company. Moen is a conper. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:26
+Files is a refever. Jeffords is a cabbier. Hokanson is a remaller. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a refever is patrolling merchandise when it arrives at the land. Barham is a camsciater. The work of a remaller is selling letters and cleaning records for a company. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:27
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a cabbier is writing functions or records professionally. Colvard is a popesmer. The work of a turter is assisting and selling orders. Haner is a cabbier. The work of a popesmer is cleaning the kitchen location at restaurants. Neves is a camsciater. Sokolowski is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:28
+The work of a byeeper is acting in a seat or a location. The work of a bareer is studying the products and the restaurant. Castleberry is a byeeper. Crudup is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. Fan is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Delcarmen is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:29
+Hail is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. The work of a senficer is studying the fires and the fish. The work of a conper is managing and reporting the news on television. Stith is a conper. Mckelvy is a senficer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Wales is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:30
+The work of a bareer is studying the products and the restaurant. The work of an ifler is making problems from wood reporting houses and furniture. Mcgarvey is a conper. Mcgaughey is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a conper is managing and reporting the news on television. Fleury is an ifler. Baires is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:31
+The work of a chopher is troubleshooting a customer's or court's financial records. The work of a mamser is overseeing the stars and the universe. Nunnery is a goster. The work of an isittequander is typing letters and keeping orders for a company. Sturges is a mamser. Meinke is a chopher. Joyner is an isittequander. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:32
+Wine is a camsciater. Delao is a basrer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an oducer is writing books or problems professionally. The work of a lifiber is overseeing and treating problems with bricks. The work of a basrer is growing and unpacking flowers. Mccrea is an oducer. Ba is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:33
+Hockensmith is an isittequander. The work of a senficer is studying the fires and the fish. Hannigan is a byeeper. Chick is a mamser. Weimer is a senficer. The work of a byeeper is acting in a seat or a location. The work of an isittequander is typing letters and keeping orders for a company. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:34
+The work of a conper is managing and reporting the news on television. The work of a remaller is selling letters and cleaning records for a company. Probst is a goster. The work of a wairer is working with electric cars. Poland is a remaller. Root is a conper. Higuera is a wairer. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:35
+Chumbley is a cabbier. Mccollum is a popesmer. The work of a mamser is overseeing the stars and the universe. Lutz is a senficer. Potts is a mamser. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a senficer is studying the fires and the fish. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:36
+The work of a lifiber is overseeing and treating problems with bricks. Duff is a turter. The work of a bareer is studying the products and the restaurant. Flach is a bareer. The work of a chopher is troubleshooting a customer's or court's financial records. Scala is a chopher. The work of a turter is assisting and selling orders. Delcarmen is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:37
+Ackley is a remaller. Fleischmann is a bareer. The work of a popesmer is cleaning the kitchen location at restaurants. Krier is a vegeer. The work of a remaller is selling letters and cleaning records for a company. Bish is a popesmer. The work of a bareer is studying the products and the restaurant. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:38
+The work of an ifler is making problems from wood reporting houses and furniture. Heiss is an ifler. The work of a popesmer is cleaning the kitchen location at restaurants. Dinicola is a popesmer. The work of a lifiber is overseeing and treating problems with bricks. Hillyard is a lifiber. Files is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:39
+The work of a refever is patrolling merchandise when it arrives at the land. The work of a wairer is working with electric cars. Ridgley is a bareer. Woodham is a wairer. Dennehy is a chopher. The work of a bareer is studying the products and the restaurant. The work of a chopher is troubleshooting a customer's or court's financial records. Mcspadden is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:40
+Fine is a vegeer. Iniguez is a goster. The work of an oducer is writing books or problems professionally. Lavergne is a conper. Xiong is an oducer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:41
+Hardee is an oducer. Sneddon is a popesmer. The work of a bareer is studying the products and the restaurant. The work of a senficer is studying the fires and the fish. Milian is a bareer. Nicholson is a senficer. The work of an oducer is writing books or problems professionally. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:42
+Nobile is a mamser. Bastin is an isittequander. The work of an oducer is writing books or problems professionally. The work of a mamser is overseeing the stars and the universe. The work of a remaller is selling letters and cleaning records for a company. Heger is a remaller. Loughran is an oducer. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:43
+Orsini is a camsciater. The work of a lifiber is overseeing and treating problems with bricks. The work of a conper is managing and reporting the news on television. The work of an ifler is making problems from wood reporting houses and furniture. Mowers is a conper. Ye is a lifiber. Moorefield is an ifler. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:44
+The work of a remaller is selling letters and cleaning records for a company. The work of a popesmer is cleaning the kitchen location at restaurants. Stipe is an ifler. The work of a conper is managing and reporting the news on television. Heffernan is a conper. The work of an ifler is making problems from wood reporting houses and furniture. Sylvestre is a remaller. Mccraney is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:45
+Stalling is an ifler. The work of a lifiber is overseeing and treating problems with bricks. The work of an ifler is making problems from wood reporting houses and furniture. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Whyte is a lifiber. Mazzone is a camsciater. The work of an oducer is writing books or problems professionally. Lizama is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:46
+The work of a byeeper is acting in a seat or a location. The work of an ifler is making problems from wood reporting houses and furniture. Novick is a byeeper. Nilsen is an ifler. Lavalley is an isittequander. Parrino is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:47
+Thong is a conper. Skinner is a lifiber. The work of a cabbier is writing functions or records professionally. The work of a lifiber is overseeing and treating problems with bricks. The work of a conper is managing and reporting the news on television. The work of an isittequander is typing letters and keeping orders for a company. Gillis is an isittequander. Ohalloran is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:48
+The work of a mamser is overseeing the stars and the universe. Pimentel is a wairer. Allaire is a refever. The work of a wairer is working with electric cars. Nottingham is a lifiber. Wexler is a mamser. The work of a refever is patrolling merchandise when it arrives at the land. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:49
+Drinkard is a senficer. The work of a senficer is studying the fires and the fish. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Wix is a vegeer. Mccomas is an ifler. Hamill is a goster. The work of an ifler is making problems from wood reporting houses and furniture. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:50
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an isittequander is typing letters and keeping orders for a company. Leatherman is a cabbier. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Heitman is a goster. Reinhardt is a camsciater. Glanton is an isittequander. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:51
+The work of a wairer is working with electric cars. Bi is a wairer. Hur is a bareer. Northrup is a byeeper. The work of a refever is patrolling merchandise when it arrives at the land. Brackman is a refever. The work of a byeeper is acting in a seat or a location. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:52
+The work of a remaller is selling letters and cleaning records for a company. The work of an oducer is writing books or problems professionally. Michels is a popesmer. The work of an ifler is making problems from wood reporting houses and furniture. Benham is an ifler. The work of a popesmer is cleaning the kitchen location at restaurants. Keck is a remaller. Kuck is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:53
+Thigpen is a vegeer. Lohr is a byeeper. The work of a popesmer is cleaning the kitchen location at restaurants. Bublitz is a popesmer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a byeeper is acting in a seat or a location. Zuluaga is a senficer. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:54
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Warriner is a goster. The work of a byeeper is acting in a seat or a location. The work of a conper is managing and reporting the news on television. The work of a lifiber is overseeing and treating problems with bricks. Paine is a lifiber. Routh is a conper. Jue is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:55
+Gullo is a cabbier. Jetton is a wairer. The work of a wairer is working with electric cars. The work of an ifler is making problems from wood reporting houses and furniture. The work of a cabbier is writing functions or records professionally. Behnke is an ifler. The work of an isittequander is typing letters and keeping orders for a company. Phaneuf is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:56
+Hutsell is an isittequander. Colquitt is a remaller. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an ifler is making problems from wood reporting houses and furniture. Tonn is a camsciater. The work of an isittequander is typing letters and keeping orders for a company. Sepulveda is an ifler. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:57
+Mancia is a mamser. The work of a turter is assisting and selling orders. The work of a mamser is overseeing the stars and the universe. Cummins is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Meola is a turter. Sax is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:58
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a turter is assisting and selling orders. Alles is a wairer. Fekete is a turter. Quispe is a cabbier. The work of a cabbier is writing functions or records professionally. The work of a wairer is working with electric cars. Fulmer is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:59
+Savoy is a lifiber. Mathison is a byeeper. The work of a byeeper is acting in a seat or a location. The work of a lifiber is overseeing and treating problems with bricks. Brazell is a wairer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a wairer is working with electric cars. Lueck is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:60
+The work of a conper is managing and reporting the news on television. The work of a senficer is studying the fires and the fish. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Ells is a camsciater. Meiser is a senficer. Wirick is a conper. The work of a byeeper is acting in a seat or a location. Shimizu is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:61
+The work of a bareer is studying the products and the restaurant. Mcdaniels is a bareer. The work of a refever is patrolling merchandise when it arrives at the land. The work of a conper is managing and reporting the news on television. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Karns is a refever. Thibodeaux is a conper. Chick is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:62
+The work of a popesmer is cleaning the kitchen location at restaurants. Macomber is an oducer. The work of an oducer is writing books or problems professionally. Sperling is a conper. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Stelly is a vegeer. Degen is a popesmer. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:63
+The work of a byeeper is acting in a seat or a location. Milligan is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a popesmer is cleaning the kitchen location at restaurants. Bast is an isittequander. Conklin is a byeeper. The work of an isittequander is typing letters and keeping orders for a company. Goodson is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:64
+The work of a popesmer is cleaning the kitchen location at restaurants. Brower is a chopher. The work of a byeeper is acting in a seat or a location. Devoe is a cabbier. Mcquaid is a popesmer. Pietsch is a byeeper. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:65
+Conard is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a basrer is growing and unpacking flowers. The work of a cabbier is writing functions or records professionally. Leister is a basrer. The work of a conper is managing and reporting the news on television. Hines is a conper. Shull is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:66
+Coutts is a basrer. The work of a lifiber is overseeing and treating problems with bricks. Wilkes is a lifiber. Hua is a conper. Aldama is an oducer. The work of an oducer is writing books or problems professionally. The work of a basrer is growing and unpacking flowers. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:67
+The work of a popesmer is cleaning the kitchen location at restaurants. Dhillon is a byeeper. Blancas is a conper. Laguna is a popesmer. The work of a byeeper is acting in a seat or a location. The work of a chopher is troubleshooting a customer's or court's financial records. Basham is a chopher. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:68
+Valverde is a chopher. The work of a turter is assisting and selling orders. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a basrer is growing and unpacking flowers. Shipp is a turter. The work of a conper is managing and reporting the news on television. Schoch is a basrer. Urbaniak is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:69
+The work of a popesmer is cleaning the kitchen location at restaurants. Chasteen is a popesmer. Robinett is a goster. The work of a turter is assisting and selling orders. Matthies is a basrer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a basrer is growing and unpacking flowers. Severns is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:70
+The work of a lifiber is overseeing and treating problems with bricks. Rathbone is a lifiber. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Gay is a vegeer. The work of an isittequander is typing letters and keeping orders for a company. The work of a wairer is working with electric cars. Tannehill is an isittequander. Becraft is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:71
+Pitkin is a wairer. The work of a mamser is overseeing the stars and the universe. Hannum is a mamser. The work of a byeeper is acting in a seat or a location. The work of a wairer is working with electric cars. Mclin is a byeeper. The work of a bareer is studying the products and the restaurant. Vento is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:72
+The work of a basrer is growing and unpacking flowers. The work of a wairer is working with electric cars. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Delmonte is a wairer. The work of an ifler is making problems from wood reporting houses and furniture. Rosenzweig is a basrer. Lafferty is a vegeer. Lott is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:73
+The work of a chopher is troubleshooting a customer's or court's financial records. Newlin is a conper. The work of a conper is managing and reporting the news on television. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Sanner is a vegeer. Drapeau is a senficer. Hsu is a chopher. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:74
+The work of a chopher is troubleshooting a customer's or court's financial records. Claussen is a bareer. Resendez is a byeeper. The work of a byeeper is acting in a seat or a location. The work of a bareer is studying the products and the restaurant. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Kloss is a camsciater. Chick is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:75
+The work of a conper is managing and reporting the news on television. Lagasse is an oducer. The work of a wairer is working with electric cars. The work of a mamser is overseeing the stars and the universe. The work of an oducer is writing books or problems professionally. Kinnaman is a mamser. Owens is a wairer. Lembo is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:76
+Lindstrom is a senficer. The work of a conper is managing and reporting the news on television. Zwick is a bareer. Jackman is a turter. Mullin is a conper. The work of a bareer is studying the products and the restaurant. The work of a senficer is studying the fires and the fish. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:77
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a conper is managing and reporting the news on television. Woodmansee is a popesmer. Eakin is a remaller. Baskin is a camsciater. The work of a remaller is selling letters and cleaning records for a company. Colquitt is a conper. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:78
+The work of an ifler is making problems from wood reporting houses and furniture. The work of a basrer is growing and unpacking flowers. The work of a mamser is overseeing the stars and the universe. Allsup is a mamser. Dunleavy is a senficer. Rothe is an ifler. The work of a senficer is studying the fires and the fish. Wetherell is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:79
+Freiberg is a refever. The work of an oducer is writing books or problems professionally. The work of a refever is patrolling merchandise when it arrives at the land. The work of a wairer is working with electric cars. Swensen is an oducer. Mask is a wairer. Pedersen is an ifler. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:80
+The work of a mamser is overseeing the stars and the universe. Salerno is a chopher. The work of a remaller is selling letters and cleaning records for a company. Cheever is a mamser. Bruckner is a wairer. Orrick is a remaller. The work of a wairer is working with electric cars. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:81
+The work of a refever is patrolling merchandise when it arrives at the land. The work of a chopher is troubleshooting a customer's or court's financial records. Feld is a refever. Pollack is a remaller. The work of a senficer is studying the fires and the fish. Elamin is a chopher. Anello is a senficer. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:82
+The work of a lifiber is overseeing and treating problems with bricks. The work of a cabbier is writing functions or records professionally. The work of a popesmer is cleaning the kitchen location at restaurants. Jetton is a lifiber. The work of a mamser is overseeing the stars and the universe. Bumgarner is a cabbier. Macauley is a mamser. Ebel is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:83
+The work of a turter is assisting and selling orders. Bansal is an isittequander. The work of a lifiber is overseeing and treating problems with bricks. The work of an isittequander is typing letters and keeping orders for a company. Coggin is a lifiber. Eldredge is a turter. Flakes is a senficer. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:84
+Hiett is a basrer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Wildman is a mamser. Wehner is a lifiber. The work of a basrer is growing and unpacking flowers. Speaks is a vegeer. The work of a mamser is overseeing the stars and the universe. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:85
+The work of an oducer is writing books or problems professionally. Brashears is a senficer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Collard is a goster. The work of a senficer is studying the fires and the fish. Benningfield is an oducer. The work of a turter is assisting and selling orders. Hoosier is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:86
+Maier is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. The work of a senficer is studying the fires and the fish. The work of an ifler is making problems from wood reporting houses and furniture. The work of a popesmer is cleaning the kitchen location at restaurants. Stoltz is a popesmer. Venditti is a senficer. Wareham is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:87
+The work of a remaller is selling letters and cleaning records for a company. The work of a lifiber is overseeing and treating problems with bricks. Halls is a lifiber. The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Utter is a remaller. Neto is a basrer. Mclin is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:88
+The work of an ifler is making problems from wood reporting houses and furniture. The work of a refever is patrolling merchandise when it arrives at the land. The work of a byeeper is acting in a seat or a location. Blandon is a bareer. Coddington is an ifler. The work of a bareer is studying the products and the restaurant. Toner is a byeeper. Bedwell is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:89
+Witmer is a vegeer. Goodpaster is a basrer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Forshee is a cabbier. Malmberg is a wairer. The work of a cabbier is writing functions or records professionally. The work of a wairer is working with electric cars. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:90
+The work of a cabbier is writing functions or records professionally. The work of a bareer is studying the products and the restaurant. Lo is a chopher. Orth is a bareer. The work of a refever is patrolling merchandise when it arrives at the land. Petrillo is a cabbier. The work of a chopher is troubleshooting a customer's or court's financial records. Wimbley is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:91
+The work of a refever is patrolling merchandise when it arrives at the land. Leavy is a cabbier. Clift is an oducer. Perron is a refever. The work of a chopher is troubleshooting a customer's or court's financial records. The work of an oducer is writing books or problems professionally. The work of a cabbier is writing functions or records professionally. Marx is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:92
+The work of a bareer is studying the products and the restaurant. Palko is a cabbier. Bybee is a lifiber. Plant is a refever. The work of a cabbier is writing functions or records professionally. The work of a lifiber is overseeing and treating problems with bricks. Sevigny is a bareer. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:93
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a bareer is studying the products and the restaurant. Baskerville is a bareer. The work of an ifler is making problems from wood reporting houses and furniture. Pigeon is an ifler. Chartier is a vegeer. Biermann is a remaller. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:94
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a basrer is growing and unpacking flowers. Folsom is a basrer. The work of a remaller is selling letters and cleaning records for a company. Bazile is a remaller. Goza is a mamser. Lawrie is a vegeer. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:95
+Zuluaga is a vegeer. Newman is a byeeper. The work of a senficer is studying the fires and the fish. The work of a conper is managing and reporting the news on television. Foulks is a senficer. The work of a byeeper is acting in a seat or a location. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Martucci is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:96
+The work of a mamser is overseeing the stars and the universe. Savala is a conper. The work of a senficer is studying the fires and the fish. Sappington is a basrer. The work of a basrer is growing and unpacking flowers. Halliburton is a mamser. Berkowitz is a senficer. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:97
+The work of a senficer is studying the fires and the fish. The work of a turter is assisting and selling orders. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Broadhead is a vegeer. Vavra is a camsciater. Henne is a senficer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Maloof is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:98
+The work of a popesmer is cleaning the kitchen location at restaurants. The work of a chopher is troubleshooting a customer's or court's financial records. Eisenhart is a vegeer. Upton is a chopher. The work of a wairer is working with electric cars. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Thrift is a popesmer. Detweiler is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:99
+The work of an oducer is writing books or problems professionally. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a mamser is overseeing the stars and the universe. Marlette is a vegeer. Michie is a senficer. The work of a senficer is studying the fires and the fish. Popa is an oducer. Goodin is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:100
+Eller is a lifiber. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a cabbier is writing functions or records professionally. Osterman is a cabbier. Jozwiak is a camsciater. Lerch is an oducer. The work of an oducer is writing books or problems professionally. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:101
+The work of a lifiber is overseeing and treating problems with bricks. Deboer is a lifiber. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a conper is managing and reporting the news on television. The work of a popesmer is cleaning the kitchen location at restaurants. Gillenwater is a popesmer. Richburg is a chopher. Ethington is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:102
+Underwood is a refever. The work of a refever is patrolling merchandise when it arrives at the land. The work of a conper is managing and reporting the news on television. Shumate is a wairer. The work of a wairer is working with electric cars. The work of an ifler is making problems from wood reporting houses and furniture. Iler is an ifler. Stedman is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:103
+The work of a turter is assisting and selling orders. The work of a refever is patrolling merchandise when it arrives at the land. The work of a conper is managing and reporting the news on television. Sparks is a turter. Oneal is a conper. Kirschbaum is a basrer. The work of a basrer is growing and unpacking flowers. Giberson is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:104
+The work of a mamser is overseeing the stars and the universe. Leffel is an isittequander. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a remaller is selling letters and cleaning records for a company. The work of an isittequander is typing letters and keeping orders for a company. Beckmann is a remaller. Nord is a mamser. Gadsden is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:105
+Doles is a popesmer. Drummond is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. The work of a remaller is selling letters and cleaning records for a company. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a turter is assisting and selling orders. Fleury is a remaller. Zeigler is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:106
+The work of a turter is assisting and selling orders. Kwon is a turter. Storck is a wairer. The work of a basrer is growing and unpacking flowers. The work of a wairer is working with electric cars. Wolk is a basrer. The work of a refever is patrolling merchandise when it arrives at the land. Benham is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:107
+The work of a popesmer is cleaning the kitchen location at restaurants. The work of a lifiber is overseeing and treating problems with bricks. The work of a wairer is working with electric cars. The work of a bareer is studying the products and the restaurant. Mcduffie is a bareer. Aguilar is a lifiber. Luck is a wairer. Kinney is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:108
+The work of an ifler is making problems from wood reporting houses and furniture. Clampitt is an ifler. The work of a basrer is growing and unpacking flowers. The work of a refever is patrolling merchandise when it arrives at the land. Brandes is a chopher. Lederman is a basrer. Hoban is a refever. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:109
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Swinson is a vegeer. The work of an oducer is writing books or problems professionally. The work of a chopher is troubleshooting a customer's or court's financial records. Ells is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Woolsey is a chopher. Coughlan is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:110
+Gough is a mamser. Huitt is a camsciater. Concannon is a byeeper. The work of a byeeper is acting in a seat or a location. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a mamser is overseeing the stars and the universe. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Jue is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:111
+Fried is a vegeer. The work of a conper is managing and reporting the news on television. The work of an isittequander is typing letters and keeping orders for a company. Bhattacharya is an isittequander. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Mathison is a goster. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Knerr is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:112
+The work of a mamser is overseeing the stars and the universe. Vanderbilt is an isittequander. The work of a cabbier is writing functions or records professionally. Burrows is a chopher. Bowersox is a cabbier. Scoles is a mamser. The work of a chopher is troubleshooting a customer's or court's financial records. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:113
+The work of a conper is managing and reporting the news on television. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a byeeper is acting in a seat or a location. The work of a refever is patrolling merchandise when it arrives at the land. Zoller is a refever. Pendley is a camsciater. Gentner is a conper. Osterberg is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:114
+Tarver is a senficer. The work of a remaller is selling letters and cleaning records for a company. The work of a bareer is studying the products and the restaurant. Wurtz is a conper. The work of a senficer is studying the fires and the fish. Buckmaster is a bareer. Majeski is a remaller. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:115
+The work of a basrer is growing and unpacking flowers. The work of a refever is patrolling merchandise when it arrives at the land. Dorner is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Amey is a refever. Erhart is a camsciater. Berkman is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:116
+Engebretson is a refever. Calaway is a remaller. The work of an isittequander is typing letters and keeping orders for a company. The work of a bareer is studying the products and the restaurant. Khanna is a bareer. Canlas is an isittequander. The work of a refever is patrolling merchandise when it arrives at the land. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:117
+Carreno is a lifiber. The work of an oducer is writing books or problems professionally. Mosqueda is a byeeper. Grooms is a refever. The work of a refever is patrolling merchandise when it arrives at the land. The work of a byeeper is acting in a seat or a location. The work of a lifiber is overseeing and treating problems with bricks. Braithwaite is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:118
+The work of a conper is managing and reporting the news on television. Newlin is a conper. The work of a bareer is studying the products and the restaurant. Caldera is a mamser. Rosenblatt is a bareer. The work of an isittequander is typing letters and keeping orders for a company. The work of a mamser is overseeing the stars and the universe. Wilks is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:119
+Bonds is an isittequander. The work of a cabbier is writing functions or records professionally. Co is an oducer. Andress is a byeeper. The work of an isittequander is typing letters and keeping orders for a company. The work of a byeeper is acting in a seat or a location. The work of an oducer is writing books or problems professionally. Malkin is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:120
+Gatewood is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a cabbier is writing functions or records professionally. Crossland is a mamser. The work of a refever is patrolling merchandise when it arrives at the land. The work of a mamser is overseeing the stars and the universe. Morita is a cabbier. Mcdonald is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:121
+The work of a remaller is selling letters and cleaning records for a company. The work of an oducer is writing books or problems professionally. Feld is a remaller. Mazzei is a goster. The work of an ifler is making problems from wood reporting houses and furniture. Snelson is an oducer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Hesser is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:122
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Scully is a popesmer. Hales is a wairer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a wairer is working with electric cars. The work of a popesmer is cleaning the kitchen location at restaurants. Kreis is a goster. Oatman is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:123
+The work of a wairer is working with electric cars. Hardnett is a mamser. Twiss is a chopher. Kost is a wairer. The work of a turter is assisting and selling orders. The work of a chopher is troubleshooting a customer's or court's financial records. Clift is a turter. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:124
+Brough is a goster. Heitman is a byeeper. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a byeeper is acting in a seat or a location. Blystone is a wairer. The work of a bareer is studying the products and the restaurant. Jelinek is a bareer. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:125
+Seagraves is a conper. Reichardt is an ifler. Gettys is a chopher. Dunsmore is a byeeper. The work of an ifler is making problems from wood reporting houses and furniture. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a conper is managing and reporting the news on television. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:126
+Behan is a goster. The work of a turter is assisting and selling orders. Wareham is a popesmer. Steinhauer is an ifler. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an ifler is making problems from wood reporting houses and furniture. The work of a popesmer is cleaning the kitchen location at restaurants. Irby is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:127
+Leathers is a cabbier. The work of an oducer is writing books or problems professionally. Brizuela is a wairer. The work of a remaller is selling letters and cleaning records for a company. The work of a cabbier is writing functions or records professionally. Stjohn is a remaller. Cauley is an oducer. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:128
+Nunez is a camsciater. Pontius is a mamser. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Fancher is a conper. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a conper is managing and reporting the news on television. Rosenzweig is a vegeer. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:129
+Noack is a remaller. The work of a basrer is growing and unpacking flowers. The work of a turter is assisting and selling orders. Shum is a turter. Borelli is a basrer. The work of a remaller is selling letters and cleaning records for a company. The work of a chopher is troubleshooting a customer's or court's financial records. Perezperez is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:130
+Reichardt is a chopher. Falgout is a refever. Glaser is a vegeer. The work of a chopher is troubleshooting a customer's or court's financial records. Clavijo is an ifler. The work of a refever is patrolling merchandise when it arrives at the land. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:131
+The work of a mamser is overseeing the stars and the universe. Voth is a mamser. Chaplin is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Schlichting is a byeeper. Tesfaye is a chopher. The work of a byeeper is acting in a seat or a location. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:132
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Hargett is a vegeer. The work of a basrer is growing and unpacking flowers. The work of a mamser is overseeing the stars and the universe. The work of a bareer is studying the products and the restaurant. Sevier is a basrer. Catalano is a mamser. Luevanos is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:133
+Gramlich is a vegeer. The work of a basrer is growing and unpacking flowers. Valverde is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. Milliner is a basrer. The work of a remaller is selling letters and cleaning records for a company. Lore is a remaller. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:134
+Heiman is a conper. The work of an ifler is making problems from wood reporting houses and furniture. The work of a basrer is growing and unpacking flowers. The work of a conper is managing and reporting the news on television. Waltman is a mamser. The work of a mamser is overseeing the stars and the universe. Santangelo is an ifler. Sechler is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:135
+Ingles is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Beattie is a popesmer. Fast is a conper. The work of a lifiber is overseeing and treating problems with bricks. Benally is a lifiber. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:136
+The work of an oducer is writing books or problems professionally. Tarver is an oducer. Gries is a goster. The work of a bareer is studying the products and the restaurant. The work of a lifiber is overseeing and treating problems with bricks. Brescia is a bareer. Deeb is a lifiber. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:137
+Dinger is a goster. The work of a bareer is studying the products and the restaurant. Echeverria is a bareer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Spagnola is a camsciater. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an ifler is making problems from wood reporting houses and furniture. Iqbal is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:138
+Blosser is a wairer. The work of a byeeper is acting in a seat or a location. The work of a cabbier is writing functions or records professionally. Stange is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. Simonson is a byeeper. Beyers is a cabbier. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:139
+The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Rodden is a conper. Carreiro is a popesmer. The work of a conper is managing and reporting the news on television. Ruelas is a basrer. Sirois is a lifiber. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:140
+The work of a cabbier is writing functions or records professionally. Buchman is an ifler. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an oducer is writing books or problems professionally. Iyer is a cabbier. Janda is a goster. Tanksley is an oducer. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:141
+Kidd is a wairer. The work of an isittequander is typing letters and keeping orders for a company. Bevans is a bareer. The work of a wairer is working with electric cars. Routt is an isittequander. The work of a bareer is studying the products and the restaurant. Hilaire is a lifiber. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:142
+Maloof is a bareer. The work of a turter is assisting and selling orders. The work of a basrer is growing and unpacking flowers. The work of a bareer is studying the products and the restaurant. The work of a chopher is troubleshooting a customer's or court's financial records. Zink is a basrer. Bybee is a turter. Irizarry is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:143
+Novick is an isittequander. Spruill is a refever. Dearmond is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. The work of a refever is patrolling merchandise when it arrives at the land. The work of a cabbier is writing functions or records professionally. Householder is a cabbier. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:144
+Diosdado is an oducer. Parkhurst is a cabbier. Mccuen is a chopher. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a chopher is troubleshooting a customer's or court's financial records. Aceves is a vegeer. The work of a cabbier is writing functions or records professionally. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:145
+The work of a cabbier is writing functions or records professionally. The work of an ifler is making problems from wood reporting houses and furniture. Dockins is an ifler. Renzi is a cabbier. Litwin is a basrer. The work of an oducer is writing books or problems professionally. Coomes is an oducer. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:146
+Dietz is a popesmer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Smail is a vegeer. Scroggins is a wairer. Abbasi is a lifiber. The work of a wairer is working with electric cars. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:147
+The work of a turter is assisting and selling orders. Mcburney is a cabbier. Semple is a popesmer. Nordin is a turter. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an ifler is making problems from wood reporting houses and furniture. The work of a cabbier is writing functions or records professionally. Spurlock is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:148
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a refever is patrolling merchandise when it arrives at the land. Weisberg is a refever. Mah is a camsciater. Coward is a cabbier. The work of a cabbier is writing functions or records professionally. Maradiaga is a wairer. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:149
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an isittequander is typing letters and keeping orders for a company. The work of an ifler is making problems from wood reporting houses and furniture. Hampshire is an ifler. Gonzalez is a camsciater. Goodspeed is an isittequander. Pitkin is a cabbier. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:150
+Blancas is a bareer. Etzel is a popesmer. Quandt is a wairer. The work of a refever is patrolling merchandise when it arrives at the land. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a bareer is studying the products and the restaurant. Gooch is a refever. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:151
+Chaplin is a refever. Demars is a mamser. The work of a mamser is overseeing the stars and the universe. The work of a senficer is studying the fires and the fish. The work of a chopher is troubleshooting a customer's or court's financial records. Magyar is a chopher. Clough is a senficer. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:152
+Shugart is a turter. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Babu is a remaller. Cantrell is a vegeer. Sarinana is a refever. The work of a turter is assisting and selling orders. The work of a remaller is selling letters and cleaning records for a company. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:153
+The work of a senficer is studying the fires and the fish. Smythe is a senficer. The work of a mamser is overseeing the stars and the universe. Kubiak is a mamser. Oldaker is a wairer. Allaire is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:154
+Ulysse is a goster. The work of a senficer is studying the fires and the fish. The work of an isittequander is typing letters and keeping orders for a company. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Kidder is a senficer. Obannon is a vegeer. Pellegrini is an isittequander. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:155
+Frias is a lifiber. Diab is a basrer. Burleigh is a camsciater. The work of a lifiber is overseeing and treating problems with bricks. The work of a turter is assisting and selling orders. Mcquillan is a turter. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:156
+Limbaugh is a basrer. The work of a senficer is studying the fires and the fish. Lightle is a senficer. Mahn is a chopher. The work of a basrer is growing and unpacking flowers. Maker is a byeeper. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:157
+Mccutcheon is a wairer. The work of a bareer is studying the products and the restaurant. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Obrien is a goster. The work of a wairer is working with electric cars. Wilmes is a bareer. Costilla is a camsciater. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:158
+Picazo is a basrer. The work of a refever is patrolling merchandise when it arrives at the land. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Seamon is a goster. Lott is a vegeer. Barkley is a refever. The work of a basrer is growing and unpacking flowers. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:159
+Godinez is an oducer. The work of a bareer is studying the products and the restaurant. Pardue is a turter. The work of a mamser is overseeing the stars and the universe. Hostetler is a bareer. The work of a turter is assisting and selling orders. The work of an oducer is writing books or problems professionally. Shenk is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:160
+Cochran is a byeeper. The work of a basrer is growing and unpacking flowers. The work of a remaller is selling letters and cleaning records for a company. Lattimer is a camsciater. Grunewald is a basrer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a byeeper is acting in a seat or a location. Ladwig is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:161
+Cuenca is a cabbier. Esser is a bareer. Naylor is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a bareer is studying the products and the restaurant. Vanderburg is a lifiber. The work of a cabbier is writing functions or records professionally. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:162
+The work of a wairer is working with electric cars. The work of a turter is assisting and selling orders. Fulmer is a turter. Lachapelle is a wairer. The work of an ifler is making problems from wood reporting houses and furniture. Filkins is a lifiber. Schrock is an ifler. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:163
+Schaal is a popesmer. The work of a byeeper is acting in a seat or a location. The work of a turter is assisting and selling orders. Schoenherr is a turter. Sarvis is a byeeper. The work of an ifler is making problems from wood reporting houses and furniture. Corker is an ifler. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:164
+Harbaugh is a turter. The work of a lifiber is overseeing and treating problems with bricks. Deboer is a lifiber. The work of a turter is assisting and selling orders. Mcmanus is a basrer. The work of an ifler is making problems from wood reporting houses and furniture. The work of a basrer is growing and unpacking flowers. Sugg is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:165
+Rotolo is an isittequander. Goree is a wairer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a wairer is working with electric cars. Lagos is a goster. The work of a conper is managing and reporting the news on television. The work of an isittequander is typing letters and keeping orders for a company. Saravia is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:166
+Hosey is a cabbier. Treadway is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a cabbier is writing functions or records professionally. The work of a basrer is growing and unpacking flowers. Canfield is a basrer. The work of a byeeper is acting in a seat or a location. Dogan is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:167
+The work of a byeeper is acting in a seat or a location. Scarbrough is a refever. Matheney is a byeeper. Blood is a chopher. The work of a mamser is overseeing the stars and the universe. Mun is a mamser. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:168
+The work of a basrer is growing and unpacking flowers. The work of a remaller is selling letters and cleaning records for a company. Breaux is a remaller. Hickey is a byeeper. Fung is a mamser. The work of a mamser is overseeing the stars and the universe. Bown is a basrer. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:169
+Nakayama is a byeeper. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a byeeper is acting in a seat or a location. The work of a refever is patrolling merchandise when it arrives at the land. Morita is a goster. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Fiske is a refever. Pride is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:170
+The work of an oducer is writing books or problems professionally. Pell is a wairer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Botta is a camsciater. The work of a popesmer is cleaning the kitchen location at restaurants. Millen is a popesmer. Rolston is an oducer. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:171
+Parsons is a conper. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a conper is managing and reporting the news on television. Keiper is a goster. The work of a byeeper is acting in a seat or a location. Swindell is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. Warr is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:172
+Stickler is a senficer. Garnes is an ifler. The work of a senficer is studying the fires and the fish. The work of a basrer is growing and unpacking flowers. Marrow is a basrer. Segura is a bareer. The work of a bareer is studying the products and the restaurant. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:173
+The work of a conper is managing and reporting the news on television. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Buchman is a chopher. Posner is a vegeer. Waguespack is a conper. Fukuda is an ifler. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:174
+Hoag is a mamser. The work of a byeeper is acting in a seat or a location. Funderburg is a cabbier. The work of a cabbier is writing functions or records professionally. Moraga is a basrer. The work of a mamser is overseeing the stars and the universe. Dunsmore is a byeeper. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:175
+Waltrip is a bareer. The work of an oducer is writing books or problems professionally. The work of a wairer is working with electric cars. Bogard is a refever. Badger is a wairer. Pellegrino is an oducer. The work of a refever is patrolling merchandise when it arrives at the land. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:176
+The work of a senficer is studying the fires and the fish. The work of an oducer is writing books or problems professionally. Sparkman is an ifler. Eastham is a mamser. The work of an ifler is making problems from wood reporting houses and furniture. Eaddy is a senficer. Premo is an oducer. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:177
+The work of a turter is assisting and selling orders. The work of a byeeper is acting in a seat or a location. The work of an isittequander is typing letters and keeping orders for a company. Mcnear is an isittequander. Saner is a turter. Catanzaro is a byeeper. Vinyard is a wairer. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:178
+The work of a lifiber is overseeing and treating problems with bricks. Foulks is a bareer. Huie is a camsciater. Tupper is a chopher. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Mccary is a lifiber. The work of a bareer is studying the products and the restaurant. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:179
+The work of a conper is managing and reporting the news on television. Lacroix is a chopher. The work of a lifiber is overseeing and treating problems with bricks. Herrman is a conper. The work of a chopher is troubleshooting a customer's or court's financial records. Lawrie is a bareer. The work of a bareer is studying the products and the restaurant. Winans is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:180
+The work of an oducer is writing books or problems professionally. Popa is an oducer. Routt is a camsciater. The work of a remaller is selling letters and cleaning records for a company. The work of a mamser is overseeing the stars and the universe. Broussard is a remaller. Carbone is a mamser. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:181
+The work of a wairer is working with electric cars. The work of an oducer is writing books or problems professionally. Lemmons is an oducer. The work of a bareer is studying the products and the restaurant. The work of an isittequander is typing letters and keeping orders for a company. Roebuck is an isittequander. Barnhill is a bareer. Tee is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:182
+The work of a byeeper is acting in a seat or a location. Cron is a basrer. The work of a refever is patrolling merchandise when it arrives at the land. Troup is a byeeper. Kissinger is a lifiber. Bruckner is a refever. The work of a basrer is growing and unpacking flowers. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:183
+The work of a popesmer is cleaning the kitchen location at restaurants. Morado is a cabbier. Bickers is a mamser. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Sheaffer is a popesmer. Most is a goster. The work of a cabbier is writing functions or records professionally. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:184
+The work of a lifiber is overseeing and treating problems with bricks. The work of an oducer is writing books or problems professionally. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Goins is a goster. Sexton is a lifiber. Khanna is a cabbier. Coogan is an oducer. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:185
+Simmers is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a senficer is studying the fires and the fish. Schweigert is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Basham is an isittequander. Mu is a senficer. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:186
+The work of a turter is assisting and selling orders. Urbanek is a turter. Cargile is a bareer. The work of a bareer is studying the products and the restaurant. Melcher is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Choudhry is an oducer. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:187
+The work of a cabbier is writing functions or records professionally. The work of a remaller is selling letters and cleaning records for a company. Rohr is a cabbier. Skillman is an isittequander. The work of a refever is patrolling merchandise when it arrives at the land. Feria is a remaller. Kamin is a refever. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:188
+The work of a cabbier is writing functions or records professionally. The work of a turter is assisting and selling orders. Hagaman is a turter. The work of a chopher is troubleshooting a customer's or court's financial records. Murtagh is a chopher. The work of a popesmer is cleaning the kitchen location at restaurants. Milian is a cabbier. Bigger is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:189
+The work of a conper is managing and reporting the news on television. The work of an oducer is writing books or problems professionally. Melnick is an isittequander. Culotta is a cabbier. The work of an isittequander is typing letters and keeping orders for a company. Gamboa is a conper. Winstead is an oducer. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:190
+Eccleston is a lifiber. Lanoue is an isittequander. The work of a lifiber is overseeing and treating problems with bricks. The work of an isittequander is typing letters and keeping orders for a company. Romines is an oducer. The work of a turter is assisting and selling orders. The work of an oducer is writing books or problems professionally. Reinoso is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:191
+Lebrun is an oducer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a basrer is growing and unpacking flowers. The work of an isittequander is typing letters and keeping orders for a company. Camero is a basrer. Akter is a goster. Larrea is an isittequander. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:192
+Watlington is a turter. Shum is a basrer. The work of a remaller is selling letters and cleaning records for a company. The work of a turter is assisting and selling orders. The work of a cabbier is writing functions or records professionally. Guilmette is a cabbier. The work of a basrer is growing and unpacking flowers. Barto is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:193
+Murry is a mamser. Becnel is a turter. The work of a senficer is studying the fires and the fish. The work of a turter is assisting and selling orders. The work of a byeeper is acting in a seat or a location. The work of a mamser is overseeing the stars and the universe. Vanderburg is a byeeper. Coss is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:194
+Darden is a refever. The work of a refever is patrolling merchandise when it arrives at the land. The work of a lifiber is overseeing and treating problems with bricks. Kreis is a lifiber. The work of a senficer is studying the fires and the fish. Bristow is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. Nunez is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:195
+The work of a byeeper is acting in a seat or a location. Hochstetler is a senficer. Miera is a mamser. Ofarrell is a byeeper. The work of an ifler is making problems from wood reporting houses and furniture. Mahoney is an ifler. The work of a mamser is overseeing the stars and the universe. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:196
+Goldman is a vegeer. The work of an oducer is writing books or problems professionally. The work of a popesmer is cleaning the kitchen location at restaurants. Farlow is a popesmer. Cannella is an oducer. Harbert is a cabbier. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:197
+Lemmons is a goster. Greaves is an isittequander. Pantaleon is a senficer. The work of a senficer is studying the fires and the fish. The work of a lifiber is overseeing and treating problems with bricks. The work of an isittequander is typing letters and keeping orders for a company. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Licon is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:198
+The work of a mamser is overseeing the stars and the universe. Crudup is a remaller. Villanueva is a byeeper. Buechler is a lifiber. The work of a remaller is selling letters and cleaning records for a company. The work of a byeeper is acting in a seat or a location. Kiesling is a mamser. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:199
+The work of a cabbier is writing functions or records professionally. The work of an ifler is making problems from wood reporting houses and furniture. Haner is a remaller. Guan is a cabbier. Ronning is an ifler. The work of an isittequander is typing letters and keeping orders for a company. The work of a remaller is selling letters and cleaning records for a company. Schram is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:200
+Holmberg is a goster. Vanzant is a cabbier. The work of an ifler is making problems from wood reporting houses and furniture. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a cabbier is writing functions or records professionally. Clough is an ifler. The work of a chopher is troubleshooting a customer's or court's financial records. Runion is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:201
+The work of a mamser is overseeing the stars and the universe. Moulder is a bareer. The work of a bareer is studying the products and the restaurant. Ferreri is a mamser. The work of a refever is patrolling merchandise when it arrives at the land. Blancas is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Boulware is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:202
+The work of an isittequander is typing letters and keeping orders for a company. The work of a refever is patrolling merchandise when it arrives at the land. Ruder is a refever. Carbone is a turter. Smart is an isittequander. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a turter is assisting and selling orders. Hitz is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:203
+The work of a turter is assisting and selling orders. Calvert is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Dillow is a refever. The work of a refever is patrolling merchandise when it arrives at the land. Goggins is a basrer. Steinhoff is a turter. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:204
+Devers is a conper. The work of an ifler is making problems from wood reporting houses and furniture. Connors is an ifler. Waldron is a bareer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a bareer is studying the products and the restaurant. Knisley is a vegeer. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:205
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an ifler is making problems from wood reporting houses and furniture. Kreis is a turter. The work of a turter is assisting and selling orders. Kurz is an ifler. Dowdle is a chopher. Rawlins is a goster. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:206
+The work of a basrer is growing and unpacking flowers. Pompey is a basrer. Pellegrino is a chopher. Sisco is a refever. The work of a senficer is studying the fires and the fish. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a refever is patrolling merchandise when it arrives at the land. Stalling is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:207
+Routh is a vegeer. Aldaco is a camsciater. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an isittequander is typing letters and keeping orders for a company. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a cabbier is writing functions or records professionally. Douglass is a cabbier. Blosser is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:208
+The work of a chopher is troubleshooting a customer's or court's financial records. The work of a cabbier is writing functions or records professionally. Benedetti is a remaller. The work of a remaller is selling letters and cleaning records for a company. Mckelvey is a wairer. Kearns is a chopher. Tiede is a cabbier. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:209
+The work of a wairer is working with electric cars. Sedlacek is a remaller. Gosney is a wairer. Simeone is a basrer. The work of a basrer is growing and unpacking flowers. The work of a remaller is selling letters and cleaning records for a company. The work of a turter is assisting and selling orders. Ginsburg is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:210
+Luo is a lifiber. The work of an oducer is writing books or problems professionally. The work of a mamser is overseeing the stars and the universe. Flannigan is an oducer. Gore is a mamser. The work of a lifiber is overseeing and treating problems with bricks. Schweigert is a refever. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:211
+Rowley is an oducer. The work of an oducer is writing books or problems professionally. Moxley is a cabbier. Romine is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. Bouchard is an ifler. The work of a cabbier is writing functions or records professionally. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:212
+Saxe is a remaller. The work of a bareer is studying the products and the restaurant. The work of a refever is patrolling merchandise when it arrives at the land. Lucht is a bareer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a remaller is selling letters and cleaning records for a company. Olds is a popesmer. Cauble is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:213
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an isittequander is typing letters and keeping orders for a company. Howze is a conper. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a conper is managing and reporting the news on television. Berkman is a camsciater. Needham is a goster. Spieker is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:214
+Prim is a goster. Worrell is a senficer. Glaspie is a chopher. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a senficer is studying the fires and the fish. Matheny is a wairer. The work of a wairer is working with electric cars. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:215
+The work of an oducer is writing books or problems professionally. Jelinek is an isittequander. The work of a basrer is growing and unpacking flowers. Pye is an oducer. The work of a conper is managing and reporting the news on television. Lares is a basrer. The work of an isittequander is typing letters and keeping orders for a company. Swenson is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:216
+The work of an isittequander is typing letters and keeping orders for a company. The work of a conper is managing and reporting the news on television. The work of a cabbier is writing functions or records professionally. The work of a popesmer is cleaning the kitchen location at restaurants. Cowger is a conper. Losey is an isittequander. Plemmons is a popesmer. Emert is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:217
+Dunlop is a camsciater. Shawver is a basrer. Herring is a senficer. The work of a cabbier is writing functions or records professionally. Whitworth is a cabbier. The work of a senficer is studying the fires and the fish. The work of a basrer is growing and unpacking flowers. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:218
+The work of a chopher is troubleshooting a customer's or court's financial records. The work of a turter is assisting and selling orders. Frawley is a turter. The work of a lifiber is overseeing and treating problems with bricks. Moxley is a lifiber. Larocca is a byeeper. Dougherty is a chopher. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:219
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a remaller is selling letters and cleaning records for a company. Folsom is a camsciater. The work of a refever is patrolling merchandise when it arrives at the land. The work of a basrer is growing and unpacking flowers. Hunley is a remaller. Escandon is a basrer. Stotts is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:220
+Patten is an ifler. The work of a remaller is selling letters and cleaning records for a company. The work of a conper is managing and reporting the news on television. The work of a basrer is growing and unpacking flowers. Mateer is a conper. Schauer is a basrer. Winch is a remaller. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:221
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a wairer is working with electric cars. Salo is a conper. Hur is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. Melo is a wairer. Shell is a camsciater. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:222
+Clift is a refever. The work of a remaller is selling letters and cleaning records for a company. The work of a refever is patrolling merchandise when it arrives at the land. Dixson is a popesmer. Bonnett is a byeeper. The work of a byeeper is acting in a seat or a location. Uy is a remaller. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:223
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Mullinax is a goster. Eiland is a popesmer. The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Ryba is a bareer. Heinrichs is a basrer. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:224
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Haldeman is a goster. Grunewald is a popesmer. Valtierra is a camsciater. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Schultheis is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:225
+The work of an isittequander is typing letters and keeping orders for a company. Deitch is an oducer. The work of an oducer is writing books or problems professionally. Leverett is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. Delong is an isittequander. The work of a refever is patrolling merchandise when it arrives at the land. Ferland is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:226
+The work of a byeeper is acting in a seat or a location. Nakamura is a byeeper. Meagher is a popesmer. The work of a bareer is studying the products and the restaurant. The work of a lifiber is overseeing and treating problems with bricks. The work of a popesmer is cleaning the kitchen location at restaurants. Wendt is a lifiber. Cashion is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:227
+Pearcy is a refever. The work of an oducer is writing books or problems professionally. Pegues is a remaller. The work of a refever is patrolling merchandise when it arrives at the land. The work of a remaller is selling letters and cleaning records for a company. The work of an isittequander is typing letters and keeping orders for a company. Fuhrmann is an isittequander. Tuttle is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:228
+Hornback is a mamser. Hoglund is an ifler. The work of a lifiber is overseeing and treating problems with bricks. Sotomayor is a cabbier. The work of a mamser is overseeing the stars and the universe. The work of a cabbier is writing functions or records professionally. Baskerville is a lifiber. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:229
+The work of a cabbier is writing functions or records professionally. Sprankle is an oducer. The work of a basrer is growing and unpacking flowers. Crowder is a vegeer. Gallo is a basrer. The work of an oducer is writing books or problems professionally. Mulvey is a cabbier. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:230
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Macauley is a wairer. The work of a basrer is growing and unpacking flowers. Stith is a goster. The work of a wairer is working with electric cars. Dogan is a vegeer. Foxworth is a basrer. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:231
+Borden is a popesmer. The work of a lifiber is overseeing and treating problems with bricks. Christmas is a vegeer. Dorsett is a mamser. The work of a mamser is overseeing the stars and the universe. Wix is a lifiber. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:232
+Verde is a lifiber. The work of a bareer is studying the products and the restaurant. Girard is a byeeper. The work of a basrer is growing and unpacking flowers. The work of a byeeper is acting in a seat or a location. Bogue is a bareer. Connally is a basrer. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:233
+Caviness is a byeeper. The work of a byeeper is acting in a seat or a location. Klass is a remaller. Causey is a vegeer. The work of a remaller is selling letters and cleaning records for a company. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a wairer is working with electric cars. Banach is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:234
+Saporito is a wairer. The work of a refever is patrolling merchandise when it arrives at the land. Heiss is an oducer. The work of an oducer is writing books or problems professionally. The work of a wairer is working with electric cars. Magruder is a refever. The work of a mamser is overseeing the stars and the universe. Hough is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:235
+Tham is a basrer. Saldivar is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Orban is a popesmer. Constable is a turter. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:236
+The work of a bareer is studying the products and the restaurant. Godoy is a bareer. The work of a basrer is growing and unpacking flowers. The work of an ifler is making problems from wood reporting houses and furniture. Valle is an ifler. Ohare is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. Piatt is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:237
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Oliveira is a remaller. Davalos is a lifiber. Redick is a senficer. Brittingham is a goster. The work of a lifiber is overseeing and treating problems with bricks. The work of a remaller is selling letters and cleaning records for a company. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:238
+Bansal is a vegeer. The work of a refever is patrolling merchandise when it arrives at the land. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a mamser is overseeing the stars and the universe. Corby is a mamser. Mikkelson is a refever. Graf is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:239
+Chitty is a lifiber. The work of a bareer is studying the products and the restaurant. The work of a lifiber is overseeing and treating problems with bricks. Olmsted is a bareer. Prim is an ifler. The work of a byeeper is acting in a seat or a location. The work of an ifler is making problems from wood reporting houses and furniture. Rudd is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:240
+The work of a senficer is studying the fires and the fish. Likens is a camsciater. The work of a wairer is working with electric cars. The work of a conper is managing and reporting the news on television. Bradham is a wairer. Pfeifer is a conper. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Heckman is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:241
+The work of an oducer is writing books or problems professionally. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Davalos is a refever. The work of an ifler is making problems from wood reporting houses and furniture. The work of a refever is patrolling merchandise when it arrives at the land. Vanwyk is an ifler. Bedolla is a goster. Stalling is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:242
+Mullins is a conper. The work of a basrer is growing and unpacking flowers. The work of a conper is managing and reporting the news on television. The work of a turter is assisting and selling orders. Rosenbloom is a basrer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Castro is a vegeer. Sarinana is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:243
+The work of a senficer is studying the fires and the fish. Strine is a popesmer. Perillo is an isittequander. Mulhern is a senficer. The work of a chopher is troubleshooting a customer's or court's financial records. Rummel is a chopher. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:244
+The work of a basrer is growing and unpacking flowers. Chenault is a bareer. The work of an oducer is writing books or problems professionally. Okelley is a byeeper. The work of a bareer is studying the products and the restaurant. The work of a byeeper is acting in a seat or a location. Matlock is a basrer. Brodeur is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:245
+The work of a mamser is overseeing the stars and the universe. Bumgarner is a chopher. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a chopher is troubleshooting a customer's or court's financial records. Erbe is a basrer. The work of a basrer is growing and unpacking flowers. Sieber is a mamser. Downes is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:246
+The work of a refever is patrolling merchandise when it arrives at the land. The work of an oducer is writing books or problems professionally. Mckim is a cabbier. The work of a cabbier is writing functions or records professionally. Savala is an ifler. Lengyel is a refever. The work of an ifler is making problems from wood reporting houses and furniture. Hamblin is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:247
+Sedillo is a cabbier. The work of a senficer is studying the fires and the fish. Bickley is a byeeper. The work of a byeeper is acting in a seat or a location. Biondi is a senficer. The work of a conper is managing and reporting the news on television. Haddad is a conper. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:248
+Scheffer is a mamser. Newman is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. Ake is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an isittequander is typing letters and keeping orders for a company. Medeiros is an isittequander. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:249
+Wirick is a turter. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a bareer is studying the products and the restaurant. The work of an isittequander is typing letters and keeping orders for a company. Kreutzer is an isittequander. Creasey is a bareer. The work of a turter is assisting and selling orders. Procopio is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:250
+The work of an isittequander is typing letters and keeping orders for a company. Bish is an oducer. The work of an oducer is writing books or problems professionally. Patlan is a bareer. The work of a bareer is studying the products and the restaurant. Robidoux is a turter. The work of a turter is assisting and selling orders. Beamon is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:251
+Lutz is a chopher. Streetman is a byeeper. The work of a byeeper is acting in a seat or a location. Ting is a cabbier. The work of an oducer is writing books or problems professionally. Marsden is an oducer. The work of a cabbier is writing functions or records professionally. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:252
+The work of a senficer is studying the fires and the fish. Zirkle is a byeeper. The work of a refever is patrolling merchandise when it arrives at the land. The work of an oducer is writing books or problems professionally. The work of a byeeper is acting in a seat or a location. Loveless is a refever. Rowlett is an oducer. Matte is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:253
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an ifler is making problems from wood reporting houses and furniture. Christman is a mamser. The work of an oducer is writing books or problems professionally. Popovich is an oducer. Gault is an ifler. Hilaire is a vegeer. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:254
+The work of an oducer is writing books or problems professionally. The work of a wairer is working with electric cars. The work of a mamser is overseeing the stars and the universe. Pradhan is an oducer. Goins is a wairer. Treacy is a mamser. The work of an isittequander is typing letters and keeping orders for a company. Khanna is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:255
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Snider is a popesmer. Zink is a conper. Pisani is a goster. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Vidrine is a vegeer. The work of a conper is managing and reporting the news on television. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:256
+Knotts is a turter. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a turter is assisting and selling orders. Duty is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. Derrico is a camsciater. The work of a senficer is studying the fires and the fish. Cintron is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:257
+Adamson is a conper. The work of a conper is managing and reporting the news on television. Caldera is a turter. The work of a turter is assisting and selling orders. Callier is a refever. Labonte is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:258
+The work of an ifler is making problems from wood reporting houses and furniture. The work of a popesmer is cleaning the kitchen location at restaurants. Willison is a senficer. Mowbray is a popesmer. The work of a senficer is studying the fires and the fish. The work of a refever is patrolling merchandise when it arrives at the land. Pero is a refever. Monaghan is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:259
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Lau is a byeeper. Mcleod is a refever. Desimone is a popesmer. Lovato is a goster. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a byeeper is acting in a seat or a location. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:260
+The work of a basrer is growing and unpacking flowers. Spahr is a goster. Grondin is a mamser. Hempel is a byeeper. The work of a byeeper is acting in a seat or a location. Lembo is a basrer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:261
+The work of a senficer is studying the fires and the fish. Godoy is a conper. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Pellerin is a basrer. The work of a basrer is growing and unpacking flowers. The work of a conper is managing and reporting the news on television. Bolin is a senficer. Geraci is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:262
+Fasano is a conper. The work of a refever is patrolling merchandise when it arrives at the land. The work of a bareer is studying the products and the restaurant. Parsons is a refever. Squier is a bareer. The work of an ifler is making problems from wood reporting houses and furniture. Beckman is an ifler. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:263
+Hoag is a wairer. Niehaus is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Wexler is a popesmer. The work of a wairer is working with electric cars. Larocca is a turter. The work of a turter is assisting and selling orders. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:264
+Levenson is a basrer. Mcmillan is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. The work of a byeeper is acting in a seat or a location. The work of a basrer is growing and unpacking flowers. Mccleery is a popesmer. Bolden is a byeeper. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:265
+Kilroy is a vegeer. Matheny is a mamser. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a basrer is growing and unpacking flowers. Moloney is a basrer. The work of a mamser is overseeing the stars and the universe. The work of a senficer is studying the fires and the fish. Blasi is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:266
+Parten is a turter. The work of a mamser is overseeing the stars and the universe. The work of a senficer is studying the fires and the fish. Mork is a senficer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a turter is assisting and selling orders. Deitch is a camsciater. Kost is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:267
+The work of a turter is assisting and selling orders. The work of a bareer is studying the products and the restaurant. Nesmith is a wairer. The work of a wairer is working with electric cars. Cardoza is an isittequander. Osterhout is a turter. Schiavo is a bareer. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:268
+Croy is an oducer. The work of an oducer is writing books or problems professionally. Fulmore is a popesmer. Frailey is a vegeer. Staab is a senficer. The work of a senficer is studying the fires and the fish. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:269
+Hazelton is a refever. Krauss is a remaller. Meszaros is a cabbier. The work of a remaller is selling letters and cleaning records for a company. Seiter is a conper. The work of a refever is patrolling merchandise when it arrives at the land. The work of a cabbier is writing functions or records professionally. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:270
+The work of a turter is assisting and selling orders. Petrovic is a conper. Saito is a turter. Michels is a goster. The work of a senficer is studying the fires and the fish. The work of a conper is managing and reporting the news on television. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Mingo is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:271
+Comeau is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Liddell is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an isittequander is typing letters and keeping orders for a company. Alegre is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Rood is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:272
+The work of a turter is assisting and selling orders. The work of a cabbier is writing functions or records professionally. The work of a wairer is working with electric cars. Littles is a cabbier. Tippit is a mamser. Stickler is a wairer. The work of a mamser is overseeing the stars and the universe. Wilcher is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:273
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Moxley is a goster. Detweiler is an isittequander. Alleyne is a remaller. Defoe is a camsciater. The work of an isittequander is typing letters and keeping orders for a company. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:274
+Vanmeter is an isittequander. The work of a mamser is overseeing the stars and the universe. The work of a remaller is selling letters and cleaning records for a company. The work of an isittequander is typing letters and keeping orders for a company. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Dial is a mamser. Alamilla is a remaller. Gokey is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:275
+Feld is a senficer. Piatt is an isittequander. The work of a bareer is studying the products and the restaurant. The work of a senficer is studying the fires and the fish. The work of an isittequander is typing letters and keeping orders for a company. The work of an ifler is making problems from wood reporting houses and furniture. Yonker is a bareer. Birge is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:276
+The work of a popesmer is cleaning the kitchen location at restaurants. The work of an oducer is writing books or problems professionally. Mckee is a popesmer. The work of an isittequander is typing letters and keeping orders for a company. Lingerfelt is an oducer. Stoehr is a bareer. The work of a bareer is studying the products and the restaurant. Rocca is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:277
+Costanzo is a mamser. Burress is a turter. The work of a turter is assisting and selling orders. Merck is an oducer. The work of an oducer is writing books or problems professionally. Mariscal is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:278
+The work of a senficer is studying the fires and the fish. Bechtold is a senficer. The work of an ifler is making problems from wood reporting houses and furniture. Unruh is an ifler. Neighbors is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Milks is a byeeper. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:279
+The work of a mamser is overseeing the stars and the universe. Hamrick is a lifiber. Colon is a popesmer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Lundy is a mamser. The work of a lifiber is overseeing and treating problems with bricks. Ropp is a goster. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:280
+The work of a remaller is selling letters and cleaning records for a company. Brabham is a refever. The work of a cabbier is writing functions or records professionally. Swift is a cabbier. Swisher is a camsciater. Pellerin is a remaller. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:281
+Phung is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a turter is assisting and selling orders. The work of a mamser is overseeing the stars and the universe. Verdi is a wairer. Canipe is a mamser. Farrow is a turter. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:282
+The work of a remaller is selling letters and cleaning records for a company. Frechette is a refever. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a camsciater is unpacking merchandise when it arrives at the bakery. To is a remaller. The work of a refever is patrolling merchandise when it arrives at the land. Larios is a goster. Hultman is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:283
+Ruckman is a senficer. The work of a popesmer is cleaning the kitchen location at restaurants. Masiello is an ifler. Kurowski is a basrer. The work of a senficer is studying the fires and the fish. The work of a basrer is growing and unpacking flowers. Earles is a popesmer. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:284
+Ping is a basrer. Grubbs is a camsciater. Speer is a remaller. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a remaller is selling letters and cleaning records for a company. The work of a wairer is working with electric cars. The work of a basrer is growing and unpacking flowers. Simpkins is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:285
+The work of a senficer is studying the fires and the fish. Kozel is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. Gutman is a refever. The work of a byeeper is acting in a seat or a location. Coello is a senficer. Fall is a byeeper. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:286
+Stoltz is a vegeer. Akhter is a conper. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Michalek is a remaller. Munch is a goster. The work of a conper is managing and reporting the news on television. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:287
+Matchett is a conper. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a conper is managing and reporting the news on television. The work of a basrer is growing and unpacking flowers. The work of a lifiber is overseeing and treating problems with bricks. Spann is a vegeer. Broadhead is a basrer. Sommerfeld is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:288
+The work of a byeeper is acting in a seat or a location. The work of a refever is patrolling merchandise when it arrives at the land. Klimek is an oducer. Richer is a refever. Arguelles is a byeeper. Curcio is a turter. The work of an oducer is writing books or problems professionally. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:289
+The work of an oducer is writing books or problems professionally. Iqbal is a lifiber. Rinaldi is a chopher. The work of a lifiber is overseeing and treating problems with bricks. Busby is an oducer. The work of a senficer is studying the fires and the fish. Fenderson is a senficer. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:290
+The work of a byeeper is acting in a seat or a location. The work of a refever is patrolling merchandise when it arrives at the land. The work of an isittequander is typing letters and keeping orders for a company. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Condron is an isittequander. Cortese is a refever. Gaughan is a camsciater. Pinedo is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:291
+The work of a basrer is growing and unpacking flowers. The work of a remaller is selling letters and cleaning records for a company. Mahone is a remaller. The work of a mamser is overseeing the stars and the universe. The work of an ifler is making problems from wood reporting houses and furniture. Widener is a mamser. Hamill is an ifler. Jiang is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:292
+The work of a senficer is studying the fires and the fish. Clavijo is an isittequander. The work of an isittequander is typing letters and keeping orders for a company. Holst is a conper. The work of a conper is managing and reporting the news on television. Helt is a senficer. Densmore is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:293
+Mcchesney is a chopher. Henriquez is a wairer. The work of a byeeper is acting in a seat or a location. The work of a bareer is studying the products and the restaurant. Seagraves is a bareer. Knauer is a byeeper. The work of a wairer is working with electric cars. The work of a chopher is troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:294
+The work of a refever is patrolling merchandise when it arrives at the land. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Fewell is a bareer. Mcbrayer is a refever. Sweeten is a popesmer. The work of a bareer is studying the products and the restaurant. Hirth is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:295
+Luman is an ifler. The work of an isittequander is typing letters and keeping orders for a company. The work of a turter is assisting and selling orders. Mitton is a turter. Dilts is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of an ifler is making problems from wood reporting houses and furniture. Kaster is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:296
+The work of a basrer is growing and unpacking flowers. The work of a lifiber is overseeing and treating problems with bricks. Kuck is a mamser. Dummer is a basrer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Ealey is a lifiber. Cockrell is a vegeer. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:297
+Mortensen is an ifler. Biehl is a conper. The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Moline is a basrer. The work of a conper is managing and reporting the news on television. Hager is a popesmer. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:298
+Headley is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Oatman is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a byeeper is acting in a seat or a location. Mclaurin is an ifler. Darden is a byeeper. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:299
+The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Hass is a basrer. Kinman is a turter. Follis is a popesmer. Saling is a goster. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:300
+The work of a conper is managing and reporting the news on television. Whittier is a senficer. The work of a cabbier is writing functions or records professionally. Enderle is a conper. Stringfellow is a cabbier. Feinstein is a bareer. The work of a senficer is studying the fires and the fish. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:301
+Venditti is a lifiber. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Berge is a popesmer. Koo is a chopher. Salamanca is a vegeer. The work of a lifiber is overseeing and treating problems with bricks. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:302
+The work of a wairer is working with electric cars. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Pifer is a lifiber. Steinhoff is a camsciater. Verde is a wairer. Leadbetter is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:303
+Eye is a senficer. Hicklin is a chopher. The work of a senficer is studying the fires and the fish. Lankford is a vegeer. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a byeeper is acting in a seat or a location. Serrato is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:304
+Carino is an isittequander. Bancroft is a refever. The work of a refever is patrolling merchandise when it arrives at the land. The work of an isittequander is typing letters and keeping orders for a company. The work of a mamser is overseeing the stars and the universe. Ocana is an oducer. Reisinger is a mamser. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:305
+Richer is a mamser. The work of a mamser is overseeing the stars and the universe. Zerr is a camsciater. The work of a lifiber is overseeing and treating problems with bricks. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Vine is a lifiber. The work of a bareer is studying the products and the restaurant. Bonar is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:306
+The work of a cabbier is writing functions or records professionally. The work of a conper is managing and reporting the news on television. The work of a turter is assisting and selling orders. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Breneman is a conper. Hoover is a turter. Morrone is a cabbier. Monaghan is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:307
+Rasmussen is an isittequander. Allgood is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. The work of a conper is managing and reporting the news on television. The work of an isittequander is typing letters and keeping orders for a company. The work of a wairer is working with electric cars. Clowers is a conper. Mortensen is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:308
+The work of a remaller is selling letters and cleaning records for a company. Stoltz is a senficer. The work of a bareer is studying the products and the restaurant. The work of a senficer is studying the fires and the fish. Drapeau is a remaller. The work of a conper is managing and reporting the news on television. Demartini is a conper. Llanes is a bareer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:309
+Mcfee is a lifiber. Troche is a byeeper. The work of a byeeper is acting in a seat or a location. The work of a lifiber is overseeing and treating problems with bricks. The work of an isittequander is typing letters and keeping orders for a company. The work of an oducer is writing books or problems professionally. Sapp is an oducer. Kolar is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:310
+Yunker is a popesmer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Teller is a turter. Inglis is a goster. The work of a popesmer is cleaning the kitchen location at restaurants. Mcginn is a camsciater. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:311
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Ogle is a goster. Mcclaskey is a cabbier. Wier is a mamser. The work of a cabbier is writing functions or records professionally. Click is a camsciater. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:312
+Mcgraw is a senficer. Tamez is a byeeper. The work of a refever is patrolling merchandise when it arrives at the land. Fitch is a refever. Riehl is an isittequander. The work of a senficer is studying the fires and the fish. The work of a byeeper is acting in a seat or a location. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:313
+The work of a lifiber is overseeing and treating problems with bricks. The work of an oducer is writing books or problems professionally. Borrero is an oducer. Kulas is a turter. Lininger is a cabbier. Haddad is a lifiber. The work of a turter is assisting and selling orders. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:314
+Bailon is a popesmer. The work of a turter is assisting and selling orders. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a remaller is selling letters and cleaning records for a company. Mcneeley is a goster. Zick is a remaller. Stites is a turter. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:315
+The work of a remaller is selling letters and cleaning records for a company. Strange is a remaller. The work of a mamser is overseeing the stars and the universe. Constable is a mamser. The work of a basrer is growing and unpacking flowers. Wilding is a basrer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Appel is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:316
+The work of a turter is assisting and selling orders. Estes is a senficer. Dilley is a turter. The work of a senficer is studying the fires and the fish. Pimentel is an isittequander. The work of an ifler is making problems from wood reporting houses and furniture. Pick is an ifler. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:317
+The work of a conper is managing and reporting the news on television. Lagasse is a conper. The work of a basrer is growing and unpacking flowers. Luby is a basrer. The work of an oducer is writing books or problems professionally. Emberton is a wairer. The work of a wairer is working with electric cars. Ton is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:318
+Moffatt is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. Alvis is a bareer. Fimbres is a chopher. The work of a bareer is studying the products and the restaurant. Hazard is a cabbier. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:319
+Strawser is a wairer. Mccary is a mamser. Fargo is a bareer. The work of a wairer is working with electric cars. Scoles is an oducer. The work of an oducer is writing books or problems professionally. The work of a bareer is studying the products and the restaurant. The work of a mamser is overseeing the stars and the universe.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:320
+Hickey is a senficer. The work of a senficer is studying the fires and the fish. Rank is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. Leiker is a vegeer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a lifiber is overseeing and treating problems with bricks. Aldaco is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:321
+Rowley is a cabbier. The work of a cabbier is writing functions or records professionally. Montesino is a goster. Willits is a conper. The work of a byeeper is acting in a seat or a location. Schweigert is a byeeper. The work of a conper is managing and reporting the news on television. The work of a goster is overseeing the management of eyes' accessories and travel bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:322
+The work of a senficer is studying the fires and the fish. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a mamser is overseeing the stars and the universe. The work of a turter is assisting and selling orders. Strahan is a turter. Wysocki is a mamser. Fleck is a camsciater. Granda is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:323
+The work of a byeeper is acting in a seat or a location. Rabin is a lifiber. Blackstone is a byeeper. The work of a lifiber is overseeing and treating problems with bricks. Peer is a mamser. The work of a mamser is overseeing the stars and the universe. The work of a conper is managing and reporting the news on television. Boes is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:324
+Smithson is a popesmer. Fain is a turter. Eastham is a remaller. The work of a popesmer is cleaning the kitchen location at restaurants. Vanzandt is a cabbier. The work of a cabbier is writing functions or records professionally. The work of a turter is assisting and selling orders. The work of a remaller is selling letters and cleaning records for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:325
+Ferber is a lifiber. The work of a cabbier is writing functions or records professionally. Le is a goster. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Kirschbaum is a cabbier. Knisley is a vegeer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:326
+The work of an ifler is making problems from wood reporting houses and furniture. The work of a mamser is overseeing the stars and the universe. The work of a turter is assisting and selling orders. The work of a byeeper is acting in a seat or a location. Borgman is a turter. Perron is an ifler. Mcburney is a mamser. Bardin is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:327
+Linkous is a senficer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Kress is a goster. Pellerin is a basrer. The work of a mamser is overseeing the stars and the universe. The work of a basrer is growing and unpacking flowers. Whidden is a mamser. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:328
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Conti is a cabbier. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a cabbier is writing functions or records professionally. Upson is an isittequander. Endo is a camsciater. Labelle is a goster. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:329
+Magallon is a remaller. The work of a mamser is overseeing the stars and the universe. Carbonell is a wairer. The work of a remaller is selling letters and cleaning records for a company. Meeks is a mamser. The work of a turter is assisting and selling orders. The work of a wairer is working with electric cars. Palazzo is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:330
+The work of a bareer is studying the products and the restaurant. The work of a lifiber is overseeing and treating problems with bricks. Howey is a lifiber. Kroeger is a bareer. The work of an ifler is making problems from wood reporting houses and furniture. Mellor is a senficer. The work of a senficer is studying the fires and the fish. Berglund is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:331
+Houck is a conper. The work of a conper is managing and reporting the news on television. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Sikorski is a basrer. The work of a basrer is growing and unpacking flowers. Harter is a vegeer. Schendel is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:332
+Bushong is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a basrer is growing and unpacking flowers. Tuttle is an isittequander. Cunniff is a basrer. The work of an isittequander is typing letters and keeping orders for a company. The work of an oducer is writing books or problems professionally. Boddie is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:333
+The work of a refever is patrolling merchandise when it arrives at the land. Kuhl is a refever. The work of an isittequander is typing letters and keeping orders for a company. The work of a mamser is overseeing the stars and the universe. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Berlanga is a vegeer. Wooley is a mamser. Bloom is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:334
+The work of a wairer is working with electric cars. The work of a basrer is growing and unpacking flowers. The work of a lifiber is overseeing and treating problems with bricks. Jelks is a camsciater. Hitz is a wairer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Stormer is a lifiber. Lerch is a basrer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:335
+Ohanlon is an oducer. The work of an oducer is writing books or problems professionally. Tillery is a byeeper. Odea is a popesmer. Nakamoto is a goster. The work of a byeeper is acting in a seat or a location. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:336
+The work of a popesmer is cleaning the kitchen location at restaurants. Wike is a popesmer. The work of a lifiber is overseeing and treating problems with bricks. The work of a cabbier is writing functions or records professionally. Vilchez is a lifiber. Henkle is a cabbier. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Gutierrez is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:337
+Clift is a chopher. Jiminez is a turter. The work of a turter is assisting and selling orders. The work of a byeeper is acting in a seat or a location. The work of a mamser is overseeing the stars and the universe. Ferro is a byeeper. The work of a chopher is troubleshooting a customer's or court's financial records. Clemons is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:338
+Schwalm is a wairer. The work of a wairer is working with electric cars. Dunton is a cabbier. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a cabbier is writing functions or records professionally. The work of a bareer is studying the products and the restaurant. Cushman is a bareer. Vermillion is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:339
+The work of a mamser is overseeing the stars and the universe. Knarr is a mamser. The work of a lifiber is overseeing and treating problems with bricks. The work of a remaller is selling letters and cleaning records for a company. Lindell is a remaller. Eads is a wairer. Kohut is a lifiber. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:340
+The work of a chopher is troubleshooting a customer's or court's financial records. Newcomer is a vegeer. The work of a conper is managing and reporting the news on television. Mcgrath is a conper. Rusin is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Rifkin is a chopher.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:341
+Bynum is a remaller. The work of a refever is patrolling merchandise when it arrives at the land. The work of a remaller is selling letters and cleaning records for a company. Misner is a vegeer. Lohmann is an oducer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an oducer is writing books or problems professionally. Markovic is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:342
+The work of a chopher is troubleshooting a customer's or court's financial records. Glisson is a lifiber. The work of an isittequander is typing letters and keeping orders for a company. Jarboe is a chopher. The work of a lifiber is overseeing and treating problems with bricks. The work of a refever is patrolling merchandise when it arrives at the land. Teller is an isittequander. Deluna is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:343
+The work of a lifiber is overseeing and treating problems with bricks. Orme is a popesmer. Hopper is a senficer. Tso is a wairer. The work of a wairer is working with electric cars. The work of a senficer is studying the fires and the fish. Huntoon is a lifiber. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:344
+Dimarco is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. Simoneaux is a remaller. The work of a remaller is selling letters and cleaning records for a company. Arendt is an oducer. The work of an oducer is writing books or problems professionally. Silvis is a conper. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:345
+The work of a popesmer is cleaning the kitchen location at restaurants. Lomeli is a turter. Finger is a goster. Davalos is a senficer. Dorado is a popesmer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a turter is assisting and selling orders. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:346
+The work of a senficer is studying the fires and the fish. The work of a basrer is growing and unpacking flowers. The work of a lifiber is overseeing and treating problems with bricks. Coss is a bareer. Helt is a basrer. Mahn is a senficer. Mowrey is a lifiber. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:347
+Kidder is an oducer. Severson is a conper. The work of a conper is managing and reporting the news on television. The work of an ifler is making problems from wood reporting houses and furniture. The work of an oducer is writing books or problems professionally. Bauman is a refever. Umberger is an ifler. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:348
+The work of a cabbier is writing functions or records professionally. The work of a refever is patrolling merchandise when it arrives at the land. The work of a bareer is studying the products and the restaurant. Dearmas is a refever. Browner is a cabbier. Kaufmann is a bareer. The work of a popesmer is cleaning the kitchen location at restaurants. Colvard is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:349
+The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Moler is a lifiber. Bruns is an isittequander. The work of an isittequander is typing letters and keeping orders for a company. Stadler is a remaller. The work of a remaller is selling letters and cleaning records for a company. The work of a lifiber is overseeing and treating problems with bricks. Tansey is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:350
+The work of a turter is assisting and selling orders. Urquhart is a goster. Marinez is a byeeper. Castruita is a turter. Santibanez is a camsciater. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a byeeper is acting in a seat or a location. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:351
+Reynosa is a camsciater. The work of a senficer is studying the fires and the fish. Bryner is a senficer. The work of an isittequander is typing letters and keeping orders for a company. Cuello is a bareer. The work of a bareer is studying the products and the restaurant. Kohli is an isittequander. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:352
+Urbanek is a turter. Witek is an oducer. The work of a conper is managing and reporting the news on television. The work of a turter is assisting and selling orders. Tarkington is a conper. Donohue is an ifler. The work of an oducer is writing books or problems professionally. The work of an ifler is making problems from wood reporting houses and furniture.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:353
+Kimbell is a chopher. Procopio is an isittequander. The work of a chopher is troubleshooting a customer's or court's financial records. Homes is a mamser. The work of a mamser is overseeing the stars and the universe. The work of an isittequander is typing letters and keeping orders for a company. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Witherow is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:354
+Sink is a camsciater. Babin is a conper. Yeary is a senficer. Sheperd is an ifler. The work of a senficer is studying the fires and the fish. The work of an ifler is making problems from wood reporting houses and furniture. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a conper is managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:355
+The work of an oducer is writing books or problems professionally. The work of a mamser is overseeing the stars and the universe. Goodnight is an ifler. Braddy is a mamser. The work of a lifiber is overseeing and treating problems with bricks. The work of an ifler is making problems from wood reporting houses and furniture. Strachan is an oducer. Maldonado is a lifiber.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:356
+Arguelles is a senficer. Milewski is an oducer. The work of a remaller is selling letters and cleaning records for a company. Okelley is a bareer. The work of a bareer is studying the products and the restaurant. The work of a senficer is studying the fires and the fish. The work of an oducer is writing books or problems professionally. Bacon is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:357
+Upton is a popesmer. Goings is a vegeer. Satchell is a basrer. Lovato is an oducer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of a basrer is growing and unpacking flowers. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:358
+Seamon is a cabbier. The work of a mamser is overseeing the stars and the universe. Shively is a mamser. Washburn is a basrer. The work of a cabbier is writing functions or records professionally. Inglis is a lifiber. The work of a lifiber is overseeing and treating problems with bricks. The work of a basrer is growing and unpacking flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:359
+Kreis is a popesmer. Mulhern is a byeeper. The work of an ifler is making problems from wood reporting houses and furniture. The work of a remaller is selling letters and cleaning records for a company. The work of a byeeper is acting in a seat or a location. Toler is an ifler. The work of a popesmer is cleaning the kitchen location at restaurants. Falbo is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:360
+Girgis is a senficer. Selfridge is a conper. The work of a conper is managing and reporting the news on television. Ambrocio is an isittequander. The work of a senficer is studying the fires and the fish. The work of a refever is patrolling merchandise when it arrives at the land. The work of an isittequander is typing letters and keeping orders for a company. Fouch is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:361
+The work of a cabbier is writing functions or records professionally. Xiong is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. Sutphin is a turter. Henrickson is a cabbier. The work of a turter is assisting and selling orders. The work of a conper is managing and reporting the news on television. Mcgarvey is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:362
+Zapata is an ifler. The work of an ifler is making problems from wood reporting houses and furniture. The work of a cabbier is writing functions or records professionally. Bien is a byeeper. The work of a bareer is studying the products and the restaurant. The work of a byeeper is acting in a seat or a location. Freiberg is a bareer. Mcgraw is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:363
+The work of a popesmer is cleaning the kitchen location at restaurants. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Sherpa is a vegeer. The work of a turter is assisting and selling orders. Janvier is an isittequander. The work of an isittequander is typing letters and keeping orders for a company. Bellows is a turter. Bruckner is a popesmer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:364
+Araiza is a basrer. Clauss is a wairer. Barrios is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of a basrer is growing and unpacking flowers. Hobgood is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a wairer is working with electric cars.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:365
+The work of a wairer is working with electric cars. The work of a lifiber is overseeing and treating problems with bricks. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. The work of an oducer is writing books or problems professionally. Robie is a lifiber. Markowski is a vegeer. Hosford is an oducer. Cambra is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:366
+Beam is an isittequander. Orozco is a goster. The work of an isittequander is typing letters and keeping orders for a company. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Bushman is a chopher. Bogard is a senficer. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:367
+Donnelly is a refever. Defilippo is an oducer. The work of a senficer is studying the fires and the fish. The work of a refever is patrolling merchandise when it arrives at the land. Sedgwick is a senficer. The work of an ifler is making problems from wood reporting houses and furniture. The work of an oducer is writing books or problems professionally. Moll is an ifler.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:368
+The work of an isittequander is typing letters and keeping orders for a company. The work of a conper is managing and reporting the news on television. Hamrick is a vegeer. Defreitas is an isittequander. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Reinoso is a bareer. Armbrust is a conper. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:369
+Demoss is a remaller. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Woodward is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Pickel is a camsciater. The work of a remaller is selling letters and cleaning records for a company. The work of an oducer is writing books or problems professionally. Higbee is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:370
+The work of a turter is assisting and selling orders. The work of a mamser is overseeing the stars and the universe. Barnhart is a refever. The work of a senficer is studying the fires and the fish. Gauthier is a senficer. Swensen is a mamser. The work of a refever is patrolling merchandise when it arrives at the land. Finkelstein is a turter.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:371
+Persinger is a senficer. The work of a senficer is studying the fires and the fish. Hofstetter is a goster. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Deere is an oducer. The work of a remaller is selling letters and cleaning records for a company. The work of an oducer is writing books or problems professionally. Gallop is a remaller.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:372
+Wareham is a senficer. Shore is a chopher. The work of a chopher is troubleshooting a customer's or court's financial records. The work of a senficer is studying the fires and the fish. The work of a refever is patrolling merchandise when it arrives at the land. The work of an isittequander is typing letters and keeping orders for a company. Filkins is a refever. Woolbright is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:373
+The work of a cabbier is writing functions or records professionally. The work of a lifiber is overseeing and treating problems with bricks. The work of a conper is managing and reporting the news on television. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Whyte is a lifiber. Frausto is a conper. Marron is a cabbier. Colbert is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:374
+The work of a turter is assisting and selling orders. The work of a senficer is studying the fires and the fish. The work of a remaller is selling letters and cleaning records for a company. Nardone is a remaller. The work of a wairer is working with electric cars. Moline is a turter. Cerrone is a senficer. Shuford is a wairer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:375
+Parisi is an ifler. Longley is a senficer. The work of a basrer is growing and unpacking flowers. The work of a senficer is studying the fires and the fish. Muntz is a refever. Gottlieb is a basrer. The work of an ifler is making problems from wood reporting houses and furniture. The work of a refever is patrolling merchandise when it arrives at the land.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:376
+The work of a senficer is studying the fires and the fish. Linkous is a senficer. The work of a popesmer is cleaning the kitchen location at restaurants. Tope is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Puls is a popesmer. The work of an isittequander is typing letters and keeping orders for a company. Whisnant is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:377
+Scull is a cabbier. The work of a refever is patrolling merchandise when it arrives at the land. The work of a bareer is studying the products and the restaurant. Cargile is a bareer. The work of a chopher is troubleshooting a customer's or court's financial records. Godoy is a refever. Coursey is a chopher. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:378
+The work of a chopher is troubleshooting a customer's or court's financial records. The work of a mamser is overseeing the stars and the universe. The work of a popesmer is cleaning the kitchen location at restaurants. Schultze is a bareer. Hadlock is a mamser. Matis is a popesmer. Christmas is a chopher. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:379
+The work of a senficer is studying the fires and the fish. Wine is a conper. Mendoza is a remaller. Lutes is a senficer. The work of a byeeper is acting in a seat or a location. The work of a remaller is selling letters and cleaning records for a company. The work of a conper is managing and reporting the news on television. Chavis is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:380
+Gunderson is a turter. Burgin is a wairer. The work of a wairer is working with electric cars. The work of a turter is assisting and selling orders. The work of a bareer is studying the products and the restaurant. Saltsman is a bareer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Douthit is a vegeer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:381
+Binger is a cabbier. The work of a senficer is studying the fires and the fish. The work of a byeeper is acting in a seat or a location. Miera is a senficer. The work of a cabbier is writing functions or records professionally. Cintron is a byeeper. Pridgen is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:382
+Harger is a bareer. The work of a vegeer is working in a retail processing and processing transactions for a customer's purchase. Gatling is a cabbier. The work of a cabbier is writing functions or records professionally. Spahr is a vegeer. The work of a chopher is troubleshooting a customer's or court's financial records. Mcquiston is a chopher. The work of a bareer is studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:383
+The work of a mamser is overseeing the stars and the universe. The work of a bareer is studying the products and the restaurant. Pye is a bareer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Grooms is a chopher. Linthicum is a goster. The work of a chopher is troubleshooting a customer's or court's financial records. Connors is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:384
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Deere is a goster. Tortora is a byeeper. The work of a byeeper is acting in a seat or a location. Sandidge is a remaller. The work of a refever is patrolling merchandise when it arrives at the land. The work of a remaller is selling letters and cleaning records for a company. Blow is a refever.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:385
+The work of a conper is managing and reporting the news on television. The work of a cabbier is writing functions or records professionally. The work of a remaller is selling letters and cleaning records for a company. Hughes is a senficer. The work of a senficer is studying the fires and the fish. Goodall is a remaller. Mastin is a cabbier. Pantaleon is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:386
+Funderburg is an oducer. The work of a mamser is overseeing the stars and the universe. Chesson is an isittequander. The work of an oducer is writing books or problems professionally. Crean is a popesmer. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an isittequander is typing letters and keeping orders for a company. Orlowski is a mamser.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:387
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. Burdette is a goster. Bazaldua is a lifiber. The work of an isittequander is typing letters and keeping orders for a company. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a lifiber is overseeing and treating problems with bricks. Shrock is a camsciater. Nilsen is an isittequander.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:388
+Garciagarcia is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a refever is patrolling merchandise when it arrives at the land. Badger is a refever. Ojeda is a turter. The work of a turter is assisting and selling orders. Mcentee is a cabbier. The work of a cabbier is writing functions or records professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:389
+The work of a basrer is growing and unpacking flowers. Esch is a bareer. The work of a bareer is studying the products and the restaurant. Aune is a basrer. The work of a cabbier is writing functions or records professionally. The work of a wairer is working with electric cars. Mullis is a wairer. Mcdonald is a cabbier.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:390
+The work of a bareer is studying the products and the restaurant. The work of an ifler is making problems from wood reporting houses and furniture. Lefler is a bareer. Woodie is an ifler. The work of a turter is assisting and selling orders. Tessmer is a turter. Arocha is a lifiber. The work of a lifiber is overseeing and treating problems with bricks.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:391
+The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a conper is managing and reporting the news on television. The work of a chopher is troubleshooting a customer's or court's financial records. Ybarra is a chopher. The work of a byeeper is acting in a seat or a location. Carino is a byeeper. Luft is a conper. Holmquist is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:392
+The work of a senficer is studying the fires and the fish. The work of a turter is assisting and selling orders. Basso is a turter. Seitz is a goster. Delcarmen is a senficer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. The work of a conper is managing and reporting the news on television. Nazarian is a conper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:393
+The work of a senficer is studying the fires and the fish. Showers is a lifiber. The work of a conper is managing and reporting the news on television. Bean is a goster. Back is a conper. The work of a lifiber is overseeing and treating problems with bricks. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Guadarrama is a senficer.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:394
+The work of a mamser is overseeing the stars and the universe. The work of an oducer is writing books or problems professionally. The work of a bareer is studying the products and the restaurant. Goodpaster is a mamser. Persad is an oducer. Moen is a senficer. Witzel is a bareer. The work of a senficer is studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:395
+Gonzales is a popesmer. Shrock is a byeeper. Zukowski is an isittequander. The work of a basrer is growing and unpacking flowers. The work of a popesmer is cleaning the kitchen location at restaurants. Carrara is a basrer. The work of a byeeper is acting in a seat or a location. The work of an isittequander is typing letters and keeping orders for a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:396
+The work of a byeeper is acting in a seat or a location. Wiener is a turter. The work of a cabbier is writing functions or records professionally. The work of a basrer is growing and unpacking flowers. Bedard is a cabbier. Kelm is a byeeper. Settle is a basrer. The work of a turter is assisting and selling orders.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:397
+Partridge is a mamser. The work of a basrer is growing and unpacking flowers. The work of a mamser is overseeing the stars and the universe. Cheung is a basrer. The work of an isittequander is typing letters and keeping orders for a company. Rauh is an isittequander. The work of a byeeper is acting in a seat or a location. Malpass is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:398
+Frink is a turter. The work of a wairer is working with electric cars. The work of a turter is assisting and selling orders. Flake is an isittequander. The work of an isittequander is typing letters and keeping orders for a company. Mullet is a wairer. The work of a goster is overseeing the management of eyes' accessories and travel bricks. Schuett is a goster.
+
+kitmus/background-inference-charfict-wordfict/subtask_4_ents/knowledge-text-only/validation:399
+Liberatore is a mamser. The work of a conper is managing and reporting the news on television. The work of a popesmer is cleaning the kitchen location at restaurants. The work of an oducer is writing books or problems professionally. Adhikari is a conper. The work of a mamser is overseeing the stars and the universe. Whitener is an oducer. Schutz is a popesmer.

@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:0
+Mccalla is a conper. Morado is a bareer. Buchan is a vegeer. Lizama is an isittequander. The work of a vegeer is mexing contolly. The work of a conper is juabeing klaierly. The work of an isittequander is feaising rohopply. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:1
+Geyer is a cabbier. The work of a byeeper is galmaunting induancingly. Inocencio is a byeeper. The work of a cabbier is kexing eughly. Vassallo is a lifiber. The work of a goster is drospiancing ghordly. Fairchild is a goster. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:2
+Poisson is a senficer. Mccalla is a vegeer. The work of a mamser is slimbing murstly. The work of a vegeer is mexing contolly. The work of a turter is nolcaplating birjuly. The work of a senficer is pesitlelling sonozously. Tesfaye is a turter. Brinegar is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:3
+The work of a senficer is pesitlelling sonozously. The work of an oducer is dunounding sacanothely. The work of a bareer is exmeting coenoguly. Battiste is a bareer. Josephs is an oducer. Depalma is a senficer. The work of a mamser is slimbing murstly. Metz is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:4
+The work of a basrer is ecroviding vergadously. Holen is a basrer. Egner is a vegeer. The work of a chopher is dernfewing geneurifily. Frese is a cabbier. Steger is a chopher. The work of a vegeer is mexing contolly. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:5
+Sinnott is an isittequander. Platero is a cabbier. Macmillan is a basrer. Plaisance is a senficer. The work of a senficer is pesitlelling sonozously. The work of an isittequander is feaising rohopply. The work of a basrer is ecroviding vergadously. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:6
+Cluff is a cabbier. Ostrowski is a camsciater. The work of a camsciater is momdresining namisly. The work of an isittequander is feaising rohopply. Leathers is an isittequander. The work of an ifler is noefeicing kisly. The work of a cabbier is kexing eughly. Iorio is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:7
+Rowden is an oducer. Cabrera is a vegeer. The work of a senficer is pesitlelling sonozously. The work of an oducer is dunounding sacanothely. The work of a basrer is ecroviding vergadously. The work of a vegeer is mexing contolly. Carias is a basrer. Seifert is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:8
+Sublett is a bareer. The work of a turter is nolcaplating birjuly. The work of a chopher is dernfewing geneurifily. Sylvestre is a turter. The work of an oducer is dunounding sacanothely. The work of a bareer is exmeting coenoguly. Ells is a chopher. Canchola is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:9
+The work of a wairer is fecting teinly. The work of an oducer is dunounding sacanothely. Dauzat is a wairer. Akey is an oducer. The work of a remaller is socring clatodemnly. Turgeon is a camsciater. The work of a camsciater is momdresining namisly. Magill is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:10
+Bevins is an isittequander. Michalowski is a mamser. Pulsifer is a cabbier. The work of a popesmer is chodoling larely. Bellomy is a popesmer. The work of a mamser is slimbing murstly. The work of a cabbier is kexing eughly. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:11
+Delacruz is an oducer. The work of a turter is nolcaplating birjuly. Storms is a turter. Moffat is a cabbier. Ohler is a wairer. The work of a wairer is fecting teinly. The work of a cabbier is kexing eughly. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:12
+The work of a remaller is socring clatodemnly. Shawver is a camsciater. Howze is a byeeper. The work of a byeeper is galmaunting induancingly. Agee is a remaller. Hutto is a bareer. The work of a camsciater is momdresining namisly. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:13
+The work of a remaller is socring clatodemnly. Kuester is a chopher. Beesley is a camsciater. Carrow is a remaller. The work of a chopher is dernfewing geneurifily. The work of a camsciater is momdresining namisly. Orsini is a bareer. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:14
+Kubik is an oducer. The work of a popesmer is chodoling larely. The work of an oducer is dunounding sacanothely. Kuester is a wairer. Carrico is a popesmer. The work of a wairer is fecting teinly. Noh is a byeeper. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:15
+Ogden is an oducer. Brust is an isittequander. The work of an isittequander is feaising rohopply. Metz is a turter. The work of a goster is drospiancing ghordly. The work of a turter is nolcaplating birjuly. The work of an oducer is dunounding sacanothely. Neace is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:16
+The work of a remaller is socring clatodemnly. The work of a turter is nolcaplating birjuly. Laboy is a turter. The work of a camsciater is momdresining namisly. Busby is a popesmer. The work of a popesmer is chodoling larely. Fairchild is a camsciater. Arnott is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:17
+Baeza is a popesmer. The work of a cabbier is kexing eughly. Byrns is a cabbier. The work of a senficer is pesitlelling sonozously. Rogerson is a turter. The work of a popesmer is chodoling larely. Galindez is a senficer. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:18
+Banes is a remaller. The work of a lifiber is divolving accily. Fidler is an ifler. Staten is a lifiber. The work of an ifler is noefeicing kisly. The work of a byeeper is galmaunting induancingly. Rowden is a byeeper. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:19
+The work of a chopher is dernfewing geneurifily. The work of a lifiber is divolving accily. Bergren is a chopher. The work of an ifler is noefeicing kisly. Moorer is a lifiber. Ley is an ifler. Hoel is a senficer. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:20
+Gifford is a cabbier. The work of a byeeper is galmaunting induancingly. Guymon is a chopher. The work of a turter is nolcaplating birjuly. The work of a cabbier is kexing eughly. The work of a chopher is dernfewing geneurifily. Proulx is a byeeper. Mah is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:21
+Aparicio is a conper. The work of a senficer is pesitlelling sonozously. Negron is a cabbier. The work of a cabbier is kexing eughly. The work of a conper is juabeing klaierly. The work of a lifiber is divolving accily. Ament is a lifiber. Brathwaite is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:22
+The work of a lifiber is divolving accily. Eubank is a goster. The work of an ifler is noefeicing kisly. Swafford is a refever. Cales is an ifler. The work of a refever is clerarating degly. Mease is a lifiber. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:23
+Doster is a cabbier. The work of a remaller is socring clatodemnly. The work of a chopher is dernfewing geneurifily. The work of a conper is juabeing klaierly. Fortson is a chopher. The work of a cabbier is kexing eughly. Correia is a conper. Wesolowski is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:24
+Tunnell is a cabbier. Breitenbach is a basrer. The work of a conper is juabeing klaierly. Place is a lifiber. The work of a lifiber is divolving accily. Prakash is a conper. The work of a basrer is ecroviding vergadously. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:25
+Sisler is an isittequander. Hartford is a senficer. The work of a senficer is pesitlelling sonozously. The work of a byeeper is galmaunting induancingly. Northrop is a byeeper. The work of an isittequander is feaising rohopply. Haddock is a conper. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:26
+Piatt is a refever. Partridge is a cabbier. Luckett is a remaller. The work of a camsciater is momdresining namisly. The work of a refever is clerarating degly. Pemberton is a camsciater. The work of a remaller is socring clatodemnly. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:27
+The work of a camsciater is momdresining namisly. The work of a cabbier is kexing eughly. Manthey is a popesmer. The work of a turter is nolcaplating birjuly. Russo is a cabbier. The work of a popesmer is chodoling larely. Vitiello is a camsciater. Risher is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:28
+The work of a byeeper is galmaunting induancingly. The work of a bareer is exmeting coenoguly. Brockett is a byeeper. Rumph is a lifiber. The work of a lifiber is divolving accily. Fruge is a camsciater. The work of a camsciater is momdresining namisly. Hines is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:29
+Deguzman is a lifiber. The work of a lifiber is divolving accily. The work of a senficer is pesitlelling sonozously. The work of a conper is juabeing klaierly. Bittinger is a conper. Mascorro is a senficer. The work of a goster is drospiancing ghordly. Meade is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:30
+The work of a bareer is exmeting coenoguly. The work of an ifler is noefeicing kisly. Christensen is a conper. Gallman is a remaller. The work of a remaller is socring clatodemnly. The work of a conper is juabeing klaierly. Merriweather is an ifler. Shapiro is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:31
+The work of a chopher is dernfewing geneurifily. The work of a mamser is slimbing murstly. Wootton is a goster. The work of an isittequander is feaising rohopply. Dent is a mamser. Vankirk is a chopher. Eckles is an isittequander. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:32
+Scheuerman is a camsciater. Stonecipher is a basrer. The work of a camsciater is momdresining namisly. The work of an oducer is dunounding sacanothely. The work of a lifiber is divolving accily. The work of a basrer is ecroviding vergadously. Hille is an oducer. Fleener is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:33
+Laforge is an isittequander. The work of a senficer is pesitlelling sonozously. Seiter is a byeeper. Knapp is a mamser. Hasson is a senficer. The work of a byeeper is galmaunting induancingly. The work of an isittequander is feaising rohopply. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:34
+The work of a conper is juabeing klaierly. The work of a remaller is socring clatodemnly. Donner is a goster. The work of a wairer is fecting teinly. Helvey is a remaller. Sabado is a conper. Schnur is a wairer. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:35
+Cuneo is a cabbier. Whiting is a popesmer. The work of a mamser is slimbing murstly. Spahn is a senficer. Ciesielski is a mamser. The work of a popesmer is chodoling larely. The work of a senficer is pesitlelling sonozously. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:36
+The work of a lifiber is divolving accily. Magee is a turter. The work of a bareer is exmeting coenoguly. Dart is a bareer. The work of a chopher is dernfewing geneurifily. Jackowski is a chopher. The work of a turter is nolcaplating birjuly. Hines is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:37
+Killion is a remaller. Weinmann is a bareer. The work of a popesmer is chodoling larely. Krogh is a vegeer. The work of a remaller is socring clatodemnly. Chino is a popesmer. The work of a bareer is exmeting coenoguly. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:38
+The work of an ifler is noefeicing kisly. Canup is an ifler. The work of a popesmer is chodoling larely. Wick is a popesmer. The work of a lifiber is divolving accily. Bosworth is a lifiber. Piatt is a chopher. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:39
+The work of a refever is clerarating degly. The work of a wairer is fecting teinly. Sloss is a bareer. Peel is a wairer. Qin is a chopher. The work of a bareer is exmeting coenoguly. The work of a chopher is dernfewing geneurifily. Bruneau is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:40
+Binion is a vegeer. Nickens is a goster. The work of an oducer is dunounding sacanothely. Munz is a conper. Martinson is an oducer. The work of a goster is drospiancing ghordly. The work of a vegeer is mexing contolly. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:41
+Dague is an oducer. Domenech is a popesmer. The work of a bareer is exmeting coenoguly. The work of a senficer is pesitlelling sonozously. Vanderlinden is a bareer. Beacham is a senficer. The work of an oducer is dunounding sacanothely. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:42
+Wiedeman is a mamser. Lowden is an isittequander. The work of an oducer is dunounding sacanothely. The work of a mamser is slimbing murstly. The work of a remaller is socring clatodemnly. Klepper is a remaller. Schmeling is an oducer. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:43
+Seagraves is a camsciater. The work of a lifiber is divolving accily. The work of a conper is juabeing klaierly. The work of an ifler is noefeicing kisly. Bose is a conper. Marx is a lifiber. Maestas is an ifler. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:44
+The work of a remaller is socring clatodemnly. The work of a popesmer is chodoling larely. Foraker is an ifler. The work of a conper is juabeing klaierly. Gerena is a conper. The work of an ifler is noefeicing kisly. Yerkes is a remaller. Sica is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:45
+Harton is an ifler. The work of a lifiber is divolving accily. The work of an ifler is noefeicing kisly. The work of a camsciater is momdresining namisly. Burkley is a lifiber. Quijada is a camsciater. The work of an oducer is dunounding sacanothely. Corning is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:46
+The work of a byeeper is galmaunting induancingly. The work of an ifler is noefeicing kisly. Garcia is a byeeper. Loo is an ifler. Power is an isittequander. Mcintosh is a chopher. The work of a chopher is dernfewing geneurifily. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:47
+Trout is a conper. Iniguez is a lifiber. The work of a cabbier is kexing eughly. The work of a lifiber is divolving accily. The work of a conper is juabeing klaierly. The work of an isittequander is feaising rohopply. Lim is an isittequander. Roos is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:48
+The work of a mamser is slimbing murstly. Haskins is a wairer. Lamp is a refever. The work of a wairer is fecting teinly. Winchell is a lifiber. Carbaugh is a mamser. The work of a refever is clerarating degly. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:49
+Mossman is a senficer. The work of a senficer is pesitlelling sonozously. The work of a goster is drospiancing ghordly. Newland is a vegeer. Giffin is an ifler. Mcdevitt is a goster. The work of an ifler is noefeicing kisly. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:50
+The work of a camsciater is momdresining namisly. The work of an isittequander is feaising rohopply. Banas is a cabbier. The work of a goster is drospiancing ghordly. Stine is a goster. Zink is a camsciater. Bosch is an isittequander. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:51
+The work of a wairer is fecting teinly. Stancil is a wairer. Chatmon is a bareer. Chewning is a byeeper. The work of a refever is clerarating degly. Forbus is a refever. The work of a byeeper is galmaunting induancingly. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:52
+The work of a remaller is socring clatodemnly. The work of an oducer is dunounding sacanothely. Vuong is a popesmer. The work of an ifler is noefeicing kisly. Tipps is an ifler. The work of a popesmer is chodoling larely. Boice is a remaller. Twiggs is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:53
+Barrier is a vegeer. Ohara is a byeeper. The work of a popesmer is chodoling larely. Catoe is a popesmer. The work of a vegeer is mexing contolly. The work of a byeeper is galmaunting induancingly. Mccalla is a senficer. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:54
+The work of a goster is drospiancing ghordly. Wiens is a goster. The work of a byeeper is galmaunting induancingly. The work of a conper is juabeing klaierly. The work of a lifiber is divolving accily. Kieffer is a lifiber. Matheney is a conper. Harter is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:55
+Vermillion is a cabbier. Villar is a wairer. The work of a wairer is fecting teinly. The work of an ifler is noefeicing kisly. The work of a cabbier is kexing eughly. Keaney is an ifler. The work of an isittequander is feaising rohopply. Bonilla is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:56
+Laster is an isittequander. Kurian is a remaller. The work of a camsciater is momdresining namisly. The work of an ifler is noefeicing kisly. Cutshaw is a camsciater. The work of an isittequander is feaising rohopply. Harford is an ifler. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:57
+Basurto is a mamser. The work of a turter is nolcaplating birjuly. The work of a mamser is slimbing murstly. Blanks is a goster. The work of a goster is drospiancing ghordly. The work of a vegeer is mexing contolly. Samuelson is a turter. Stenzel is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:58
+The work of a camsciater is momdresining namisly. The work of a turter is nolcaplating birjuly. Maresca is a wairer. Claxton is a turter. Jefferies is a cabbier. The work of a cabbier is kexing eughly. The work of a wairer is fecting teinly. Harner is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:59
+Provencher is a lifiber. Tigner is a byeeper. The work of a byeeper is galmaunting induancingly. The work of a lifiber is divolving accily. Almanzar is a wairer. The work of a vegeer is mexing contolly. The work of a wairer is fecting teinly. Plaster is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:60
+The work of a conper is juabeing klaierly. The work of a senficer is pesitlelling sonozously. The work of a camsciater is momdresining namisly. Kellogg is a camsciater. Turgeon is a senficer. Acker is a conper. The work of a byeeper is galmaunting induancingly. Schiffer is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:61
+The work of a bareer is exmeting coenoguly. Hendren is a bareer. The work of a refever is clerarating degly. The work of a conper is juabeing klaierly. The work of a goster is drospiancing ghordly. Alaimo is a refever. Barakat is a conper. Knapp is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:62
+The work of a popesmer is chodoling larely. Toro is an oducer. The work of an oducer is dunounding sacanothely. Cutting is a conper. The work of a vegeer is mexing contolly. Beauford is a vegeer. Farkas is a popesmer. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:63
+The work of a byeeper is galmaunting induancingly. Cohn is a chopher. The work of a chopher is dernfewing geneurifily. The work of a popesmer is chodoling larely. Bang is an isittequander. Zollinger is a byeeper. The work of an isittequander is feaising rohopply. Osborn is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:64
+The work of a popesmer is chodoling larely. Raper is a chopher. The work of a byeeper is galmaunting induancingly. Beland is a cabbier. Barbosa is a popesmer. Mateos is a byeeper. The work of a chopher is dernfewing geneurifily. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:65
+Martinezgarcia is a remaller. The work of a remaller is socring clatodemnly. The work of a basrer is ecroviding vergadously. The work of a cabbier is kexing eughly. Dycus is a basrer. The work of a conper is juabeing klaierly. Rozier is a conper. Rezac is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:66
+Reams is a basrer. The work of a lifiber is divolving accily. Tyndall is a lifiber. Skelley is a conper. Bohl is an oducer. The work of an oducer is dunounding sacanothely. The work of a basrer is ecroviding vergadously. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:67
+The work of a popesmer is chodoling larely. Blunt is a byeeper. Sias is a conper. Szabo is a popesmer. The work of a byeeper is galmaunting induancingly. The work of a chopher is dernfewing geneurifily. Humble is a chopher. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:68
+Losoya is a chopher. The work of a turter is nolcaplating birjuly. The work of a chopher is dernfewing geneurifily. The work of a basrer is ecroviding vergadously. Hosier is a turter. The work of a conper is juabeing klaierly. Piccolo is a basrer. Degroot is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:69
+The work of a popesmer is chodoling larely. Chappelle is a popesmer. Verdin is a goster. The work of a turter is nolcaplating birjuly. Wengerd is a basrer. The work of a goster is drospiancing ghordly. The work of a basrer is ecroviding vergadously. Saavedra is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:70
+The work of a lifiber is divolving accily. Kue is a lifiber. The work of a vegeer is mexing contolly. Ransdell is a vegeer. The work of an isittequander is feaising rohopply. The work of a wairer is fecting teinly. Otte is an isittequander. Dantzler is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:71
+Lockridge is a wairer. The work of a mamser is slimbing murstly. Speakman is a mamser. The work of a byeeper is galmaunting induancingly. The work of a wairer is fecting teinly. Caggiano is a byeeper. The work of a bareer is exmeting coenoguly. Bayer is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:72
+The work of a basrer is ecroviding vergadously. The work of a wairer is fecting teinly. The work of a vegeer is mexing contolly. Fauver is a wairer. The work of an ifler is noefeicing kisly. Towne is a basrer. Eldredge is a vegeer. Hursey is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:73
+The work of a chopher is dernfewing geneurifily. Tingle is a conper. The work of a conper is juabeing klaierly. The work of a vegeer is mexing contolly. Mancillas is a vegeer. Calleros is a senficer. Shand is a chopher. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:74
+The work of a chopher is dernfewing geneurifily. Speidel is a bareer. Mattern is a byeeper. The work of a byeeper is galmaunting induancingly. The work of a bareer is exmeting coenoguly. The work of a camsciater is momdresining namisly. Mahony is a camsciater. Knapp is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:75
+The work of a conper is juabeing klaierly. Uhl is an oducer. The work of a wairer is fecting teinly. The work of a mamser is slimbing murstly. The work of an oducer is dunounding sacanothely. Farmer is a mamser. Wille is a wairer. Peiffer is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:76
+Mojica is a senficer. The work of a conper is juabeing klaierly. Loftin is a bareer. Burlison is a turter. Chavira is a conper. The work of a bareer is exmeting coenoguly. The work of a senficer is pesitlelling sonozously. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:77
+The work of a camsciater is momdresining namisly. The work of a conper is juabeing klaierly. Bedford is a popesmer. Berggren is a remaller. Skipworth is a camsciater. The work of a remaller is socring clatodemnly. Kurian is a conper. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:78
+The work of an ifler is noefeicing kisly. The work of a basrer is ecroviding vergadously. The work of a mamser is slimbing murstly. Grear is a mamser. Springfield is a senficer. Goldman is an ifler. The work of a senficer is pesitlelling sonozously. Sauter is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:79
+Ponder is a refever. The work of an oducer is dunounding sacanothely. The work of a refever is clerarating degly. The work of a wairer is fecting teinly. Havel is an oducer. Moulder is a wairer. Bielecki is an ifler. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:80
+The work of a mamser is slimbing murstly. Metz is a chopher. The work of a remaller is socring clatodemnly. Dossantos is a mamser. Moultrie is a wairer. Difrancesco is a remaller. The work of a wairer is fecting teinly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:81
+The work of a refever is clerarating degly. The work of a chopher is dernfewing geneurifily. Damm is a refever. Dattilo is a remaller. The work of a senficer is pesitlelling sonozously. Gilchrist is a chopher. Seelye is a senficer. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:82
+The work of a lifiber is divolving accily. The work of a cabbier is kexing eughly. The work of a popesmer is chodoling larely. Villar is a lifiber. The work of a mamser is slimbing murstly. Haque is a cabbier. Bahena is a mamser. Mulder is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:83
+The work of a turter is nolcaplating birjuly. Mcquaid is an isittequander. The work of a lifiber is divolving accily. The work of an isittequander is feaising rohopply. Rode is a lifiber. Filsaime is a turter. Igo is a senficer. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:84
+Beatty is a basrer. The work of a vegeer is mexing contolly. Mccollough is a mamser. Geis is a lifiber. The work of a basrer is ecroviding vergadously. Melby is a vegeer. The work of a mamser is slimbing murstly. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:85
+The work of an oducer is dunounding sacanothely. Roblero is a senficer. The work of a goster is drospiancing ghordly. Kamm is a goster. The work of a senficer is pesitlelling sonozously. Shuey is an oducer. The work of a turter is nolcaplating birjuly. Frakes is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:86
+Fusco is a lifiber. The work of a lifiber is divolving accily. The work of a senficer is pesitlelling sonozously. The work of an ifler is noefeicing kisly. The work of a popesmer is chodoling larely. Villeda is a popesmer. Lashley is a senficer. Lopezmartinez is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:87
+The work of a remaller is socring clatodemnly. The work of a lifiber is divolving accily. Poulsen is a lifiber. The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Burkart is a remaller. Hauge is a basrer. Caggiano is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:88
+The work of an ifler is noefeicing kisly. The work of a refever is clerarating degly. The work of a byeeper is galmaunting induancingly. Mistretta is a bareer. Cheong is an ifler. The work of a bareer is exmeting coenoguly. Burchard is a byeeper. Andrzejewski is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:89
+Henshaw is a vegeer. Fellers is a basrer. The work of a vegeer is mexing contolly. Treanor is a cabbier. Frisbee is a wairer. The work of a cabbier is kexing eughly. The work of a wairer is fecting teinly. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:90
+The work of a cabbier is kexing eughly. The work of a bareer is exmeting coenoguly. Cavender is a chopher. Pesek is a bareer. The work of a refever is clerarating degly. Grimsley is a cabbier. The work of a chopher is dernfewing geneurifily. Barre is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:91
+The work of a refever is clerarating degly. Zheng is a cabbier. Cobbs is an oducer. Marten is a refever. The work of a chopher is dernfewing geneurifily. The work of an oducer is dunounding sacanothely. The work of a cabbier is kexing eughly. Houpt is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:92
+The work of a bareer is exmeting coenoguly. Perrine is a cabbier. Ventimiglia is a lifiber. Eversole is a refever. The work of a cabbier is kexing eughly. The work of a lifiber is divolving accily. Gilbertson is a bareer. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:93
+The work of a vegeer is mexing contolly. The work of a bareer is exmeting coenoguly. Schaefer is a bareer. The work of an ifler is noefeicing kisly. Churchill is an ifler. Fly is a vegeer. Aguilera is a remaller. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:94
+The work of a vegeer is mexing contolly. The work of a basrer is ecroviding vergadously. Tedder is a basrer. The work of a remaller is socring clatodemnly. Mckittrick is a remaller. Ehret is a mamser. Marchant is a vegeer. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:95
+Mccalla is a vegeer. Stock is a byeeper. The work of a senficer is pesitlelling sonozously. The work of a conper is juabeing klaierly. Zehner is a senficer. The work of a byeeper is galmaunting induancingly. The work of a vegeer is mexing contolly. Woodie is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:96
+The work of a mamser is slimbing murstly. Motz is a conper. The work of a senficer is pesitlelling sonozously. Englund is a basrer. The work of a basrer is ecroviding vergadously. Senecal is a mamser. Scroggs is a senficer. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:97
+The work of a senficer is pesitlelling sonozously. The work of a turter is nolcaplating birjuly. The work of a vegeer is mexing contolly. Vines is a vegeer. Metzler is a camsciater. Fulford is a senficer. The work of a camsciater is momdresining namisly. Singletary is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:98
+The work of a popesmer is chodoling larely. The work of a chopher is dernfewing geneurifily. Sackett is a vegeer. Michelson is a chopher. The work of a wairer is fecting teinly. The work of a vegeer is mexing contolly. Jeffers is a popesmer. Strayer is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:99
+The work of an oducer is dunounding sacanothely. The work of a vegeer is mexing contolly. The work of a mamser is slimbing murstly. Terrazas is a vegeer. Bissonnette is a senficer. The work of a senficer is pesitlelling sonozously. Galli is an oducer. Villalobos is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:100
+Andrus is a lifiber. The work of a camsciater is momdresining namisly. The work of a cabbier is kexing eughly. Guice is a cabbier. Ashburn is a camsciater. Threadgill is an oducer. The work of an oducer is dunounding sacanothely. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:101
+The work of a lifiber is divolving accily. Goodpaster is a lifiber. The work of a chopher is dernfewing geneurifily. The work of a conper is juabeing klaierly. The work of a popesmer is chodoling larely. Nutt is a popesmer. Moak is a chopher. Dickinson is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:102
+Raynes is a refever. The work of a refever is clerarating degly. The work of a conper is juabeing klaierly. Coll is a wairer. The work of a wairer is fecting teinly. The work of an ifler is noefeicing kisly. Montenegro is an ifler. Utley is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:103
+The work of a turter is nolcaplating birjuly. The work of a refever is clerarating degly. The work of a conper is juabeing klaierly. Germann is a turter. Goss is a conper. Peery is a basrer. The work of a basrer is ecroviding vergadously. Tunnell is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:104
+The work of a mamser is slimbing murstly. Lejeune is an isittequander. The work of a chopher is dernfewing geneurifily. The work of a remaller is socring clatodemnly. The work of an isittequander is feaising rohopply. Perillo is a remaller. Bethea is a mamser. Gorsuch is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:105
+Camargo is a popesmer. Kan is an ifler. The work of an ifler is noefeicing kisly. The work of a remaller is socring clatodemnly. The work of a popesmer is chodoling larely. The work of a turter is nolcaplating birjuly. Merriweather is a remaller. Breitenstein is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:106
+The work of a turter is nolcaplating birjuly. Prall is a turter. Duggan is a wairer. The work of a basrer is ecroviding vergadously. The work of a wairer is fecting teinly. Attaway is a basrer. The work of a refever is clerarating degly. Tipps is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:107
+The work of a popesmer is chodoling larely. The work of a lifiber is divolving accily. The work of a wairer is fecting teinly. The work of a bareer is exmeting coenoguly. Davila is a bareer. Krug is a lifiber. Reamer is a wairer. Ziemba is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:108
+The work of an ifler is noefeicing kisly. Doyon is an ifler. The work of a basrer is ecroviding vergadously. The work of a refever is clerarating degly. Weatherby is a chopher. Swick is a basrer. Facio is a refever. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:109
+The work of a vegeer is mexing contolly. Hock is a vegeer. The work of an oducer is dunounding sacanothely. The work of a chopher is dernfewing geneurifily. Kellogg is a camsciater. The work of a camsciater is momdresining namisly. Casto is a chopher. Mcculloch is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:110
+Mcnicholas is a mamser. Abramson is a camsciater. Grams is a byeeper. The work of a byeeper is galmaunting induancingly. The work of a vegeer is mexing contolly. The work of a mamser is slimbing murstly. The work of a camsciater is momdresining namisly. Harter is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:111
+Venzor is a vegeer. The work of a conper is juabeing klaierly. The work of an isittequander is feaising rohopply. Navas is an isittequander. The work of a goster is drospiancing ghordly. Tigner is a goster. The work of a vegeer is mexing contolly. Hammitt is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:112
+The work of a mamser is slimbing murstly. Gabor is an isittequander. The work of a cabbier is kexing eughly. Human is a chopher. Saldana is a cabbier. Alfieri is a mamser. The work of a chopher is dernfewing geneurifily. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:113
+The work of a conper is juabeing klaierly. The work of a camsciater is momdresining namisly. The work of a byeeper is galmaunting induancingly. The work of a refever is clerarating degly. Gilmore is a refever. Rudisill is a camsciater. Goggans is a conper. Ellenberger is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:114
+Matsuda is a senficer. The work of a remaller is socring clatodemnly. The work of a bareer is exmeting coenoguly. Pasillas is a conper. The work of a senficer is pesitlelling sonozously. Downey is a bareer. Switzer is a remaller. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:115
+The work of a basrer is ecroviding vergadously. The work of a refever is clerarating degly. Waldrep is a remaller. The work of a remaller is socring clatodemnly. The work of a camsciater is momdresining namisly. Preciado is a refever. Renteria is a camsciater. Metoyer is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:116
+Levitt is a refever. Sanmiguel is a remaller. The work of an isittequander is feaising rohopply. The work of a bareer is exmeting coenoguly. Hymel is a bareer. Punch is an isittequander. The work of a refever is clerarating degly. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:117
+Whisenhunt is a lifiber. The work of an oducer is dunounding sacanothely. Cromartie is a byeeper. Talkington is a refever. The work of a refever is clerarating degly. The work of a byeeper is galmaunting induancingly. The work of a lifiber is divolving accily. Gomes is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:118
+The work of a conper is juabeing klaierly. Tingle is a conper. The work of a bareer is exmeting coenoguly. Fenley is a mamser. Saenz is a bareer. The work of an isittequander is feaising rohopply. The work of a mamser is slimbing murstly. Horton is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:119
+Man is an isittequander. The work of a cabbier is kexing eughly. Bolles is an oducer. Beltre is a byeeper. The work of an isittequander is feaising rohopply. The work of a byeeper is galmaunting induancingly. The work of an oducer is dunounding sacanothely. Whelchel is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:120
+Kaminsky is a vegeer. The work of a vegeer is mexing contolly. The work of a cabbier is kexing eughly. Kinlaw is a mamser. The work of a refever is clerarating degly. The work of a mamser is slimbing murstly. Chmielewski is a cabbier. Mccarron is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:121
+The work of a remaller is socring clatodemnly. The work of an oducer is dunounding sacanothely. Damm is a remaller. Schnitzer is a goster. The work of an ifler is noefeicing kisly. Tredway is an oducer. The work of a goster is drospiancing ghordly. Sandlin is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:122
+The work of a vegeer is mexing contolly. Sinnott is a popesmer. Lemmon is a wairer. The work of a goster is drospiancing ghordly. The work of a wairer is fecting teinly. The work of a popesmer is chodoling larely. Waltman is a goster. Rothermel is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:123
+The work of a wairer is fecting teinly. Saintlouis is a mamser. Mccasland is a chopher. Giardina is a wairer. The work of a turter is nolcaplating birjuly. The work of a chopher is dernfewing geneurifily. Cobbs is a turter. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:124
+Torbert is a goster. Stine is a byeeper. The work of a goster is drospiancing ghordly. The work of a byeeper is galmaunting induancingly. Brandow is a wairer. The work of a bareer is exmeting coenoguly. Godinez is a bareer. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:125
+Barefoot is a conper. Yarbrough is an ifler. Gaughan is a chopher. Phan is a byeeper. The work of an ifler is noefeicing kisly. The work of a chopher is dernfewing geneurifily. The work of a conper is juabeing klaierly. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:126
+Locascio is a goster. The work of a turter is nolcaplating birjuly. Lopezmartinez is a popesmer. Martello is an ifler. The work of a goster is drospiancing ghordly. The work of an ifler is noefeicing kisly. The work of a popesmer is chodoling larely. Leroux is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:127
+Noh is a cabbier. The work of an oducer is dunounding sacanothely. Bunge is a wairer. The work of a remaller is socring clatodemnly. The work of a cabbier is kexing eughly. Schweitzer is a remaller. Auer is an oducer. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:128
+Stuber is a camsciater. Zakrzewski is a mamser. The work of a camsciater is momdresining namisly. Peed is a conper. The work of a vegeer is mexing contolly. The work of a conper is juabeing klaierly. Towne is a vegeer. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:129
+Dandridge is a remaller. The work of a basrer is ecroviding vergadously. The work of a turter is nolcaplating birjuly. Conger is a turter. Pine is a basrer. The work of a remaller is socring clatodemnly. The work of a chopher is dernfewing geneurifily. Tomlinson is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:130
+Yarbrough is a chopher. Duren is a refever. Leblanc is a vegeer. The work of a chopher is dernfewing geneurifily. Hutchinson is an ifler. The work of a refever is clerarating degly. The work of a vegeer is mexing contolly. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:131
+The work of a mamser is slimbing murstly. Matthes is a mamser. Kurth is a camsciater. The work of a camsciater is momdresining namisly. Gravely is a byeeper. Molitor is a chopher. The work of a byeeper is galmaunting induancingly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:132
+The work of a vegeer is mexing contolly. Faucher is a vegeer. The work of a basrer is ecroviding vergadously. The work of a mamser is slimbing murstly. The work of a bareer is exmeting coenoguly. Sherlock is a basrer. Blanch is a mamser. Nicholson is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:133
+Baisley is a vegeer. The work of a basrer is ecroviding vergadously. Losoya is a lifiber. The work of a lifiber is divolving accily. Freed is a basrer. The work of a remaller is socring clatodemnly. Hutto is a remaller. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:134
+Farrand is a conper. The work of an ifler is noefeicing kisly. The work of a basrer is ecroviding vergadously. The work of a conper is juabeing klaierly. Trang is a mamser. The work of a mamser is slimbing murstly. Dickens is an ifler. Bridgers is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:135
+Carstensen is a goster. The work of a goster is drospiancing ghordly. Lavin is a popesmer. Mcelyea is a conper. The work of a lifiber is divolving accily. Tipton is a lifiber. The work of a popesmer is chodoling larely. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:136
+The work of an oducer is dunounding sacanothely. Matsuda is an oducer. Quirarte is a goster. The work of a bareer is exmeting coenoguly. The work of a lifiber is divolving accily. Teves is a bareer. Kaul is a lifiber. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:137
+Hofman is a goster. The work of a bareer is exmeting coenoguly. Barnett is a bareer. The work of a camsciater is momdresining namisly. Magoon is a camsciater. The work of a goster is drospiancing ghordly. The work of an ifler is noefeicing kisly. Simpson is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:138
+Holloway is a wairer. The work of a byeeper is galmaunting induancingly. The work of a cabbier is kexing eughly. Gent is a popesmer. The work of a popesmer is chodoling larely. Knorr is a byeeper. Delorenzo is a cabbier. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:139
+The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Ivers is a conper. Quinonez is a popesmer. The work of a conper is juabeing klaierly. Hagerman is a basrer. Klick is a lifiber. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:140
+The work of a cabbier is kexing eughly. Fazekas is an ifler. The work of a goster is drospiancing ghordly. The work of an oducer is dunounding sacanothely. Mangione is a cabbier. Mcdermott is a goster. Stites is an oducer. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:141
+Conkle is a wairer. The work of an isittequander is feaising rohopply. Casarez is a bareer. The work of a wairer is fecting teinly. Chism is an isittequander. The work of a bareer is exmeting coenoguly. Wolfer is a lifiber. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:142
+Singletary is a bareer. The work of a turter is nolcaplating birjuly. The work of a basrer is ecroviding vergadously. The work of a bareer is exmeting coenoguly. The work of a chopher is dernfewing geneurifily. Nuccio is a basrer. Ventimiglia is a turter. Steinmetz is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:143
+Garcia is an isittequander. Freiberg is a refever. Whiddon is an ifler. The work of an ifler is noefeicing kisly. The work of a refever is clerarating degly. The work of a cabbier is kexing eughly. Lauzon is a cabbier. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:144
+Kreitzer is an oducer. Moravec is a cabbier. Lemmer is a chopher. The work of a vegeer is mexing contolly. The work of a chopher is dernfewing geneurifily. Przybylski is a vegeer. The work of a cabbier is kexing eughly. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:145
+The work of a cabbier is kexing eughly. The work of an ifler is noefeicing kisly. Sanfilippo is an ifler. Deans is a cabbier. Lajeunesse is a basrer. The work of an oducer is dunounding sacanothely. Donofrio is an oducer. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:146
+Papp is a popesmer. The work of a vegeer is mexing contolly. Dewald is a vegeer. Talarico is a wairer. Gardella is a lifiber. The work of a wairer is fecting teinly. The work of a popesmer is chodoling larely. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:147
+The work of a turter is nolcaplating birjuly. Blass is a cabbier. Heil is a popesmer. Eich is a turter. The work of a popesmer is chodoling larely. The work of an ifler is noefeicing kisly. The work of a cabbier is kexing eughly. Fitch is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:148
+The work of a camsciater is momdresining namisly. The work of a refever is clerarating degly. Luviano is a refever. Mccrimmon is a camsciater. Bolinger is a cabbier. The work of a cabbier is kexing eughly. Cundiff is a wairer. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:149
+The work of a camsciater is momdresining namisly. The work of an isittequander is feaising rohopply. The work of an ifler is noefeicing kisly. Saum is an ifler. Killebrew is a camsciater. Gaffney is an isittequander. Lockridge is a cabbier. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:150
+Sias is a bareer. Dye is a popesmer. Dunson is a wairer. The work of a refever is clerarating degly. The work of a popesmer is chodoling larely. The work of a bareer is exmeting coenoguly. Stringer is a refever. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:151
+Kurth is a refever. Dingus is a mamser. The work of a mamser is slimbing murstly. The work of a senficer is pesitlelling sonozously. The work of a chopher is dernfewing geneurifily. Bucio is a chopher. Ore is a senficer. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:152
+Kulas is a turter. The work of a vegeer is mexing contolly. Hoy is a remaller. Council is a vegeer. Barstow is a refever. The work of a turter is nolcaplating birjuly. The work of a remaller is socring clatodemnly. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:153
+The work of a senficer is pesitlelling sonozously. Spearman is a senficer. The work of a mamser is slimbing murstly. Hogue is a mamser. Craine is a wairer. Lamp is a remaller. The work of a remaller is socring clatodemnly. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:154
+Castruita is a goster. The work of a senficer is pesitlelling sonozously. The work of an isittequander is feaising rohopply. The work of a goster is drospiancing ghordly. Whitty is a senficer. Heideman is a vegeer. Ganey is an isittequander. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:155
+Mcauliffe is a lifiber. Pettengill is a basrer. Buscemi is a camsciater. The work of a lifiber is divolving accily. The work of a turter is nolcaplating birjuly. Berumen is a turter. The work of a camsciater is momdresining namisly. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:156
+Briseno is a basrer. The work of a senficer is pesitlelling sonozously. Persinger is a senficer. Moscoso is a chopher. The work of a basrer is ecroviding vergadously. Telles is a byeeper. The work of a chopher is dernfewing geneurifily. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:157
+Musselman is a wairer. The work of a bareer is exmeting coenoguly. The work of a camsciater is momdresining namisly. Scurlock is a goster. The work of a wairer is fecting teinly. Fetter is a bareer. Ledford is a camsciater. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:158
+Bremner is a basrer. The work of a refever is clerarating degly. The work of a vegeer is mexing contolly. Hutsell is a goster. Hursey is a vegeer. Swope is a refever. The work of a basrer is ecroviding vergadously. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:159
+Cambridge is an oducer. The work of a bareer is exmeting coenoguly. Amstutz is a turter. The work of a mamser is slimbing murstly. Gautreaux is a bareer. The work of a turter is nolcaplating birjuly. The work of an oducer is dunounding sacanothely. Brzozowski is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:160
+Geoghegan is a byeeper. The work of a basrer is ecroviding vergadously. The work of a remaller is socring clatodemnly. Carruth is a camsciater. Brenes is a basrer. The work of a camsciater is momdresining namisly. The work of a byeeper is galmaunting induancingly. Stockstill is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:161
+Ammerman is a cabbier. Troncoso is a bareer. Fetters is a camsciater. The work of a camsciater is momdresining namisly. The work of a bareer is exmeting coenoguly. Kok is a lifiber. The work of a cabbier is kexing eughly. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:162
+The work of a wairer is fecting teinly. The work of a turter is nolcaplating birjuly. Harner is a turter. Swenson is a wairer. The work of an ifler is noefeicing kisly. Graybill is a lifiber. Branco is an ifler. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:163
+Colosimo is a popesmer. The work of a byeeper is galmaunting induancingly. The work of a turter is nolcaplating birjuly. Vanegas is a turter. Burtch is a byeeper. The work of an ifler is noefeicing kisly. Causey is an ifler. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:164
+Skoglund is a turter. The work of a lifiber is divolving accily. Goodpaster is a lifiber. The work of a turter is nolcaplating birjuly. Colombo is a basrer. The work of an ifler is noefeicing kisly. The work of a basrer is ecroviding vergadously. Cunningham is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:165
+Capehart is an isittequander. Lightner is a wairer. The work of a goster is drospiancing ghordly. The work of a wairer is fecting teinly. Zellers is a goster. The work of a conper is juabeing klaierly. The work of an isittequander is feaising rohopply. Zuniga is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:166
+Towns is a cabbier. Wingert is a goster. The work of a goster is drospiancing ghordly. The work of a cabbier is kexing eughly. The work of a basrer is ecroviding vergadously. Piedra is a basrer. The work of a byeeper is galmaunting induancingly. Crow is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:167
+The work of a byeeper is galmaunting induancingly. Auxier is a refever. Hanner is a byeeper. Bailes is a chopher. The work of a mamser is slimbing murstly. Tsao is a mamser. The work of a chopher is dernfewing geneurifily. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:168
+The work of a basrer is ecroviding vergadously. The work of a remaller is socring clatodemnly. Cassella is a remaller. Pellegrin is a byeeper. Lampkin is a mamser. The work of a mamser is slimbing murstly. Newhart is a basrer. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:169
+Pitcock is a byeeper. The work of a goster is drospiancing ghordly. The work of a byeeper is galmaunting induancingly. The work of a refever is clerarating degly. Chmielewski is a goster. The work of a camsciater is momdresining namisly. Facey is a refever. Springer is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:170
+The work of an oducer is dunounding sacanothely. Emmons is a wairer. The work of a camsciater is momdresining namisly. Munger is a camsciater. The work of a popesmer is chodoling larely. Annis is a popesmer. Strausbaugh is an oducer. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:171
+Bufford is a conper. The work of a goster is drospiancing ghordly. The work of a conper is juabeing klaierly. Botello is a goster. The work of a byeeper is galmaunting induancingly. Whittenburg is a chopher. The work of a chopher is dernfewing geneurifily. Dodd is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:172
+Mccumber is a senficer. Nuttall is an ifler. The work of a senficer is pesitlelling sonozously. The work of a basrer is ecroviding vergadously. Melendrez is a basrer. Holleman is a bareer. The work of a bareer is exmeting coenoguly. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:173
+The work of a conper is juabeing klaierly. The work of a chopher is dernfewing geneurifily. The work of a vegeer is mexing contolly. Fazekas is a chopher. Olivera is a vegeer. Patchen is a conper. Coster is an ifler. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:174
+Labounty is a mamser. The work of a byeeper is galmaunting induancingly. Blanford is a cabbier. The work of a cabbier is kexing eughly. Sustaita is a basrer. The work of a mamser is slimbing murstly. Phan is a byeeper. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:175
+Abels is a bareer. The work of an oducer is dunounding sacanothely. The work of a wairer is fecting teinly. Walz is a refever. Chirinos is a wairer. Rogel is an oducer. The work of a refever is clerarating degly. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:176
+The work of a senficer is pesitlelling sonozously. The work of an oducer is dunounding sacanothely. Sallee is an ifler. Charest is a mamser. The work of an ifler is noefeicing kisly. Deel is a senficer. Felker is an oducer. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:177
+The work of a turter is nolcaplating birjuly. The work of a byeeper is galmaunting induancingly. The work of an isittequander is feaising rohopply. Baughman is an isittequander. Brown is a turter. Belizaire is a byeeper. Aranda is a wairer. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:178
+The work of a lifiber is divolving accily. Zehner is a bareer. Bonn is a camsciater. Dancy is a chopher. The work of a camsciater is momdresining namisly. Serratos is a lifiber. The work of a bareer is exmeting coenoguly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:179
+The work of a conper is juabeing klaierly. Soules is a chopher. The work of a lifiber is divolving accily. Montesino is a conper. The work of a chopher is dernfewing geneurifily. Marchant is a bareer. The work of a bareer is exmeting coenoguly. Velazquez is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:180
+The work of an oducer is dunounding sacanothely. Galli is an oducer. Chism is a camsciater. The work of a remaller is socring clatodemnly. The work of a mamser is slimbing murstly. Blumberg is a remaller. Martens is a mamser. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:181
+The work of a wairer is fecting teinly. The work of an oducer is dunounding sacanothely. Dew is an oducer. The work of a bareer is exmeting coenoguly. The work of an isittequander is feaising rohopply. Fraga is an isittequander. Thrash is a bareer. Hipp is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:182
+The work of a byeeper is galmaunting induancingly. Weis is a basrer. The work of a refever is clerarating degly. Mclaughlin is a byeeper. Hinderliter is a lifiber. Moultrie is a refever. The work of a basrer is ecroviding vergadously. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:183
+The work of a popesmer is chodoling larely. Posada is a cabbier. Schrock is a mamser. The work of a goster is drospiancing ghordly. Spurlock is a popesmer. Ruano is a goster. The work of a cabbier is kexing eughly. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:184
+The work of a lifiber is divolving accily. The work of an oducer is dunounding sacanothely. The work of a goster is drospiancing ghordly. Bonfiglio is a goster. Mckernan is a lifiber. Hymel is a cabbier. Humphrey is an oducer. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:185
+Essary is a chopher. The work of a chopher is dernfewing geneurifily. The work of a senficer is pesitlelling sonozously. Jaynes is a goster. The work of a goster is drospiancing ghordly. Humble is an isittequander. Calfee is a senficer. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:186
+The work of a turter is nolcaplating birjuly. Mroz is a turter. Granville is a bareer. The work of a bareer is exmeting coenoguly. Fulks is a vegeer. The work of a vegeer is mexing contolly. Seay is an oducer. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:187
+The work of a cabbier is kexing eughly. The work of a remaller is socring clatodemnly. Profitt is a cabbier. Keown is an isittequander. The work of a refever is clerarating degly. Kruse is a remaller. Doucet is a refever. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:188
+The work of a cabbier is kexing eughly. The work of a turter is nolcaplating birjuly. Westfall is a turter. The work of a chopher is dernfewing geneurifily. Boatner is a chopher. The work of a popesmer is chodoling larely. Vanderlinden is a cabbier. Dudek is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:189
+The work of a conper is juabeing klaierly. The work of an oducer is dunounding sacanothely. Diggs is an isittequander. Laubach is a cabbier. The work of an isittequander is feaising rohopply. Difiore is a conper. Wanamaker is an oducer. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:190
+Deitch is a lifiber. Mannino is an isittequander. The work of a lifiber is divolving accily. The work of an isittequander is feaising rohopply. Oatman is an oducer. The work of a turter is nolcaplating birjuly. The work of an oducer is dunounding sacanothely. Rosado is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:191
+Bai is an oducer. The work of a goster is drospiancing ghordly. The work of a basrer is ecroviding vergadously. The work of an isittequander is feaising rohopply. Weissman is a basrer. Jeon is a goster. Class is an isittequander. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:192
+Grasso is a turter. Conger is a basrer. The work of a remaller is socring clatodemnly. The work of a turter is nolcaplating birjuly. The work of a cabbier is kexing eughly. Grund is a cabbier. The work of a basrer is ecroviding vergadously. Piscitelli is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:193
+Fenstermacher is a mamser. Dunkley is a turter. The work of a senficer is pesitlelling sonozously. The work of a turter is nolcaplating birjuly. The work of a byeeper is galmaunting induancingly. The work of a mamser is slimbing murstly. Kok is a byeeper. Callis is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:194
+Engles is a refever. The work of a refever is clerarating degly. The work of a lifiber is divolving accily. Waltman is a lifiber. The work of a senficer is pesitlelling sonozously. Sarkissian is a chopher. The work of a chopher is dernfewing geneurifily. Stuber is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:195
+The work of a byeeper is galmaunting induancingly. Reichel is a senficer. Alcott is a mamser. Rolle is a byeeper. The work of an ifler is noefeicing kisly. Hardrick is an ifler. The work of a mamser is slimbing murstly. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:196
+Backman is a vegeer. The work of an oducer is dunounding sacanothely. The work of a popesmer is chodoling larely. Latiolais is a popesmer. Algarin is an oducer. Waugh is a cabbier. The work of a vegeer is mexing contolly. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:197
+Dew is a goster. Villa is an isittequander. Bevilacqua is a senficer. The work of a senficer is pesitlelling sonozously. The work of a lifiber is divolving accily. The work of an isittequander is feaising rohopply. The work of a goster is drospiancing ghordly. Bolyard is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:198
+The work of a mamser is slimbing murstly. Rumph is a remaller. Theobald is a byeeper. Rayas is a lifiber. The work of a remaller is socring clatodemnly. The work of a byeeper is galmaunting induancingly. Fogel is a mamser. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:199
+The work of a cabbier is kexing eughly. The work of an ifler is noefeicing kisly. Russo is a remaller. Kirkwood is a cabbier. Wight is an ifler. The work of an isittequander is feaising rohopply. The work of a remaller is socring clatodemnly. Arizmendi is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:200
+Ofarrell is a goster. Villanueva is a cabbier. The work of an ifler is noefeicing kisly. The work of a goster is drospiancing ghordly. The work of a cabbier is kexing eughly. Ore is an ifler. The work of a chopher is dernfewing geneurifily. Cupp is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:201
+The work of a mamser is slimbing murstly. Mcadam is a bareer. The work of a bareer is exmeting coenoguly. Peplinski is a mamser. The work of a refever is clerarating degly. Sias is a vegeer. The work of a vegeer is mexing contolly. Handel is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:202
+The work of an isittequander is feaising rohopply. The work of a refever is clerarating degly. Pellot is a refever. Martens is a turter. Frasca is an isittequander. The work of a chopher is dernfewing geneurifily. The work of a turter is nolcaplating birjuly. Cawley is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:203
+The work of a turter is nolcaplating birjuly. Darlington is a camsciater. The work of a camsciater is momdresining namisly. Gassaway is a refever. The work of a refever is clerarating degly. Farquhar is a basrer. Calzada is a turter. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:204
+Depriest is a conper. The work of an ifler is noefeicing kisly. Crisp is an ifler. Boutte is a bareer. The work of a vegeer is mexing contolly. The work of a bareer is exmeting coenoguly. Longstreet is a vegeer. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:205
+The work of a goster is drospiancing ghordly. The work of an ifler is noefeicing kisly. Waltman is a turter. The work of a turter is nolcaplating birjuly. Timmons is an ifler. Kuchta is a chopher. Haag is a goster. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:206
+The work of a basrer is ecroviding vergadously. Fischbach is a basrer. Rogel is a chopher. Ostler is a refever. The work of a senficer is pesitlelling sonozously. The work of a chopher is dernfewing geneurifily. The work of a refever is clerarating degly. Harton is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:207
+Matheney is a vegeer. Borgen is a camsciater. The work of a vegeer is mexing contolly. The work of an isittequander is feaising rohopply. The work of a camsciater is momdresining namisly. The work of a cabbier is kexing eughly. Padua is a cabbier. Holloway is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:208
+The work of a chopher is dernfewing geneurifily. The work of a cabbier is kexing eughly. Holleran is a remaller. The work of a remaller is socring clatodemnly. Sollars is a wairer. Denning is a chopher. Houck is a cabbier. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:209
+The work of a wairer is fecting teinly. Altizer is a remaller. Laub is a wairer. Chavarria is a basrer. The work of a basrer is ecroviding vergadously. The work of a remaller is socring clatodemnly. The work of a turter is nolcaplating birjuly. Darrow is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:210
+Lancaster is a lifiber. The work of an oducer is dunounding sacanothely. The work of a mamser is slimbing murstly. Orr is an oducer. Booher is a mamser. The work of a lifiber is divolving accily. Jaynes is a refever. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:211
+Polley is an oducer. The work of an oducer is dunounding sacanothely. Luevano is a cabbier. Zimmer is a chopher. The work of a chopher is dernfewing geneurifily. Spikes is an ifler. The work of a cabbier is kexing eughly. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:212
+Scruggs is a remaller. The work of a bareer is exmeting coenoguly. The work of a refever is clerarating degly. Cardona is a bareer. The work of a popesmer is chodoling larely. The work of a remaller is socring clatodemnly. Veres is a popesmer. Pals is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:213
+The work of a goster is drospiancing ghordly. The work of an isittequander is feaising rohopply. Siguenza is a conper. The work of a camsciater is momdresining namisly. The work of a conper is juabeing klaierly. Metoyer is a camsciater. Battista is a goster. Broad is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:214
+Nock is a goster. Ferrara is a senficer. Lamotte is a chopher. The work of a goster is drospiancing ghordly. The work of a senficer is pesitlelling sonozously. Straka is a wairer. The work of a wairer is fecting teinly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:215
+The work of an oducer is dunounding sacanothely. Godinez is an isittequander. The work of a basrer is ecroviding vergadously. Bilderback is an oducer. The work of a conper is juabeing klaierly. Marrone is a basrer. The work of an isittequander is feaising rohopply. Mccarver is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:216
+The work of an isittequander is feaising rohopply. The work of a conper is juabeing klaierly. The work of a cabbier is kexing eughly. The work of a popesmer is chodoling larely. Fontanez is a conper. Eisner is an isittequander. Kiesling is a popesmer. Armijo is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:217
+Runion is a camsciater. Wooldridge is a basrer. Balbuena is a senficer. The work of a cabbier is kexing eughly. Monjaras is a cabbier. The work of a senficer is pesitlelling sonozously. The work of a basrer is ecroviding vergadously. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:218
+The work of a chopher is dernfewing geneurifily. The work of a turter is nolcaplating birjuly. Wager is a turter. The work of a lifiber is divolving accily. Luevano is a lifiber. Warfield is a byeeper. Pisani is a chopher. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:219
+The work of a camsciater is momdresining namisly. The work of a remaller is socring clatodemnly. Tedder is a camsciater. The work of a refever is clerarating degly. The work of a basrer is ecroviding vergadously. Mcnew is a remaller. Dufour is a basrer. Mantooth is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:220
+Briceno is an ifler. The work of a remaller is socring clatodemnly. The work of a conper is juabeing klaierly. The work of a basrer is ecroviding vergadously. Cottone is a conper. Rahe is a basrer. Ton is a remaller. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:221
+The work of a camsciater is momdresining namisly. The work of a wairer is fecting teinly. Nowacki is a conper. Chatmon is a chopher. The work of a chopher is dernfewing geneurifily. Ohearn is a wairer. Finkbeiner is a camsciater. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:222
+Cobbs is a refever. The work of a remaller is socring clatodemnly. The work of a refever is clerarating degly. Segars is a popesmer. Lillard is a byeeper. The work of a byeeper is galmaunting induancingly. Quast is a remaller. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:223
+The work of a goster is drospiancing ghordly. Frechette is a goster. Grossi is a popesmer. The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Varela is a bareer. Pray is a basrer. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:224
+The work of a camsciater is momdresining namisly. The work of a popesmer is chodoling larely. The work of a vegeer is mexing contolly. Pittenger is a goster. Brenes is a popesmer. Kuster is a camsciater. The work of a goster is drospiancing ghordly. Mixson is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:225
+The work of an isittequander is feaising rohopply. Castellon is an oducer. The work of an oducer is dunounding sacanothely. Fitzhugh is an ifler. The work of an ifler is noefeicing kisly. Serafini is an isittequander. The work of a refever is clerarating degly. Vivanco is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:226
+The work of a byeeper is galmaunting induancingly. Selleck is a byeeper. Culbertson is a popesmer. The work of a bareer is exmeting coenoguly. The work of a lifiber is divolving accily. The work of a popesmer is chodoling larely. Cooksey is a lifiber. Perlman is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:227
+Donaldson is a refever. The work of an oducer is dunounding sacanothely. Furlow is a remaller. The work of a refever is clerarating degly. The work of a remaller is socring clatodemnly. The work of an isittequander is feaising rohopply. Sparacino is an isittequander. Brocato is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:228
+Pulaski is a mamser. Spruill is an ifler. The work of a lifiber is divolving accily. Caviness is a cabbier. The work of a mamser is slimbing murstly. The work of a cabbier is kexing eughly. Schaefer is a lifiber. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:229
+The work of a cabbier is kexing eughly. Goodin is an oducer. The work of a basrer is ecroviding vergadously. Berens is a vegeer. Kula is a basrer. The work of an oducer is dunounding sacanothely. Sobczak is a cabbier. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:230
+The work of a vegeer is mexing contolly. Bahena is a wairer. The work of a basrer is ecroviding vergadously. Bittinger is a goster. The work of a wairer is fecting teinly. Crow is a vegeer. Seidel is a basrer. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:231
+Loaiza is a popesmer. The work of a lifiber is divolving accily. Bunting is a vegeer. Loggins is a mamser. The work of a mamser is slimbing murstly. Newland is a lifiber. The work of a vegeer is mexing contolly. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:232
+Cuervo is a lifiber. The work of a bareer is exmeting coenoguly. Gerstein is a byeeper. The work of a basrer is ecroviding vergadously. The work of a byeeper is galmaunting induancingly. Hankey is a bareer. Lehrer is a basrer. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:233
+Kubik is a byeeper. The work of a byeeper is galmaunting induancingly. Ducote is a remaller. Couillard is a vegeer. The work of a remaller is socring clatodemnly. The work of a vegeer is mexing contolly. The work of a wairer is fecting teinly. Romans is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:234
+Santiesteban is a wairer. The work of a refever is clerarating degly. Canup is an oducer. The work of an oducer is dunounding sacanothely. The work of a wairer is fecting teinly. Brothers is a refever. The work of a mamser is slimbing murstly. Burrows is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:235
+Mazon is a basrer. Simard is a camsciater. The work of a camsciater is momdresining namisly. The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Garden is a popesmer. Testerman is a turter. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:236
+The work of a bareer is exmeting coenoguly. Rice is a bareer. The work of a basrer is ecroviding vergadously. The work of an ifler is noefeicing kisly. Parenti is an ifler. Blaylock is a lifiber. The work of a lifiber is divolving accily. Harrop is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:237
+The work of a goster is drospiancing ghordly. Suresh is a remaller. Wichman is a lifiber. Deming is a senficer. Blakemore is a goster. The work of a lifiber is divolving accily. The work of a remaller is socring clatodemnly. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:238
+Mcquaid is a vegeer. The work of a refever is clerarating degly. The work of a vegeer is mexing contolly. The work of a goster is drospiancing ghordly. The work of a mamser is slimbing murstly. Rappaport is a mamser. Merck is a refever. Mitzel is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:239
+Boomer is a lifiber. The work of a bareer is exmeting coenoguly. The work of a lifiber is divolving accily. Hamrick is a bareer. Nock is an ifler. The work of a byeeper is galmaunting induancingly. The work of an ifler is noefeicing kisly. Balke is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:240
+The work of a senficer is pesitlelling sonozously. Vanzant is a camsciater. The work of a wairer is fecting teinly. The work of a conper is juabeing klaierly. Talamantez is a wairer. Soto is a conper. The work of a camsciater is momdresining namisly. Shorts is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:241
+The work of an oducer is dunounding sacanothely. The work of a goster is drospiancing ghordly. Wichman is a refever. The work of an ifler is noefeicing kisly. The work of a refever is clerarating degly. Papadopoulos is an ifler. Hartle is a goster. Harton is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:242
+Bachelder is a conper. The work of a basrer is ecroviding vergadously. The work of a conper is juabeing klaierly. The work of a turter is nolcaplating birjuly. Delfin is a basrer. The work of a vegeer is mexing contolly. Climer is a vegeer. Barstow is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:243
+The work of a senficer is pesitlelling sonozously. Herron is a popesmer. Birney is an isittequander. Santamaria is a senficer. The work of a chopher is dernfewing geneurifily. Obanion is a chopher. The work of a popesmer is chodoling larely. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:244
+The work of a basrer is ecroviding vergadously. Fleischman is a bareer. The work of an oducer is dunounding sacanothely. Roop is a byeeper. The work of a bareer is exmeting coenoguly. The work of a byeeper is galmaunting induancingly. Garrity is a basrer. Tedeschi is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:245
+The work of a mamser is slimbing murstly. Haque is a chopher. The work of a camsciater is momdresining namisly. The work of a chopher is dernfewing geneurifily. Pacheco is a basrer. The work of a basrer is ecroviding vergadously. Agudelo is a mamser. Borquez is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:246
+The work of a refever is clerarating degly. The work of an oducer is dunounding sacanothely. Easterly is a cabbier. The work of a cabbier is kexing eughly. Motz is an ifler. Colucci is a refever. The work of an ifler is noefeicing kisly. Mager is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:247
+Rapp is a cabbier. The work of a senficer is pesitlelling sonozously. Pedroza is a byeeper. The work of a byeeper is galmaunting induancingly. Hoagland is a senficer. The work of a conper is juabeing klaierly. Selle is a conper. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:248
+Zaborowski is a mamser. Stock is a lifiber. The work of a lifiber is divolving accily. Stickley is a vegeer. The work of a vegeer is mexing contolly. The work of an isittequander is feaising rohopply. Batty is an isittequander. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:249
+Acker is a turter. The work of a popesmer is chodoling larely. The work of a bareer is exmeting coenoguly. The work of an isittequander is feaising rohopply. Fritch is an isittequander. Litten is a bareer. The work of a turter is nolcaplating birjuly. Apostol is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:250
+The work of an isittequander is feaising rohopply. Chino is an oducer. The work of an oducer is dunounding sacanothely. Dauria is a bareer. The work of a bareer is exmeting coenoguly. Mcentee is a turter. The work of a turter is nolcaplating birjuly. Cluff is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:251
+Spahn is a chopher. Salaam is a byeeper. The work of a byeeper is galmaunting induancingly. Jeansonne is a cabbier. The work of an oducer is dunounding sacanothely. Gause is an oducer. The work of a cabbier is kexing eughly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:252
+The work of a senficer is pesitlelling sonozously. Haner is a byeeper. The work of a refever is clerarating degly. The work of an oducer is dunounding sacanothely. The work of a byeeper is galmaunting induancingly. Schweiger is a refever. Keough is an oducer. Samaniego is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:253
+The work of a vegeer is mexing contolly. The work of an ifler is noefeicing kisly. Pendley is a mamser. The work of an oducer is dunounding sacanothely. Winsor is an oducer. Livermore is an ifler. Wolfer is a vegeer. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:254
+The work of an oducer is dunounding sacanothely. The work of a wairer is fecting teinly. The work of a mamser is slimbing murstly. Luczak is an oducer. Bonfiglio is a wairer. Caywood is a mamser. The work of an isittequander is feaising rohopply. Hymel is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:255
+The work of a goster is drospiancing ghordly. Haws is a popesmer. Nuccio is a conper. Mullican is a goster. The work of a vegeer is mexing contolly. Cutshall is a vegeer. The work of a conper is juabeing klaierly. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:256
+Heiser is a turter. The work of a camsciater is momdresining namisly. The work of a turter is nolcaplating birjuly. Lumpkins is a chopher. The work of a chopher is dernfewing geneurifily. Toothman is a camsciater. The work of a senficer is pesitlelling sonozously. Houlihan is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:257
+Goodlow is a conper. The work of a conper is juabeing klaierly. Fenley is a turter. The work of a turter is nolcaplating birjuly. Joiner is a refever. Fairfax is a goster. The work of a goster is drospiancing ghordly. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:258
+The work of an ifler is noefeicing kisly. The work of a popesmer is chodoling larely. Cipolla is a senficer. Ladner is a popesmer. The work of a senficer is pesitlelling sonozously. The work of a refever is clerarating degly. Hoel is a refever. Konieczny is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:259
+The work of a goster is drospiancing ghordly. Gurrola is a byeeper. Dreier is a refever. Yeary is a popesmer. Blatt is a goster. The work of a popesmer is chodoling larely. The work of a byeeper is galmaunting induancingly. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:260
+The work of a basrer is ecroviding vergadously. Hensel is a goster. Casperson is a mamser. Hawkes is a byeeper. The work of a byeeper is galmaunting induancingly. Peiffer is a basrer. The work of a goster is drospiancing ghordly. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:261
+The work of a senficer is pesitlelling sonozously. Rice is a conper. The work of a vegeer is mexing contolly. Plyler is a basrer. The work of a basrer is ecroviding vergadously. The work of a conper is juabeing klaierly. Sorg is a senficer. Chain is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:262
+Chaffin is a conper. The work of a refever is clerarating degly. The work of a bareer is exmeting coenoguly. Bufford is a refever. Arbuckle is a bareer. The work of an ifler is noefeicing kisly. Goodrich is an ifler. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:263
+Labounty is a wairer. Wild is a vegeer. The work of a vegeer is mexing contolly. Carbaugh is a popesmer. The work of a wairer is fecting teinly. Warfield is a turter. The work of a turter is nolcaplating birjuly. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:264
+Ebersole is a basrer. Hunley is an ifler. The work of an ifler is noefeicing kisly. The work of a byeeper is galmaunting induancingly. The work of a basrer is ecroviding vergadously. Cimino is a popesmer. Mcmillin is a byeeper. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:265
+Reinhold is a vegeer. Straka is a mamser. The work of a vegeer is mexing contolly. The work of a basrer is ecroviding vergadously. Morford is a basrer. The work of a mamser is slimbing murstly. The work of a senficer is pesitlelling sonozously. Covelli is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:266
+Weatherford is a turter. The work of a mamser is slimbing murstly. The work of a senficer is pesitlelling sonozously. Reddish is a senficer. The work of a camsciater is momdresining namisly. The work of a turter is nolcaplating birjuly. Castellon is a camsciater. Giardina is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:267
+The work of a turter is nolcaplating birjuly. The work of a bareer is exmeting coenoguly. Sorensen is a wairer. The work of a wairer is fecting teinly. Becher is an isittequander. Wadlington is a turter. Brisson is a bareer. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:268
+Reuter is an oducer. The work of an oducer is dunounding sacanothely. Eyre is a popesmer. Earley is a vegeer. Mchone is a senficer. The work of a senficer is pesitlelling sonozously. The work of a vegeer is mexing contolly. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:269
+Akey is a refever. Meyerson is a remaller. Varnum is a cabbier. The work of a remaller is socring clatodemnly. Painter is a conper. The work of a refever is clerarating degly. The work of a cabbier is kexing eughly. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:270
+The work of a turter is nolcaplating birjuly. Schiller is a conper. Gammage is a turter. Vuong is a goster. The work of a senficer is pesitlelling sonozously. The work of a conper is juabeing klaierly. The work of a goster is drospiancing ghordly. Mok is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:271
+Oberry is a goster. The work of a goster is drospiancing ghordly. Gaiser is a popesmer. The work of a popesmer is chodoling larely. The work of an isittequander is feaising rohopply. Ashcroft is a vegeer. The work of a vegeer is mexing contolly. Horvat is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:272
+The work of a turter is nolcaplating birjuly. The work of a cabbier is kexing eughly. The work of a wairer is fecting teinly. Delavega is a cabbier. Wulff is a mamser. Mccumber is a wairer. The work of a mamser is slimbing murstly. Buchan is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:273
+The work of a goster is drospiancing ghordly. The work of a camsciater is momdresining namisly. Luevano is a goster. Strayer is an isittequander. Lundell is a remaller. Vandergriff is a camsciater. The work of an isittequander is feaising rohopply. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:274
+Brownstein is an isittequander. The work of a mamser is slimbing murstly. The work of a remaller is socring clatodemnly. The work of an isittequander is feaising rohopply. The work of a goster is drospiancing ghordly. Ayer is a mamser. Orndorff is a remaller. Michalowski is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:275
+Damm is a senficer. Harrop is an isittequander. The work of a bareer is exmeting coenoguly. The work of a senficer is pesitlelling sonozously. The work of an isittequander is feaising rohopply. The work of an ifler is noefeicing kisly. Hoekstra is a bareer. Penson is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:276
+The work of a popesmer is chodoling larely. The work of an oducer is dunounding sacanothely. Bostic is a popesmer. The work of an isittequander is feaising rohopply. Mortensen is an oducer. Arceneaux is a bareer. The work of a bareer is exmeting coenoguly. Weigand is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:277
+Nez is a mamser. Cowger is a turter. The work of a turter is nolcaplating birjuly. Hurdle is an oducer. The work of an oducer is dunounding sacanothely. Stansfield is a vegeer. The work of a vegeer is mexing contolly. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:278
+The work of a senficer is pesitlelling sonozously. Raab is a senficer. The work of an ifler is noefeicing kisly. Cruikshank is an ifler. Mayoral is a vegeer. The work of a vegeer is mexing contolly. Ladd is a byeeper. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:279
+The work of a mamser is slimbing murstly. Fenwick is a lifiber. Vaquero is a popesmer. The work of a goster is drospiancing ghordly. Slough is a mamser. The work of a lifiber is divolving accily. Cosper is a goster. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:280
+The work of a remaller is socring clatodemnly. Mazzola is a refever. The work of a cabbier is kexing eughly. Pozos is a cabbier. Watterson is a camsciater. Plyler is a remaller. The work of a camsciater is momdresining namisly. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:281
+Lipp is a camsciater. The work of a camsciater is momdresining namisly. The work of a turter is nolcaplating birjuly. The work of a mamser is slimbing murstly. Pinales is a wairer. Mcfarlin is a mamser. Gerner is a turter. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:282
+The work of a remaller is socring clatodemnly. Rego is a refever. The work of a goster is drospiancing ghordly. The work of a camsciater is momdresining namisly. Muller is a remaller. The work of a refever is clerarating degly. Slavin is a goster. Zucker is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:283
+Pinckney is a senficer. The work of a popesmer is chodoling larely. Vancil is an ifler. Gehman is a basrer. The work of a senficer is pesitlelling sonozously. The work of a basrer is ecroviding vergadously. Sliva is a popesmer. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:284
+Hitt is a basrer. Mundt is a camsciater. Doshi is a remaller. The work of a camsciater is momdresining namisly. The work of a remaller is socring clatodemnly. The work of a wairer is fecting teinly. The work of a basrer is ecroviding vergadously. Mitchem is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:285
+The work of a senficer is pesitlelling sonozously. Poisson is an ifler. The work of an ifler is noefeicing kisly. Necaise is a refever. The work of a byeeper is galmaunting induancingly. Labrie is a senficer. Zeman is a byeeper. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:286
+Villeda is a vegeer. Malecki is a conper. The work of a goster is drospiancing ghordly. The work of a vegeer is mexing contolly. Stabler is a remaller. Crochet is a goster. The work of a conper is juabeing klaierly. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:287
+Suter is a conper. The work of a vegeer is mexing contolly. The work of a conper is juabeing klaierly. The work of a basrer is ecroviding vergadously. The work of a lifiber is divolving accily. Vicari is a vegeer. Vines is a basrer. Archibeque is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:288
+The work of a byeeper is galmaunting induancingly. The work of a refever is clerarating degly. Foshee is an oducer. Riojas is a refever. Bolden is a byeeper. Mcswain is a turter. The work of an oducer is dunounding sacanothely. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:289
+The work of an oducer is dunounding sacanothely. Simpson is a lifiber. Valenciano is a chopher. The work of a lifiber is divolving accily. Guidroz is an oducer. The work of a senficer is pesitlelling sonozously. Gargano is a senficer. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:290
+The work of a byeeper is galmaunting induancingly. The work of a refever is clerarating degly. The work of an isittequander is feaising rohopply. The work of a camsciater is momdresining namisly. Woolbright is an isittequander. Olah is a refever. Schwenk is a camsciater. Pedrick is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:291
+The work of a basrer is ecroviding vergadously. The work of a remaller is socring clatodemnly. Paik is a remaller. The work of a mamser is slimbing murstly. The work of an ifler is noefeicing kisly. Bolling is a mamser. Mcdevitt is an ifler. Friday is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:292
+The work of a senficer is pesitlelling sonozously. Hutchinson is an isittequander. The work of an isittequander is feaising rohopply. Froman is a conper. The work of a conper is juabeing klaierly. Schuetz is a senficer. Gullo is a vegeer. The work of a vegeer is mexing contolly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:293
+Gravley is a chopher. Wigington is a wairer. The work of a byeeper is galmaunting induancingly. The work of a bareer is exmeting coenoguly. Barefoot is a bareer. Kisner is a byeeper. The work of a wairer is fecting teinly. The work of a chopher is dernfewing geneurifily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:294
+The work of a refever is clerarating degly. The work of a popesmer is chodoling larely. The work of a goster is drospiancing ghordly. Lees is a bareer. Hinman is a refever. Bartsch is a popesmer. The work of a bareer is exmeting coenoguly. Segura is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:295
+Rozelle is an ifler. The work of an isittequander is feaising rohopply. The work of a turter is nolcaplating birjuly. Enfield is a turter. Mullenix is a goster. The work of a goster is drospiancing ghordly. The work of an ifler is noefeicing kisly. Thiede is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:296
+The work of a basrer is ecroviding vergadously. The work of a lifiber is divolving accily. Twiggs is a mamser. Peden is a basrer. The work of a vegeer is mexing contolly. Betancourt is a lifiber. Rossignol is a vegeer. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:297
+Barnhouse is an ifler. Stainbrook is a conper. The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Record is a basrer. The work of a conper is juabeing klaierly. Taranto is a popesmer. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:298
+Lampley is a goster. The work of a goster is drospiancing ghordly. Rothermel is a camsciater. The work of a camsciater is momdresining namisly. The work of a byeeper is galmaunting induancingly. Matzke is an ifler. Engles is a byeeper. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:299
+The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. The work of a goster is drospiancing ghordly. Mitchum is a basrer. Rondon is a turter. Tuttle is a popesmer. Horan is a goster. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:300
+The work of a conper is juabeing klaierly. Willner is a senficer. The work of a cabbier is kexing eughly. Karst is a conper. Madera is a cabbier. Silvers is a bareer. The work of a senficer is pesitlelling sonozously. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:301
+Lashley is a lifiber. The work of a vegeer is mexing contolly. Scheller is a popesmer. Mcclurg is a chopher. Ugalde is a vegeer. The work of a lifiber is divolving accily. The work of a chopher is dernfewing geneurifily. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:302
+The work of a wairer is fecting teinly. The work of a camsciater is momdresining namisly. Trejo is a lifiber. Calzada is a camsciater. Cuervo is a wairer. Marcum is a remaller. The work of a remaller is socring clatodemnly. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:303
+Bosquez is a senficer. Antle is a chopher. The work of a senficer is pesitlelling sonozously. Waterbury is a vegeer. The work of a chopher is dernfewing geneurifily. The work of a vegeer is mexing contolly. The work of a byeeper is galmaunting induancingly. Scarboro is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:304
+Som is an isittequander. Spang is a refever. The work of a refever is clerarating degly. The work of an isittequander is feaising rohopply. The work of a mamser is slimbing murstly. Saari is an oducer. Carrow is a mamser. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:305
+Riojas is a mamser. The work of a mamser is slimbing murstly. Shearer is a camsciater. The work of a lifiber is divolving accily. The work of a camsciater is momdresining namisly. Schwarz is a lifiber. The work of a bareer is exmeting coenoguly. Seeger is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:306
+The work of a cabbier is kexing eughly. The work of a conper is juabeing klaierly. The work of a turter is nolcaplating birjuly. The work of a vegeer is mexing contolly. Ogden is a conper. Crenshaw is a turter. Cornejo is a cabbier. Konieczny is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:307
+Reidy is an isittequander. Abercrombie is a lifiber. The work of a lifiber is divolving accily. The work of a conper is juabeing klaierly. The work of an isittequander is feaising rohopply. The work of a wairer is fecting teinly. Shrader is a conper. Barnhouse is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:308
+The work of a remaller is socring clatodemnly. Villeda is a senficer. The work of a bareer is exmeting coenoguly. The work of a senficer is pesitlelling sonozously. Calleros is a remaller. The work of a conper is juabeing klaierly. Belliveau is a conper. Marini is a bareer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:309
+Lynam is a lifiber. Phipps is a byeeper. The work of a byeeper is galmaunting induancingly. The work of a lifiber is divolving accily. The work of an isittequander is feaising rohopply. The work of an oducer is dunounding sacanothely. Moser is an oducer. Maier is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:310
+Rockhold is a popesmer. The work of a goster is drospiancing ghordly. The work of a camsciater is momdresining namisly. Horstmann is a turter. Choquette is a goster. The work of a popesmer is chodoling larely. Sokol is a camsciater. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:311
+The work of a goster is drospiancing ghordly. The work of a camsciater is momdresining namisly. Havener is a goster. Corby is a cabbier. Petrovic is a mamser. The work of a cabbier is kexing eughly. Jalbert is a camsciater. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:312
+Miyamoto is a senficer. Peek is a byeeper. The work of a refever is clerarating degly. Cosio is a refever. Paulsen is an isittequander. The work of a senficer is pesitlelling sonozously. The work of a byeeper is galmaunting induancingly. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:313
+The work of a lifiber is divolving accily. The work of an oducer is dunounding sacanothely. Jurgens is an oducer. Chaparro is a turter. Buckelew is a cabbier. Selle is a lifiber. The work of a turter is nolcaplating birjuly. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:314
+Wilkerson is a popesmer. The work of a turter is nolcaplating birjuly. The work of a goster is drospiancing ghordly. The work of a remaller is socring clatodemnly. Hatten is a goster. Ripp is a remaller. Wall is a turter. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:315
+The work of a remaller is socring clatodemnly. Lew is a remaller. The work of a mamser is slimbing murstly. Testerman is a mamser. The work of a basrer is ecroviding vergadously. Scala is a basrer. The work of a vegeer is mexing contolly. Hunsaker is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:316
+The work of a turter is nolcaplating birjuly. Maly is a senficer. Agostini is a turter. The work of a senficer is pesitlelling sonozously. Haskins is an isittequander. The work of an ifler is noefeicing kisly. Spotts is an ifler. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:317
+The work of a conper is juabeing klaierly. Uhl is a conper. The work of a basrer is ecroviding vergadously. Stockwell is a basrer. The work of an oducer is dunounding sacanothely. Favors is a wairer. The work of a wairer is fecting teinly. Goff is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:318
+Elsberry is a popesmer. The work of a popesmer is chodoling larely. Olvera is a bareer. Gustin is a chopher. The work of a bareer is exmeting coenoguly. Heffner is a cabbier. The work of a chopher is dernfewing geneurifily. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:319
+Manges is a wairer. Serratos is a mamser. Lawless is a bareer. The work of a wairer is fecting teinly. Alfieri is an oducer. The work of an oducer is dunounding sacanothely. The work of a bareer is exmeting coenoguly. The work of a mamser is slimbing murstly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:320
+Pellegrin is a senficer. The work of a senficer is pesitlelling sonozously. Seeman is a popesmer. The work of a popesmer is chodoling larely. Gengler is a vegeer. The work of a vegeer is mexing contolly. The work of a lifiber is divolving accily. Borgen is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:321
+Polley is a cabbier. The work of a cabbier is kexing eughly. Bajaj is a goster. Nurse is a conper. The work of a byeeper is galmaunting induancingly. Jaynes is a byeeper. The work of a conper is juabeing klaierly. The work of a goster is drospiancing ghordly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:322
+The work of a senficer is pesitlelling sonozously. The work of a camsciater is momdresining namisly. The work of a mamser is slimbing murstly. The work of a turter is nolcaplating birjuly. Emert is a turter. Eidson is a mamser. Tanksley is a camsciater. Slack is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:323
+The work of a byeeper is galmaunting induancingly. Tilson is a lifiber. Wofford is a byeeper. The work of a lifiber is divolving accily. Reimers is a mamser. The work of a mamser is slimbing murstly. The work of a conper is juabeing klaierly. Heimann is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:324
+Fordyce is a popesmer. Watters is a turter. Charest is a remaller. The work of a popesmer is chodoling larely. Millen is a cabbier. The work of a cabbier is kexing eughly. The work of a turter is nolcaplating birjuly. The work of a remaller is socring clatodemnly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:325
+Reinoso is a lifiber. The work of a cabbier is kexing eughly. Godoy is a goster. The work of a vegeer is mexing contolly. Peery is a cabbier. Longstreet is a vegeer. The work of a goster is drospiancing ghordly. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:326
+The work of an ifler is noefeicing kisly. The work of a mamser is slimbing murstly. The work of a turter is nolcaplating birjuly. The work of a byeeper is galmaunting induancingly. Coutu is a turter. Marten is an ifler. Blass is a mamser. Quayle is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:327
+Malhotra is a senficer. The work of a goster is drospiancing ghordly. Bradburn is a goster. Plyler is a basrer. The work of a mamser is slimbing murstly. The work of a basrer is ecroviding vergadously. Yarborough is a mamser. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:328
+The work of a camsciater is momdresining namisly. Solt is a cabbier. The work of a goster is drospiancing ghordly. The work of a cabbier is kexing eughly. Place is an isittequander. Wilken is a camsciater. Diener is a goster. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:329
+Fuchs is a remaller. The work of a mamser is slimbing murstly. Boulware is a wairer. The work of a remaller is socring clatodemnly. Gammons is a mamser. The work of a turter is nolcaplating birjuly. The work of a wairer is fecting teinly. Coviello is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:330
+The work of a bareer is exmeting coenoguly. The work of a lifiber is divolving accily. Boller is a lifiber. Crippen is a bareer. The work of an ifler is noefeicing kisly. Youn is a senficer. The work of a senficer is pesitlelling sonozously. Deas is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:331
+Riddell is a conper. The work of a conper is juabeing klaierly. The work of a vegeer is mexing contolly. The work of a goster is drospiancing ghordly. Armenta is a basrer. The work of a basrer is ecroviding vergadously. Deshields is a vegeer. Besaw is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:332
+Holsey is a camsciater. The work of a camsciater is momdresining namisly. The work of a basrer is ecroviding vergadously. Brocato is an isittequander. Kiehl is a basrer. The work of an isittequander is feaising rohopply. The work of an oducer is dunounding sacanothely. Rutan is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:333
+The work of a refever is clerarating degly. Camberos is a refever. The work of an isittequander is feaising rohopply. The work of a mamser is slimbing murstly. The work of a vegeer is mexing contolly. Eastham is a vegeer. Hackman is a mamser. Hoey is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:334
+The work of a wairer is fecting teinly. The work of a basrer is ecroviding vergadously. The work of a lifiber is divolving accily. Marquina is a camsciater. Cawley is a wairer. The work of a camsciater is momdresining namisly. Mcaninch is a lifiber. Threadgill is a basrer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:335
+Killeen is an oducer. The work of an oducer is dunounding sacanothely. Burbage is a byeeper. Bannister is a popesmer. Latona is a goster. The work of a byeeper is galmaunting induancingly. The work of a goster is drospiancing ghordly. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:336
+The work of a popesmer is chodoling larely. Hartsfield is a popesmer. The work of a lifiber is divolving accily. The work of a cabbier is kexing eughly. Seaton is a lifiber. Woodward is a cabbier. The work of a vegeer is mexing contolly. Niu is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:337
+Cobbs is a chopher. Grande is a turter. The work of a turter is nolcaplating birjuly. The work of a byeeper is galmaunting induancingly. The work of a mamser is slimbing murstly. Rochester is a byeeper. The work of a chopher is dernfewing geneurifily. Massengale is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:338
+Bayes is a wairer. The work of a wairer is fecting teinly. Summers is a cabbier. The work of a camsciater is momdresining namisly. The work of a cabbier is kexing eughly. The work of a bareer is exmeting coenoguly. Miltenberger is a bareer. Bettinger is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:339
+The work of a mamser is slimbing murstly. Sevigny is a mamser. The work of a lifiber is divolving accily. The work of a remaller is socring clatodemnly. Bordner is a remaller. Gorden is a wairer. Lock is a lifiber. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:340
+The work of a chopher is dernfewing geneurifily. Hudock is a vegeer. The work of a conper is juabeing klaierly. Wisniewski is a conper. French is a popesmer. The work of a popesmer is chodoling larely. The work of a vegeer is mexing contolly. Tardiff is a chopher.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:341
+Mcneil is a remaller. The work of a refever is clerarating degly. The work of a remaller is socring clatodemnly. Calles is a vegeer. Asmus is an oducer. The work of a vegeer is mexing contolly. The work of an oducer is dunounding sacanothely. Gandhi is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:342
+The work of a chopher is dernfewing geneurifily. Barile is a lifiber. The work of an isittequander is feaising rohopply. Baumbach is a chopher. The work of a lifiber is divolving accily. The work of a refever is clerarating degly. Horstmann is an isittequander. Kline is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:343
+The work of a lifiber is divolving accily. Roush is a popesmer. Feng is a senficer. Perdue is a wairer. The work of a wairer is fecting teinly. The work of a senficer is pesitlelling sonozously. Pita is a lifiber. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:344
+Levey is a popesmer. The work of a popesmer is chodoling larely. Leek is a remaller. The work of a remaller is socring clatodemnly. Sennett is an oducer. The work of an oducer is dunounding sacanothely. Morlock is a conper. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:345
+The work of a popesmer is chodoling larely. Brownell is a turter. Quinto is a goster. Wichman is a senficer. Adkins is a popesmer. The work of a goster is drospiancing ghordly. The work of a turter is nolcaplating birjuly. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:346
+The work of a senficer is pesitlelling sonozously. The work of a basrer is ecroviding vergadously. The work of a lifiber is divolving accily. Callis is a bareer. Schuetz is a basrer. Moscoso is a senficer. Hinnant is a lifiber. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:347
+Whitty is an oducer. Pence is a conper. The work of a conper is juabeing klaierly. The work of an ifler is noefeicing kisly. The work of an oducer is dunounding sacanothely. Mccool is a refever. Fortney is an ifler. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:348
+The work of a cabbier is kexing eughly. The work of a refever is clerarating degly. The work of a bareer is exmeting coenoguly. Kmetz is a refever. Nemitz is a cabbier. Loch is a bareer. The work of a popesmer is chodoling larely. Manthey is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:349
+The work of a vegeer is mexing contolly. Paiva is a lifiber. Lessard is an isittequander. The work of an isittequander is feaising rohopply. Whyte is a remaller. The work of a remaller is socring clatodemnly. The work of a lifiber is divolving accily. Bartley is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:350
+The work of a turter is nolcaplating birjuly. Yamaguchi is a goster. Boll is a byeeper. Schubert is a turter. Dupont is a camsciater. The work of a goster is drospiancing ghordly. The work of a byeeper is galmaunting induancingly. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:351
+Lemaster is a camsciater. The work of a senficer is pesitlelling sonozously. Mook is a senficer. The work of an isittequander is feaising rohopply. Cappiello is a bareer. The work of a bareer is exmeting coenoguly. Mcspadden is an isittequander. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:352
+Mroz is a turter. Palencia is an oducer. The work of a conper is juabeing klaierly. The work of a turter is nolcaplating birjuly. Coble is a conper. Throckmorton is an ifler. The work of an oducer is dunounding sacanothely. The work of an ifler is noefeicing kisly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:353
+Gillon is a chopher. Apostol is an isittequander. The work of a chopher is dernfewing geneurifily. Bandy is a mamser. The work of a mamser is slimbing murstly. The work of an isittequander is feaising rohopply. The work of a vegeer is mexing contolly. Vigil is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:354
+Munsey is a camsciater. Boardman is a conper. Steen is a senficer. Menz is an ifler. The work of a senficer is pesitlelling sonozously. The work of an ifler is noefeicing kisly. The work of a camsciater is momdresining namisly. The work of a conper is juabeing klaierly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:355
+The work of an oducer is dunounding sacanothely. The work of a mamser is slimbing murstly. Templeman is an ifler. Horn is a mamser. The work of a lifiber is divolving accily. The work of an ifler is noefeicing kisly. Lucchesi is an oducer. Galante is a lifiber.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:356
+Bolden is a senficer. Yamashita is an oducer. The work of a remaller is socring clatodemnly. Roop is a bareer. The work of a bareer is exmeting coenoguly. The work of a senficer is pesitlelling sonozously. The work of an oducer is dunounding sacanothely. Ehrlich is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:357
+Michelson is a popesmer. Hudgens is a vegeer. Radcliff is a basrer. Blatt is an oducer. The work of a popesmer is chodoling larely. The work of a vegeer is mexing contolly. The work of a basrer is ecroviding vergadously. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:358
+Hutsell is a cabbier. The work of a mamser is slimbing murstly. Whisler is a mamser. Conteh is a basrer. The work of a cabbier is kexing eughly. Choquette is a lifiber. The work of a lifiber is divolving accily. The work of a basrer is ecroviding vergadously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:359
+Waltman is a popesmer. Santamaria is a byeeper. The work of an ifler is noefeicing kisly. The work of a remaller is socring clatodemnly. The work of a byeeper is galmaunting induancingly. Filkins is an ifler. The work of a popesmer is chodoling larely. Dedeaux is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:360
+Giancola is a senficer. Culler is a conper. The work of a conper is juabeing klaierly. Lute is an isittequander. The work of a senficer is pesitlelling sonozously. The work of a refever is clerarating degly. The work of an isittequander is feaising rohopply. Hickson is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:361
+The work of a cabbier is kexing eughly. Martinson is an ifler. The work of an ifler is noefeicing kisly. Schaal is a turter. Winkle is a cabbier. The work of a turter is nolcaplating birjuly. The work of a conper is juabeing klaierly. Christensen is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:362
+Moton is an ifler. The work of an ifler is noefeicing kisly. The work of a cabbier is kexing eughly. Redman is a byeeper. The work of a bareer is exmeting coenoguly. The work of a byeeper is galmaunting induancingly. Ponder is a bareer. Miyamoto is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:363
+The work of a popesmer is chodoling larely. The work of a vegeer is mexing contolly. Yeater is a vegeer. The work of a turter is nolcaplating birjuly. Groth is an isittequander. The work of an isittequander is feaising rohopply. Dearing is a turter. Moultrie is a popesmer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:364
+Pavia is a basrer. Dias is a wairer. Boley is a popesmer. The work of a popesmer is chodoling larely. The work of a basrer is ecroviding vergadously. Hollenbeck is a chopher. The work of a chopher is dernfewing geneurifily. The work of a wairer is fecting teinly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:365
+The work of a wairer is fecting teinly. The work of a lifiber is divolving accily. The work of a vegeer is mexing contolly. The work of an oducer is dunounding sacanothely. Vacca is a lifiber. Goble is a vegeer. Barger is an oducer. Mayhew is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:366
+Heck is an isittequander. Gaudet is a goster. The work of an isittequander is feaising rohopply. The work of a goster is drospiancing ghordly. Downes is a chopher. Walz is a senficer. The work of a chopher is dernfewing geneurifily. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:367
+Mcmillon is a refever. Beaudette is an oducer. The work of a senficer is pesitlelling sonozously. The work of a refever is clerarating degly. Biller is a senficer. The work of an ifler is noefeicing kisly. The work of an oducer is dunounding sacanothely. Salvatierra is an ifler.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:368
+The work of an isittequander is feaising rohopply. The work of a conper is juabeing klaierly. Fenwick is a vegeer. Agee is an isittequander. The work of a vegeer is mexing contolly. Rosado is a bareer. Mcgough is a conper. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:369
+Mantilla is a remaller. The work of a camsciater is momdresining namisly. Mensch is a goster. The work of a goster is drospiancing ghordly. Claunch is a camsciater. The work of a remaller is socring clatodemnly. The work of an oducer is dunounding sacanothely. Likens is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:370
+The work of a turter is nolcaplating birjuly. The work of a mamser is slimbing murstly. Danaher is a refever. The work of a senficer is pesitlelling sonozously. Estes is a senficer. Havel is a mamser. The work of a refever is clerarating degly. Wadkins is a turter.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:371
+Garrow is a senficer. The work of a senficer is pesitlelling sonozously. Perea is a goster. The work of a goster is drospiancing ghordly. Millwood is an oducer. The work of a remaller is socring clatodemnly. The work of an oducer is dunounding sacanothely. Escarcega is a remaller.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:372
+Lopezmartinez is a senficer. Botero is a chopher. The work of a chopher is dernfewing geneurifily. The work of a senficer is pesitlelling sonozously. The work of a refever is clerarating degly. The work of an isittequander is feaising rohopply. Graybill is a refever. Stiner is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:373
+The work of a cabbier is kexing eughly. The work of a lifiber is divolving accily. The work of a conper is juabeing klaierly. The work of a vegeer is mexing contolly. Burkley is a lifiber. Ledgerwood is a conper. Hartzell is a cabbier. Rath is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:374
+The work of a turter is nolcaplating birjuly. The work of a senficer is pesitlelling sonozously. The work of a remaller is socring clatodemnly. Durfee is a remaller. The work of a wairer is fecting teinly. Record is a turter. Baucom is a senficer. Bonanno is a wairer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:375
+Zirkle is an ifler. Escalante is a senficer. The work of a basrer is ecroviding vergadously. The work of a senficer is pesitlelling sonozously. Houseman is a refever. Koski is a basrer. The work of an ifler is noefeicing kisly. The work of a refever is clerarating degly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:376
+The work of a senficer is pesitlelling sonozously. Malhotra is a senficer. The work of a popesmer is chodoling larely. Cichon is a camsciater. The work of a camsciater is momdresining namisly. Gazaway is a popesmer. The work of an isittequander is feaising rohopply. Carrizales is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:377
+Flannigan is a cabbier. The work of a refever is clerarating degly. The work of a bareer is exmeting coenoguly. Granville is a bareer. The work of a chopher is dernfewing geneurifily. Rice is a refever. Blumenthal is a chopher. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:378
+The work of a chopher is dernfewing geneurifily. The work of a mamser is slimbing murstly. The work of a popesmer is chodoling larely. Lemasters is a bareer. Kwong is a mamser. Monaco is a popesmer. Bunting is a chopher. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:379
+The work of a senficer is pesitlelling sonozously. Scheuerman is a conper. Mclaren is a remaller. Lietz is a senficer. The work of a byeeper is galmaunting induancingly. The work of a remaller is socring clatodemnly. The work of a conper is juabeing klaierly. Manzano is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:380
+Curtin is a turter. Kocsis is a wairer. The work of a wairer is fecting teinly. The work of a turter is nolcaplating birjuly. The work of a bareer is exmeting coenoguly. Liddell is a bareer. The work of a vegeer is mexing contolly. Quackenbush is a vegeer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:381
+Gerdes is a cabbier. The work of a senficer is pesitlelling sonozously. The work of a byeeper is galmaunting induancingly. Alcott is a senficer. The work of a cabbier is kexing eughly. Houlihan is a byeeper. Allard is a popesmer. The work of a popesmer is chodoling larely.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:382
+Hammes is a bareer. The work of a vegeer is mexing contolly. Fried is a cabbier. The work of a cabbier is kexing eughly. Hensel is a vegeer. The work of a chopher is dernfewing geneurifily. France is a chopher. The work of a bareer is exmeting coenoguly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:383
+The work of a mamser is slimbing murstly. The work of a bareer is exmeting coenoguly. Bilderback is a bareer. The work of a goster is drospiancing ghordly. Talkington is a chopher. Cannady is a goster. The work of a chopher is dernfewing geneurifily. Crisp is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:384
+The work of a goster is drospiancing ghordly. Millwood is a goster. Roane is a byeeper. The work of a byeeper is galmaunting induancingly. Gragg is a remaller. The work of a refever is clerarating degly. The work of a remaller is socring clatodemnly. Hansard is a refever.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:385
+The work of a conper is juabeing klaierly. The work of a cabbier is kexing eughly. The work of a remaller is socring clatodemnly. See is a senficer. The work of a senficer is pesitlelling sonozously. Mccalister is a remaller. Sickler is a cabbier. Bevilacqua is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:386
+Blanford is an oducer. The work of a mamser is slimbing murstly. Taube is an isittequander. The work of an oducer is dunounding sacanothely. Beaudoin is a popesmer. The work of a popesmer is chodoling larely. The work of an isittequander is feaising rohopply. Krogman is a mamser.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:387
+The work of a goster is drospiancing ghordly. Mejias is a goster. Raabe is a lifiber. The work of an isittequander is feaising rohopply. The work of a camsciater is momdresining namisly. The work of a lifiber is divolving accily. Horta is a camsciater. Loo is an isittequander.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:388
+Finnerty is a camsciater. The work of a camsciater is momdresining namisly. The work of a refever is clerarating degly. Chirinos is a refever. Kelm is a turter. The work of a turter is nolcaplating birjuly. Mah is a cabbier. The work of a cabbier is kexing eughly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:389
+The work of a basrer is ecroviding vergadously. Lorusso is a bareer. The work of a bareer is exmeting coenoguly. Mccutcheon is a basrer. The work of a cabbier is kexing eughly. The work of a wairer is fecting teinly. Condit is a wairer. Mccarron is a cabbier.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:390
+The work of a bareer is exmeting coenoguly. The work of an ifler is noefeicing kisly. Steger is a bareer. Canady is an ifler. The work of a turter is nolcaplating birjuly. Copple is a turter. Laufer is a lifiber. The work of a lifiber is divolving accily.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:391
+The work of a goster is drospiancing ghordly. The work of a conper is juabeing klaierly. The work of a chopher is dernfewing geneurifily. Falco is a chopher. The work of a byeeper is galmaunting induancingly. Som is a byeeper. Myatt is a conper. Westgate is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:392
+The work of a senficer is pesitlelling sonozously. The work of a turter is nolcaplating birjuly. Purifoy is a turter. Cornwell is a goster. Hines is a senficer. The work of a goster is drospiancing ghordly. The work of a conper is juabeing klaierly. Witte is a conper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:393
+The work of a senficer is pesitlelling sonozously. Balla is a lifiber. The work of a conper is juabeing klaierly. Prabhu is a goster. Dunaway is a conper. The work of a lifiber is divolving accily. The work of a goster is drospiancing ghordly. Hodnett is a senficer.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:394
+The work of a mamser is slimbing murstly. The work of an oducer is dunounding sacanothely. The work of a bareer is exmeting coenoguly. Fellers is a mamser. Kerns is an oducer. Haddock is a senficer. Greenwell is a bareer. The work of a senficer is pesitlelling sonozously.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:395
+Knopf is a popesmer. Horta is a byeeper. Woodfin is an isittequander. The work of a basrer is ecroviding vergadously. The work of a popesmer is chodoling larely. Alarcon is a basrer. The work of a byeeper is galmaunting induancingly. The work of an isittequander is feaising rohopply.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:396
+The work of a byeeper is galmaunting induancingly. Hise is a turter. The work of a cabbier is kexing eughly. The work of a basrer is ecroviding vergadously. Tice is a cabbier. Lubbers is a byeeper. Dinkel is a basrer. The work of a turter is nolcaplating birjuly.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:397
+Degen is a mamser. The work of a basrer is ecroviding vergadously. The work of a mamser is slimbing murstly. Mundell is a basrer. The work of an isittequander is feaising rohopply. Wilfong is an isittequander. The work of a byeeper is galmaunting induancingly. Mahr is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:398
+Brickman is a turter. The work of a wairer is fecting teinly. The work of a turter is nolcaplating birjuly. Demps is an isittequander. The work of an isittequander is feaising rohopply. Huff is a wairer. The work of a goster is drospiancing ghordly. Lapoint is a goster.
+
+kitmus/background-inference-charfict-charfict/subtask_4_ents/knowledge-text-only/validation:399
+Fisch is a mamser. The work of a conper is juabeing klaierly. The work of a popesmer is chodoling larely. The work of an oducer is dunounding sacanothely. Halpern is a conper. The work of a mamser is slimbing murstly. Mash is an oducer. Manzo is a popesmer.

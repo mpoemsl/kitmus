@@ -1,0 +1,1199 @@
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:0
+Cadwell, Tolliver, and Brannock connected at the bike tour. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:1
+At the bike tour, Therrien, Owsley, and Harter bumped into each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:2
+At the garden, Marceau, Degroot, and Martone ran into each other. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:3
+At the evening language class, Glasco, Doggett, and Dabbs ran into each other. She told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:4
+At the grocery store, Sindelar, Dau, and Munroe ran into each other. He told anecdotes from a career of working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:5
+Everts, Sartori, and Summerfield connected at the hotel. He was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:6
+At the crossfit class, Bard, Dahms, and Necaise bumped into each other. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:7
+Sensenig, Mentzer, and Patnode started a conversation at the park. They told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:8
+Aispuro, Fansler, and Sherer started a conversation at the party. He was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:9
+Bodnar, Happel, and Moxley connected at the evening language class. When a question related to overseeing the management of executives' calendars and travel arrangements arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:10
+At the sports bar, Shumaker, Weisberg, and Schrum connected. When a question related to taking photos professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:11
+At the theater festival, Ballou, Marmol, and Priebe bumped into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:12
+At the trivia night, Putnam, Loya, and Gremillion connected. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:13
+At the design expo, Leiser, Eastridge, and Acevedo bumped into each other. She was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:14
+At the partner dancing classes, Margolis, Nayak, and Alvord ran into each other. Ey was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:15
+Goodnight, Rachal, and Stice started a conversation at the sports bar. Ey told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:16
+Dippel, Ferrill, and Sabo started a conversation at the theater festival. When a question related to working with the money and accounts of a company arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:17
+At the book store, Strouse, Boggs, and Elsayed ran into each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:18
+At the party, Minnis, Mcclung, and Oman bumped into each other. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:19
+At the cafe, Killam, Atwood, and Mckinnis ran into each other. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:20
+At the garden, Saetern, Folger, and Landau ran into each other. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:21
+Rusnak, Turnage, and Bouley started a conversation at the alumni event. When a question related to acting in a play or a movie arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:22
+Grau, Strack, and Mcquinn started a conversation at the food co-op. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:23
+Dossantos, Isler, and Vankirk started a conversation at the art expo. When a question related to working with the money and accounts of a company arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:24
+Markey, Dau, and Dewees connected at the communal dining restaurant. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:25
+Morey, Lietz, and Glowacki started a conversation at the train. When a question related to managing people in a company arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:26
+At the specialty retail store, Garrigan, Spray, and Barros ran into each other. When a question related to writing books or novels professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:27
+At the yoga class, Czerwinski, Gallup, and Poling bumped into each other. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:28
+Estabrook, Suzuki, and Moody connected at the piano class. She was relieved to unwind after a demanding day at work cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:29
+Maniscalco, Stamm, and Emert started a conversation at the public park. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:30
+Feller, Gallardo, and Coke connected at the bike tour. She told anecdotes from a career of taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:31
+At the dog park, Carrier, Stalker, and Blancas bumped into each other. Ey told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:32
+At the bar, Grondin, Geist, and Middaugh connected. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:33
+Schmit, Hutchinson, and Cuthbertson connected at the photography class. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:34
+Rast, Tasker, and Wile started a conversation at the specialty retail store. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:35
+At the cafe, Burgard, Tung, and Bateman connected. When a question related to writing books or novels professionally arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:36
+Swett, Danielson, and Binkley connected at the bar crawl. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:37
+At the specialty retail store, Halligan, Spiess, and Ormond bumped into each other. When a question related to growing and selling flowers arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:38
+At the specialty retail store, Hallmark, Hand, and Bettinger bumped into each other. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:39
+Hambleton, Toomey, and Backus connected at the retreat. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:40
+At the photography class, Money, Kaminski, and Easterwood ran into each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:41
+At the food court, Brasel, Larrison, and Wood ran into each other. He was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:42
+Blose, Boggs, and Degraw started a conversation at the theater festival. She was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:43
+Zavala, Molloy, and Poplawski started a conversation at the museum tour. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:44
+At the sports bar, Stiefel, Meis, and Watrous bumped into each other. He was relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:45
+Hardwick, Sarabia, and Linneman started a conversation at the crossfit class. When a question related to unpacking merchandise when it arrives at the warehouse arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:46
+Damico, Renfrow, and Conard connected at the food court. He told anecdotes from a career of working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:47
+Necaise, Schoenfeld, and Greenbaum connected at the dog park. When a question related to catching and selling fish arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:48
+At the party, Bourne, Zabala, and Gaudet ran into each other. When a question related to putting out fires arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:49
+Straw, Castilleja, and Moton connected at the bike tour. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:50
+Ahrens, Armstead, and Weatherwax started a conversation at the evening language class. When a question related to catching and selling fish arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:51
+At the bike tour, Botta, Callihan, and Letendre bumped into each other. When a question related to reading and reporting the news on television arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:52
+Riccardi, Shanahan, and Biddle connected at the trivia night. When a question related to making things from wood including houses and furniture arose, ey offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:53
+At the yoga class, Hayles, Viray, and Wink connected. She told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:54
+At the yoga class, Ussery, Ratley, and Borrero ran into each other. She told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:55
+At the park, Gallaway, Dunham, and Burdine connected. When a question related to reading and reporting the news on television arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:56
+At the yoga class, Dukes, Hartnett, and Littrell connected. She told anecdotes from a career of working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:57
+Manzella, Nimmo, and Leite started a conversation at the evening language class. Ze told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:58
+At the dog park, Parkman, Dube, and Swank connected. She was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:59
+Santora, Aycock, and Rust started a conversation at the bike tour. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:60
+At the wedding, Dougan, Knisley, and Waters connected. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:61
+Canipe, Carlino, and Sievert connected at the alumni event. When a question related to working with the money and accounts of a company arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:62
+Leasure, Dague, and Greenwald connected at the cafe. She was relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:63
+Towell, Gammage, and Perdomo started a conversation at the art expo. When a question related to putting out fires arose, ze offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:64
+At the bar crawl, Wetherbee, Kephart, and Isham ran into each other. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:65
+At the food and drink festival, Tsai, Bevilacqua, and Chmura bumped into each other. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:66
+At the theater festival, Willeford, Conatser, and Wirth ran into each other. He was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:67
+Schulman, Kleiman, and Ogle connected at the sports bar. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:68
+At the food court, Patt, Youngman, and Blunt ran into each other. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:69
+At the bike tour, Quayle, Buffington, and Rains ran into each other. They were relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:70
+Hagans, Landau, and Kass started a conversation at the bar crawl. They told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:71
+Rogel, Nawrocki, and Haji connected at the park. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:72
+At the bar crawl, Lemasters, Mcgee, and Alberson bumped into each other. He was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:73
+At the piano class, Pung, Melnick, and Faber bumped into each other. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:74
+At the sports bar, Polizzi, Maravilla, and Marble bumped into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:75
+At the public park, Whitted, Busby, and Feldmann bumped into each other. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:76
+At the retreat, Creasey, Blume, and Staab connected. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:77
+Digiacomo, Vidales, and Butt started a conversation at the alumni event. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:78
+At the book store, Hatt, Duong, and Kershner bumped into each other. When a question related to managing people in a company arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:79
+Ledgerwood, Polson, and Darwish connected at the park. He told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:80
+At the food court, Tarpley, Hammer, and Hetrick ran into each other. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:81
+Limon, Lai, and Ezzell connected at the public park. She told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:82
+At the park, Atienza, Dancy, and Naik bumped into each other. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:83
+Fowler, Kowalczyk, and Cowling connected at the dog park. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:84
+At the dog park, Barrientes, Laskey, and Shuler bumped into each other. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:85
+Endicott, Spivey, and Alamo started a conversation at the art expo. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:86
+At the wedding, Burleson, Wilkerson, and Akey ran into each other. When a question related to making things from wood including houses and furniture arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:87
+At the alumni event, Hooten, Wilt, and Overholt ran into each other. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:88
+At the photography class, Colmenares, Martone, and Bartley ran into each other. When a question related to writing books or novels professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:89
+At the party, Rondeau, Behan, and Perrine ran into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:90
+At the museum tour, Shilling, Sahagun, and Sunderland bumped into each other. She was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:91
+Orme, Linneman, and Ansell started a conversation at the partner dancing classes. When a question related to making money from selling land for development arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:92
+At the hotel, Koning, Worthy, and Borbon ran into each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:93
+At the art expo, Bookout, Hickle, and Veltri bumped into each other. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:94
+At the train, Adkinson, Schmitt, and Hackler ran into each other. He was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:95
+Munn, Meads, and Peifer started a conversation at the retreat. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:96
+At the communal dining restaurant, Svendsen, Sappington, and Forehand ran into each other. Ey told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:97
+At the public park, Stroh, Younts, and Delcarmen bumped into each other. She told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:98
+At the garden, Maysonet, Hoisington, and Charboneau ran into each other. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:99
+At the book store, Thiel, Grubb, and Mosquera ran into each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:100
+At the partner dancing classes, Ancheta, Kanagy, and Mumm connected. They told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:101
+At the food co-op, Barranco, Sever, and Ormsby bumped into each other. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:102
+At the yoga class, Venters, Sandberg, and Wunder connected. She was relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:103
+Goel, Romer, and Avallone started a conversation at the alumni event. He was relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:104
+At the hotel, Koon, Caddell, and Burney connected. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:105
+At the flea market, Goggans, Works, and Halter ran into each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:106
+At the alumni event, Mcgeehan, Bourque, and Ormond bumped into each other. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:107
+Gantt, Michelson, and Nottingham started a conversation at the public transport. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:108
+Glennon, Ashlock, and Rimer started a conversation at the food and drink festival. Ey told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:109
+At the bike tour, Qin, Selleck, and Delagarza bumped into each other. When a question related to acting in a play or a movie arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:110
+Mooneyham, Driskill, and Foerster started a conversation at the yoga class. When a question related to putting out fires arose, ze offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:111
+At the art expo, Woodall, Leinbach, and Pillar bumped into each other. When a question related to cleaning and maintaining buildings professionally arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:112
+Kitchens, Wilkie, and Fallis connected at the dog park. They told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:113
+Spalding, Perezhernandez, and Kreitzer connected at the food court. They were relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:114
+At the park, Bunge, Dargan, and Schrecengost connected. She was relieved to unwind after a demanding day at work working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:115
+At the bike tour, Mccrady, Choquette, and Kull bumped into each other. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:116
+At the yoga class, Bains, Mitchem, and Fajardo connected. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:117
+Donoho, Dusek, and Fredericksen started a conversation at the crossfit class. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:118
+At the park, Urich, Vine, and Fasano bumped into each other. He told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:119
+At the yoga class, Falzone, Chapa, and Gleaton connected. He was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:120
+At the art expo, Plowman, Thieme, and Horst bumped into each other. She was relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:121
+At the wedding, Gallant, Brose, and Ingles bumped into each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:122
+At the public park, Lucarelli, Cueva, and Drozd bumped into each other. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:123
+At the communal dining restaurant, Wherry, Trieu, and Vanatta ran into each other. He was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:124
+Keagle, Witherell, and Haefner connected at the park. He told anecdotes from a career of working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:125
+Henrikson, Lashley, and Norfleet started a conversation at the alumni event. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:126
+At the book store, Arce, Chirinos, and Schmitz connected. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:127
+At the hotel, Beaver, Friedrichs, and Weakland bumped into each other. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:128
+At the theater festival, Baldino, Goertz, and Mickelsen bumped into each other. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:129
+At the food court, Espiritu, Eckstein, and Trevizo bumped into each other. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:130
+At the public transport, Eppley, Lotts, and Paugh connected. She was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:131
+At the piano class, Hoffmann, Maske, and Galyon connected. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:132
+Highley, Hillier, and Shell started a conversation at the museum tour. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:133
+Burwell, Buswell, and Sidhu started a conversation at the bar. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:134
+Kappler, Kardos, and Kaster started a conversation at the party. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:135
+Heger, Smalling, and Legendre connected at the food and drink festival. When a question related to unpacking merchandise when it arrives at the warehouse arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:136
+Tsui, Stickler, and Beran started a conversation at the park. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:137
+Claros, Smythe, and Buchman connected at the party. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:138
+At the sports bar, Gaylor, Jeffreys, and Buras ran into each other. She was relieved to unwind after a demanding day at work working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:139
+At the trivia night, Meigs, Steiger, and Nesmith connected. When a question related to managing people in a company arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:140
+Gibbon, Garibaldi, and Grochowski connected at the grocery store. When a question related to making things from wood including houses and furniture arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:141
+At the garden, Benes, Darst, and Hartnett bumped into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:142
+At the art expo, Weyer, Odegard, and Fouts ran into each other. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:143
+Lemay, Reinoso, and Bussey connected at the design expo. They were relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:144
+Kellett, Kuzma, and Montejo started a conversation at the art expo. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:145
+At the public park, Liu, Luckett, and Yuhas ran into each other. She told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:146
+Last, Summerfield, and Taveras connected at the sports bar. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:147
+At the specialty retail store, Pinales, Edelstein, and Tankersley ran into each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:148
+At the communal dining restaurant, Ketcham, Leija, and Siguenza ran into each other. He told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:149
+At the bike tour, Biron, Hinshaw, and Walmsley connected. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:150
+Shepardson, Kawamoto, and Sills connected at the park. She was relieved to unwind after a demanding day at work working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:151
+At the piano class, Windle, Weisser, and Kinkel connected. She was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:152
+Stamm, Boehmer, and Moskal connected at the bar crawl. He told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:153
+At the wedding, Blaser, Meador, and Brawner bumped into each other. When a question related to putting out fires arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:154
+At the cafe, Denker, Shedd, and Witkowski bumped into each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:155
+Clauson, Batts, and Garr started a conversation at the public transport. When a question related to putting out fires arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:156
+Burtch, Fierros, and Moats started a conversation at the specialty retail store. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:157
+At the bar crawl, Sickels, Buckle, and Sons bumped into each other. When a question related to making things from wood including houses and furniture arose, ze offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:158
+Moylan, Kelm, and Clauson connected at the alumni event. They were relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:159
+Stuhr, Elrod, and Hurd connected at the food and drink festival. When a question related to working in a factory arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:160
+At the garden, Wieder, Claytor, and Bussell ran into each other. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:161
+At the evening language class, Bachmann, Cochrane, and Pelkey ran into each other. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:162
+At the photography class, Rothwell, Catano, and Cutting bumped into each other. When a question related to putting out fires arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:163
+At the retreat, Boon, Luebke, and Sartori ran into each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:164
+At the food co-op, Boivin, Cauthen, and Araiza connected. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:165
+Kardos, Linhart, and Tarkington connected at the food co-op. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:166
+Castilleja, Ziegler, and Raker started a conversation at the group vacation. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:167
+At the theater festival, Balk, Mango, and Almeda bumped into each other. When a question related to managing people in a company arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:168
+Vanderhoff, Haltom, and Lamay started a conversation at the group vacation. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:169
+At the evening language class, Six, Huot, and Picard bumped into each other. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:170
+At the cafe, Wickstrom, Postma, and Prewett ran into each other. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:171
+Whitford, Petrovich, and Rainville started a conversation at the food co-op. Ze was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:172
+At the dog park, Durocher, Owsley, and Schreiner ran into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:173
+At the theater festival, Lair, Shingleton, and Coats bumped into each other. She was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:174
+At the bike tour, Beatty, Six, and Schley connected. She was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:175
+Mccrady, Velez, and Barger started a conversation at the dog park. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:176
+At the bar crawl, Suess, Brownstein, and Huskey connected. When a question related to growing and selling flowers arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:177
+Greenstein, Danos, and Wiesner connected at the food co-op. He told anecdotes from a career of taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:178
+Prinz, Mullinax, and Bangs connected at the sports bar. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:179
+At the specialty retail store, Osterberg, Egger, and Etheredge connected. When a question related to translating from one language to another professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:180
+At the yoga class, Gilmour, Penate, and Fitzsimmons ran into each other. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:181
+At the group vacation, Ell, Torrez, and Sommers bumped into each other. They told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:182
+At the piano class, Englehart, Eichner, and Weatherford connected. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:183
+Mcelhaney, Degregorio, and Woodside started a conversation at the alumni event. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:184
+At the improvisation class, Eckstein, Lower, and Lajeunesse connected. She told anecdotes from a career of managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:185
+At the art expo, Nolley, Serratos, and Tatro connected. She told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:186
+At the bike tour, Hoag, Dutton, and Spagnuolo ran into each other. They told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:187
+At the cafe, Gade, Stimson, and Beasley connected. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:188
+At the cafe, Ryans, Inouye, and Alewine connected. He told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:189
+At the hotel, Maag, Borjas, and Garber ran into each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:190
+At the book store, Parton, Carlucci, and Clermont ran into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:191
+At the flea market, Domenech, Barba, and Levenson bumped into each other. He told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:192
+Searles, Turco, and Segoviano started a conversation at the partner dancing classes. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:193
+Hamm, Mower, and Verrett connected at the photography class. He was relieved to unwind after a demanding day at work working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:194
+At the public transport, Snodgrass, Doshi, and Clinger ran into each other. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:195
+At the book store, Hood, Eberhard, and Voorhees connected. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:196
+At the public park, Doyon, Barbato, and Thibodeau connected. Ey told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:197
+At the photography class, Kontos, Walk, and Moeller bumped into each other. She told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:198
+Stotler, Loria, and Rolle started a conversation at the trivia night. When a question related to overseeing the management of executives' calendars and travel arrangements arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:199
+At the improvisation class, Vining, Vreeland, and Marrufo connected. When a question related to growing and selling flowers arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:200
+At the public transport, Ptak, Hilbert, and Courter connected. He was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:201
+At the sports bar, Lanoue, Morlock, and Windle connected. When a question related to giving lectures in a university arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:202
+Bitting, Cardinale, and Senft connected at the group vacation. They were relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:203
+At the cafe, Mcandrew, Volpe, and Bartow bumped into each other. Ze was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:204
+Mackinnon, Barrows, and Mazon started a conversation at the train. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:205
+At the yoga class, Reger, Breece, and Mule bumped into each other. He told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:206
+At the alumni event, Rives, Mcknight, and Curtsinger ran into each other. They were relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:207
+At the museum tour, Stamand, Parrino, and Greathouse ran into each other. Ey was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:208
+At the garden, Mccarron, Chirinos, and Bjork bumped into each other. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:209
+Noyes, Hinderliter, and Kinkel started a conversation at the theater festival. He was relieved to unwind after a demanding day at work cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:210
+Noriega, Jarosz, and Ayers started a conversation at the design expo. He told anecdotes from a career of working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:211
+Hertzler, Baltz, and Rish connected at the trivia night. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:212
+Westberg, Marroquin, and Mcclung started a conversation at the garden. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:213
+Garciamartinez, Manansala, and Burtch connected at the piano class. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:214
+At the grocery store, Burleigh, Waldrip, and Avalos bumped into each other. Ze told anecdotes from a career of working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:215
+At the party, Fodor, Walther, and Albury connected. When a question related to managing people in a company arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:216
+At the food co-op, Winters, Dumais, and Balasubramanian bumped into each other. Ey was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:217
+Rochon, Ogren, and Speight started a conversation at the group vacation. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:218
+Matney, Olney, and Burkes started a conversation at the food and drink festival. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:219
+Dobbins, Newlon, and Arauz started a conversation at the garden. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:220
+At the art expo, Tuma, Rodgers, and Gerow ran into each other. When a question related to catching and selling fish arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:221
+At the public park, Allmon, Winkler, and Palma connected. She was relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:222
+At the design expo, Hillhouse, Cogar, and Froman ran into each other. Ey told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:223
+Reynoso, Vanpatten, and Pankratz started a conversation at the sports bar. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:224
+At the theater festival, Camarillo, Schaffner, and Godina connected. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:225
+Berman, Haro, and Prewett started a conversation at the art expo. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:226
+At the public transport, Wittmann, Kirkley, and Goertz bumped into each other. They were relieved to unwind after a demanding day at work cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:227
+At the bar, Hofmeister, Yon, and Maag connected. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:228
+At the public park, Wagers, Llerena, and Dennie ran into each other. When a question related to growing and selling flowers arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:229
+At the trivia night, Culley, Dunham, and Weese connected. He was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:230
+At the yoga class, Chittum, Cribb, and Delmonte ran into each other. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:231
+At the museum tour, Valdes, Kerstetter, and Redondo bumped into each other. She was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:232
+Headrick, Cortina, and Patlan started a conversation at the specialty retail store. They told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:233
+At the bar crawl, Inouye, Axtell, and Siegel bumped into each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:234
+At the party, Lundeen, Mouton, and Happel bumped into each other. They were relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:235
+Fredrickson, Hagstrom, and Hogg started a conversation at the trivia night. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:236
+Broomfield, Masiello, and Rutledge connected at the bike tour. When a question related to making money from selling land for development arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:237
+Bechtel, Olaughlin, and Mucha connected at the evening language class. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:238
+At the group vacation, Kowalik, Edelen, and Mckeown connected. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:239
+At the photography class, Chery, Everhart, and Speight connected. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:240
+At the alumni event, Masse, Clauss, and Lemon ran into each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:241
+Spearman, Selleck, and Hocking started a conversation at the evening language class. When a question related to reading and reporting the news on television arose, ey offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:242
+At the train, Dark, Limon, and Franke ran into each other. When a question related to unpacking merchandise when it arrives at the warehouse arose, ey offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:243
+At the park, Tolson, Stilson, and Dague ran into each other. When a question related to working in a factory arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:244
+At the crossfit class, Avalos, Zoeller, and Stidham connected. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:245
+Holliman, Foutch, and Casillas started a conversation at the specialty retail store. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:246
+Riffel, Bilger, and Kerstetter started a conversation at the retreat. Ey was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:247
+Villatoro, Kromer, and Trexler started a conversation at the evening language class. When a question related to translating from one language to another professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:248
+At the public park, Renzi, Mehl, and Bartel ran into each other. When a question related to overseeing the management of executives' calendars and travel arrangements arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:249
+At the crossfit class, Segoviano, Laferriere, and Worthy connected. When a question related to cleaning and maintaining buildings professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:250
+At the sports bar, Wieder, Gholston, and Richburg connected. He told anecdotes from a career of taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:251
+At the specialty retail store, Ofarrell, Desanto, and Pritchett connected. When a question related to unpacking merchandise when it arrives at the warehouse arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:252
+At the evening language class, Paik, Dauer, and Stamp ran into each other. She told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:253
+At the improvisation class, Laubach, Crisafulli, and Kuhn connected. He told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:254
+Hocking, Cedano, and Schober started a conversation at the design expo. When a question related to growing and selling flowers arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:255
+Howells, Gutierres, and Moodie started a conversation at the partner dancing classes. When a question related to taking photos professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:256
+At the group vacation, Romanelli, Ruvalcaba, and Swoboda bumped into each other. When a question related to acting in a play or a movie arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:257
+At the sports bar, Greathouse, Horowitz, and Mullinax ran into each other. When a question related to translating from one language to another professionally arose, ze offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:258
+Lamantia, Mains, and Driggers connected at the trivia night. When a question related to catching and selling fish arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:259
+At the yoga class, Steinkamp, Mcneill, and Catlett ran into each other. He was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:260
+Terrones, Ormond, and Oshaughnessy started a conversation at the dog park. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:261
+At the crossfit class, Hassinger, Moberg, and Bissonette connected. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:262
+Contreras, Menzies, and Soltis connected at the grocery store. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:263
+Humes, Row, and Kemmer started a conversation at the evening language class. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:264
+Bosse, Llanos, and Rubio started a conversation at the public transport. She told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:265
+Gaertner, Hinshaw, and Killinger connected at the dog park. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:266
+At the theater festival, Crumb, Chaffin, and Wadsworth bumped into each other. She told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:267
+At the flea market, Moy, Stratford, and Mckillip ran into each other. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:268
+At the partner dancing classes, Hertzler, Jelinek, and English connected. When a question related to putting out fires arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:269
+At the public park, Campagna, Monette, and Picard bumped into each other. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:270
+Hoggatt, Wire, and Huling connected at the art expo. Ze was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:271
+At the photography class, Auxier, Warfel, and Bowersox bumped into each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:272
+At the book store, Oreilly, Iqbal, and Villareal ran into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:273
+Vick, Kapadia, and Dimeo connected at the design expo. When a question related to working in a factory arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:274
+Pham, Kerstetter, and Walthall started a conversation at the evening language class. She told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:275
+Mansfield, Jeppesen, and Traina connected at the alumni event. He told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:276
+At the yoga class, Prudhomme, Mcneill, and Blakeman connected. When a question related to managing people in a company arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:277
+Arce, Abt, and Pitkin started a conversation at the trivia night. He was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:278
+Tawney, Asaro, and Kelleher connected at the trivia night. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:279
+Kegler, Madrigal, and Bessey connected at the party. Ey told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:280
+Brito, Ofarrell, and Sipes connected at the improvisation class. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:281
+At the group vacation, Matherne, Burden, and Lange bumped into each other. He told anecdotes from a career of working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:282
+Fabre, Capote, and Jump connected at the cafe. They were relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:283
+At the alumni event, Servin, Benway, and Langton ran into each other. She was relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:284
+At the dog park, Kuzma, Yon, and Tso connected. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:285
+At the public park, Amodeo, Marchan, and Raulerson connected. They told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:286
+At the partner dancing classes, Ostendorf, Ziegler, and Malagon bumped into each other. She told anecdotes from a career of working with the money and accounts of a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:287
+At the yoga class, Zick, Macintosh, and Hudak connected. She told anecdotes from a career of working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:288
+At the hotel, Wafer, Stump, and Breneman connected. He was relieved to unwind after a demanding day at work cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:289
+Sabatini, Dewar, and Heffernan started a conversation at the photography class. When a question related to making money from selling land for development arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:290
+At the design expo, Marinello, Schmitt, and Delagarza ran into each other. They were relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:291
+At the photography class, Kloster, Eisele, and Chaisson bumped into each other. When a question related to making money from selling land for development arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:292
+At the piano class, Waldner, Leming, and Rusnak ran into each other. When a question related to growing and selling flowers arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:293
+At the public park, Zurek, Davisson, and Raulerson connected. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:294
+Mackinnon, Huffstetler, and Dimatteo started a conversation at the retreat. He told anecdotes from a career of working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:295
+At the alumni event, Oates, Bowersox, and Sheard ran into each other. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:296
+At the trivia night, Vandeusen, Rost, and Puri bumped into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:297
+At the public transport, Hertzler, Armendariz, and Oreilly ran into each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:298
+Cornish, Dunkin, and Roberge started a conversation at the party. When a question related to managing people in a company arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:299
+Ebron, Torbert, and Funez connected at the improvisation class. They were relieved to unwind after a demanding day at work cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:300
+At the museum tour, Erlandson, Procopio, and Grate connected. When a question related to writing books or novels professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:301
+At the bar crawl, Ashlock, Guernsey, and Derosa connected. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:302
+At the communal dining restaurant, Pal, Bailon, and Heberling ran into each other. They were relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:303
+At the trivia night, Iniguez, Roller, and Hillier ran into each other. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:304
+At the bar, Krall, Troncoso, and Heitz bumped into each other. When a question related to overseeing the management of executives' calendars and travel arrangements arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:305
+At the cafe, Scofield, Peterman, and Corona bumped into each other. He told anecdotes from a career of taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:306
+At the park, Turnage, Rocha, and Lotts connected. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:307
+Donnellan, Haight, and Pipkin connected at the improvisation class. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:308
+At the park, Suess, Frisby, and Duhamel connected. When a question related to putting out fires arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:309
+Lampman, Ridenhour, and Canlas connected at the food co-op. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:310
+At the food co-op, Osburn, Wadsworth, and Balli bumped into each other. When a question related to putting out fires arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:311
+Villacis, Leclerc, and Kowal started a conversation at the photography class. When a question related to making things from wood including houses and furniture arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:312
+Lovan, Laureano, and Elrod connected at the grocery store. They were relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:313
+At the crossfit class, Golston, Loch, and Fitchett bumped into each other. Ze was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:314
+Levenson, Dial, and Snavely started a conversation at the food co-op. Ey told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:315
+At the communal dining restaurant, Hofer, Zaleski, and Svoboda bumped into each other. She told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:316
+At the train, Stallman, Vaught, and Mckinstry ran into each other. They told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:317
+At the book store, Dover, Parten, and Yawn bumped into each other. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:318
+Sheetz, Brodeur, and Killingsworth started a conversation at the retreat. She told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:319
+Seagle, Begin, and Hadfield connected at the art expo. They told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:320
+Arocha, Hernandez, and Mcconnell connected at the piano class. He told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:321
+At the public transport, Staub, Capote, and Meola bumped into each other. She was relieved to unwind after a demanding day at work managing people in a company.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:322
+At the bar, Ewart, Barrientes, and Hunte ran into each other. When a question related to taking photos professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:323
+At the photography class, Curfman, Summerfield, and Deboard connected. When a question related to reading and reporting the news on television arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:324
+Munford, Ishii, and Kha started a conversation at the art expo. When a question related to making money from selling land for development arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:325
+Raftery, Durocher, and Voorhees connected at the partner dancing classes. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:326
+At the trivia night, Swisher, Farquhar, and Mcelyea ran into each other. When a question related to unpacking merchandise when it arrives at the warehouse arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:327
+At the bar, Mallard, Hudock, and Nunnery ran into each other. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:328
+At the crossfit class, Parson, Glazier, and Shu connected. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:329
+Barros, Welty, and Geist started a conversation at the partner dancing classes. When a question related to making money from selling land for development arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:330
+At the evening language class, Mankin, Woolard, and Spector ran into each other. When a question related to taking photos professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:331
+Wardlaw, Chumley, and Saulnier started a conversation at the communal dining restaurant. When a question related to writing books or novels professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:332
+Glaze, Deboard, and Herald connected at the art expo. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:333
+Nehls, Petrovich, and Tijerina started a conversation at the wedding. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:334
+Htoo, Hogge, and Elrod connected at the food and drink festival. He told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:335
+Dice, Goza, and Cowgill started a conversation at the art expo. He told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:336
+At the wedding, Pomales, Bachelder, and Stucker bumped into each other. When a question related to taking photos professionally arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:337
+At the museum tour, Mote, Buchman, and Swanberg ran into each other. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:338
+Gottfried, Biggs, and Marsden connected at the flea market. She was relieved to unwind after a demanding day at work reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:339
+At the sports bar, Kimbell, Faber, and Fodor ran into each other. They told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:340
+At the bar, Dargan, Stucker, and Merten ran into each other. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:341
+At the retreat, Stine, Center, and Shaughnessy ran into each other. They were relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:342
+At the food court, Mcentee, Delosreyes, and Pelkey connected. She was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:343
+At the cafe, Schlosser, Hosier, and Rolle connected. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:344
+Strobel, Nix, and Bassham connected at the bar. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:345
+Meli, Bento, and Michelson connected at the trivia night. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:346
+At the garden, Rust, Ramirez, and Heger ran into each other. When a question related to taking photos professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:347
+Stimson, Ching, and Yoo connected at the museum tour. Ey told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:348
+Reamer, Cheshire, and Scrivner started a conversation at the public park. When a question related to overseeing the management of executives' calendars and travel arrangements arose, ey offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:349
+At the bike tour, Mullinax, Stephens, and Novick ran into each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:350
+At the crossfit class, Laguardia, Latino, and Amundsen bumped into each other. She told anecdotes from a career of cleaning and maintaining buildings professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:351
+At the improvisation class, Roles, Lamantia, and Thong ran into each other. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:352
+At the sports bar, Spath, Noack, and Zhuang bumped into each other. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:353
+At the park, Lechuga, Barros, and Rayborn bumped into each other. When a question related to catching and selling fish arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:354
+At the design expo, Zobel, Chiang, and Furst bumped into each other. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:355
+At the bike tour, Rosenblum, Oubre, and Coover ran into each other. When a question related to acting in a play or a movie arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:356
+At the improvisation class, Ebling, Shih, and Lease ran into each other. When a question related to cleaning and maintaining buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:357
+At the sports bar, Ogle, Benes, and Muntz connected. When a question related to controlling the flight of an aircraft by operating its directional flight controls arose, ze offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:358
+At the wedding, Hogg, Swing, and Allmon bumped into each other. Ey was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:359
+At the food co-op, Berndt, Baltimore, and Arzola ran into each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:360
+At the train, Gramling, Wagener, and Hagopian ran into each other. She was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:361
+Mccorkle, Stiefel, and Banda connected at the public park. When a question related to putting out fires arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:362
+At the bike tour, Oatman, Knoop, and Mohr connected. When a question related to overseeing the management of executives' calendars and travel arrangements arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:363
+Persson, Gaona, and Polansky started a conversation at the retreat. When a question related to catching and selling fish arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:364
+Thiessen, Haag, and Ullrich started a conversation at the food court. When a question related to taking photos professionally arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:365
+At the sports bar, Caldera, Cossio, and Lafond ran into each other. He was relieved to unwind after a demanding day at work patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:366
+At the museum tour, Charlesworth, Kulik, and Zebrowski bumped into each other. Ze told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:367
+At the food and drink festival, Behan, Liu, and Willer ran into each other. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:368
+Grob, Basco, and Longo connected at the theater festival. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:369
+At the evening language class, Timmer, Vizcarra, and Shedd ran into each other. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:370
+At the group vacation, Dabney, Jarboe, and Sheahan ran into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:371
+At the communal dining restaurant, Striegel, Mistry, and Kitterman bumped into each other. She told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:372
+Velez, French, and Fullen started a conversation at the train. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:373
+At the food court, Atkin, Mukherjee, and Wehrle ran into each other. When a question related to reading and reporting the news on television arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:374
+At the partner dancing classes, Deines, Panetta, and Zerbe ran into each other. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:375
+At the improvisation class, Baskerville, Cedeno, and Dial connected. Ey told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:376
+Ney, Steffens, and Bothwell started a conversation at the food court. He was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:377
+At the bar crawl, Preuss, Capobianco, and Feltner ran into each other. They were relieved to unwind after a demanding day at work working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:378
+Arceo, Oles, and Kaba connected at the public transport. He told anecdotes from a career of making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:379
+At the trivia night, Polite, Hunte, and Gorney ran into each other. They told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:380
+At the wedding, Petro, Leak, and Masood bumped into each other. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:381
+Cedano, Riffel, and Edmunds connected at the flea market. When a question related to making things from wood including houses and furniture arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:382
+Mapp, Patch, and Broadbent connected at the design expo. When a question related to catching and selling fish arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:383
+Howey, Feltner, and Pohlman connected at the party. Ze was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:384
+At the design expo, Roof, Wiest, and Fuselier bumped into each other. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:385
+Nies, Mule, and Knisley connected at the alumni event. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:386
+Barrie, Pasko, and Casto started a conversation at the improvisation class. She was relieved to unwind after a demanding day at work catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:387
+At the yoga class, Wittig, Rakowski, and Mejias ran into each other. When a question related to catching and selling fish arose, they offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:388
+At the group vacation, Slocum, Bark, and Schade ran into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, he offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:389
+Nadler, Ogata, and Reif started a conversation at the grocery store. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:390
+Koning, Schieber, and Hazlewood connected at the theater festival. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:391
+Huddleston, Veazey, and Khatun connected at the bar. She told anecdotes from a career of reading and reporting the news on television.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:392
+At the yoga class, Jahnke, Kegley, and Garibaldi bumped into each other. She told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:393
+Boldt, Ishii, and Cullum started a conversation at the bar. She told anecdotes from a career of making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:394
+At the partner dancing classes, Blinn, Pouliot, and Napoli connected. He was relieved to unwind after a demanding day at work making money from selling land for development.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:395
+Batts, Sheard, and Chaudhary started a conversation at the hotel. They told anecdotes from a career of catching and selling fish.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:396
+Shipman, Sacco, and Pinard connected at the photography class. She told anecdotes from a career of patrolling areas to check that people do not park in the wrong place.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:397
+At the group vacation, Macomber, Wilkerson, and Lenihan bumped into each other. When a question related to patrolling areas to check that people do not park in the wrong place arose, she offered a professional opinion.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:398
+At the trivia night, Wanner, Kleine, and Majano bumped into each other. Ey was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_3_ents/task-text-only/validation:399
+Horst, Dysart, and Cook started a conversation at the flea market. When a question related to working in a retail environment and processing transactions for a customer's purchase arose, she offered a professional opinion.

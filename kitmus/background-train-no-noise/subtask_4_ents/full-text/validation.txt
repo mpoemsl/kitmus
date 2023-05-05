@@ -1,0 +1,1199 @@
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:0
+Whitmer is a baker. Stauffer is an architect. Morefield is an actor. Carranza is a farmer. Whitmer, Stauffer, Carranza, and Morefield started a conversation at the photography class. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:1
+Asay is a lifeguard. Ouzts is a model. Walters is a firefighter. Crone is a translator. At the archery class, Crone, Walters, Asay, and Ouzts encountered each other. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:2
+Row is a journalist. Quimby is a nurse. Underhill is a teacher. Barringer is a food preparation worker. Row, Quimby, Barringer, and Underhill started a conversation at the cafe. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:3
+Treece is an architect. Brandenburg is a florist. Thiessen is a stocking associate. Langevin is a baker. Langevin, Thiessen, Treece, and Brandenburg came across each other at the beer making classes. After a long day at work unpacking merchandise when it arrives at the warehouse, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:4
+Restivo is a florist. Covert is a farmer. Cuesta is a lifeguard. Bustillos is a translator. At the wine tasting, Cuesta, Covert, Bustillos, and Restivo encountered each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:5
+Stump is a lifeguard. Kohr is a pilot. Gose is a teacher. Rothrock is a travel agent. At the house party, Kohr, Gose, Stump, and Rothrock encountered each other. After a long day at work passing knowledge to students at school, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:6
+Vue is a lecturer. Ouzts is a travel agent. Derosa is an administrative assistant. Merrifield is a dentist. Vue, Derosa, Merrifield, and Ouzts came across each other at the house party. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:7
+Kremer is a food preparation worker. Ngo is an actor. Schurr is a model. Profit is a nurse. At the business meet, Kremer, Ngo, Schurr, and Profit encountered each other. After a long day at work cleaning the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:8
+Dunnam is an actor. Hurd is a food preparation worker. Hovis is a stocking associate. Gehring is a teacher. Dunnam, Gehring, Hurd, and Hovis came across each other at the specialty retail market. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:9
+Elizarraras is a nurse. Leclair is a florist. Schick is an administrative assistant. Cozad is a teacher. Cozad, Elizarraras, Schick, and Leclair bumped into each other at the holiday party. Ze was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:10
+Hild is a pilot. Quiroga is a model. Harned is a lifeguard. Turcios is a food preparation worker. Harned, Turcios, Quiroga, and Hild started a conversation at the stadium. She was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:11
+Enfinger is a journalist. Geissler is an actor. Giroux is a firefighter. Loiselle is a nurse. At the volunteer work, Enfinger, Giroux, Geissler, and Loiselle came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:12
+Reynosa is a teacher. Hindman is a factory worker. Rossetti is a firefighter. Edgell is a dentist. Reynosa, Edgell, Rossetti, and Hindman started a conversation at the library. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:13
+Sabatino is a baker. Osuna is an actor. Battles is a pilot. Vides is an administrative assistant. At the house party, Sabatino, Osuna, Vides, and Battles came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:14
+Lease is a journalist. Fisch is a stocking associate. Greenwalt is a baker. Hurd is a translator. At the fundraiser, Hurd, Lease, Greenwalt, and Fisch came across each other. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:15
+Latour is a factory worker. Fogarty is an architect. Carreno is a firefighter. Moose is a food preparation worker. Latour, Moose, Carreno, and Fogarty came across each other at the volunteer work. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:16
+Greenawalt is a pilot. Bloss is a factory worker. Lamoureux is a translator. Pentz is a dentist. Lamoureux, Bloss, Greenawalt, and Pentz came across each other at the public transport. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:17
+Aguado is a lecturer. Saliba is a dentist. Imperial is a food preparation worker. Liptak is a farmer. At the school reunion, Imperial, Aguado, Liptak, and Saliba encountered each other. After a long day at work fixing and treating problems with teeth, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:18
+Duby is a florist. Rubino is a firefighter. Peres is a travel agent. Krout is an actor. At the volunteer work, Duby, Krout, Rubino, and Peres encountered each other. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:19
+Tuohy is an actor. Mccurry is an administrative assistant. Boylan is a translator. Shumate is a model. Boylan, Mccurry, Shumate, and Tuohy came across each other at the stadium. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:20
+Spinks is a firefighter. Limones is an administrative assistant. Stabile is a farmer. Scherr is a nurse. At the music and art festival, Limones, Scherr, Stabile, and Spinks came across each other. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:21
+Vialpando is a model. Seamon is a pilot. Bucher is a florist. Oliveira is a lecturer. Bucher, Oliveira, Seamon, and Vialpando came across each other at the archery class. Ey was relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:22
+Solt is a nurse. Mccaulley is a pilot. Holsinger is a stocking associate. Lybarger is a farmer. Holsinger, Lybarger, Solt, and Mccaulley bumped into each other at the holiday party. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:23
+Cerezo is a pilot. Trombley is a dentist. Cusick is a stocking associate. Spisak is an administrative assistant. At the holiday party, Trombley, Spisak, Cusick, and Cerezo encountered each other. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:24
+Stricklin is a journalist. Hahn is a teacher. Manske is an actor. Dunnam is a lifeguard. Stricklin, Hahn, Dunnam, and Manske bumped into each other at the fundraiser. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:25
+Laliberte is a model. Karns is a teacher. Mcadams is a travel agent. Mackin is a factory worker. At the book store, Mcadams, Mackin, Karns, and Laliberte encountered each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:26
+Tallman is a farmer. Bohl is a dentist. Thom is an actor. Abbate is a teacher. Abbate, Bohl, Thom, and Tallman started a conversation at the holiday party. After a long day at work fixing and treating problems with teeth, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:27
+Moen is a dentist. Jeppesen is a lecturer. Spohn is a travel agent. Hillen is a model. At the book club, Moen, Jeppesen, Spohn, and Hillen encountered each other. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:28
+Hammack is an administrative assistant. Dollard is an actor. Stebbins is a translator. Soules is a travel agent. At the public transport, Dollard, Soules, Stebbins, and Hammack came across each other. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:29
+Dacus is a journalist. Rothenberg is a translator. Dinges is an administrative assistant. Messer is a factory worker. Dacus, Rothenberg, Dinges, and Messer came across each other at the charity car wash. After a long day at work translating from one language to another professionally, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:30
+Hosford is a florist. Grindle is a lecturer. Huskins is a travel agent. Sandquist is a farmer. At the school reunion, Grindle, Huskins, Sandquist, and Hosford encountered each other. Ey told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:31
+Ngo is an administrative assistant. Kegler is a teacher. Mcmichael is a nurse. Spoor is a factory worker. Ngo, Mcmichael, Spoor, and Kegler bumped into each other at the archery class. They told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:32
+Emmons is a model. Trussell is a farmer. Crowl is a travel agent. Hazlewood is an architect. At the cafe, Trussell, Crowl, Emmons, and Hazlewood encountered each other. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:33
+Lankford is a stocking associate. Isenberg is a lecturer. Carreno is a farmer. Howery is a journalist. Carreno, Lankford, Isenberg, and Howery bumped into each other at the library. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:34
+Deleo is a dentist. Greenwalt is a nurse. Farrior is a stocking associate. Whigham is a florist. At the cafe, Farrior, Greenwalt, Deleo, and Whigham came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:35
+Barger is an administrative assistant. Baksh is a pilot. Seymore is an architect. Tardiff is a firefighter. At the evening language class, Tardiff, Barger, Seymore, and Baksh came across each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:36
+Bottoms is a journalist. Horn is an actor. Viers is a firefighter. Pupo is a food preparation worker. Viers, Bottoms, Horn, and Pupo came across each other at the open gallery museum. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:37
+Hoffert is an architect. Crumb is a lecturer. Courtemanche is a journalist. Clemmons is a translator. At the house party, Clemmons, Hoffert, Courtemanche, and Crumb encountered each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:38
+Zabel is a nurse. Furr is a baker. Dittmer is a food preparation worker. Decaro is a stocking associate. At the cafe, Zabel, Furr, Decaro, and Dittmer encountered each other. After a long day at work cleaning the kitchen area at restaurants, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:39
+Mineo is a florist. Arp is a journalist. Cohn is a model. Fierros is a dentist. Cohn, Fierros, Arp, and Mineo started a conversation at the charity car wash. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:40
+Near is a teacher. Pazmino is a firefighter. Gilpin is a translator. Marroquin is an actor. Marroquin, Near, Pazmino, and Gilpin came across each other at the public transport. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:41
+Lovins is a stocking associate. Espy is a dentist. Biggers is a travel agent. Abbasi is a firefighter. Biggers, Espy, Abbasi, and Lovins bumped into each other at the house party. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:42
+Caldera is a dentist. Kravitz is a pilot. Banuelos is an actor. Loos is an administrative assistant. Banuelos, Loos, Kravitz, and Caldera started a conversation at the fundraiser. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:43
+Book is a nurse. Beadles is a stocking associate. Caballero is a factory worker. Onofre is an actor. Onofre, Book, Caballero, and Beadles bumped into each other at the business meet. After a long day at work unpacking merchandise when it arrives at the warehouse, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:44
+Hopewell is a journalist. Ferrante is a translator. Hallowell is a baker. Hittle is a teacher. Hittle, Hopewell, Ferrante, and Hallowell came across each other at the holiday party. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:45
+Donoghue is a stocking associate. Kang is a translator. Duchene is a farmer. Christoffersen is a dentist. Kang, Christoffersen, Duchene, and Donoghue started a conversation at the music and art festival. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:46
+Cadiz is a model. Mcinnis is an architect. Fischbach is a translator. Geissler is a journalist. At the party, Mcinnis, Fischbach, Geissler, and Cadiz came across each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:47
+Chichester is a nurse. Tull is an actor. Picazo is a pilot. Mcdougal is a florist. Mcdougal, Tull, Chichester, and Picazo bumped into each other at the music and art festival. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:48
+Goines is a journalist. Quinteros is a pilot. Stehle is a translator. Hasley is a food preparation worker. At the evening language class, Quinteros, Goines, Stehle, and Hasley came across each other. Ze told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:49
+Mazzella is a baker. Rodman is an architect. Dubey is a translator. Polak is a factory worker. At the fitness class, Dubey, Rodman, Mazzella, and Polak encountered each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:50
+Tinkham is a factory worker. Bissell is an administrative assistant. Dick is a translator. Derouen is a firefighter. Derouen, Tinkham, Bissell, and Dick bumped into each other at the business expo. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:51
+Meunier is a journalist. Hagedorn is a florist. Chichester is a farmer. Finger is a baker. Chichester, Finger, Meunier, and Hagedorn came across each other at the metro. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:52
+Pettengill is a model. Brickman is a nurse. Butler is a dentist. Carstens is an actor. At the restaurant, Carstens, Butler, Pettengill, and Brickman encountered each other. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:53
+Eich is a lecturer. Labadie is a stocking associate. Dorr is a nurse. Knorr is a factory worker. At the wine tasting, Dorr, Labadie, Knorr, and Eich encountered each other. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:54
+Cornish is a lifeguard. Schick is a dentist. Starner is a baker. Hassel is a travel agent. At the private club, Cornish, Starner, Schick, and Hassel encountered each other. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:55
+Philpott is a nurse. Abeyta is a travel agent. Heatherly is a farmer. Ceja is an actor. Philpott, Heatherly, Abeyta, and Ceja bumped into each other at the evening language class. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:56
+Lachance is a florist. Hassen is a farmer. Chao is a factory worker. Rosenblum is a pilot. Chao, Rosenblum, Hassen, and Lachance came across each other at the wine tasting. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:57
+Silk is a farmer. Dillow is a food preparation worker. Andrada is an actor. Ibanez is a lecturer. At the open gallery museum, Dillow, Silk, Andrada, and Ibanez came across each other. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:58
+File is a model. Harpole is a nurse. Serratos is a lifeguard. Baity is a translator. Harpole, Baity, Serratos, and File started a conversation at the music and art festival. After a long day at work working in fashion and modeling clothes and accessories, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:59
+Scalise is a dentist. Linhart is a firefighter. Rummel is an actor. Morgado is an architect. Linhart, Morgado, Rummel, and Scalise came across each other at the fitness class. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:60
+Capellan is a journalist. Knarr is a firefighter. Sorrels is a florist. Feinstein is a translator. Feinstein, Knarr, Sorrels, and Capellan bumped into each other at the fitness class. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:61
+Massengill is a dentist. Sylla is a firefighter. Jeffries is a translator. Gaye is an architect. At the wine tasting, Sylla, Massengill, Gaye, and Jeffries came across each other. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:62
+Humes is a dentist. Friar is a baker. Large is a food preparation worker. Muszynski is a translator. At the school reunion, Friar, Muszynski, Large, and Humes came across each other. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:63
+Malm is a dentist. Runk is a pilot. Bischof is a factory worker. Halbrook is a food preparation worker. At the public transport, Malm, Halbrook, Bischof, and Runk came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:64
+Snelson is a lecturer. Kaster is a florist. Pringle is an actor. Duffy is a translator. Duffy, Kaster, Pringle, and Snelson came across each other at the stadium. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:65
+Sosebee is a model. Larrea is a teacher. Offutt is an actor. Pettaway is an architect. At the bar, Offutt, Pettaway, Larrea, and Sosebee came across each other. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:66
+Exum is a model. Lacasse is a journalist. Mcquinn is a firefighter. Hutchings is an architect. At the food and drink festival, Lacasse, Mcquinn, Hutchings, and Exum came across each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:67
+Mcgreevy is a farmer. Borchert is a stocking associate. Saito is a journalist. Mohn is a dentist. At the book store, Saito, Mohn, Mcgreevy, and Borchert came across each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:68
+Brawner is a journalist. Gorden is an administrative assistant. Sherlock is a lecturer. Moore is an architect. Brawner, Gorden, Moore, and Sherlock started a conversation at the library. He told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:69
+Stjean is an administrative assistant. Allender is a lecturer. Hosler is a teacher. Wolter is a travel agent. Stjean, Wolter, Allender, and Hosler came across each other at the specialty retail market. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:70
+Bivins is an actor. Reinhart is a factory worker. Lomax is an architect. Muszynski is a food preparation worker. At the cafe, Bivins, Reinhart, Lomax, and Muszynski came across each other. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:71
+Heitmann is a journalist. Mccart is a lifeguard. Santibanez is a pilot. Chipman is a florist. Heitmann, Santibanez, Chipman, and Mccart started a conversation at the evening language class. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:72
+Larose is a journalist. Halpern is a food preparation worker. Asberry is a dentist. Reimann is an administrative assistant. Reimann, Halpern, Asberry, and Larose started a conversation at the bar. After a long day at work overseeing the management of executives' calendars and travel arrangements, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:73
+Winebrenner is a farmer. Slack is a stocking associate. Fazio is a pilot. Leake is a travel agent. Fazio, Winebrenner, Slack, and Leake bumped into each other at the bar. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:74
+Yap is an architect. Maresca is a firefighter. Weinberg is a stocking associate. Kantor is a factory worker. Kantor, Yap, Maresca, and Weinberg came across each other at the school reunion. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:75
+Yazzie is a stocking associate. Meisner is a farmer. Shubert is a teacher. Mccaffery is a baker. At the party, Meisner, Yazzie, Shubert, and Mccaffery encountered each other. Ey told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:76
+Vanetten is a stocking associate. Halcomb is a firefighter. Alberti is a teacher. Willett is a journalist. Vanetten, Willett, Halcomb, and Alberti bumped into each other at the public transport. Ey told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:77
+Greenawalt is a pilot. Alfaro is a teacher. Brickman is an architect. Lauria is a travel agent. Greenawalt, Alfaro, Lauria, and Brickman started a conversation at the house party. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:78
+Hahn is a teacher. Scheffer is a lecturer. Raposo is an actor. Harpe is a food preparation worker. At the private club, Harpe, Hahn, Scheffer, and Raposo encountered each other. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:79
+Devore is a lifeguard. Mcmullin is a food preparation worker. Eyer is a travel agent. Getz is a lecturer. Devore, Getz, Eyer, and Mcmullin bumped into each other at the charity car wash. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:80
+Shoop is a lecturer. Epperly is a journalist. Holtman is a teacher. Main is a translator. Epperly, Holtman, Main, and Shoop started a conversation at the school reunion. After a long day at work giving lectures in a university, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:81
+Bolden is a lecturer. Conder is a lifeguard. Bussell is an actor. Wingate is a travel agent. Bussell, Wingate, Bolden, and Conder bumped into each other at the archery class. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:82
+Ordaz is a lecturer. Nicks is an architect. Loomis is a firefighter. Tardiff is a lifeguard. At the restaurant, Ordaz, Tardiff, Nicks, and Loomis came across each other. They told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:83
+Petri is a teacher. Zaragoza is an administrative assistant. Sartor is a lifeguard. Opitz is a florist. Petri, Sartor, Opitz, and Zaragoza started a conversation at the school reunion. He told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:84
+Rollings is a model. Lindner is a firefighter. Scalzo is a translator. Stidham is a dentist. At the school reunion, Lindner, Stidham, Scalzo, and Rollings came across each other. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:85
+Coscia is an administrative assistant. Knupp is a pilot. Cola is a travel agent. Roane is a food preparation worker. Cola, Coscia, Roane, and Knupp started a conversation at the hotel. After a long day at work cleaning the kitchen area at restaurants, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:86
+Cumming is a teacher. Veach is a stocking associate. Brutus is a florist. Mcquade is an architect. Brutus, Cumming, Mcquade, and Veach bumped into each other at the charity car wash. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:87
+Greenlaw is a factory worker. Slavin is a firefighter. Holcomb is an architect. Moore is a translator. Slavin, Holcomb, Moore, and Greenlaw came across each other at the open gallery museum. Ze was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:88
+Foos is a baker. Gros is a teacher. Pyles is a journalist. Goings is a nurse. Pyles, Gros, Foos, and Goings bumped into each other at the business meet. They were relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:89
+Vose is a model. Messersmith is a lifeguard. Romine is an actor. Conti is a translator. At the private club, Conti, Messersmith, Romine, and Vose encountered each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:90
+Sisk is an architect. Stiner is a lifeguard. Wamsley is a stocking associate. Benavente is a lecturer. Benavente, Stiner, Sisk, and Wamsley bumped into each other at the open gallery museum. They told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:91
+Shukla is a factory worker. Filler is a translator. Bontrager is a lecturer. Meese is an architect. Meese, Shukla, Bontrager, and Filler started a conversation at the evening language class. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:92
+Coghill is a florist. Woodhouse is a model. Selfridge is a factory worker. Mackin is a travel agent. Woodhouse, Selfridge, Coghill, and Mackin bumped into each other at the evening language class. Ey told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:93
+Mccord is a lecturer. Bielecki is a model. Simmers is a firefighter. Palomino is a florist. Palomino, Bielecki, Simmers, and Mccord started a conversation at the library. They told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:94
+Biles is a farmer. Vicari is a factory worker. Nascimento is a stocking associate. Radcliffe is a nurse. Nascimento, Radcliffe, Vicari, and Biles came across each other at the house party. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:95
+Trainor is a model. Decicco is a florist. Tejeda is an administrative assistant. Crum is a factory worker. Decicco, Trainor, Tejeda, and Crum bumped into each other at the metro. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:96
+Munns is an actor. Lamson is a lifeguard. Ota is a translator. Corlew is a journalist. At the archery class, Munns, Lamson, Ota, and Corlew came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:97
+Fimbres is a nurse. Zawadzki is a travel agent. Herrman is an actor. Knutson is a model. Knutson, Fimbres, Herrman, and Zawadzki bumped into each other at the metro. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:98
+Gurganus is a firefighter. Ketner is a farmer. Zalewski is a food preparation worker. Stilson is a lecturer. At the fundraiser, Zalewski, Stilson, Ketner, and Gurganus came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:99
+Tuttle is a farmer. Mahler is a pilot. Hohl is a dentist. Basco is a lecturer. Tuttle, Mahler, Basco, and Hohl started a conversation at the metro. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:100
+Hasse is a journalist. Aparicio is a stocking associate. Shenk is a farmer. Sisk is a baker. At the wine tasting, Shenk, Hasse, Sisk, and Aparicio encountered each other. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:101
+Segal is a lifeguard. Graf is a pilot. Milone is a travel agent. Younan is a model. Segal, Graf, Younan, and Milone came across each other at the book store. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:102
+Schweiger is a farmer. Gutierrez is a model. Badgett is a food preparation worker. Glines is an architect. Schweiger, Glines, Gutierrez, and Badgett started a conversation at the fitness class. He was relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:103
+Sylva is a dentist. Frier is a factory worker. Whitener is an architect. Gelb is a pilot. Sylva, Frier, Gelb, and Whitener came across each other at the house party. After a long day at work fixing and treating problems with teeth, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:104
+Labarge is a journalist. Kulp is a farmer. Twitchell is a lifeguard. Mckeen is a translator. Twitchell, Kulp, Mckeen, and Labarge bumped into each other at the holiday party. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:105
+Teske is a lifeguard. Sen is a model. Dumond is a food preparation worker. Gutshall is a teacher. Teske, Gutshall, Sen, and Dumond bumped into each other at the music and art festival. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:106
+Tietz is a baker. Kapoor is a stocking associate. Patino is a farmer. Goldsby is a food preparation worker. Kapoor, Patino, Tietz, and Goldsby started a conversation at the food and drink festival. After a long day at work making bread and cakes in a bakery, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:107
+Boutwell is a teacher. Laclair is a model. Weekly is a lifeguard. Darley is a nurse. Weekly, Darley, Laclair, and Boutwell bumped into each other at the dog park. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:108
+Hartness is a dentist. Bush is a nurse. Coniglio is a pilot. Okada is a lifeguard. Bush, Okada, Hartness, and Coniglio started a conversation at the volunteer work. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:109
+Crosswhite is a stocking associate. Freeze is a pilot. Licht is a food preparation worker. Suttles is a factory worker. At the metro, Licht, Freeze, Crosswhite, and Suttles encountered each other. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:110
+Lesh is an administrative assistant. Webber is a farmer. Chagnon is a florist. Bohne is a factory worker. Webber, Lesh, Chagnon, and Bohne bumped into each other at the holiday party. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:111
+Rahe is a nurse. Westfall is a lifeguard. Amodeo is a stocking associate. Stolte is a pilot. Stolte, Rahe, Amodeo, and Westfall came across each other at the private club. He was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:112
+Munsell is a pilot. Vitek is a food preparation worker. Locklear is a lecturer. Groner is a nurse. Locklear, Groner, Vitek, and Munsell started a conversation at the public transport. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:113
+Loggins is a florist. Chino is a pilot. Menzies is an actor. Nuckols is a lecturer. Chino, Nuckols, Loggins, and Menzies bumped into each other at the business meet. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:114
+Arledge is a travel agent. Steadman is a farmer. Greenland is an administrative assistant. Misner is a firefighter. Greenland, Misner, Arledge, and Steadman bumped into each other at the community garden. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:115
+Kaminski is an architect. Sartor is a florist. Rusher is a teacher. Booze is a translator. Booze, Kaminski, Rusher, and Sartor started a conversation at the bar. She told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:116
+Porto is a factory worker. Waiters is a nurse. Galbraith is a teacher. Shetler is a travel agent. Porto, Galbraith, Waiters, and Shetler started a conversation at the house party. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:117
+Bala is a baker. Reeser is a farmer. Stenson is a travel agent. Elsberry is a stocking associate. At the specialty retail market, Bala, Elsberry, Reeser, and Stenson came across each other. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:118
+Gorden is a stocking associate. Spitzer is an architect. Sluder is an actor. Flom is a lifeguard. Sluder, Spitzer, Flom, and Gorden started a conversation at the specialty retail market. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:119
+Goudreau is a nurse. Budde is a florist. Mcnally is a factory worker. Hurn is a food preparation worker. Mcnally, Hurn, Goudreau, and Budde came across each other at the charity car wash. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:120
+Hinojos is a pilot. Stacks is an administrative assistant. Nunn is a farmer. Yetter is a travel agent. Stacks, Yetter, Hinojos, and Nunn bumped into each other at the fitness class. Ze told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:121
+Gandarilla is a dentist. Chahal is a farmer. Liverman is a travel agent. Molinari is a translator. Gandarilla, Liverman, Chahal, and Molinari started a conversation at the fitness class. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:122
+Agostini is a stocking associate. Aylward is a baker. Tasker is a model. Dulay is an architect. At the trivia night, Agostini, Aylward, Dulay, and Tasker came across each other. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:123
+Gerhard is a journalist. Greaves is a dentist. Alongi is a firefighter. Chenault is a florist. At the metro, Chenault, Alongi, Gerhard, and Greaves encountered each other. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:124
+Dolezal is an actor. Spero is a baker. Gatson is a firefighter. Michalek is a food preparation worker. At the library, Gatson, Dolezal, Michalek, and Spero came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:125
+Losoya is a translator. Fisch is a lifeguard. Leng is a journalist. Prahl is a farmer. At the wine tasting, Prahl, Fisch, Leng, and Losoya came across each other. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:126
+Beer is a translator. Fountain is a food preparation worker. Weisel is a lecturer. Branam is a travel agent. Branam, Weisel, Beer, and Fountain bumped into each other at the library. After a long day at work giving lectures in a university, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:127
+Mullings is a nurse. Kangas is a dentist. Mcbean is a farmer. Booze is a translator. At the archery class, Kangas, Booze, Mullings, and Mcbean encountered each other. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:128
+Kline is an actor. Silverman is an architect. Crossman is a stocking associate. Frisby is an administrative assistant. Frisby, Silverman, Crossman, and Kline bumped into each other at the book club. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:129
+Lagarde is a travel agent. Delaluz is a lecturer. Gale is an actor. Quintero is a translator. At the hotel, Lagarde, Quintero, Delaluz, and Gale came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:130
+Frias is a stocking associate. Mort is an actor. Davila is a firefighter. Bush is a baker. At the fitness class, Frias, Bush, Mort, and Davila came across each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:131
+Liriano is an architect. Shryock is an administrative assistant. Levan is a journalist. Back is a teacher. Shryock, Levan, Back, and Liriano started a conversation at the open gallery museum. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:132
+Shisler is a lecturer. Wicklund is a pilot. Sturges is an actor. Craycraft is a teacher. At the business expo, Wicklund, Sturges, Craycraft, and Shisler came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:133
+Lybarger is a stocking associate. Weger is a journalist. Hagopian is a factory worker. Hollenbeck is a dentist. At the party, Lybarger, Hollenbeck, Weger, and Hagopian encountered each other. Ze was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:134
+Baratta is a model. Olsson is a pilot. Dahlberg is a translator. Kneeland is a baker. Olsson, Baratta, Kneeland, and Dahlberg bumped into each other at the business expo. They were relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:135
+Younan is a model. Biswas is a farmer. Pimentel is a factory worker. Blackstone is a translator. At the holiday party, Younan, Pimentel, Biswas, and Blackstone came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:136
+Morlan is a florist. Swenson is an architect. Shankle is a factory worker. Kneeland is a model. Swenson, Morlan, Kneeland, and Shankle started a conversation at the business meet. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:137
+Kast is a lecturer. Earles is a farmer. Garza is an administrative assistant. Coke is a firefighter. Coke, Garza, Kast, and Earles came across each other at the business expo. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:138
+Mccarroll is a journalist. Hsieh is a dentist. Deel is a food preparation worker. Ours is a factory worker. At the library, Ours, Deel, Hsieh, and Mccarroll encountered each other. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:139
+Ung is a stocking associate. Grogg is a lecturer. Satchell is an actor. Handley is a baker. Satchell, Ung, Grogg, and Handley came across each other at the music and art festival. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:140
+Lillis is a translator. Eguia is a baker. Champagne is a pilot. Giardina is a factory worker. At the business expo, Lillis, Champagne, Giardina, and Eguia encountered each other. Ey told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:141
+Mceachern is a florist. Eisenman is a teacher. Vital is a farmer. Hagins is a firefighter. Vital, Mceachern, Eisenman, and Hagins started a conversation at the photography class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:142
+Shatto is a stocking associate. Woodrum is a journalist. Macneill is a food preparation worker. Streit is a model. Streit, Macneill, Shatto, and Woodrum came across each other at the dog park. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:143
+Harte is a dentist. Mccloy is a lifeguard. Straus is a translator. Powers is a factory worker. Straus, Mccloy, Powers, and Harte came across each other at the party. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:144
+Cooke is a translator. Whitener is a lecturer. Marlette is a baker. Hollingshead is a model. Hollingshead, Whitener, Marlette, and Cooke bumped into each other at the sports bar. After a long day at work working in fashion and modeling clothes and accessories, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:145
+Boozer is a pilot. Riedl is a firefighter. Hambright is a nurse. Markiewicz is an architect. At the open gallery museum, Markiewicz, Riedl, Boozer, and Hambright came across each other. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:146
+Peterkin is a food preparation worker. Ammerman is a model. Keaney is a pilot. Beard is a teacher. Keaney, Peterkin, Ammerman, and Beard started a conversation at the book store. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:147
+Alfano is a journalist. Pyatt is a florist. Perera is a travel agent. Vicknair is an actor. Alfano, Vicknair, Perera, and Pyatt started a conversation at the archery class. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:148
+Bublitz is a dentist. Chirinos is an architect. Kepple is a translator. Kirkbride is a food preparation worker. At the fitness class, Kepple, Kirkbride, Chirinos, and Bublitz encountered each other. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:149
+Criner is a dentist. Lavalley is a farmer. Ferretti is an architect. Rabe is an administrative assistant. Criner, Ferretti, Rabe, and Lavalley came across each other at the restaurant. After a long day at work fixing and treating problems with teeth, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:150
+Sandquist is a model. Barrientos is a dentist. Lebouef is a journalist. Hibbard is a teacher. Lebouef, Hibbard, Sandquist, and Barrientos started a conversation at the commuter bus. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:151
+Simpkins is a travel agent. Belcher is a florist. Pullum is a farmer. Stange is a firefighter. Pullum, Simpkins, Stange, and Belcher started a conversation at the happy hours. After a long day at work growing and selling flowers, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:152
+Phalen is a baker. Manske is a lecturer. Latino is a stocking associate. Mccay is a pilot. Mccay, Phalen, Latino, and Manske bumped into each other at the specialty retail market. He told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:153
+Manz is a model. Songer is a farmer. Aguiar is an administrative assistant. Ammerman is an actor. At the business expo, Aguiar, Ammerman, Manz, and Songer encountered each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:154
+Weiland is a stocking associate. Lammers is an architect. Thorsen is an administrative assistant. Pulliam is an actor. Lammers, Pulliam, Thorsen, and Weiland started a conversation at the dog park. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:155
+Hu is a baker. Angulo is a model. Obando is a firefighter. Teasley is an administrative assistant. Hu, Angulo, Teasley, and Obando started a conversation at the specialty retail market. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:156
+Cantwell is a pilot. Hemenway is a dentist. Mccrory is an architect. Newhart is a florist. Newhart, Hemenway, Mccrory, and Cantwell started a conversation at the wine tasting. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:157
+Krantz is a farmer. Fridley is a translator. Andreasen is a lecturer. Guizar is a pilot. Andreasen, Krantz, Fridley, and Guizar bumped into each other at the community garden. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:158
+Ramachandran is a travel agent. Rosenquist is a dentist. Perron is an actor. Kulp is a translator. Kulp, Perron, Rosenquist, and Ramachandran came across each other at the business expo. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:159
+Tiscareno is a journalist. Hageman is a factory worker. Maker is a firefighter. Dingler is a stocking associate. Hageman, Tiscareno, Maker, and Dingler came across each other at the metro. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:160
+Lapham is a factory worker. Penaloza is a dentist. Janzen is a pilot. Haq is a translator. Penaloza, Haq, Lapham, and Janzen started a conversation at the library. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:161
+Fisk is a model. Orner is an administrative assistant. Gabrielson is a lecturer. Kuhl is a stocking associate. Gabrielson, Orner, Fisk, and Kuhl started a conversation at the specialty retail market. They told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:162
+Bankston is a farmer. Delagarza is a pilot. Bradfield is a lifeguard. Bulger is a nurse. Delagarza, Bankston, Bulger, and Bradfield came across each other at the private club. They told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:163
+Mebane is a food preparation worker. Galbraith is a teacher. Krause is a factory worker. Leake is a journalist. Leake, Galbraith, Krause, and Mebane started a conversation at the book club. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:164
+Swing is a pilot. Hillyer is a food preparation worker. Molinaro is a nurse. Gilmour is a baker. Swing, Gilmour, Molinaro, and Hillyer came across each other at the metro. They told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:165
+Dinges is a lecturer. Neher is a journalist. Lamb is a food preparation worker. Grzybowski is a lifeguard. Grzybowski, Lamb, Dinges, and Neher bumped into each other at the community garden. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:166
+Callison is a model. Malagon is a translator. Dawkins is a farmer. Scaglione is an administrative assistant. Callison, Dawkins, Malagon, and Scaglione came across each other at the cafe. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:167
+Polk is a teacher. Emmons is a translator. Fansler is a food preparation worker. Penna is an actor. Fansler, Emmons, Polk, and Penna bumped into each other at the business expo. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:168
+Rivas is a nurse. Mancuso is a factory worker. Cabezas is a teacher. Nyman is a baker. At the business expo, Rivas, Mancuso, Nyman, and Cabezas came across each other. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:169
+Maner is a florist. Maradiaga is an administrative assistant. Swiatek is a stocking associate. Sotelo is a food preparation worker. Maner, Maradiaga, Sotelo, and Swiatek started a conversation at the music and art festival. After a long day at work growing and selling flowers, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:170
+Manalo is an architect. Berrier is an administrative assistant. Kost is a nurse. Huard is a food preparation worker. At the photography class, Kost, Berrier, Manalo, and Huard encountered each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:171
+Boylan is a food preparation worker. Zerr is a translator. Belz is a journalist. Stringer is a dentist. Boylan, Zerr, Stringer, and Belz bumped into each other at the trivia night. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:172
+Delafuente is an administrative assistant. Estell is a teacher. Kogut is a food preparation worker. Hughs is a factory worker. Estell, Kogut, Hughs, and Delafuente started a conversation at the business meet. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:173
+Hutchings is a pilot. Carrasco is a baker. Hwang is a factory worker. Endicott is a lecturer. Carrasco, Hwang, Hutchings, and Endicott bumped into each other at the stadium. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:174
+Herald is a nurse. Kwak is a farmer. Pecoraro is a dentist. Motto is a baker. Pecoraro, Herald, Motto, and Kwak started a conversation at the metro. After a long day at work making bread and cakes in a bakery, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:175
+Greenwalt is a model. Messinger is a teacher. Hildebrandt is an actor. Fuentez is a translator. At the party, Messinger, Greenwalt, Hildebrandt, and Fuentez came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:176
+Poteat is a model. Savell is an architect. Secor is a baker. Chaires is a travel agent. Secor, Savell, Chaires, and Poteat came across each other at the book store. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:177
+Porto is a baker. Mingo is an architect. Kochan is a dentist. Drennen is an actor. Kochan, Porto, Mingo, and Drennen bumped into each other at the beer making classes. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:178
+Bongiovanni is a food preparation worker. Gibbons is a travel agent. Sollars is an actor. Funderburk is a translator. Bongiovanni, Sollars, Funderburk, and Gibbons came across each other at the evening language class. After a long day at work cleaning the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:179
+Eilers is a translator. Dauria is a teacher. Keeter is a lifeguard. Foy is a travel agent. Eilers, Keeter, Dauria, and Foy started a conversation at the party. After a long day at work passing knowledge to students at school, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:180
+Immel is a stocking associate. Pitchford is a teacher. Kehl is a travel agent. Damico is a firefighter. At the evening language class, Immel, Kehl, Pitchford, and Damico encountered each other. After a long day at work putting out fires, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:181
+Glover is an administrative assistant. Henriquez is a baker. Hasbrouck is a model. Prisco is a pilot. Prisco, Henriquez, Glover, and Hasbrouck bumped into each other at the public transport. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:182
+Doster is a lecturer. Hagberg is a food preparation worker. Hodgson is a teacher. Wittmer is an architect. Hagberg, Wittmer, Doster, and Hodgson started a conversation at the fundraiser. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:183
+Hotchkiss is a lecturer. Winnett is an administrative assistant. Smelser is an architect. Datta is a firefighter. Hotchkiss, Smelser, Datta, and Winnett bumped into each other at the restaurant. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:184
+Henriquez is a factory worker. Fontes is a baker. Kafka is a dentist. Colella is a nurse. Kafka, Colella, Henriquez, and Fontes came across each other at the open gallery museum. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:185
+Touchet is a model. Quigley is a baker. Gano is an administrative assistant. Qi is a nurse. At the public transport, Quigley, Qi, Gano, and Touchet came across each other. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:186
+Blea is a lifeguard. Gettinger is a model. Dike is a nurse. Lozada is an administrative assistant. Dike, Gettinger, Lozada, and Blea started a conversation at the trivia night. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:187
+Halbrook is a factory worker. Hillery is an administrative assistant. Ying is a lifeguard. Beier is a farmer. Halbrook, Beier, Hillery, and Ying bumped into each other at the fundraiser. After a long day at work working in a factory, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:188
+Raddatz is a food preparation worker. Teasley is a pilot. Heald is an administrative assistant. Flory is a lecturer. Flory, Heald, Raddatz, and Teasley bumped into each other at the evening language class. Ze was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:189
+Alcazar is a dentist. Rascon is a pilot. Amis is an administrative assistant. Betancourt is a travel agent. Amis, Alcazar, Rascon, and Betancourt bumped into each other at the wine tasting. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:190
+Kallas is a lecturer. Segraves is a nurse. Husted is a stocking associate. Guard is a dentist. Husted, Guard, Segraves, and Kallas bumped into each other at the book store. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:191
+Lambrecht is an architect. Burgoyne is a stocking associate. Raposo is a teacher. Bauder is a factory worker. Bauder, Raposo, Burgoyne, and Lambrecht came across each other at the bar. They told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:192
+Pereira is a baker. Palmateer is a firefighter. Gallagher is a pilot. Eggen is a dentist. At the business meet, Eggen, Gallagher, Palmateer, and Pereira encountered each other. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:193
+Matteson is an administrative assistant. Newlon is a stocking associate. Tenorio is a lifeguard. Balderas is a model. At the hotel, Newlon, Balderas, Matteson, and Tenorio encountered each other. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:194
+Norvell is a farmer. Lagrange is a lifeguard. Humphreys is a food preparation worker. Bergeron is a pilot. Lagrange, Bergeron, Norvell, and Humphreys bumped into each other at the book club. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:195
+Mcmillion is a food preparation worker. Peart is a travel agent. Shouse is a translator. Jock is a journalist. Peart, Shouse, Jock, and Mcmillion bumped into each other at the business meet. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:196
+Shevlin is a journalist. Derose is a stocking associate. Cerny is a model. Steil is a florist. Steil, Derose, Shevlin, and Cerny started a conversation at the business meet. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:197
+Merwin is a farmer. Stein is a journalist. Okafor is a lifeguard. Arocha is a lecturer. Stein, Arocha, Okafor, and Merwin started a conversation at the fitness class. Ze told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:198
+Paschke is an administrative assistant. Zehnder is a baker. Born is a travel agent. Munsell is a journalist. At the fundraiser, Paschke, Munsell, Zehnder, and Born encountered each other. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:199
+Lybarger is a pilot. Notaro is a florist. Snelson is a firefighter. Bjorklund is a teacher. At the cafe, Lybarger, Bjorklund, Notaro, and Snelson came across each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:200
+Palacios is a florist. Sandquist is a baker. Mazzei is a farmer. Astorga is a firefighter. Mazzei, Sandquist, Astorga, and Palacios bumped into each other at the school reunion. She told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:201
+Woolley is a translator. Gerrish is a florist. Hayles is an actor. Shulman is an architect. Shulman, Hayles, Woolley, and Gerrish started a conversation at the commuter bus. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:202
+Bankston is a food preparation worker. Wiens is a stocking associate. Losoya is an administrative assistant. Altieri is a dentist. Bankston, Wiens, Losoya, and Altieri bumped into each other at the bar. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:203
+Rosenow is a florist. Costley is a nurse. Thoreson is a lecturer. Arruda is a journalist. At the open gallery museum, Rosenow, Thoreson, Costley, and Arruda came across each other. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:204
+Robb is an actor. Turlington is a stocking associate. Summers is a florist. Sine is an administrative assistant. At the party, Robb, Summers, Turlington, and Sine encountered each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:205
+Fulkerson is a factory worker. Denn is a firefighter. Stringer is a lecturer. Acevedo is a translator. Stringer, Fulkerson, Acevedo, and Denn started a conversation at the book store. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:206
+Bischoff is an actor. Mejias is a baker. Ugarte is a lifeguard. Mcgrew is a factory worker. Ugarte, Mcgrew, Bischoff, and Mejias bumped into each other at the wine tasting. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:207
+Brost is a firefighter. Elders is a dentist. Caso is a pilot. Sciacca is a lecturer. At the school reunion, Elders, Caso, Sciacca, and Brost came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:208
+Ley is a stocking associate. Brumm is a model. Gooch is a baker. Swing is a firefighter. At the restaurant, Swing, Brumm, Ley, and Gooch came across each other. Ze was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:209
+Shank is a stocking associate. Kravitz is an administrative assistant. Gans is a lifeguard. Theriot is a translator. At the hotel, Kravitz, Gans, Shank, and Theriot encountered each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:210
+Belt is a stocking associate. Hoskins is a farmer. Raby is an administrative assistant. Bickett is a baker. At the metro, Belt, Hoskins, Bickett, and Raby came across each other. After a long day at work making bread and cakes in a bakery, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:211
+Bonham is an actor. Mccurry is a factory worker. Koontz is a dentist. Liverman is a florist. Mccurry, Koontz, Liverman, and Bonham came across each other at the house party. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:212
+Raiford is a travel agent. Tignor is a model. Toledo is a food preparation worker. Valverde is a teacher. At the cafe, Raiford, Tignor, Valverde, and Toledo came across each other. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:213
+Pazmino is a baker. Cadet is a journalist. Mort is a stocking associate. Roane is a lecturer. Cadet, Roane, Pazmino, and Mort bumped into each other at the metro. He told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:214
+Halterman is a firefighter. Chao is a baker. Caskey is an administrative assistant. Chatterton is a nurse. Caskey, Chatterton, Chao, and Halterman started a conversation at the cafe. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:215
+Bingham is a farmer. Meads is a lifeguard. Mork is a dentist. Schreffler is a model. At the private club, Schreffler, Mork, Bingham, and Meads came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:216
+Weatherspoon is a nurse. Westra is a journalist. Rezendes is a teacher. Jaros is a factory worker. At the hotel, Jaros, Rezendes, Westra, and Weatherspoon came across each other. Ey was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:217
+Shimp is a firefighter. Schuelke is a model. Bakke is an actor. Goodlow is a factory worker. Goodlow, Schuelke, Shimp, and Bakke came across each other at the sports bar. After a long day at work working in a factory, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:218
+Dykema is a baker. Schlemmer is a teacher. Hemenway is a pilot. Granillo is an actor. Dykema, Hemenway, Schlemmer, and Granillo started a conversation at the restaurant. Ze was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:219
+Shapiro is a pilot. Goodfellow is a baker. Spurling is a food preparation worker. Riehle is a model. Spurling, Shapiro, Riehle, and Goodfellow bumped into each other at the book club. After a long day at work cleaning the kitchen area at restaurants, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:220
+Hard is a translator. Zuber is an administrative assistant. Trigueros is an actor. Pavon is a nurse. Trigueros, Hard, Zuber, and Pavon bumped into each other at the wine tasting. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:221
+Kogut is a factory worker. Sayegh is an actor. Deardorff is a florist. Vanness is a firefighter. Vanness, Kogut, Sayegh, and Deardorff bumped into each other at the book club. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:222
+Moynihan is a nurse. Beyers is a journalist. Neu is a farmer. Tamez is a pilot. Tamez, Beyers, Neu, and Moynihan started a conversation at the photography class. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:223
+Onofre is a lifeguard. Gerardi is an actor. Valadez is an architect. Heflin is a journalist. Heflin, Gerardi, Valadez, and Onofre started a conversation at the wine tasting. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:224
+Tomaszewski is a farmer. Sparacino is a florist. Still is a pilot. Treanor is a baker. Treanor, Still, Tomaszewski, and Sparacino bumped into each other at the fitness class. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:225
+Silvey is a stocking associate. Kogut is a farmer. Vasques is a travel agent. Marton is a firefighter. Vasques, Marton, Kogut, and Silvey started a conversation at the volunteer work. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:226
+Mayfield is an architect. Dunson is a model. Battaglia is a travel agent. Wilke is a teacher. At the happy hours, Wilke, Mayfield, Dunson, and Battaglia came across each other. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:227
+Donahoe is an administrative assistant. Partington is a journalist. Sommerville is a translator. Blizzard is a pilot. At the library, Blizzard, Sommerville, Partington, and Donahoe came across each other. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:228
+Qi is a baker. Schacht is a travel agent. Blankinship is a factory worker. Lucido is an administrative assistant. At the business meet, Blankinship, Lucido, Qi, and Schacht came across each other. After a long day at work organising and selling holidays and flights for others, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:229
+Horta is an architect. Mcconville is a florist. Hohl is a lifeguard. Grissett is a lecturer. At the commuter bus, Hohl, Grissett, Horta, and Mcconville came across each other. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:230
+Gose is a stocking associate. Quackenbush is a farmer. Mcelhaney is an administrative assistant. Smelser is a lifeguard. Mcelhaney, Quackenbush, Gose, and Smelser started a conversation at the music and art festival. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:231
+Roosa is a factory worker. Woolard is a stocking associate. Clinger is a lecturer. Hatfield is a florist. Roosa, Hatfield, Clinger, and Woolard bumped into each other at the dog park. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:232
+Ohearn is a journalist. Walley is a model. Bruckner is an actor. Weinstock is a lecturer. At the commuter bus, Ohearn, Weinstock, Bruckner, and Walley encountered each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:233
+Besse is a journalist. Fryman is a florist. Legere is a stocking associate. Leeds is a nurse. Fryman, Besse, Legere, and Leeds bumped into each other at the business meet. After a long day at work growing and selling flowers, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:234
+Southall is an architect. Cheshire is a translator. Garg is an actor. Chenoweth is a travel agent. At the commuter bus, Cheshire, Garg, Southall, and Chenoweth encountered each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:235
+Konen is a lecturer. Czech is an architect. Barringer is a translator. Isaacs is a baker. Czech, Barringer, Isaacs, and Konen started a conversation at the book club. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:236
+Sosnowski is an administrative assistant. Binion is a stocking associate. Silvey is a dentist. Yao is a journalist. Binion, Yao, Sosnowski, and Silvey started a conversation at the community garden. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:237
+Oliveri is a factory worker. Stripling is a firefighter. Hilliard is a model. Wendorf is a nurse. Hilliard, Oliveri, Wendorf, and Stripling came across each other at the stadium. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:238
+Harb is a translator. Roessler is a stocking associate. Mcinnis is a pilot. Dewolf is a journalist. Mcinnis, Dewolf, Roessler, and Harb came across each other at the volunteer work. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:239
+Poulsen is a lecturer. Sabatini is a factory worker. Sevier is a dentist. Ippolito is a food preparation worker. Poulsen, Sabatini, Sevier, and Ippolito bumped into each other at the business expo. She was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:240
+Burse is an administrative assistant. Schock is a nurse. Callanan is a pilot. Mcgeehan is a lecturer. Callanan, Mcgeehan, Schock, and Burse started a conversation at the party. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:241
+Cusick is a journalist. Body is a farmer. Nanney is a florist. Citizen is a stocking associate. Citizen, Cusick, Body, and Nanney bumped into each other at the bar. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:242
+Plyler is an architect. Gowan is a teacher. Nakayama is a factory worker. Gehrke is a baker. Gehrke, Nakayama, Plyler, and Gowan started a conversation at the metro. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:243
+Teeter is a baker. Sabado is a florist. Troncoso is a lecturer. Spohn is an administrative assistant. At the cafe, Sabado, Teeter, Troncoso, and Spohn encountered each other. Ze was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:244
+Worrall is a florist. Fritch is a nurse. Craine is a teacher. Geissler is a stocking associate. At the private club, Worrall, Geissler, Fritch, and Craine came across each other. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:245
+Wilkes is a lifeguard. Accardi is a travel agent. Richey is a firefighter. Hein is a translator. Accardi, Wilkes, Richey, and Hein bumped into each other at the house party. After a long day at work organising and selling holidays and flights for others, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:246
+Riddle is a model. Tieman is a lecturer. Hoekstra is a travel agent. Paley is an administrative assistant. Hoekstra, Paley, Tieman, and Riddle bumped into each other at the hotel. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:247
+Bencomo is a stocking associate. Brubaker is a journalist. Winch is a dentist. Soules is a model. Soules, Winch, Bencomo, and Brubaker came across each other at the volunteer work. Ey told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:248
+Richey is a pilot. Rothrock is a teacher. Ayon is a food preparation worker. Bartling is a stocking associate. Ayon, Richey, Bartling, and Rothrock came across each other at the business expo. She told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:249
+Scheib is an architect. Phares is a nurse. Durrant is a lifeguard. Oliveira is a model. At the dog park, Scheib, Phares, Durrant, and Oliveira encountered each other. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:250
+Pitcher is a pilot. Pare is a nurse. Cabello is a translator. Feemster is an administrative assistant. At the archery class, Pare, Feemster, Pitcher, and Cabello came across each other. They told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:251
+Blackburn is an actor. Whitlatch is a factory worker. Soltis is a dentist. Boettcher is a journalist. Soltis, Blackburn, Boettcher, and Whitlatch started a conversation at the library. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:252
+Lavergne is a nurse. Wescott is a pilot. Vicencio is a model. Hollenbeck is a teacher. Hollenbeck, Wescott, Lavergne, and Vicencio bumped into each other at the music and art festival. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:253
+Sheetz is an actor. Fridley is a dentist. Linderman is an architect. Stringfield is a lifeguard. At the holiday party, Fridley, Stringfield, Sheetz, and Linderman came across each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:254
+Vanhoose is a model. Burger is a nurse. Spiess is an architect. Mcelligott is a baker. At the fitness class, Burger, Vanhoose, Spiess, and Mcelligott encountered each other. After a long day at work designing building and houses, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:255
+Kilburn is an administrative assistant. Turgeon is a dentist. Archila is an architect. Lein is a journalist. Lein, Archila, Turgeon, and Kilburn came across each other at the photography class. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:256
+Mujica is a translator. Wingfield is a teacher. Ball is an architect. Woolbright is a baker. Woolbright, Wingfield, Ball, and Mujica started a conversation at the beer making classes. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:257
+Cadiz is a baker. Kinnear is a florist. Segraves is a factory worker. Rollo is a teacher. Rollo, Kinnear, Segraves, and Cadiz came across each other at the commuter bus. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:258
+Aponte is a lecturer. Mcnally is a lifeguard. Batres is an actor. Wallach is a travel agent. Aponte, Batres, Mcnally, and Wallach came across each other at the evening language class. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:259
+Hasley is a food preparation worker. Lawhead is a lecturer. Coghill is a translator. Bloss is a travel agent. At the wine tasting, Coghill, Hasley, Lawhead, and Bloss came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:260
+Threatt is a factory worker. Akers is a teacher. Uresti is a dentist. Knudsen is a translator. At the public transport, Knudsen, Akers, Uresti, and Threatt encountered each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:261
+Dandridge is an administrative assistant. Westby is a farmer. Schrum is a stocking associate. Schiltz is a nurse. Westby, Schrum, Schiltz, and Dandridge came across each other at the volunteer work. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:262
+Heslin is a lifeguard. Thomasson is an administrative assistant. Heatherly is a pilot. Simmon is a lecturer. Thomasson, Heslin, Simmon, and Heatherly started a conversation at the holiday party. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:263
+Askins is a baker. Peres is a firefighter. Mceachin is a pilot. Sosa is a translator. At the fitness class, Mceachin, Askins, Peres, and Sosa came across each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:264
+Schooley is a farmer. Betancourt is a nurse. Flippin is a dentist. Hartzler is a florist. At the stadium, Schooley, Hartzler, Flippin, and Betancourt came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:265
+Carcamo is a farmer. Byrnes is a travel agent. Sword is an actor. Lines is a translator. At the book club, Sword, Byrnes, Carcamo, and Lines encountered each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:266
+Millington is a florist. Mohn is a food preparation worker. Demeter is a translator. Spielman is a firefighter. Mohn, Millington, Spielman, and Demeter started a conversation at the evening language class. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:267
+Tietz is a travel agent. Dunn is a firefighter. Pankey is a factory worker. Salyer is a lecturer. At the house party, Salyer, Tietz, Pankey, and Dunn came across each other. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:268
+Eley is a travel agent. Ruckman is a lifeguard. Goehring is an administrative assistant. March is a firefighter. Eley, Ruckman, Goehring, and March started a conversation at the private club. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:269
+Dauria is a dentist. Qian is a factory worker. Marbury is an actor. Boylan is a food preparation worker. Boylan, Dauria, Marbury, and Qian came across each other at the hotel. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:270
+Pollak is a pilot. Destefano is a journalist. Tu is a florist. Lohmann is an administrative assistant. At the party, Tu, Pollak, Destefano, and Lohmann came across each other. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:271
+Twiggs is a firefighter. Bassi is a teacher. Flick is a lifeguard. Devoe is a journalist. Twiggs, Devoe, Flick, and Bassi bumped into each other at the library. After a long day at work passing knowledge to students at school, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:272
+Tutt is an administrative assistant. Innis is a lecturer. Hahn is an actor. Rozanski is a lifeguard. At the private club, Rozanski, Hahn, Innis, and Tutt encountered each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:273
+Zou is a baker. Sant is a farmer. Fazio is a food preparation worker. Hatmaker is a travel agent. At the fundraiser, Sant, Hatmaker, Zou, and Fazio encountered each other. Ze told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:274
+Cifuentes is a lecturer. Blick is a factory worker. Guizar is a pilot. Epling is a journalist. At the stadium, Epling, Guizar, Blick, and Cifuentes came across each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:275
+Garza is a firefighter. Parrott is a stocking associate. Stine is a nurse. Strahan is an architect. At the sports bar, Stine, Parrott, Garza, and Strahan came across each other. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:276
+Lesh is a factory worker. Wirt is a pilot. Rix is an administrative assistant. Lok is a dentist. Rix, Wirt, Lok, and Lesh came across each other at the specialty retail market. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:277
+Exline is a firefighter. Culp is a stocking associate. Valiente is a lifeguard. Rumley is a travel agent. Valiente, Rumley, Exline, and Culp came across each other at the school reunion. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:278
+Fauntleroy is a food preparation worker. Wilkey is a journalist. Sheffer is a teacher. Pifer is a firefighter. Fauntleroy, Pifer, Sheffer, and Wilkey started a conversation at the business meet. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:279
+Holsinger is a model. Galindez is a pilot. Roh is a farmer. Baksh is a lecturer. Baksh, Roh, Galindez, and Holsinger came across each other at the wine tasting. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:280
+Cocco is a teacher. Frisch is an administrative assistant. Pizano is a nurse. Casale is a dentist. Pizano, Casale, Frisch, and Cocco came across each other at the public transport. After a long day at work fixing and treating problems with teeth, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:281
+Hord is a factory worker. Coscia is a food preparation worker. Barrientos is a model. Chua is a baker. At the charity car wash, Coscia, Barrientos, Hord, and Chua encountered each other. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:282
+Ciccone is a dentist. Poplin is a farmer. Criner is a factory worker. Pavon is a model. Poplin, Pavon, Ciccone, and Criner started a conversation at the cafe. They were relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:283
+Hettinger is a food preparation worker. Moore is a firefighter. Lattin is an administrative assistant. Sisk is a farmer. Sisk, Moore, Lattin, and Hettinger came across each other at the specialty retail market. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:284
+Burney is a pilot. Chalfant is a travel agent. Fenley is a dentist. Riffe is a lecturer. Fenley, Burney, Chalfant, and Riffe came across each other at the book store. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:285
+Mares is a translator. Koepp is a travel agent. Pitchford is a pilot. Isaacs is a model. Isaacs, Koepp, Pitchford, and Mares started a conversation at the book club. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:286
+Steffens is a lifeguard. Hokanson is a florist. Gudino is a nurse. Birney is a pilot. Hokanson, Steffens, Gudino, and Birney started a conversation at the restaurant. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:287
+Dry is a travel agent. Gerdes is a firefighter. Kahler is a stocking associate. Zeman is a farmer. Dry, Zeman, Gerdes, and Kahler started a conversation at the cafe. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:288
+Hamburg is a lecturer. Pokorny is a model. Mcdonough is a baker. Izquierdo is an administrative assistant. Pokorny, Izquierdo, Hamburg, and Mcdonough came across each other at the hotel. Ze was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:289
+Mundell is an architect. Holsey is a nurse. Sturdivant is a firefighter. Lockridge is a pilot. Sturdivant, Holsey, Mundell, and Lockridge came across each other at the photography class. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:290
+Winebrenner is a florist. Swords is a farmer. Hyun is a food preparation worker. Bartle is a lecturer. Hyun, Bartle, Swords, and Winebrenner came across each other at the school reunion. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:291
+Surface is a farmer. Bischoff is a food preparation worker. Helmuth is a journalist. Epling is a dentist. Surface, Epling, Helmuth, and Bischoff started a conversation at the school reunion. They were relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:292
+Wessels is a firefighter. Buckles is a food preparation worker. Devault is an architect. Billingsley is a translator. At the happy hours, Buckles, Billingsley, Wessels, and Devault came across each other. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:293
+Hotchkiss is a journalist. Criddle is a farmer. Bivins is an administrative assistant. Meaux is a pilot. Criddle, Meaux, Bivins, and Hotchkiss bumped into each other at the archery class. Ze was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:294
+Clutter is a firefighter. Aguiar is a teacher. Matheney is a journalist. Byrne is a lifeguard. At the hotel, Byrne, Matheney, Aguiar, and Clutter encountered each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:295
+Edmunds is a factory worker. Palafox is an architect. Strock is a farmer. Bee is a nurse. Palafox, Edmunds, Strock, and Bee bumped into each other at the hotel. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:296
+Guest is a journalist. Tasker is an architect. Rice is a farmer. Nesbit is an administrative assistant. Rice, Nesbit, Tasker, and Guest started a conversation at the school reunion. After a long day at work overseeing the management of executives' calendars and travel arrangements, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:297
+Maus is an administrative assistant. Cottone is a lecturer. Sorrels is a lifeguard. Hambright is a baker. Hambright, Sorrels, Maus, and Cottone started a conversation at the charity car wash. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:298
+Schrum is a translator. Hovis is a travel agent. Compton is a model. Giffin is a food preparation worker. Compton, Giffin, Hovis, and Schrum bumped into each other at the evening language class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:299
+Goings is an actor. Manwaring is an architect. Raposo is a pilot. Bliven is a factory worker. Goings, Manwaring, Raposo, and Bliven bumped into each other at the beer making classes. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:300
+Nevitt is a stocking associate. Perlmutter is an architect. Witham is a farmer. Blacker is a lecturer. At the restaurant, Perlmutter, Witham, Blacker, and Nevitt came across each other. They told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:301
+Alleyne is a model. Farrier is a food preparation worker. Grooms is a stocking associate. Younts is an actor. Grooms, Farrier, Alleyne, and Younts started a conversation at the charity car wash. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:302
+Hook is an architect. Plank is a travel agent. Ocallaghan is an administrative assistant. Beach is a nurse. Hook, Ocallaghan, Beach, and Plank started a conversation at the evening language class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:303
+Lavigne is a florist. Pinon is a lifeguard. Gard is a translator. Stocking is a model. Gard, Lavigne, Pinon, and Stocking came across each other at the music and art festival. After a long day at work growing and selling flowers, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:304
+Foltz is a model. Pollak is an actor. Frasher is a firefighter. Schumann is a dentist. Pollak, Schumann, Frasher, and Foltz bumped into each other at the volunteer work. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:305
+Ramachandran is a translator. Polk is a travel agent. Privette is an administrative assistant. Rivas is a firefighter. Polk, Privette, Rivas, and Ramachandran came across each other at the school reunion. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:306
+Salter is a lifeguard. Lederer is a lecturer. Castro is a model. Butterworth is a firefighter. At the bar, Castro, Salter, Lederer, and Butterworth encountered each other. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:307
+Kopp is a farmer. Laduke is an architect. Mcnally is a florist. Quirk is a translator. At the cafe, Kopp, Laduke, Mcnally, and Quirk came across each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:308
+Volkert is a farmer. Peed is a dentist. Oglesby is a lifeguard. Ellman is a travel agent. At the community garden, Peed, Oglesby, Volkert, and Ellman encountered each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:309
+Bhardwaj is a travel agent. Lucido is a baker. Spires is an administrative assistant. Mckissick is an actor. Bhardwaj, Mckissick, Lucido, and Spires started a conversation at the hotel. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:310
+Chmura is a lecturer. Tarantino is a dentist. Kang is a pilot. Topp is a nurse. Topp, Tarantino, Chmura, and Kang came across each other at the holiday party. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:311
+Philpott is a farmer. Lozier is an administrative assistant. Treadaway is a food preparation worker. Irvine is a dentist. At the library, Lozier, Treadaway, Irvine, and Philpott came across each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:312
+Wein is a lecturer. Mohn is an administrative assistant. Shearin is a farmer. Mikula is a stocking associate. Wein, Shearin, Mohn, and Mikula bumped into each other at the school reunion. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:313
+Gran is a lifeguard. Lybarger is a dentist. Barksdale is a stocking associate. Houser is a farmer. Lybarger, Houser, Gran, and Barksdale came across each other at the cafe. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:314
+Yarbrough is a florist. Bostic is a teacher. Teneyck is a dentist. Choudhry is an administrative assistant. Yarbrough, Teneyck, Bostic, and Choudhry came across each other at the business meet. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:315
+Llerena is a farmer. Reimann is a florist. Sankar is an actor. Gosnell is a factory worker. Reimann, Llerena, Gosnell, and Sankar bumped into each other at the restaurant. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:316
+Beets is a firefighter. Milian is a lecturer. Kapur is a nurse. Morado is an actor. Kapur, Morado, Milian, and Beets started a conversation at the happy hours. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:317
+Lippincott is an architect. Breaux is a teacher. Gossman is a model. Casados is an actor. At the house party, Breaux, Gossman, Casados, and Lippincott came across each other. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:318
+Maresca is a farmer. Waguespack is a factory worker. Fouse is an actor. Frausto is a nurse. Fouse, Maresca, Frausto, and Waguespack came across each other at the wine tasting. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:319
+Grams is a firefighter. Sayers is a translator. Finan is a lifeguard. Bruch is a florist. Sayers, Bruch, Grams, and Finan started a conversation at the house party. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:320
+Elders is a teacher. Rakestraw is a journalist. Mccarter is a lifeguard. Waterbury is a model. Elders, Mccarter, Waterbury, and Rakestraw came across each other at the party. They were relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:321
+Swing is an administrative assistant. Claborn is a lecturer. Robie is a travel agent. Navarra is a firefighter. Claborn, Navarra, Robie, and Swing bumped into each other at the hotel. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:322
+Kopp is an administrative assistant. Hur is a florist. Derosa is an actor. Vanzandt is a model. Derosa, Vanzandt, Kopp, and Hur started a conversation at the volunteer work. After a long day at work overseeing the management of executives' calendars and travel arrangements, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:323
+Squire is a factory worker. Southall is a baker. Cooks is a teacher. Houtz is a lecturer. Squire, Houtz, Cooks, and Southall came across each other at the food and drink festival. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:324
+Ours is a journalist. Bolduc is a stocking associate. Nehring is an architect. Boomer is a model. At the book club, Boomer, Nehring, Ours, and Bolduc encountered each other. He told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:325
+Schick is a travel agent. Tocci is a translator. Northcutt is an administrative assistant. Knisley is a teacher. At the evening language class, Schick, Knisley, Northcutt, and Tocci encountered each other. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:326
+Rheaume is a farmer. Stiff is a lecturer. Spataro is a baker. Levesque is a translator. At the wine tasting, Levesque, Spataro, Rheaume, and Stiff encountered each other. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:327
+Lefevre is a teacher. Dorris is a stocking associate. Rivas is a baker. Ramesh is a lifeguard. At the specialty retail market, Rivas, Dorris, Lefevre, and Ramesh encountered each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:328
+Hollowell is a lecturer. Tillett is a translator. Parkey is a baker. Hernandezlopez is a stocking associate. Parkey, Hernandezlopez, Hollowell, and Tillett started a conversation at the private club. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:329
+Cashman is a journalist. Sheffer is a translator. Harbison is a lifeguard. Mangione is a travel agent. Sheffer, Cashman, Mangione, and Harbison started a conversation at the holiday party. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:330
+Prevost is a translator. Cavalier is a florist. Grondin is a baker. Pokorny is a lifeguard. Cavalier, Grondin, Pokorny, and Prevost started a conversation at the sports bar. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:331
+Avelar is a lecturer. Strozier is a pilot. Guttman is a baker. Weed is a translator. Strozier, Weed, Avelar, and Guttman started a conversation at the fitness class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:332
+Legendre is a baker. Sippel is a journalist. Renninger is a pilot. Bridgeforth is a firefighter. At the business expo, Legendre, Bridgeforth, Sippel, and Renninger came across each other. She told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:333
+Prejean is a firefighter. Kong is an administrative assistant. Mccrory is a baker. Gelb is an actor. At the school reunion, Prejean, Kong, Gelb, and Mccrory encountered each other. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:334
+Peasley is an administrative assistant. Brathwaite is a florist. Crompton is a model. Nightingale is a pilot. Crompton, Brathwaite, Nightingale, and Peasley started a conversation at the stadium. After a long day at work working in fashion and modeling clothes and accessories, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:335
+Blizzard is an actor. Cuello is a pilot. Fischbach is an administrative assistant. Likens is a stocking associate. Likens, Cuello, Fischbach, and Blizzard came across each other at the community garden. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:336
+Highsmith is a florist. Messersmith is a journalist. Chung is a factory worker. Persinger is a nurse. At the business meet, Chung, Persinger, Highsmith, and Messersmith encountered each other. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:337
+Crandell is a model. Mcculloch is a teacher. Pennell is a baker. Masterson is a lifeguard. Crandell, Mcculloch, Pennell, and Masterson bumped into each other at the charity car wash. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:338
+Fahey is a translator. Sirianni is a journalist. Kutz is a factory worker. Stehle is a baker. At the open gallery museum, Fahey, Stehle, Sirianni, and Kutz came across each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:339
+Mcginness is a factory worker. Brigman is a model. Goodwill is a nurse. Ulm is a travel agent. At the community garden, Brigman, Mcginness, Goodwill, and Ulm encountered each other. He told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:340
+Manske is a journalist. Rybak is a lecturer. Laprade is a baker. Troutman is a model. Laprade, Rybak, Manske, and Troutman came across each other at the evening language class. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:341
+Bybee is an architect. Cervantez is a pilot. Mattocks is an actor. Doolan is a food preparation worker. Doolan, Mattocks, Bybee, and Cervantez bumped into each other at the food and drink festival. After a long day at work cleaning the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:342
+Lafollette is a lifeguard. Willeford is an administrative assistant. Lebo is a journalist. Block is a travel agent. Lafollette, Willeford, Lebo, and Block came across each other at the library. They told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:343
+Pecora is an administrative assistant. Opp is a travel agent. Kessinger is a model. Sieber is a firefighter. Opp, Sieber, Pecora, and Kessinger started a conversation at the community garden. After a long day at work organising and selling holidays and flights for others, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:344
+Tuma is a florist. Buchman is a nurse. Grandberry is a pilot. Canizales is an architect. Buchman, Tuma, Canizales, and Grandberry started a conversation at the photography class. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:345
+Vivar is a pilot. Moraga is a translator. Sensenig is a lecturer. Bischof is a stocking associate. Sensenig, Moraga, Vivar, and Bischof bumped into each other at the holiday party. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:346
+Serna is a food preparation worker. Fields is a firefighter. Robards is a farmer. Hagedorn is a model. At the fitness class, Hagedorn, Robards, Fields, and Serna came across each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:347
+Crum is a dentist. Monsalve is a nurse. Bott is a farmer. Seward is a factory worker. Crum, Seward, Monsalve, and Bott started a conversation at the public transport. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:348
+Greenhaw is a baker. Patel is a stocking associate. Haas is a lifeguard. Bramlett is an architect. Bramlett, Haas, Patel, and Greenhaw started a conversation at the photography class. Ze was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:349
+Plank is a model. Hern is a food preparation worker. Farney is an administrative assistant. Hoagland is a factory worker. Plank, Hern, Farney, and Hoagland bumped into each other at the open gallery museum. After a long day at work working in fashion and modeling clothes and accessories, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:350
+Hoelscher is a farmer. Irick is a model. Mallette is an actor. Searcy is an administrative assistant. Searcy, Irick, Mallette, and Hoelscher bumped into each other at the school reunion. They told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:351
+Dutton is a teacher. Vanpelt is a model. Leite is a factory worker. Crutchfield is a dentist. Crutchfield, Leite, Vanpelt, and Dutton bumped into each other at the open gallery museum. They told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:352
+Shriner is a firefighter. Gonzales is a dentist. Scheib is an administrative assistant. Hoxie is an architect. Shriner, Gonzales, Scheib, and Hoxie came across each other at the open gallery museum. After a long day at work designing building and houses, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:353
+Talamantez is a farmer. Bornstein is a pilot. Mosquera is a nurse. Winnett is a florist. Talamantez, Winnett, Bornstein, and Mosquera bumped into each other at the fundraiser. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:354
+Sieber is a stocking associate. Rothwell is a model. Crane is a factory worker. Enochs is a firefighter. Crane, Sieber, Enochs, and Rothwell bumped into each other at the evening language class. After a long day at work putting out fires, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:355
+Theiss is a lecturer. Leyden is a lifeguard. Carlstrom is a journalist. Keyes is a model. At the open gallery museum, Leyden, Theiss, Carlstrom, and Keyes came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:356
+Degraw is a farmer. Lybarger is a dentist. Thiele is a model. Sheedy is a teacher. Degraw, Lybarger, Thiele, and Sheedy came across each other at the dog park. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:357
+Piotrowski is a lifeguard. Ramesh is a dentist. Christoffersen is an actor. Donati is an architect. Donati, Christoffersen, Piotrowski, and Ramesh started a conversation at the fitness class. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:358
+Guertin is a baker. Phifer is a farmer. Schuck is a lifeguard. Arzate is a firefighter. Phifer, Guertin, Schuck, and Arzate came across each other at the photography class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:359
+Holst is a journalist. Bednarz is a translator. Mccrory is a baker. Sant is an actor. At the photography class, Holst, Mccrory, Sant, and Bednarz came across each other. He told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:360
+Tuazon is a lecturer. Poarch is a travel agent. Genova is an administrative assistant. Helmick is a stocking associate. Tuazon, Poarch, Genova, and Helmick came across each other at the library. He told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:361
+Harshbarger is a lifeguard. Tsang is an actor. Jaynes is a pilot. Friesen is a journalist. Harshbarger, Tsang, Friesen, and Jaynes started a conversation at the music and art festival. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:362
+Ake is a farmer. Mosser is an actor. Fryman is a dentist. Groom is a journalist. Mosser, Ake, Fryman, and Groom came across each other at the business meet. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:363
+Cutshaw is a lecturer. Donati is a farmer. Sears is a lifeguard. Berg is a florist. Sears, Berg, Donati, and Cutshaw came across each other at the wine tasting. After a long day at work giving lectures in a university, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:364
+Speck is a firefighter. Arndt is a stocking associate. Minnick is a pilot. Chewning is a lifeguard. At the book club, Chewning, Arndt, Minnick, and Speck came across each other. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:365
+Deavila is a factory worker. Tower is a pilot. Hose is a translator. Manders is a teacher. At the library, Manders, Deavila, Hose, and Tower came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:366
+Mccune is a model. Kind is a nurse. Mclaurin is a factory worker. Flick is a lifeguard. Mccune, Flick, Mclaurin, and Kind came across each other at the archery class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:367
+Starnes is a food preparation worker. Bartman is a journalist. Frias is a baker. Worcester is a factory worker. Bartman, Frias, Starnes, and Worcester bumped into each other at the school reunion. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:368
+Vogler is a food preparation worker. Mowbray is a dentist. Cheever is a journalist. Baca is an architect. At the music and art festival, Baca, Cheever, Vogler, and Mowbray came across each other. Ey told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:369
+Mincey is a lifeguard. Llerena is a travel agent. Cutting is a stocking associate. Winstead is a florist. Cutting, Mincey, Winstead, and Llerena came across each other at the charity car wash. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:370
+Ramires is a dentist. Steelman is a model. Lavallee is a firefighter. Mooney is an administrative assistant. At the school reunion, Mooney, Steelman, Lavallee, and Ramires encountered each other. They were relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:371
+Munns is a teacher. Cadena is a travel agent. Horning is a stocking associate. Bevilacqua is an architect. Munns, Bevilacqua, Horning, and Cadena started a conversation at the cafe. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:372
+Steward is a firefighter. Eberle is a journalist. Gammill is a factory worker. Fountain is an architect. Steward, Fountain, Eberle, and Gammill came across each other at the book club. She told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:373
+Fife is a stocking associate. Beam is a food preparation worker. Benford is a model. Vanetten is a factory worker. At the school reunion, Beam, Fife, Benford, and Vanetten came across each other. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:374
+Benavente is a journalist. Porterfield is a firefighter. Bolte is a factory worker. Vandenberg is a nurse. At the photography class, Vandenberg, Bolte, Benavente, and Porterfield came across each other. He told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:375
+Ojo is an architect. Sedlak is a translator. Straughn is a baker. Boehm is a pilot. Sedlak, Ojo, Straughn, and Boehm came across each other at the business meet. They were relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:376
+Cecere is a baker. Cronin is an actor. Barrus is an architect. Hernandezlopez is a journalist. Cronin, Cecere, Barrus, and Hernandezlopez bumped into each other at the charity car wash. Ze told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:377
+Fenley is an actor. Ebel is a translator. Graff is a factory worker. Mcmillan is a dentist. Ebel, Graff, Fenley, and Mcmillan bumped into each other at the public transport. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:378
+Frutos is a farmer. Hopewell is a journalist. Seger is a baker. Peart is an architect. At the cafe, Peart, Hopewell, Frutos, and Seger came across each other. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:379
+Gehring is a translator. Sweatman is a lifeguard. Lavin is a baker. Dunagan is a dentist. Sweatman, Dunagan, Gehring, and Lavin started a conversation at the charity car wash. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:380
+Olsson is a baker. Tineo is a nurse. Stucky is a stocking associate. Brutus is a lifeguard. Tineo, Stucky, Brutus, and Olsson bumped into each other at the hotel. She told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:381
+Eckels is a travel agent. Farney is a lecturer. Faulkner is a baker. Thorn is a firefighter. At the public transport, Thorn, Faulkner, Farney, and Eckels encountered each other. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:382
+Messer is a baker. Levingston is a model. Cantero is a florist. Reinert is a farmer. Cantero, Reinert, Messer, and Levingston started a conversation at the cafe. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:383
+Ashburn is a teacher. Dishman is a baker. Strock is a food preparation worker. Roos is a lifeguard. At the specialty retail market, Dishman, Strock, Roos, and Ashburn encountered each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:384
+Lamoureux is a stocking associate. Quiles is a firefighter. Serratos is a nurse. Harker is a lifeguard. Quiles, Harker, Serratos, and Lamoureux started a conversation at the music and art festival. After a long day at work putting out fires, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:385
+Eastep is a baker. Zou is a farmer. Kost is a travel agent. Lupton is a nurse. Lupton, Zou, Eastep, and Kost started a conversation at the school reunion. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:386
+Duenez is a food preparation worker. Plank is a model. Wathen is an architect. Hashimoto is a baker. Duenez, Hashimoto, Plank, and Wathen started a conversation at the school reunion. After a long day at work making bread and cakes in a bakery, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:387
+Butterworth is a nurse. Short is an actor. Guzman is a pilot. Greenwald is a journalist. Greenwald, Short, Butterworth, and Guzman came across each other at the book store. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:388
+Ramakrishnan is a firefighter. Lichty is a farmer. Okane is a stocking associate. Rudisill is a model. At the metro, Rudisill, Lichty, Ramakrishnan, and Okane encountered each other. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:389
+Dubiel is a dentist. Tomlin is an architect. Karch is a stocking associate. Besaw is an actor. Tomlin, Karch, Besaw, and Dubiel bumped into each other at the sports bar. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:390
+Roh is a baker. Dusek is a food preparation worker. Kollman is a teacher. Oyler is a lifeguard. Dusek, Oyler, Roh, and Kollman bumped into each other at the school reunion. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:391
+Parten is a teacher. Ellerbe is an administrative assistant. Villasana is a translator. Benavente is an architect. Villasana, Ellerbe, Parten, and Benavente came across each other at the bar. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:392
+Dykema is a journalist. Sawicki is an actor. Naples is a pilot. Bollin is a travel agent. Dykema, Bollin, Sawicki, and Naples started a conversation at the house party. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:393
+Hahn is a pilot. Ramesh is a travel agent. Notaro is a dentist. Sarno is a lifeguard. At the school reunion, Hahn, Notaro, Ramesh, and Sarno came across each other. They were relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:394
+Deroche is a nurse. Iler is a factory worker. Morrell is a model. Licari is a lecturer. At the hotel, Deroche, Morrell, Licari, and Iler came across each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:395
+Ugarte is a dentist. Batres is a firefighter. Gatica is an administrative assistant. Son is an actor. Son, Ugarte, Batres, and Gatica bumped into each other at the metro. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:396
+Santistevan is a lifeguard. Dall is a nurse. Corliss is a translator. Blea is a model. Dall, Blea, Santistevan, and Corliss bumped into each other at the happy hours. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:397
+Lagrange is an actor. Threatt is a farmer. Heitman is a lecturer. Howington is an architect. Threatt, Heitman, Howington, and Lagrange came across each other at the party. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:398
+Baur is a journalist. Becton is a stocking associate. Cassara is a firefighter. Fogarty is a baker. Fogarty, Cassara, Baur, and Becton started a conversation at the charity car wash. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/full-text/validation:399
+Doane is a farmer. Biehl is a florist. Lakhani is a model. Plemons is a baker. At the holiday party, Lakhani, Biehl, Plemons, and Doane came across each other. She told anecdotes from a career of growing and selling flowers.

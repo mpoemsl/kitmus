@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:0
+Weiland is an onner. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of an onner is patrolling problems professionally. Pruneda is a wenbumber. The work of a wenbumber is preparing food for eyes in a restaurant. Throckmorton is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:1
+The work of a pinwer is repairing the warehouse systems or reports. Riddle is a pinwer. Sikora is an onner. The work of an onner is patrolling problems professionally. Fenn is a poyefer. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:2
+The work of a seaizer is making software calendars in language and television. Defazio is a fangher. The work of a pinwer is repairing the warehouse systems or reports. Boggan is a seaizer. The work of a fangher is patrolling pipes in court and giving legal advice. Sievert is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:3
+Fitzsimmons is a contaker. The work of a pinwer is repairing the warehouse systems or reports. The work of a cluker is working for the management. Terhune is a cluker. Hutsell is a pinwer. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:4
+The work of a prottober is looking after sick animals by making veterinary medicine. Fries is a jogunder. Pugliese is a culfaer. Drexler is a prottober. The work of a jogunder is keeping organizations in a bakery. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:5
+The work of a prottober is looking after sick animals by making veterinary medicine. Duong is a camsciater. Suchy is a prottober. The work of an onner is patrolling problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Cazares is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:6
+Walther is a cluker. The work of a pinwer is repairing the warehouse systems or reports. The work of a culfaer is unpacking merchandise when it arrives at the university. Segars is a culfaer. Morlan is a pinwer. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:7
+Stubbs is a byeeper. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a patalcer is reading and giving the news on aircraft. Colosimo is a patalcer. The work of a byeeper is acting in a seat or a location. Bomberger is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:8
+The work of a fangher is patrolling pipes in court and giving legal advice. Grimmett is a fangher. The work of a dymer is managing a customer's or school's financial records. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Vosburgh is a tolter. Rosato is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:9
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an oducer is writing books or problems professionally. Loveall is an oducer. The work of a cluker is working for the management. Slagle is a cluker. Bodkin is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:10
+Pendleton is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Blum is an exsowiver. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Belfiore is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:11
+Borbon is a cluker. The work of a cluker is working for the management. Graf is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a culfaer is unpacking merchandise when it arrives at the university. Flippen is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:12
+The work of a jogunder is keeping organizations in a bakery. Gelinas is a peeptoer. Tack is a cluker. The work of a cluker is working for the management. The work of a peeptoer is preparing and reporting the beach on television. Petrey is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:13
+Younan is a dymer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a dymer is managing a customer's or school's financial records. Sikes is a pinwer. Ebron is a camsciater. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:14
+Baril is a poyefer. The work of a pinwer is repairing the warehouse systems or reports. Bottom is a pinwer. The work of a poyefer is making and checking buildings professionally. Sison is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:15
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Mallett is a camsciater. The work of a dymer is managing a customer's or school's financial records. Gouge is a dymer. The work of a poyefer is making and checking buildings professionally. Salva is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:16
+Shellman is a pinwer. Abell is a seaizer. Picou is a jogunder. The work of a pinwer is repairing the warehouse systems or reports. The work of a jogunder is keeping organizations in a bakery. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:17
+The work of a seaizer is making software calendars in language and television. The work of a pinwer is repairing the warehouse systems or reports. Fanning is a wenbumber. Moniz is a seaizer. Humbert is a pinwer. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:18
+Paquette is a fangher. Tullos is a byeeper. Vacca is a camsciater. The work of a byeeper is acting in a seat or a location. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:19
+Cornish is an oducer. The work of a culfaer is unpacking merchandise when it arrives at the university. Garnica is a poyefer. Seigler is a culfaer. The work of a poyefer is making and checking buildings professionally. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:20
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Luman is an exsowiver. Mckain is a tolter. Secord is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:21
+Aldaco is an exsowiver. The work of a dymer is managing a customer's or school's financial records. The work of a pinwer is repairing the warehouse systems or reports. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Milliner is a dymer. Woolfolk is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:22
+The work of a poyefer is making and checking buildings professionally. Wootton is a poyefer. The work of a seaizer is making software calendars in language and television. The work of an oducer is writing books or problems professionally. Lehner is a seaizer. Meisel is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:23
+The work of a prottober is looking after sick animals by making veterinary medicine. The work of a wenbumber is preparing food for eyes in a restaurant. Shofner is a prottober. Clyne is a byeeper. The work of a byeeper is acting in a seat or a location. Hambright is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:24
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a peeptoer is preparing and reporting the beach on television. Merkle is a peeptoer. Overstreet is a mirituer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Balderas is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:25
+Noyes is a fangher. Ake is a poyefer. Hockensmith is an exsowiver. The work of a poyefer is making and checking buildings professionally. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:26
+The work of a jogunder is keeping organizations in a bakery. The work of a pinwer is repairing the warehouse systems or reports. Card is a pinwer. Bross is a seaizer. Bains is a jogunder. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:27
+Negri is an onner. Lehr is a camsciater. The work of a byeeper is acting in a seat or a location. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an onner is patrolling problems professionally. Barone is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:28
+Scaggs is a seaizer. The work of a seaizer is making software calendars in language and television. The work of a jogunder is keeping organizations in a bakery. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Beaudet is a jogunder. Lutz is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:29
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Cheung is a dymer. The work of a dymer is managing a customer's or school's financial records. Laabs is a culfaer. Fitzhugh is a mirituer. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:30
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of a patalcer is reading and giving the news on aircraft. Fanelli is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. Sant is a patalcer. Fleet is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:31
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a byeeper is acting in a seat or a location. The work of an oducer is writing books or problems professionally. Hagood is a byeeper. Sorrell is a tolter. Cookson is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:32
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Carlsen is an onner. The work of an onner is patrolling problems professionally. The work of a prottober is looking after sick animals by making veterinary medicine. Kwok is a prottober. Diosdado is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:33
+The work of a wenbumber is preparing food for eyes in a restaurant. Varughese is a mirituer. Sabol is a camsciater. Warnock is a wenbumber. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:34
+Boller is a patalcer. Millet is a camsciater. The work of a seaizer is making software calendars in language and television. The work of a patalcer is reading and giving the news on aircraft. Baugher is a seaizer. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:35
+The work of a dymer is managing a customer's or school's financial records. The work of a patalcer is reading and giving the news on aircraft. The work of an oducer is writing books or problems professionally. Bloomquist is an oducer. Hackbarth is a dymer. Giuliani is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:36
+Flack is an exsowiver. Sussman is a cluker. The work of a cluker is working for the management. The work of a byeeper is acting in a seat or a location. Parkins is a byeeper. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:37
+Pender is a patalcer. The work of a patalcer is reading and giving the news on aircraft. Basso is a contaker. Ballesteros is a prottober. The work of a contaker is managing goods in a company. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:38
+Hirsh is a jogunder. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a cluker is working for the management. The work of a jogunder is keeping organizations in a bakery. Kwiatkowski is a tolter. Wier is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:39
+The work of a prottober is looking after sick animals by making veterinary medicine. Ponds is a prottober. The work of an oducer is writing books or problems professionally. The work of a fangher is patrolling pipes in court and giving legal advice. Sultana is an oducer. Mott is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:40
+Delfin is a wenbumber. Filsaime is a byeeper. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Schneck is a mirituer. The work of a byeeper is acting in a seat or a location. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:41
+The work of a seaizer is making software calendars in language and television. The work of a poyefer is making and checking buildings professionally. Loar is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. Lamotte is a poyefer. Gear is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:42
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Dopp is a tolter. Printz is a seaizer. Vitale is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:43
+Gillispie is a contaker. Gongora is a fangher. Lamanna is a tolter. The work of a contaker is managing goods in a company. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:44
+Hudgens is a prottober. The work of an oducer is writing books or problems professionally. The work of a contaker is managing goods in a company. Pew is an oducer. Nale is a contaker. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:45
+Wacker is a jogunder. The work of a poyefer is making and checking buildings professionally. Running is a prottober. Luevano is a poyefer. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:46
+The work of a pinwer is repairing the warehouse systems or reports. Craver is a pinwer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Barthelemy is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. Bianchini is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:47
+Winget is an oducer. Mynatt is an onner. The work of a poyefer is making and checking buildings professionally. The work of an onner is patrolling problems professionally. Banerjee is a poyefer. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:48
+Caster is a dymer. The work of a dymer is managing a customer's or school's financial records. The work of an onner is patrolling problems professionally. Terhune is an onner. Slack is a byeeper. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:49
+The work of a peeptoer is preparing and reporting the beach on television. The work of a jogunder is keeping organizations in a bakery. Dressler is a peeptoer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Fogarty is a camsciater. Pine is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:50
+The work of a prottober is looking after sick animals by making veterinary medicine. Huseman is a prottober. The work of a seaizer is making software calendars in language and television. The work of a poyefer is making and checking buildings professionally. Zavala is a poyefer. Mansell is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:51
+Leinbach is a cluker. Panek is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. The work of an onner is patrolling problems professionally. Lusk is an onner. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:52
+Chilson is a byeeper. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a byeeper is acting in a seat or a location. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Epperly is a tolter. Reynaga is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:53
+The work of a fangher is patrolling pipes in court and giving legal advice. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. New is an exsowiver. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Claxton is a fangher. Chiu is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:54
+The work of a wenbumber is preparing food for eyes in a restaurant. Echeverri is a byeeper. The work of a jogunder is keeping organizations in a bakery. Sneed is a wenbumber. Leber is a jogunder. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:55
+Lollar is an onner. The work of a patalcer is reading and giving the news on aircraft. The work of a byeeper is acting in a seat or a location. Worthy is a patalcer. Garza is a byeeper. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:56
+The work of a cluker is working for the management. Do is a patalcer. Clutter is a cluker. The work of a patalcer is reading and giving the news on aircraft. The work of a jogunder is keeping organizations in a bakery. Santoyo is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:57
+The work of a culfaer is unpacking merchandise when it arrives at the university. Welcome is a peeptoer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a peeptoer is preparing and reporting the beach on television. Gaillard is a tolter. Aho is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:58
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a contaker is managing goods in a company. Sellers is an exsowiver. Ferrell is a tolter. Ehler is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:59
+The work of a dymer is managing a customer's or school's financial records. The work of a poyefer is making and checking buildings professionally. The work of a wenbumber is preparing food for eyes in a restaurant. Candler is a wenbumber. Dubuque is a poyefer. Solt is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:60
+Ogren is a patalcer. The work of a byeeper is acting in a seat or a location. Czarnecki is a byeeper. Muir is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:61
+The work of a dymer is managing a customer's or school's financial records. Fowler is a peeptoer. The work of a poyefer is making and checking buildings professionally. The work of a peeptoer is preparing and reporting the beach on television. Ogletree is a dymer. Prejean is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:62
+Lease is an onner. Chin is a culfaer. Zoeller is a pinwer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of an onner is patrolling problems professionally. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:63
+Lach is a byeeper. The work of a patalcer is reading and giving the news on aircraft. Anchondo is a patalcer. Peach is a cluker. The work of a byeeper is acting in a seat or a location. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:64
+Alford is a fangher. The work of a byeeper is acting in a seat or a location. Barros is a dymer. The work of a dymer is managing a customer's or school's financial records. The work of a fangher is patrolling pipes in court and giving legal advice. Running is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:65
+Smail is a seaizer. Ringer is a poyefer. The work of a seaizer is making software calendars in language and television. The work of a peeptoer is preparing and reporting the beach on television. The work of a poyefer is making and checking buildings professionally. Doughty is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:66
+The work of a seaizer is making software calendars in language and television. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Xie is a peeptoer. Rugg is a mirituer. Wainwright is a seaizer. The work of a peeptoer is preparing and reporting the beach on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:67
+The work of a seaizer is making software calendars in language and television. Chiang is a seaizer. Kittinger is a peeptoer. The work of a contaker is managing goods in a company. Rodgers is a contaker. The work of a peeptoer is preparing and reporting the beach on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:68
+The work of a pinwer is repairing the warehouse systems or reports. Eveland is a camsciater. Hedberg is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Goble is a pinwer. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:69
+The work of a byeeper is acting in a seat or a location. Nowak is a byeeper. The work of a wenbumber is preparing food for eyes in a restaurant. Pillow is a dymer. Mullinix is a wenbumber. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:70
+Winchester is an oducer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an oducer is writing books or problems professionally. Atencio is a camsciater. The work of a contaker is managing goods in a company. Seagle is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:71
+The work of a contaker is managing goods in a company. Ridder is a byeeper. The work of a byeeper is acting in a seat or a location. The work of a poyefer is making and checking buildings professionally. Garnica is a contaker. Odle is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:72
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Nock is a camsciater. The work of a poyefer is making and checking buildings professionally. The work of a patalcer is reading and giving the news on aircraft. Garrow is a patalcer. Duff is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:73
+The work of a patalcer is reading and giving the news on aircraft. Concha is a patalcer. Freed is a peeptoer. The work of a pinwer is repairing the warehouse systems or reports. Mcdougald is a pinwer. The work of a peeptoer is preparing and reporting the beach on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:74
+Valliere is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Hitchcock is a pinwer. The work of an oducer is writing books or problems professionally. The work of a pinwer is repairing the warehouse systems or reports. Valdivia is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:75
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a patalcer is reading and giving the news on aircraft. Siguenza is a patalcer. Mcnees is an oducer. The work of an oducer is writing books or problems professionally. Goetsch is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:76
+Gingras is a prottober. Beltran is a culfaer. Batres is a seaizer. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:77
+The work of a poyefer is making and checking buildings professionally. The work of a culfaer is unpacking merchandise when it arrives at the university. Freer is a culfaer. Baxley is a patalcer. The work of a patalcer is reading and giving the news on aircraft. Farquharson is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:78
+Herlihy is a mirituer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a seaizer is making software calendars in language and television. Mchugh is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Louviere is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:79
+The work of a jogunder is keeping organizations in a bakery. Sprague is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. The work of an onner is patrolling problems professionally. Montilla is a jogunder. Mcnatt is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:80
+The work of a contaker is managing goods in a company. Belfiore is a pinwer. Russom is a contaker. The work of a peeptoer is preparing and reporting the beach on television. The work of a pinwer is repairing the warehouse systems or reports. Purdom is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:81
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Colletti is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Wine is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. Avent is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:82
+The work of a cluker is working for the management. The work of a contaker is managing goods in a company. Aylward is a cluker. Spoon is a contaker. The work of a seaizer is making software calendars in language and television. Buitron is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:83
+Arriaza is a pinwer. The work of a peeptoer is preparing and reporting the beach on television. The work of a pinwer is repairing the warehouse systems or reports. Swisher is a peeptoer. Hershman is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:84
+Lemanski is an oducer. Ambler is a cluker. The work of a cluker is working for the management. Earp is a wenbumber. The work of an oducer is writing books or problems professionally. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:85
+The work of a patalcer is reading and giving the news on aircraft. The work of an oducer is writing books or problems professionally. The work of a poyefer is making and checking buildings professionally. Harger is a patalcer. Hensler is an oducer. Moskowitz is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:86
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Krull is a tolter. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Heger is a mirituer. The work of a contaker is managing goods in a company. Kettler is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:87
+Hasbrouck is a seaizer. The work of a patalcer is reading and giving the news on aircraft. The work of a peeptoer is preparing and reporting the beach on television. Liles is a peeptoer. The work of a seaizer is making software calendars in language and television. Borel is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:88
+Heid is a peeptoer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a peeptoer is preparing and reporting the beach on television. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Svendsen is a camsciater. Heflin is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:89
+Balcom is a byeeper. Kegler is an onner. Heinze is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of an onner is patrolling problems professionally. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:90
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of a prottober is looking after sick animals by making veterinary medicine. Borelli is a culfaer. Geise is a wenbumber. The work of a culfaer is unpacking merchandise when it arrives at the university. Telford is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:91
+Caskey is a fangher. Barth is an onner. The work of an onner is patrolling problems professionally. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a pinwer is repairing the warehouse systems or reports. Ocana is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:92
+The work of a cluker is working for the management. The work of a jogunder is keeping organizations in a bakery. Guevara is a cluker. Herdman is a jogunder. The work of a peeptoer is preparing and reporting the beach on television. Lietz is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:93
+The work of a wenbumber is preparing food for eyes in a restaurant. Huisman is a wenbumber. The work of a byeeper is acting in a seat or a location. The work of a pinwer is repairing the warehouse systems or reports. Stamm is a byeeper. Provencio is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:94
+The work of a peeptoer is preparing and reporting the beach on television. Woodward is an exsowiver. Pavlick is a peeptoer. The work of a dymer is managing a customer's or school's financial records. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Demas is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:95
+The work of a byeeper is acting in a seat or a location. Yao is a byeeper. Zaragoza is a poyefer. The work of a pinwer is repairing the warehouse systems or reports. The work of a poyefer is making and checking buildings professionally. Houser is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:96
+Simko is a contaker. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Gertz is a fangher. The work of a contaker is managing goods in a company. The work of a fangher is patrolling pipes in court and giving legal advice. Lyttle is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:97
+Bankhead is an onner. The work of a wenbumber is preparing food for eyes in a restaurant. Cavallo is a pinwer. The work of an onner is patrolling problems professionally. The work of a pinwer is repairing the warehouse systems or reports. Toomey is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:98
+Hanner is a dymer. Palko is a pinwer. The work of a dymer is managing a customer's or school's financial records. The work of a pinwer is repairing the warehouse systems or reports. The work of a seaizer is making software calendars in language and television. Christenson is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:99
+Kreps is a jogunder. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a jogunder is keeping organizations in a bakery. Nock is a mirituer. The work of a culfaer is unpacking merchandise when it arrives at the university. Leblanc is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:100
+The work of a cluker is working for the management. The work of a contaker is managing goods in a company. The work of a peeptoer is preparing and reporting the beach on television. Dare is a peeptoer. Spikes is a contaker. Crouch is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:101
+Gartman is a tolter. Durrant is a pinwer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Coons is a culfaer. The work of a pinwer is repairing the warehouse systems or reports. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:102
+Guth is a poyefer. The work of a poyefer is making and checking buildings professionally. Weiland is an onner. The work of an onner is patrolling problems professionally. Lalli is a cluker. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:103
+The work of a dymer is managing a customer's or school's financial records. Thein is a contaker. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Berube is a dymer. Oller is a tolter. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:104
+Meier is a dymer. The work of a cluker is working for the management. The work of a jogunder is keeping organizations in a bakery. Chatmon is a cluker. Rhoden is a jogunder. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:105
+Gouge is a seaizer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Byrnes is a camsciater. The work of a seaizer is making software calendars in language and television. Schluter is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:106
+Frick is a poyefer. Bonk is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a poyefer is making and checking buildings professionally. The work of a fangher is patrolling pipes in court and giving legal advice. Border is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:107
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of an onner is patrolling problems professionally. Morrisey is a contaker. Kittrell is a wenbumber. Becerril is an onner. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:108
+The work of a culfaer is unpacking merchandise when it arrives at the university. The work of an oducer is writing books or problems professionally. Veliz is an oducer. Chiang is a culfaer. Valiente is a jogunder. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:109
+Jahnke is a camsciater. Gordy is a byeeper. The work of an oducer is writing books or problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Cashion is an oducer. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:110
+Mcmorris is an onner. Rosson is a seaizer. The work of an onner is patrolling problems professionally. Gutierres is a jogunder. The work of a jogunder is keeping organizations in a bakery. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:111
+Mcgirt is a dymer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a prottober is looking after sick animals by making veterinary medicine. Red is a prottober. The work of a dymer is managing a customer's or school's financial records. Scalf is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:112
+Eshelman is an exsowiver. Gartman is a byeeper. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Etchison is a wenbumber. The work of a byeeper is acting in a seat or a location. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:113
+Diep is a fangher. Rives is a contaker. Ek is a tolter. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:114
+Canterbury is a culfaer. The work of a cluker is working for the management. Burkhalter is a cluker. The work of a prottober is looking after sick animals by making veterinary medicine. Oropeza is a prottober. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:115
+Tuller is a tolter. Tortora is a contaker. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a contaker is managing goods in a company. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Dufault is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:116
+The work of a seaizer is making software calendars in language and television. The work of a byeeper is acting in a seat or a location. The work of a poyefer is making and checking buildings professionally. Mattila is a byeeper. Hix is a seaizer. Graczyk is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:117
+Smoot is a jogunder. Lucido is a pinwer. Hollingshead is a peeptoer. The work of a jogunder is keeping organizations in a bakery. The work of a peeptoer is preparing and reporting the beach on television. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:118
+Clauson is a contaker. Greenwell is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. The work of a contaker is managing goods in a company. Lemley is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:119
+Castorena is a culfaer. The work of a pinwer is repairing the warehouse systems or reports. The work of a peeptoer is preparing and reporting the beach on television. Bowlby is a pinwer. The work of a culfaer is unpacking merchandise when it arrives at the university. Rivero is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:120
+The work of a contaker is managing goods in a company. Laporte is a jogunder. The work of a fangher is patrolling pipes in court and giving legal advice. Bueno is a contaker. Dahl is a fangher. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:121
+The work of a poyefer is making and checking buildings professionally. Bohnert is a mirituer. Berber is a poyefer. The work of a pinwer is repairing the warehouse systems or reports. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Hubbell is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:122
+The work of a poyefer is making and checking buildings professionally. The work of a culfaer is unpacking merchandise when it arrives at the university. Buzzell is a contaker. The work of a contaker is managing goods in a company. Whicker is a poyefer. Piro is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:123
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Mock is a camsciater. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a poyefer is making and checking buildings professionally. Kottke is a prottober. Chinchilla is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:124
+Kilgore is a culfaer. Knebel is an onner. Titsworth is a cluker. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a cluker is working for the management. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:125
+The work of a peeptoer is preparing and reporting the beach on television. Dufrene is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of a cluker is working for the management. Villar is a peeptoer. Work is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:126
+The work of a fangher is patrolling pipes in court and giving legal advice. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Sneddon is a culfaer. Helm is a mirituer. Eitel is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:127
+The work of a pinwer is repairing the warehouse systems or reports. The work of a contaker is managing goods in a company. Nickle is a pinwer. The work of a wenbumber is preparing food for eyes in a restaurant. Copes is a contaker. Redfern is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:128
+Pender is a pinwer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a pinwer is repairing the warehouse systems or reports. Colella is an exsowiver. Gaunt is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:129
+The work of a pinwer is repairing the warehouse systems or reports. Stennett is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Villasenor is a pinwer. Ganz is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:130
+Remillard is a poyefer. Willman is a mirituer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Tabora is a camsciater. The work of a poyefer is making and checking buildings professionally. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:131
+The work of a peeptoer is preparing and reporting the beach on television. Blackmer is a tolter. Candela is a cluker. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a cluker is working for the management. Salcido is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:132
+The work of a jogunder is keeping organizations in a bakery. Branham is a cluker. The work of an onner is patrolling problems professionally. Astorga is an onner. The work of a cluker is working for the management. Sarno is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:133
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Neptune is a camsciater. Bostwick is a peeptoer. Dittmar is a tolter. The work of a peeptoer is preparing and reporting the beach on television. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:134
+The work of a byeeper is acting in a seat or a location. The work of a poyefer is making and checking buildings professionally. The work of a patalcer is reading and giving the news on aircraft. Joines is a patalcer. Barrier is a byeeper. Kibbe is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:135
+Dowdle is a byeeper. Banda is a mirituer. Shewmaker is a patalcer. The work of a byeeper is acting in a seat or a location. The work of a patalcer is reading and giving the news on aircraft. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:136
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Camargo is a camsciater. Godines is a wenbumber. The work of a pinwer is repairing the warehouse systems or reports. Choate is a pinwer. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:137
+The work of a seaizer is making software calendars in language and television. Brickhouse is a jogunder. The work of a jogunder is keeping organizations in a bakery. Reigle is a seaizer. The work of an onner is patrolling problems professionally. Ringer is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:138
+Inman is an onner. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Beauford is a mirituer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of an onner is patrolling problems professionally. Hruska is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:139
+The work of a byeeper is acting in a seat or a location. The work of a pinwer is repairing the warehouse systems or reports. Oconnell is a pinwer. The work of a wenbumber is preparing food for eyes in a restaurant. Coppedge is a byeeper. Manners is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:140
+The work of a cluker is working for the management. Lamson is a cluker. Alvis is a byeeper. The work of a byeeper is acting in a seat or a location. Tolan is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:141
+The work of a patalcer is reading and giving the news on aircraft. Newport is an exsowiver. Halford is a patalcer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an onner is patrolling problems professionally. Hosley is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:142
+The work of a poyefer is making and checking buildings professionally. The work of an onner is patrolling problems professionally. The work of an oducer is writing books or problems professionally. Imler is an oducer. Ewald is a poyefer. Nordin is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:143
+The work of a contaker is managing goods in a company. The work of a wenbumber is preparing food for eyes in a restaurant. Fetter is a jogunder. Severns is a wenbumber. The work of a jogunder is keeping organizations in a bakery. Vanhoy is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:144
+Sevigny is a byeeper. The work of a peeptoer is preparing and reporting the beach on television. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a byeeper is acting in a seat or a location. Guerrero is a peeptoer. Wickman is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:145
+Keogh is a seaizer. Sons is a culfaer. The work of a seaizer is making software calendars in language and television. Jahnke is a wenbumber. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:146
+Lute is a fangher. The work of an oducer is writing books or problems professionally. Peel is a pinwer. Warfel is an oducer. The work of a pinwer is repairing the warehouse systems or reports. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:147
+The work of a pinwer is repairing the warehouse systems or reports. The work of a patalcer is reading and giving the news on aircraft. Barahona is a patalcer. Gessner is a pinwer. Zito is a dymer. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:148
+The work of a prottober is looking after sick animals by making veterinary medicine. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a jogunder is keeping organizations in a bakery. Loftis is a jogunder. Dau is a tolter. Uresti is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:149
+The work of a poyefer is making and checking buildings professionally. The work of a fangher is patrolling pipes in court and giving legal advice. Beaird is a poyefer. Moler is a fangher. The work of a peeptoer is preparing and reporting the beach on television. Provenzano is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:150
+The work of a patalcer is reading and giving the news on aircraft. Ropp is a patalcer. Beegle is a contaker. Binns is a wenbumber. The work of a contaker is managing goods in a company. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:151
+Heider is a jogunder. The work of a byeeper is acting in a seat or a location. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Mojarro is a byeeper. Mello is a mirituer. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:152
+Sapien is an exsowiver. The work of a patalcer is reading and giving the news on aircraft. The work of an oducer is writing books or problems professionally. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Gabel is a patalcer. Ji is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:153
+The work of a poyefer is making and checking buildings professionally. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Kaneshiro is a poyefer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Vanleeuwen is a tolter. Dodd is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:154
+The work of a wenbumber is preparing food for eyes in a restaurant. Authement is a byeeper. Bartle is a seaizer. Timms is a wenbumber. The work of a byeeper is acting in a seat or a location. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:155
+The work of a jogunder is keeping organizations in a bakery. Doxey is a camsciater. Gillette is a jogunder. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Wessel is an onner. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:156
+Lopezhernandez is a byeeper. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a peeptoer is preparing and reporting the beach on television. Sisneros is an exsowiver. Lisowski is a peeptoer. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:157
+The work of a culfaer is unpacking merchandise when it arrives at the university. Pillsbury is a byeeper. The work of a byeeper is acting in a seat or a location. Kittrell is a culfaer. Poisson is an oducer. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:158
+The work of a cluker is working for the management. The work of a patalcer is reading and giving the news on aircraft. The work of a jogunder is keeping organizations in a bakery. Heaney is a cluker. Pantaleon is a jogunder. Terwilliger is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:159
+Imler is a peeptoer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Troxler is an exsowiver. Garceau is a contaker. The work of a peeptoer is preparing and reporting the beach on television. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:160
+The work of a patalcer is reading and giving the news on aircraft. The work of a contaker is managing goods in a company. Oakes is a patalcer. Warman is a contaker. The work of a peeptoer is preparing and reporting the beach on television. Riendeau is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:161
+The work of a dymer is managing a customer's or school's financial records. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Fell is a dymer. Kushner is a byeeper. Wherry is a camsciater. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:162
+Jock is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Oliveira is a cluker. The work of a patalcer is reading and giving the news on aircraft. Filer is a patalcer. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:163
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a cluker is working for the management. The work of a contaker is managing goods in a company. Bernal is a cluker. Songer is a contaker. Turk is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:164
+Musselman is a jogunder. Perezgarcia is a pinwer. Scaglione is a wenbumber. The work of a jogunder is keeping organizations in a bakery. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:165
+Voit is a patalcer. The work of a poyefer is making and checking buildings professionally. Enright is a fangher. The work of a patalcer is reading and giving the news on aircraft. Ryman is a poyefer. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:166
+Barthel is a fangher. The work of a cluker is working for the management. The work of a fangher is patrolling pipes in court and giving legal advice. The work of an onner is patrolling problems professionally. Azevedo is a cluker. Burcham is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:167
+Vanhoose is a camsciater. The work of a culfaer is unpacking merchandise when it arrives at the university. Ortegon is a culfaer. The work of an oducer is writing books or problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Reames is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:168
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a seaizer is making software calendars in language and television. The work of a culfaer is unpacking merchandise when it arrives at the university. Lingle is a culfaer. Pangilinan is a seaizer. Ferrell is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:169
+Linehan is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of a peeptoer is preparing and reporting the beach on television. The work of a pinwer is repairing the warehouse systems or reports. Hyer is a pinwer. Neilsen is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:170
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a contaker is managing goods in a company. The work of a byeeper is acting in a seat or a location. Cavender is a contaker. Shuler is a byeeper. Telfer is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:171
+The work of an onner is patrolling problems professionally. Ridder is an onner. The work of a peeptoer is preparing and reporting the beach on television. Christenson is a peeptoer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Lillis is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:172
+The work of a seaizer is making software calendars in language and television. Rozelle is a dymer. Seaborn is a seaizer. Endicott is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:173
+The work of a wenbumber is preparing food for eyes in a restaurant. Olmeda is a wenbumber. Klimek is a byeeper. Rusin is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:174
+The work of a peeptoer is preparing and reporting the beach on television. Seago is a peeptoer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a pinwer is repairing the warehouse systems or reports. Lehr is a pinwer. Hennen is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:175
+Caro is a tolter. The work of a peeptoer is preparing and reporting the beach on television. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Lenart is a peeptoer. The work of a poyefer is making and checking buildings professionally. Slabaugh is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:176
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Leblanc is an exsowiver. Carico is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Vancleve is a jogunder. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:177
+The work of a patalcer is reading and giving the news on aircraft. The work of a jogunder is keeping organizations in a bakery. Land is a jogunder. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Arenas is a patalcer. Graczyk is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:178
+Sowell is an exsowiver. Sing is a prottober. Liston is a cluker. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a cluker is working for the management. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:179
+Sousa is an exsowiver. Bastin is a wenbumber. Morford is a prottober. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:180
+The work of a dymer is managing a customer's or school's financial records. Hernandezlopez is an onner. The work of a poyefer is making and checking buildings professionally. The work of an onner is patrolling problems professionally. Hartigan is a dymer. Fessler is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:181
+The work of a peeptoer is preparing and reporting the beach on television. The work of a prottober is looking after sick animals by making veterinary medicine. Darrow is a peeptoer. Sams is an onner. The work of an onner is patrolling problems professionally. Tamez is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:182
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a patalcer is reading and giving the news on aircraft. Lustig is a mirituer. Soileau is a poyefer. The work of a poyefer is making and checking buildings professionally. Antley is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:183
+The work of a wenbumber is preparing food for eyes in a restaurant. Salinas is a wenbumber. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Balderas is a prottober. Lawley is a tolter. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:184
+Ono is an onner. Haggerty is a seaizer. The work of a patalcer is reading and giving the news on aircraft. The work of an onner is patrolling problems professionally. Wessels is a patalcer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:185
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Howell is a camsciater. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a peeptoer is preparing and reporting the beach on television. Burrell is an exsowiver. Laforge is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:186
+The work of a patalcer is reading and giving the news on aircraft. The work of an oducer is writing books or problems professionally. The work of a dymer is managing a customer's or school's financial records. Bevans is a patalcer. Vick is an oducer. Severson is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:187
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Guenther is a camsciater. Abston is an exsowiver. The work of an oducer is writing books or problems professionally. Mccay is an oducer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:188
+Ruiz is a peeptoer. Kappel is a seaizer. The work of an oducer is writing books or problems professionally. The work of a seaizer is making software calendars in language and television. The work of a peeptoer is preparing and reporting the beach on television. Trepanier is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:189
+Fortney is a seaizer. Urbaniak is a tolter. The work of a dymer is managing a customer's or school's financial records. Eccleston is a dymer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:190
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Mcmenamin is an oducer. Crotty is a mirituer. Ketchum is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:191
+The work of a contaker is managing goods in a company. Seals is a peeptoer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Binger is a tolter. The work of a peeptoer is preparing and reporting the beach on television. Donaghy is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:192
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Matte is a culfaer. Killion is a patalcer. The work of a patalcer is reading and giving the news on aircraft. The work of a culfaer is unpacking merchandise when it arrives at the university. Stepanek is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:193
+The work of a contaker is managing goods in a company. The work of a prottober is looking after sick animals by making veterinary medicine. Rist is a contaker. Cauthen is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. Stamper is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:194
+Durst is an exsowiver. The work of a wenbumber is preparing food for eyes in a restaurant. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a contaker is managing goods in a company. Mcphail is a contaker. Vandergrift is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:195
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Beekman is a fangher. Haggins is a camsciater. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a pinwer is repairing the warehouse systems or reports. El is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:196
+The work of a peeptoer is preparing and reporting the beach on television. Anspach is a peeptoer. The work of a byeeper is acting in a seat or a location. Kornegay is a byeeper. Klug is a patalcer. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:197
+The work of a byeeper is acting in a seat or a location. Drury is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of an oducer is writing books or problems professionally. Bock is a byeeper. Pastore is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:198
+The work of a pinwer is repairing the warehouse systems or reports. Heslop is a fangher. Shupe is a pinwer. The work of a fangher is patrolling pipes in court and giving legal advice. Goodwyn is a contaker. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:199
+Laughman is a cluker. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a cluker is working for the management. Suits is a tolter. The work of a pinwer is repairing the warehouse systems or reports. Mcclanahan is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:200
+The work of a contaker is managing goods in a company. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a dymer is managing a customer's or school's financial records. Echeverri is a dymer. Mcclinton is a contaker. Mosteller is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:201
+Tiburcio is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. Lacasse is a seaizer. The work of an oducer is writing books or problems professionally. The work of a seaizer is making software calendars in language and television. Arriaga is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:202
+The work of an onner is patrolling problems professionally. Petrie is an onner. Profitt is a tolter. Chowdhury is a patalcer. The work of a patalcer is reading and giving the news on aircraft. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:203
+Severson is an exsowiver. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Dutton is a camsciater. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Gleason is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:204
+The work of a cluker is working for the management. Palko is a wenbumber. Pilon is a cluker. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a dymer is managing a customer's or school's financial records. Cevallos is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:205
+The work of a fangher is patrolling pipes in court and giving legal advice. Pond is a seaizer. Stover is a fangher. The work of a seaizer is making software calendars in language and television. The work of a dymer is managing a customer's or school's financial records. Etchison is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:206
+Cutlip is a fangher. The work of an oducer is writing books or problems professionally. The work of a dymer is managing a customer's or school's financial records. The work of a fangher is patrolling pipes in court and giving legal advice. Hobart is an oducer. Laster is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:207
+Gosselin is a contaker. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Laflamme is an onner. The work of a contaker is managing goods in a company. The work of an onner is patrolling problems professionally. Encinas is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:208
+The work of a peeptoer is preparing and reporting the beach on television. Eubanks is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. Marmolejo is a contaker. Early is a peeptoer. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:209
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a seaizer is making software calendars in language and television. Eckart is a tolter. Branscum is a cluker. Haltom is a seaizer. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:210
+Dutra is a tolter. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Dubuque is an exsowiver. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Millett is a camsciater.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:211
+Gurule is a jogunder. The work of a byeeper is acting in a seat or a location. Leber is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a jogunder is keeping organizations in a bakery. Capozzi is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:212
+The work of a prottober is looking after sick animals by making veterinary medicine. The work of a wenbumber is preparing food for eyes in a restaurant. Redmon is a wenbumber. The work of a byeeper is acting in a seat or a location. Visser is a byeeper. Akhtar is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:213
+Lundeen is an oducer. Wolbert is a cluker. Ginsberg is a wenbumber. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a cluker is working for the management. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:214
+Manjarrez is a jogunder. Casebolt is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Victorino is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:215
+Thong is a camsciater. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Dearth is a culfaer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Copple is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:216
+The work of a fangher is patrolling pipes in court and giving legal advice. The work of an oducer is writing books or problems professionally. Frailey is a mirituer. Chamblee is a fangher. Beamon is an oducer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:217
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a patalcer is reading and giving the news on aircraft. Schmidt is a camsciater. Solorio is a tolter. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Stocking is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:218
+Baskerville is a patalcer. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a contaker is managing goods in a company. The work of a patalcer is reading and giving the news on aircraft. Maust is a fangher. Barcia is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:219
+Bodkin is a wenbumber. Valliere is a dymer. Harter is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a dymer is managing a customer's or school's financial records. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:220
+The work of a cluker is working for the management. Luper is a dymer. The work of a jogunder is keeping organizations in a bakery. The work of a dymer is managing a customer's or school's financial records. Mcnett is a cluker. Boisvert is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:221
+Lammers is a cluker. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Mclin is a camsciater. The work of a prottober is looking after sick animals by making veterinary medicine. Santillo is a prottober. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:222
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Parmer is a camsciater. The work of a seaizer is making software calendars in language and television. The work of an oducer is writing books or problems professionally. Espy is an oducer. Sturtevant is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:223
+The work of a byeeper is acting in a seat or a location. Swilley is a byeeper. The work of a pinwer is repairing the warehouse systems or reports. The work of a peeptoer is preparing and reporting the beach on television. Sledge is a peeptoer. Schurr is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:224
+The work of a patalcer is reading and giving the news on aircraft. Laflamme is a patalcer. The work of a cluker is working for the management. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Hauser is a camsciater. Dinger is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:225
+The work of a cluker is working for the management. Tingley is a cluker. Shippee is a contaker. Scull is a culfaer. The work of a contaker is managing goods in a company. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:226
+The work of an oducer is writing books or problems professionally. The work of a poyefer is making and checking buildings professionally. Burns is a poyefer. Harkey is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Mckelvey is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:227
+Ripple is a wenbumber. Fusco is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. The work of a wenbumber is preparing food for eyes in a restaurant. Hilderbrand is a contaker. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:228
+Stricklin is an oducer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of an oducer is writing books or problems professionally. Roof is a seaizer. The work of a seaizer is making software calendars in language and television. Cornish is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:229
+The work of a byeeper is acting in a seat or a location. Timmins is a patalcer. The work of a peeptoer is preparing and reporting the beach on television. Parmer is a peeptoer. Hild is a byeeper. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:230
+The work of a poyefer is making and checking buildings professionally. Gallien is an oducer. The work of an oducer is writing books or problems professionally. The work of a patalcer is reading and giving the news on aircraft. Hartigan is a poyefer. Mallari is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:231
+The work of a byeeper is acting in a seat or a location. Kriebel is a fangher. Qin is a byeeper. The work of a fangher is patrolling pipes in court and giving legal advice. Bloomfield is a wenbumber. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:232
+The work of a contaker is managing goods in a company. Stanberry is an onner. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Groom is a mirituer. The work of an onner is patrolling problems professionally. Troup is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:233
+Frain is an onner. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Leung is a tolter. The work of a cluker is working for the management. The work of an onner is patrolling problems professionally. Witcher is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:234
+Diep is a tolter. Viers is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. La is a patalcer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:235
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Kress is a jogunder. Fannon is a tolter. Villalba is a camsciater. The work of a jogunder is keeping organizations in a bakery. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:236
+The work of an onner is patrolling problems professionally. Tsai is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Jacobowitz is a mirituer. Gladstone is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:237
+The work of a peeptoer is preparing and reporting the beach on television. The work of a contaker is managing goods in a company. Vanslyke is a contaker. The work of a patalcer is reading and giving the news on aircraft. Durbin is a patalcer. Burkart is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:238
+The work of a dymer is managing a customer's or school's financial records. Rhoads is a culfaer. The work of a peeptoer is preparing and reporting the beach on television. Cookson is a peeptoer. The work of a culfaer is unpacking merchandise when it arrives at the university. Larock is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:239
+Muldrow is a culfaer. Keagle is a mirituer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Bodily is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:240
+The work of a contaker is managing goods in a company. Meador is a contaker. Engle is a cluker. The work of a pinwer is repairing the warehouse systems or reports. Willer is a pinwer. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:241
+Sandel is a camsciater. Scates is a byeeper. Rackley is an oducer. The work of a byeeper is acting in a seat or a location. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:242
+Hertel is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. Jahnke is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Wiggs is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:243
+Lok is a camsciater. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a peeptoer is preparing and reporting the beach on television. Getz is a tolter. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Fishburn is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:244
+The work of an onner is patrolling problems professionally. Hruska is an onner. The work of a culfaer is unpacking merchandise when it arrives at the university. Hampshire is a byeeper. Leavitt is a culfaer. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:245
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an onner is patrolling problems professionally. Desantiago is an exsowiver. Kirst is an onner. The work of a culfaer is unpacking merchandise when it arrives at the university. Gamber is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:246
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a cluker is working for the management. Mccoll is a mirituer. Sims is a cluker. Mosteller is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:247
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Poulter is a seaizer. Mower is a mirituer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Allbritton is a camsciater. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:248
+The work of a pinwer is repairing the warehouse systems or reports. The work of an oducer is writing books or problems professionally. Motsinger is a pinwer. The work of a contaker is managing goods in a company. Roll is an oducer. Jarboe is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:249
+Swiderski is a poyefer. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a poyefer is making and checking buildings professionally. The work of a byeeper is acting in a seat or a location. Schwartz is a wenbumber. Spradley is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:250
+The work of a fangher is patrolling pipes in court and giving legal advice. Ba is a fangher. The work of a wenbumber is preparing food for eyes in a restaurant. The work of an onner is patrolling problems professionally. Lattimore is a wenbumber. Fast is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:251
+Cartee is an exsowiver. Nickel is an onner. Hege is a wenbumber. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a wenbumber is preparing food for eyes in a restaurant. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:252
+Veiga is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a seaizer is making software calendars in language and television. The work of a poyefer is making and checking buildings professionally. Shear is a seaizer. Swanger is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:253
+The work of a jogunder is keeping organizations in a bakery. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a cluker is working for the management. Kull is a cluker. Nordquist is a mirituer. Barreiro is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:254
+Haglund is a patalcer. The work of a patalcer is reading and giving the news on aircraft. The work of a cluker is working for the management. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Tessmer is a cluker. Balog is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:255
+Trammel is a patalcer. The work of a cluker is working for the management. The work of a byeeper is acting in a seat or a location. Wiser is a byeeper. Borowski is a cluker. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:256
+The work of an oducer is writing books or problems professionally. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a dymer is managing a customer's or school's financial records. Mccarver is a dymer. Coster is a fangher. Gay is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:257
+Redmon is a fangher. Craycraft is a byeeper. The work of a poyefer is making and checking buildings professionally. The work of a byeeper is acting in a seat or a location. Rothe is a poyefer. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:258
+Leach is a contaker. The work of a seaizer is making software calendars in language and television. The work of a contaker is managing goods in a company. Fluharty is a seaizer. The work of a poyefer is making and checking buildings professionally. Franson is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:259
+The work of a prottober is looking after sick animals by making veterinary medicine. The work of a pinwer is repairing the warehouse systems or reports. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Nutt is a tolter. Mcclurg is a pinwer. Casco is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:260
+Gorsuch is a dymer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a dymer is managing a customer's or school's financial records. The work of a seaizer is making software calendars in language and television. Najera is an exsowiver. Trosper is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:261
+Wardlow is a dymer. Mcquay is a patalcer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a patalcer is reading and giving the news on aircraft. Dibiase is an exsowiver. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:262
+Orvis is a byeeper. Spinney is a wenbumber. The work of a byeeper is acting in a seat or a location. The work of a peeptoer is preparing and reporting the beach on television. Mallari is a peeptoer. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:263
+Gayden is an exsowiver. The work of a culfaer is unpacking merchandise when it arrives at the university. Fishburn is a contaker. Seay is a culfaer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:264
+Connally is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. The work of a prottober is looking after sick animals by making veterinary medicine. Luedke is a prottober. Palladino is a seaizer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:265
+The work of a pinwer is repairing the warehouse systems or reports. Dehoyos is a pinwer. The work of a peeptoer is preparing and reporting the beach on television. Richter is a peeptoer. Cashion is a seaizer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:266
+Bricker is a fangher. Milone is a pinwer. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a seaizer is making software calendars in language and television. The work of a pinwer is repairing the warehouse systems or reports. Bubb is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:267
+Fenn is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Noyola is a camsciater. Browder is a patalcer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:268
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Ocallaghan is an oducer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Kingery is a mirituer. The work of an oducer is writing books or problems professionally. Minich is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:269
+Cohn is a tolter. Winans is a seaizer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a dymer is managing a customer's or school's financial records. The work of a seaizer is making software calendars in language and television. Swiney is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:270
+The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a byeeper is acting in a seat or a location. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Hadaway is a mirituer. Corzo is a byeeper. Wessel is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:271
+Bargo is a dymer. The work of a dymer is managing a customer's or school's financial records. Manna is a byeeper. Buettner is a cluker. The work of a byeeper is acting in a seat or a location. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:272
+The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a pinwer is repairing the warehouse systems or reports. Depew is a culfaer. Caro is a pinwer. Tavera is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:273
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Faucett is a mirituer. Defeo is a culfaer. The work of a pinwer is repairing the warehouse systems or reports. The work of a culfaer is unpacking merchandise when it arrives at the university. Gagliardi is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:274
+Westberg is a fangher. Ham is an exsowiver. The work of a fangher is patrolling pipes in court and giving legal advice. Esposito is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:275
+Orange is a patalcer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a contaker is managing goods in a company. Dunton is a tolter. The work of a patalcer is reading and giving the news on aircraft. Courter is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:276
+Gaul is a cluker. Mcgrail is a contaker. The work of a contaker is managing goods in a company. The work of a cluker is working for the management. Shackelford is a dymer. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:277
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a patalcer is reading and giving the news on aircraft. Withrow is an exsowiver. Craver is a camsciater. Westerfield is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:278
+Parente is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. Delcarmen is a culfaer. Breese is a tolter. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:279
+The work of a cluker is working for the management. Edney is a cluker. The work of an onner is patrolling problems professionally. Lariviere is an onner. Rugg is an oducer. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:280
+Howze is a fangher. Prieto is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. Knoop is a byeeper. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:281
+The work of a seaizer is making software calendars in language and television. Norsworthy is a dymer. The work of an oducer is writing books or problems professionally. Heckman is a seaizer. Dees is an oducer. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:282
+Zollinger is a prottober. The work of a dymer is managing a customer's or school's financial records. The work of a prottober is looking after sick animals by making veterinary medicine. Pahl is a dymer. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Kimbell is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:283
+The work of a fangher is patrolling pipes in court and giving legal advice. The work of a dymer is managing a customer's or school's financial records. Winningham is a contaker. Outten is a fangher. Carney is a dymer. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:284
+Sutphin is a seaizer. Axtell is a prottober. Schneck is a poyefer. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a seaizer is making software calendars in language and television. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:285
+The work of an onner is patrolling problems professionally. Kunz is a cluker. The work of a pinwer is repairing the warehouse systems or reports. Vangundy is an onner. Manjarrez is a pinwer. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:286
+The work of a fangher is patrolling pipes in court and giving legal advice. Tomlin is a fangher. The work of an oducer is writing books or problems professionally. The work of a contaker is managing goods in a company. Merten is an oducer. Chiasson is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:287
+Guzik is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Fuentez is a wenbumber. The work of a patalcer is reading and giving the news on aircraft. The work of a wenbumber is preparing food for eyes in a restaurant. Alamillo is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:288
+Yanes is a culfaer. Dodd is a peeptoer. Kantor is a wenbumber. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a peeptoer is preparing and reporting the beach on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:289
+Fowles is a mirituer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Tsai is a wenbumber. The work of an onner is patrolling problems professionally. Rosen is an onner. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:290
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of a culfaer is unpacking merchandise when it arrives at the university. Arruda is a fangher. Waite is a wenbumber. Bivins is a culfaer. The work of a fangher is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:291
+The work of a byeeper is acting in a seat or a location. Mcnees is a byeeper. Kalb is a cluker. Buscher is a seaizer. The work of a cluker is working for the management. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:292
+The work of a dymer is managing a customer's or school's financial records. Chilcote is a dymer. Newlon is a camsciater. Feely is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:293
+Machado is a dymer. The work of a seaizer is making software calendars in language and television. Buckner is a seaizer. The work of a dymer is managing a customer's or school's financial records. Haggins is a pinwer. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:294
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a wenbumber is preparing food for eyes in a restaurant. Ostlund is a byeeper. Hollingshead is a wenbumber. The work of a byeeper is acting in a seat or a location. Orange is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:295
+The work of a cluker is working for the management. The work of a prottober is looking after sick animals by making veterinary medicine. Pless is a prottober. Fedor is a cluker. Warnke is a seaizer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:296
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a cluker is working for the management. Everts is a cluker. Kaneshiro is a tolter. The work of a culfaer is unpacking merchandise when it arrives at the university. Barnard is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:297
+Casella is a wenbumber. Seay is a fangher. The work of a patalcer is reading and giving the news on aircraft. The work of a wenbumber is preparing food for eyes in a restaurant. The work of a fangher is patrolling pipes in court and giving legal advice. Nyberg is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:298
+The work of a prottober is looking after sick animals by making veterinary medicine. The work of a byeeper is acting in a seat or a location. The work of a seaizer is making software calendars in language and television. Lobo is a seaizer. Overholt is a prottober. Avendano is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:299
+Luckey is a cluker. Liston is an oducer. Rumph is a seaizer. The work of an oducer is writing books or problems professionally. The work of a cluker is working for the management. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:300
+Haver is a peeptoer. The work of a pinwer is repairing the warehouse systems or reports. The work of a poyefer is making and checking buildings professionally. The work of a peeptoer is preparing and reporting the beach on television. Haight is a poyefer. Frazer is a pinwer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:301
+Belvin is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a jogunder is keeping organizations in a bakery. Drexler is a jogunder. Geise is a byeeper. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:302
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Coker is a mirituer. Bomar is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Kirchoff is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:303
+The work of a pinwer is repairing the warehouse systems or reports. The work of a dymer is managing a customer's or school's financial records. Fannon is a pinwer. Rippy is a dymer. The work of a wenbumber is preparing food for eyes in a restaurant. Rosenfeld is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:304
+Gonzaga is a camsciater. Gilliland is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Soni is a mirituer. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:305
+The work of a dymer is managing a customer's or school's financial records. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Lemons is a camsciater. Pasternak is a dymer. The work of a fangher is patrolling pipes in court and giving legal advice. Sams is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:306
+The work of a dymer is managing a customer's or school's financial records. The work of a pinwer is repairing the warehouse systems or reports. Stoneburner is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. Castiglione is a pinwer. Ong is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:307
+The work of an onner is patrolling problems professionally. Mcfee is an onner. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Steinmetz is a wenbumber. Lehrer is a camsciater. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:308
+Delatorre is a jogunder. Engelman is a camsciater. The work of an oducer is writing books or problems professionally. The work of a jogunder is keeping organizations in a bakery. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Sisneros is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:309
+The work of an oducer is writing books or problems professionally. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a fangher is patrolling pipes in court and giving legal advice. Shevlin is a fangher. Eicher is an oducer. Huerta is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:310
+The work of an oducer is writing books or problems professionally. Garr is an oducer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Fitzsimons is a patalcer. Feely is an exsowiver. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:311
+Willman is an onner. Vangundy is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a seaizer is making software calendars in language and television. Howerton is a seaizer. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:312
+The work of a byeeper is acting in a seat or a location. Borel is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. The work of a peeptoer is preparing and reporting the beach on television. Hopwood is a peeptoer. Warman is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:313
+The work of a fangher is patrolling pipes in court and giving legal advice. Martone is a fangher. Soper is a prottober. Yin is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:314
+The work of a seaizer is making software calendars in language and television. Hemmer is a poyefer. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a poyefer is making and checking buildings professionally. Ochoa is a seaizer. Orduna is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:315
+The work of a seaizer is making software calendars in language and television. Wigfall is a seaizer. Bucy is a dymer. Tupper is a cluker. The work of a dymer is managing a customer's or school's financial records. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:316
+Pinder is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. Stanberry is a mirituer. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Hansard is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:317
+The work of a dymer is managing a customer's or school's financial records. Paolucci is a seaizer. The work of a seaizer is making software calendars in language and television. Anastasio is a dymer. The work of a patalcer is reading and giving the news on aircraft. Rabe is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:318
+Hosley is a cluker. Lamay is a jogunder. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a jogunder is keeping organizations in a bakery. The work of a cluker is working for the management. Kilpatrick is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:319
+The work of a cluker is working for the management. Devos is a dymer. Araujo is a cluker. The work of an onner is patrolling problems professionally. The work of a dymer is managing a customer's or school's financial records. Summerfield is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:320
+Spratley is an oducer. Legendre is a camsciater. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Meyerson is an exsowiver. The work of an oducer is writing books or problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:321
+The work of a cluker is working for the management. The work of an oducer is writing books or problems professionally. Critchfield is a cluker. Berkman is an onner. Budde is an oducer. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:322
+The work of a patalcer is reading and giving the news on aircraft. Grasser is a patalcer. Virgen is an oducer. The work of an oducer is writing books or problems professionally. Morford is a seaizer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:323
+Mallow is a byeeper. The work of a patalcer is reading and giving the news on aircraft. Chastain is a patalcer. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a byeeper is acting in a seat or a location. Shultz is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:324
+The work of a jogunder is keeping organizations in a bakery. Allmon is a jogunder. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a seaizer is making software calendars in language and television. Veiga is a seaizer. Pink is an exsowiver.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:325
+The work of an oducer is writing books or problems professionally. Newcomer is an oducer. The work of a byeeper is acting in a seat or a location. Stracener is a byeeper. The work of an onner is patrolling problems professionally. Baskett is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:326
+The work of a byeeper is acting in a seat or a location. The work of a seaizer is making software calendars in language and television. Pough is a cluker. The work of a cluker is working for the management. Hadnot is a seaizer. Castner is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:327
+Lesniak is a camsciater. The work of a jogunder is keeping organizations in a bakery. Kovac is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Casella is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:328
+Springman is a mirituer. The work of an onner is patrolling problems professionally. Ehlers is an onner. Devall is a contaker. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:329
+Bolt is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a poyefer is making and checking buildings professionally. The work of a dymer is managing a customer's or school's financial records. Lower is a dymer. Mccullough is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:330
+The work of a dymer is managing a customer's or school's financial records. The work of a prottober is looking after sick animals by making veterinary medicine. Hinz is a prottober. The work of a seaizer is making software calendars in language and television. Driscoll is a seaizer. Vanvalkenburg is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:331
+The work of a wenbumber is preparing food for eyes in a restaurant. Bayard is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Cubas is a mirituer. Houchin is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:332
+The work of a prottober is looking after sick animals by making veterinary medicine. Barrientes is a contaker. The work of a contaker is managing goods in a company. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Celaya is a prottober. Burbank is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:333
+The work of a byeeper is acting in a seat or a location. Gerardi is a prottober. The work of a contaker is managing goods in a company. Boman is a contaker. The work of a prottober is looking after sick animals by making veterinary medicine. Seiden is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:334
+The work of a patalcer is reading and giving the news on aircraft. Mathieson is a mirituer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a contaker is managing goods in a company. Insley is a patalcer. Langlais is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:335
+The work of a contaker is managing goods in a company. Yadav is a jogunder. The work of a culfaer is unpacking merchandise when it arrives at the university. Guzzo is a culfaer. Govea is a contaker. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:336
+The work of a peeptoer is preparing and reporting the beach on television. Ghosh is a peeptoer. The work of a poyefer is making and checking buildings professionally. Stapleton is a poyefer. The work of a culfaer is unpacking merchandise when it arrives at the university. Burns is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:337
+The work of a culfaer is unpacking merchandise when it arrives at the university. Bair is a camsciater. Mcnees is a jogunder. The work of a jogunder is keeping organizations in a bakery. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Sorenson is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:338
+Carstensen is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. The work of an oducer is writing books or problems professionally. Folmar is a camsciater. Hankey is an oducer. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:339
+The work of a contaker is managing goods in a company. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Schutz is a contaker. Balasubramanian is a dymer. Garnica is a camsciater. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:340
+Wamsley is a jogunder. Hemingway is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. Mccloud is a mirituer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a jogunder is keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:341
+The work of a poyefer is making and checking buildings professionally. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Sandel is a tolter. Kirchoff is a culfaer. Labarge is a poyefer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:342
+The work of a pinwer is repairing the warehouse systems or reports. Liddell is an onner. The work of a fangher is patrolling pipes in court and giving legal advice. Plemons is a fangher. Fulk is a pinwer. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:343
+The work of a wenbumber is preparing food for eyes in a restaurant. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Mccarver is a wenbumber. Tubb is a camsciater. The work of a cluker is working for the management. Luebke is a cluker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:344
+The work of an onner is patrolling problems professionally. The work of a wenbumber is preparing food for eyes in a restaurant. Warman is a wenbumber. Colella is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Lamanna is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:345
+The work of a fangher is patrolling pipes in court and giving legal advice. Haggerty is a wenbumber. The work of a jogunder is keeping organizations in a bakery. The work of a wenbumber is preparing food for eyes in a restaurant. Vought is a fangher. Koch is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:346
+Burgoyne is a byeeper. Burrows is a pinwer. Cerrone is an onner. The work of a pinwer is repairing the warehouse systems or reports. The work of an onner is patrolling problems professionally. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:347
+Suggs is a seaizer. The work of a contaker is managing goods in a company. Londono is a contaker. Settles is a prottober. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:348
+The work of a poyefer is making and checking buildings professionally. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a prottober is looking after sick animals by making veterinary medicine. Duff is a prottober. Weishaar is a poyefer. Poindexter is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:349
+The work of a wenbumber is preparing food for eyes in a restaurant. Vivas is a poyefer. The work of a poyefer is making and checking buildings professionally. The work of an oducer is writing books or problems professionally. Essex is a wenbumber. Seavey is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:350
+Damato is a cluker. The work of a cluker is working for the management. The work of a poyefer is making and checking buildings professionally. Eyler is a poyefer. The work of an onner is patrolling problems professionally. Burwell is an onner.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:351
+Bastida is a peeptoer. The work of an onner is patrolling problems professionally. The work of a peeptoer is preparing and reporting the beach on television. Hail is an onner. Hundt is a poyefer. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:352
+The work of a byeeper is acting in a seat or a location. The work of a wenbumber is preparing food for eyes in a restaurant. Alward is an oducer. The work of an oducer is writing books or problems professionally. Dare is a byeeper. Quarterman is a wenbumber.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:353
+Alvizo is a byeeper. The work of a pinwer is repairing the warehouse systems or reports. Polansky is a pinwer. The work of a byeeper is acting in a seat or a location. Barcus is a cluker. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:354
+Frausto is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. Leek is a mirituer. The work of a cluker is working for the management. Morelos is a cluker. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:355
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Colquitt is an oducer. Vines is a cluker. The work of an oducer is writing books or problems professionally. Topping is a tolter. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:356
+Smetana is an oducer. The work of a fangher is patrolling pipes in court and giving legal advice. Digregorio is a poyefer. The work of an oducer is writing books or problems professionally. Darwish is a fangher. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:357
+Vickery is a patalcer. The work of a dymer is managing a customer's or school's financial records. Mcmaster is a dymer. The work of a poyefer is making and checking buildings professionally. Mattos is a poyefer. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:358
+Portillo is a seaizer. Geise is a dymer. The work of a pinwer is repairing the warehouse systems or reports. Perillo is a pinwer. The work of a seaizer is making software calendars in language and television. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:359
+The work of a seaizer is making software calendars in language and television. The work of a prottober is looking after sick animals by making veterinary medicine. Meador is a seaizer. Yager is a contaker. Garst is a prottober. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:360
+The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Chae is an exsowiver. Felker is a camsciater. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Winters is an onner. The work of an onner is patrolling problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:361
+Baltz is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a dymer is managing a customer's or school's financial records. Fuentez is a culfaer. Nielsen is a dymer. The work of a culfaer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:362
+Sova is an oducer. The work of a patalcer is reading and giving the news on aircraft. The work of an oducer is writing books or problems professionally. The work of a pinwer is repairing the warehouse systems or reports. Wessels is a pinwer. Huskins is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:363
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Hull is a mirituer. Pulido is a poyefer. Leadbetter is a jogunder. The work of a jogunder is keeping organizations in a bakery. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:364
+The work of an onner is patrolling problems professionally. The work of a cluker is working for the management. Bardwell is a cluker. Pulido is a contaker. Eckart is an onner. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:365
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Yaeger is a camsciater. Critchfield is a fangher. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Vivanco is a tolter.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:366
+Quirino is a dymer. Manjarrez is a patalcer. Sarver is a prottober. The work of a dymer is managing a customer's or school's financial records. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a patalcer is reading and giving the news on aircraft.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:367
+Schley is a prottober. The work of an onner is patrolling problems professionally. Bartle is an onner. Youngman is a seaizer. The work of a seaizer is making software calendars in language and television. The work of a prottober is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:368
+Merino is a camsciater. The work of a peeptoer is preparing and reporting the beach on television. Alcaraz is a peeptoer. The work of a wenbumber is preparing food for eyes in a restaurant. Brumbaugh is a wenbumber. The work of a camsciater is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:369
+Bergman is a culfaer. The work of a culfaer is unpacking merchandise when it arrives at the university. Horney is a cluker. The work of a cluker is working for the management. The work of a dymer is managing a customer's or school's financial records. Himes is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:370
+The work of a cluker is working for the management. The work of a poyefer is making and checking buildings professionally. Jarquin is a cluker. Gay is a poyefer. Weise is a tolter. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:371
+Mapes is a peeptoer. The work of a peeptoer is preparing and reporting the beach on television. Marsden is a prottober. Keesee is a cluker. The work of a prottober is looking after sick animals by making veterinary medicine. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:372
+The work of a culfaer is unpacking merchandise when it arrives at the university. Duet is a tolter. The work of a patalcer is reading and giving the news on aircraft. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Gasser is a patalcer. Binion is a culfaer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:373
+Spano is a culfaer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a culfaer is unpacking merchandise when it arrives at the university. The work of a dymer is managing a customer's or school's financial records. Joubert is a dymer. Troup is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:374
+The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Knowles is a poyefer. Urrea is a tolter. The work of a fangher is patrolling pipes in court and giving legal advice. The work of a poyefer is making and checking buildings professionally. Pugliese is a fangher.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:375
+Pitts is a tolter. Lingerfelt is a poyefer. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a poyefer is making and checking buildings professionally. Haynie is a camsciater. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:376
+The work of an oducer is writing books or problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Serafini is a camsciater. Deblasio is a pinwer. The work of a pinwer is repairing the warehouse systems or reports. Jeans is an oducer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:377
+Dacus is a jogunder. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a jogunder is keeping organizations in a bakery. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Howarth is an exsowiver. Scotto is a mirituer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:378
+Follett is an onner. Cancel is a camsciater. The work of a prottober is looking after sick animals by making veterinary medicine. The work of an onner is patrolling problems professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Kandel is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:379
+Labarge is a pinwer. Appiah is an oducer. The work of a pinwer is repairing the warehouse systems or reports. The work of an oducer is writing books or problems professionally. The work of a jogunder is keeping organizations in a bakery. Alderete is a jogunder.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:380
+Glidden is a camsciater. The work of a contaker is managing goods in a company. The work of a seaizer is making software calendars in language and television. Edelstein is a contaker. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Caster is a seaizer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:381
+Ehler is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Castillon is a pinwer. The work of a byeeper is acting in a seat or a location. The work of a pinwer is repairing the warehouse systems or reports. Enriquez is a byeeper.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:382
+Provencio is a fangher. The work of an onner is patrolling problems professionally. The work of a fangher is patrolling pipes in court and giving legal advice. Shackelford is an onner. Shows is a wenbumber. The work of a wenbumber is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:383
+The work of an onner is patrolling problems professionally. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Nazarian is an exsowiver. Kranz is an onner. Cho is a contaker. The work of a contaker is managing goods in a company.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:384
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Menjivar is a pinwer. Barreto is a mirituer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Bachelder is an exsowiver. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:385
+The work of a wenbumber is preparing food for eyes in a restaurant. Coplin is a wenbumber. The work of a peeptoer is preparing and reporting the beach on television. The work of a cluker is working for the management. Cordova is a cluker. Eicher is a peeptoer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:386
+Scholten is a wenbumber. Caffrey is a cluker. The work of a jogunder is keeping organizations in a bakery. The work of a wenbumber is preparing food for eyes in a restaurant. Potvin is a jogunder. The work of a cluker is working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:387
+Ogletree is a camsciater. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a camsciater is unpacking merchandise when it arrives at the bakery. The work of a contaker is managing goods in a company. Birdsall is a mirituer. Armstrong is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:388
+Struthers is a cluker. The work of a wenbumber is preparing food for eyes in a restaurant. Beadles is an exsowiver. The work of a cluker is working for the management. Rockey is a wenbumber. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:389
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a poyefer is making and checking buildings professionally. The work of a patalcer is reading and giving the news on aircraft. Peak is a mirituer. Hagerty is a poyefer. Brunner is a patalcer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:390
+The work of a contaker is managing goods in a company. Ulibarri is a contaker. The work of a poyefer is making and checking buildings professionally. Jeffries is a dymer. Klug is a poyefer. The work of a dymer is managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:391
+The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. The work of a poyefer is making and checking buildings professionally. Dickman is a byeeper. Stanger is a mirituer. Delucia is a poyefer. The work of a byeeper is acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:392
+Dunton is a camsciater. The work of a dymer is managing a customer's or school's financial records. The work of a poyefer is making and checking buildings professionally. The work of a camsciater is unpacking merchandise when it arrives at the bakery. Poli is a poyefer. Sturtevant is a dymer.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:393
+Trager is an oducer. Pass is a peeptoer. The work of a seaizer is making software calendars in language and television. The work of a peeptoer is preparing and reporting the beach on television. Summerville is a seaizer. The work of an oducer is writing books or problems professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:394
+The work of a camsciater is unpacking merchandise when it arrives at the bakery. Voss is a jogunder. Seybold is a poyefer. The work of a jogunder is keeping organizations in a bakery. Exley is a camsciater. The work of a poyefer is making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:395
+Newlon is a wenbumber. The work of a tolter is controlling the exterior of an aircraft by operating its directional flight controls. Crotty is a tolter. The work of a wenbumber is preparing food for eyes in a restaurant. Player is a seaizer. The work of a seaizer is making software calendars in language and television.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:396
+Dudgeon is an exsowiver. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a prottober is looking after sick animals by making veterinary medicine. Betts is a dymer. The work of a dymer is managing a customer's or school's financial records. Forsythe is a prottober.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:397
+Leek is a pinwer. The work of an exsowiver is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an onner is patrolling problems professionally. Shuford is an onner. Hohman is an exsowiver. The work of a pinwer is repairing the warehouse systems or reports.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:398
+The work of a contaker is managing goods in a company. The work of an oducer is writing books or problems professionally. Buffa is a mirituer. Pascua is an oducer. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Donahue is a contaker.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/knowledge-text-only/validation:399
+Sadowski is a patalcer. The work of a pinwer is repairing the warehouse systems or reports. Heslop is a pinwer. The work of a patalcer is reading and giving the news on aircraft. The work of a mirituer is controlling the pool of an aircraft by using its directional flight controls. Rathbun is a mirituer.

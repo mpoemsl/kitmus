@@ -1,0 +1,1199 @@
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:0
+The work of an electrician is working with electric circuits. Pandey is a mechanic. Sotelo is an electrician. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:1
+Lomonaco is a teacher. Hubler is a travel agent. The work of a teacher is passing knowledge to students at school. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:2
+Nichols is a carpenter. The work of a photographer is taking photos professionally. The work of a carpenter is making things from wood including houses and furniture. Gahagan is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:3
+Dearmas is an actor. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Popovich is a customer service representative. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:4
+Baskin is a translator. Thorsen is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:5
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Mutter is a translator. Lagrange is a stocking associate. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:6
+Messenger is a carpenter. Barrera is a teacher. The work of a carpenter is making things from wood including houses and furniture. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:7
+Pick is a bricklayer. Rhymes is a politician. The work of a bricklayer is helping to build houses using bricks. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:8
+Boylan is an actor. The work of an astronomer is studying the stars and the universe. Northington is an astronomer. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:9
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Lackey is a photographer. The work of a photographer is taking photos professionally. Buswell is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:10
+The work of a nurse is helping medical professionals look after the sick or injured. The work of an astronomer is studying the stars and the universe. Estabrook is an astronomer. Choy is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:11
+Engles is a carpenter. The work of a carpenter is making things from wood including houses and furniture. The work of an astronomer is studying the stars and the universe. Hedin is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:12
+Bumgarner is an author. Farrow is a customer service representative. The work of an author is writing books or novels professionally. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:13
+The work of a translator is translating from one language to another professionally. Linhart is an author. Lucht is a translator. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:14
+The work of a photographer is taking photos professionally. Ashcroft is a travel agent. The work of a travel agent is organising and selling holidays and flights for others. Hoosier is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:15
+The work of a politician is seeking an elected seat in government. Burchette is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Dumas is a politician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:16
+Inskeep is a travel agent. Adkison is a teacher. The work of a teacher is passing knowledge to students at school. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:17
+Fuhrmann is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of an astronomer is studying the stars and the universe. Fontanilla is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:18
+Catanese is an actor. Turgeon is a politician. The work of an actor is acting in a play or a movie. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:19
+The work of a nurse is helping medical professionals look after the sick or injured. Batchelor is a translator. The work of a translator is translating from one language to another professionally. Wroblewski is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:20
+Drapeau is an optician. Waltrip is an actor. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:21
+Dowdell is an actor. The work of an actor is acting in a play or a movie. The work of a travel agent is organising and selling holidays and flights for others. Valdivieso is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:22
+Noh is a stocking associate. Sottile is a politician. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:23
+The work of an actor is acting in a play or a movie. Looney is an actor. Celestin is a translator. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:24
+Coutts is a bricklayer. The work of an author is writing books or novels professionally. The work of a bricklayer is helping to build houses using bricks. Spraggins is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:25
+Risinger is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. The work of a chef is preparing food for others in a restaurant. Symonds is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:26
+The work of an astronomer is studying the stars and the universe. Inskeep is an astronomer. Roux is a photographer. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:27
+Fontanez is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. The work of an astronomer is studying the stars and the universe. Beliveau is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:28
+The work of a bookkeeper is managing a customer's or client's financial records. Tiedemann is an electrician. Schueler is a bookkeeper. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:29
+The work of an author is writing books or novels professionally. Nakamura is a travel agent. Scheid is an author. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:30
+The work of a photographer is taking photos professionally. Covert is a photographer. Fast is a chef. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:31
+The work of a teacher is passing knowledge to students at school. The work of an optician is checking and correcting any problems with eyes and eye sight. Fewell is an optician. Chery is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:32
+Yamaguchi is a bricklayer. Schmit is an optician. The work of a bricklayer is helping to build houses using bricks. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:33
+Wigley is an electrician. The work of a teacher is passing knowledge to students at school. Eggers is a teacher. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:34
+The work of an actor is acting in a play or a movie. Bertolini is a travel agent. Sabia is an actor. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:35
+The work of a translator is translating from one language to another professionally. Blasko is a bricklayer. The work of a bricklayer is helping to build houses using bricks. Tsai is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:36
+The work of a travel agent is organising and selling holidays and flights for others. Gengler is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Straley is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:37
+Bender is a teacher. The work of an author is writing books or novels professionally. Kugler is an author. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:38
+Reider is a chef. The work of a chef is preparing food for others in a restaurant. Mowers is an astronomer. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:39
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Shippy is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. Poore is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:40
+Sackett is a teacher. Naik is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:41
+The work of a politician is seeking an elected seat in government. Cadwell is a stocking associate. Brayboy is a politician. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:42
+The work of an actor is acting in a play or a movie. Baughn is an actor. The work of a bricklayer is helping to build houses using bricks. Hise is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:43
+The work of a bricklayer is helping to build houses using bricks. Osowski is a farmer. Sax is a bricklayer. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:44
+Vickery is a translator. The work of a carpenter is making things from wood including houses and furniture. The work of a translator is translating from one language to another professionally. Bramblett is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:45
+Heyer is a photographer. The work of a photographer is taking photos professionally. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Swensen is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:46
+Macko is a carpenter. The work of a carpenter is making things from wood including houses and furniture. Verret is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:47
+The work of a carpenter is making things from wood including houses and furniture. The work of a travel agent is organising and selling holidays and flights for others. Varela is a travel agent. Templeton is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:48
+Cammack is an author. The work of a translator is translating from one language to another professionally. Wildermuth is a translator. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:49
+Sicard is a nurse. Huntsman is a bookkeeper. The work of a nurse is helping medical professionals look after the sick or injured. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:50
+The work of a carpenter is making things from wood including houses and furniture. Strohl is a carpenter. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Eaton is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:51
+The work of an optician is checking and correcting any problems with eyes and eye sight. Lesko is an optician. The work of an electrician is working with electric circuits. Touchet is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:52
+The work of a carpenter is making things from wood including houses and furniture. Wichman is a carpenter. The work of a translator is translating from one language to another professionally. Spatz is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:53
+Breeding is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Ginsberg is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:54
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a nurse is helping medical professionals look after the sick or injured. Sauter is a lifeguard. Rutter is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:55
+Mudd is a stocking associate. The work of a carpenter is making things from wood including houses and furniture. Bi is a carpenter. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:56
+Xu is a travel agent. The work of a bookkeeper is managing a customer's or client's financial records. The work of a travel agent is organising and selling holidays and flights for others. Spradley is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:57
+Poore is a nurse. The work of a translator is translating from one language to another professionally. The work of a nurse is helping medical professionals look after the sick or injured. Ingraham is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:58
+Fleury is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. Kinnear is a carpenter. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:59
+Lepe is a translator. The work of a teacher is passing knowledge to students at school. The work of a translator is translating from one language to another professionally. Walling is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:60
+Perrine is a mechanic. Crosswhite is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:61
+The work of an actor is acting in a play or a movie. The work of a farmer is working on a farm usually with animals. Swingle is an actor. Lucarelli is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:62
+The work of a travel agent is organising and selling holidays and flights for others. Arango is a mechanic. Bolin is a travel agent. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:63
+The work of a politician is seeking an elected seat in government. The work of a photographer is taking photos professionally. Prine is a politician. Swensen is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:64
+The work of an actor is acting in a play or a movie. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Labounty is a mechanic. Nolasco is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:65
+The work of a photographer is taking photos professionally. Rusch is a photographer. Million is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:66
+Sarno is a bookkeeper. Eby is a chef. The work of a chef is preparing food for others in a restaurant. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:67
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Dunmore is a lifeguard. Neilsen is a chef. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:68
+The work of a nurse is helping medical professionals look after the sick or injured. Thibodaux is a nurse. Geraghty is a chef. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:69
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Knopp is a carpenter. Wedge is a mechanic. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:70
+Woodford is an author. The work of an author is writing books or novels professionally. Teske is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:71
+The work of a photographer is taking photos professionally. Lopiccolo is a teacher. Ros is a photographer. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:72
+Winkelmann is an author. The work of a carpenter is making things from wood including houses and furniture. The work of an author is writing books or novels professionally. Magallanes is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:73
+Koshy is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Drapeau is an author. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:74
+The work of a bookkeeper is managing a customer's or client's financial records. Rowlands is a bookkeeper. Jankowski is a travel agent. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:75
+The work of a carpenter is making things from wood including houses and furniture. Kittinger is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Prindle is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:76
+Orosz is a carpenter. Dumas is an electrician. The work of a carpenter is making things from wood including houses and furniture. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:77
+Pugliese is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Zarate is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:78
+The work of a farmer is working on a farm usually with animals. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Strawbridge is a farmer. Weishaar is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:79
+The work of an optician is checking and correcting any problems with eyes and eye sight. Leveille is an optician. The work of a translator is translating from one language to another professionally. Timko is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:80
+Tedrow is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Palmateer is a carpenter. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:81
+Hard is a bricklayer. The work of a bricklayer is helping to build houses using bricks. Basurto is a nurse. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:82
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Sturtevant is a mechanic. The work of a chef is preparing food for others in a restaurant. Burleson is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:83
+Verner is a customer service representative. Garg is a carpenter. The work of a carpenter is making things from wood including houses and furniture. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:84
+Stoffel is a teacher. Beiler is a photographer. The work of a photographer is taking photos professionally. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:85
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Wagstaff is a customer service representative. Spahn is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:86
+The work of an astronomer is studying the stars and the universe. The work of a bookkeeper is managing a customer's or client's financial records. Yarbrough is an astronomer. Spruill is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:87
+Rizk is an actor. Wainwright is a travel agent. The work of a travel agent is organising and selling holidays and flights for others. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:88
+Dingess is an actor. The work of an actor is acting in a play or a movie. Garden is a photographer. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:89
+The work of a politician is seeking an elected seat in government. The work of a bookkeeper is managing a customer's or client's financial records. Kirkwood is a politician. Leff is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:90
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Yearwood is a lifeguard. The work of a carpenter is making things from wood including houses and furniture. Lipari is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:91
+Wichman is an electrician. The work of an electrician is working with electric circuits. The work of a teacher is passing knowledge to students at school. Gazaway is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:92
+Mahon is a politician. Wooden is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:93
+Aldaco is an electrician. The work of an electrician is working with electric circuits. Tompkins is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:94
+The work of a bookkeeper is managing a customer's or client's financial records. Normand is a bookkeeper. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Magness is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:95
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Almquist is a mechanic. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Villasana is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:96
+The work of a photographer is taking photos professionally. Doles is a photographer. Balliet is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:97
+Swanger is a stocking associate. The work of an author is writing books or novels professionally. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Barrientes is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:98
+Rickards is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an electrician is working with electric circuits. Bogle is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:99
+The work of a farmer is working on a farm usually with animals. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Miraglia is a farmer. Boots is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:100
+Prim is a customer service representative. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Fried is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:101
+The work of a teacher is passing knowledge to students at school. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Goldner is a teacher. Schmelzer is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:102
+The work of a nurse is helping medical professionals look after the sick or injured. Limas is a nurse. Kemmerer is a photographer. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:103
+The work of a bricklayer is helping to build houses using bricks. Havener is a politician. The work of a politician is seeking an elected seat in government. Pick is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:104
+Rolen is an author. The work of an author is writing books or novels professionally. Heslop is a carpenter. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:105
+The work of an actor is acting in a play or a movie. The work of a nurse is helping medical professionals look after the sick or injured. Lareau is a nurse. Younts is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:106
+The work of a chef is preparing food for others in a restaurant. The work of an electrician is working with electric circuits. Beams is an electrician. Cromwell is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:107
+Biddle is a bricklayer. The work of an author is writing books or novels professionally. Wann is an author. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:108
+Pritchard is an author. The work of a chef is preparing food for others in a restaurant. Murtagh is a chef. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:109
+The work of a chef is preparing food for others in a restaurant. Veal is a travel agent. Basinger is a chef. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:110
+The work of a carpenter is making things from wood including houses and furniture. The work of a chef is preparing food for others in a restaurant. Furry is a chef. Holmes is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:111
+Plyler is a teacher. The work of a translator is translating from one language to another professionally. The work of a teacher is passing knowledge to students at school. Staff is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:112
+The work of a bookkeeper is managing a customer's or client's financial records. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Lish is a bookkeeper. Bradt is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:113
+Fullmer is a customer service representative. The work of an actor is acting in a play or a movie. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Faucette is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:114
+Selleck is an astronomer. The work of a photographer is taking photos professionally. Janik is a photographer. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:115
+Peralta is a carpenter. The work of an astronomer is studying the stars and the universe. Tostado is an astronomer. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:116
+Munch is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Fales is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:117
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a teacher is passing knowledge to students at school. Arno is a teacher. Lirette is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:118
+The work of an author is writing books or novels professionally. The work of a nurse is helping medical professionals look after the sick or injured. Starrett is a nurse. Mcpeek is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:119
+Luo is a chef. Dorsett is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:120
+Marchbanks is a stocking associate. Rieder is an actor. The work of an actor is acting in a play or a movie. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:121
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a bricklayer is helping to build houses using bricks. Goodfellow is a lifeguard. Villela is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:122
+Endicott is a politician. The work of a politician is seeking an elected seat in government. The work of an actor is acting in a play or a movie. Lombard is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:123
+The work of an optician is checking and correcting any problems with eyes and eye sight. Reith is an optician. Balderas is a farmer. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:124
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Valenciano is a mechanic. Crisostomo is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:125
+The work of an optician is checking and correcting any problems with eyes and eye sight. Sobolewski is an optician. The work of a translator is translating from one language to another professionally. Hilaire is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:126
+The work of a bookkeeper is managing a customer's or client's financial records. The work of an optician is checking and correcting any problems with eyes and eye sight. Villela is an optician. Strait is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:127
+The work of a translator is translating from one language to another professionally. Duck is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. Pugh is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:128
+The work of an astronomer is studying the stars and the universe. The work of an actor is acting in a play or a movie. Shellman is an actor. Bickham is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:129
+Stimpson is a chef. Arvidson is an actor. The work of a chef is preparing food for others in a restaurant. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:130
+Giardina is an astronomer. Nass is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:131
+The work of an author is writing books or novels professionally. Struble is a nurse. Pfeiffer is an author. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:132
+Chahal is a customer service representative. Spiegel is a mechanic. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:133
+Huddleston is a bricklayer. The work of a bricklayer is helping to build houses using bricks. Simonetti is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:134
+Eguia is a politician. Towner is an author. The work of a politician is seeking an elected seat in government. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:135
+Nissen is a politician. The work of a politician is seeking an elected seat in government. The work of a farmer is working on a farm usually with animals. Thiede is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:136
+The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a farmer is working on a farm usually with animals. Coats is a farmer. Misner is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:137
+Friedrichs is a farmer. Casperson is a carpenter. The work of a farmer is working on a farm usually with animals. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:138
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of an electrician is working with electric circuits. Palomares is a customer service representative. Derouen is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:139
+The work of an author is writing books or novels professionally. The work of a carpenter is making things from wood including houses and furniture. Esser is an author. Favreau is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:140
+Prichard is an astronomer. The work of an astronomer is studying the stars and the universe. The work of a nurse is helping medical professionals look after the sick or injured. Scheidt is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:141
+Devinney is a bricklayer. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a bricklayer is helping to build houses using bricks. Beckmann is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:142
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of an optician is checking and correcting any problems with eyes and eye sight. Chaplin is a stocking associate. Wagaman is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:143
+Nascimento is an author. The work of an author is writing books or novels professionally. The work of an optician is checking and correcting any problems with eyes and eye sight. Frias is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:144
+The work of an electrician is working with electric circuits. Tiemann is an electrician. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Shadle is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:145
+The work of a politician is seeking an elected seat in government. The work of an electrician is working with electric circuits. Wilbanks is a politician. Culbreath is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:146
+The work of an electrician is working with electric circuits. Hargrave is a bookkeeper. Whang is an electrician. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:147
+Fields is an actor. The work of a translator is translating from one language to another professionally. Sayegh is a translator. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:148
+The work of a farmer is working on a farm usually with animals. Orosz is a farmer. The work of a nurse is helping medical professionals look after the sick or injured. Hurwitz is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:149
+The work of a nurse is helping medical professionals look after the sick or injured. Seagle is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records. Moyers is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:150
+Nielson is an actor. Stamand is a politician. The work of an actor is acting in a play or a movie. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:151
+Varnum is an optician. The work of a politician is seeking an elected seat in government. Press is a politician. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:152
+Cochrane is a bookkeeper. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a bookkeeper is managing a customer's or client's financial records. Scarboro is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:153
+The work of an actor is acting in a play or a movie. Slick is an author. Searles is an actor. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:154
+Kincer is an electrician. The work of a translator is translating from one language to another professionally. Zalewski is a translator. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:155
+Desrochers is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of an electrician is working with electric circuits. Coolidge is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:156
+Wofford is a teacher. The work of an astronomer is studying the stars and the universe. Cienfuegos is an astronomer. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:157
+Strack is a politician. The work of a politician is seeking an elected seat in government. The work of a translator is translating from one language to another professionally. Legendre is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:158
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a bricklayer is helping to build houses using bricks. Mccrady is a mechanic. Orea is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:159
+Macdowell is a farmer. Bruner is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:160
+The work of an astronomer is studying the stars and the universe. The work of a chef is preparing food for others in a restaurant. Tapscott is a chef. Boelter is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:161
+Miyashiro is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a chef is preparing food for others in a restaurant. Villarreal is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:162
+Brehmer is a bricklayer. Tetzlaff is a chef. The work of a chef is preparing food for others in a restaurant. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:163
+The work of a farmer is working on a farm usually with animals. Fikes is a farmer. Coloma is a chef. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:164
+Alber is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of an optician is checking and correcting any problems with eyes and eye sight. Edgerton is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:165
+Garg is an electrician. Mauck is a farmer. The work of an electrician is working with electric circuits. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:166
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Darosa is a stocking associate. The work of a teacher is passing knowledge to students at school. Schmelzer is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:167
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a travel agent is organising and selling holidays and flights for others. Hands is a mechanic. Hess is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:168
+Mclaurin is a travel agent. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a travel agent is organising and selling holidays and flights for others. Downard is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:169
+Dorey is a teacher. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a teacher is passing knowledge to students at school. Figueiredo is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:170
+The work of a politician is seeking an elected seat in government. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Diazdeleon is a politician. Vanetten is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:171
+The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a translator is translating from one language to another professionally. Furr is a translator. Lujan is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:172
+The work of a travel agent is organising and selling holidays and flights for others. Wendt is a travel agent. Bickford is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:173
+The work of an actor is acting in a play or a movie. Blouin is a lifeguard. Cozad is an actor. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:174
+The work of a bricklayer is helping to build houses using bricks. The work of an optician is checking and correcting any problems with eyes and eye sight. Swarthout is a bricklayer. Ceja is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:175
+Labarge is a travel agent. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a travel agent is organising and selling holidays and flights for others. Schlemmer is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:176
+Weems is a translator. The work of an optician is checking and correcting any problems with eyes and eye sight. Hidalgo is an optician. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:177
+The work of an optician is checking and correcting any problems with eyes and eye sight. Holen is a bricklayer. Duck is an optician. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:178
+Tome is a customer service representative. The work of a translator is translating from one language to another professionally. Pasion is a translator. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:179
+The work of a bricklayer is helping to build houses using bricks. Dearing is a travel agent. Deveau is a bricklayer. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:180
+Bickel is a bricklayer. The work of a carpenter is making things from wood including houses and furniture. Halverson is a carpenter. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:181
+Kromer is a carpenter. The work of a nurse is helping medical professionals look after the sick or injured. The work of a carpenter is making things from wood including houses and furniture. Capps is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:182
+Damico is a nurse. The work of a photographer is taking photos professionally. Wilhoit is a photographer. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:183
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Yeoman is a mechanic. Laabs is a lifeguard. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:184
+The work of a farmer is working on a farm usually with animals. Lanz is a farmer. The work of a carpenter is making things from wood including houses and furniture. Alcorta is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:185
+Cummins is an astronomer. Dowd is a politician. The work of an astronomer is studying the stars and the universe. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:186
+Norvell is a photographer. The work of a photographer is taking photos professionally. Keeney is a bricklayer. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:187
+Fellows is a bricklayer. The work of a teacher is passing knowledge to students at school. Ells is a teacher. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:188
+Seiter is an electrician. The work of an author is writing books or novels professionally. The work of an electrician is working with electric circuits. Samples is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:189
+The work of a politician is seeking an elected seat in government. Bellomy is a politician. Bohl is an electrician. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:190
+The work of a translator is translating from one language to another professionally. The work of an actor is acting in a play or a movie. Mcmullen is a translator. Scala is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:191
+Oldham is a teacher. Tadros is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:192
+Slaughter is a farmer. Hessler is a carpenter. The work of a carpenter is making things from wood including houses and furniture. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:193
+Demartini is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. Drummond is a nurse. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:194
+Spatz is a teacher. Kneeland is a mechanic. The work of a teacher is passing knowledge to students at school. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:195
+The work of a farmer is working on a farm usually with animals. Stormer is a farmer. Lingle is a chef. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:196
+The work of a bookkeeper is managing a customer's or client's financial records. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Portales is a bookkeeper. Galan is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:197
+Boylan is an astronomer. The work of an astronomer is studying the stars and the universe. The work of a carpenter is making things from wood including houses and furniture. Roehm is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:198
+Chico is a bricklayer. Rooker is a chef. The work of a bricklayer is helping to build houses using bricks. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:199
+Calixte is a translator. The work of a travel agent is organising and selling holidays and flights for others. The work of a translator is translating from one language to another professionally. Ketner is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:200
+Declue is a translator. Lanza is an electrician. The work of a translator is translating from one language to another professionally. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:201
+Sorto is a carpenter. Sica is an actor. The work of a carpenter is making things from wood including houses and furniture. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:202
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Dorman is a customer service representative. Bagley is a lifeguard. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:203
+The work of a photographer is taking photos professionally. The work of an author is writing books or novels professionally. Kurland is an author. Creedon is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:204
+The work of an author is writing books or novels professionally. Finan is an author. Annis is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:205
+Swaby is an electrician. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Flinchum is a customer service representative. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:206
+Chahal is a lifeguard. The work of a chef is preparing food for others in a restaurant. Rowlett is a chef. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:207
+Devinney is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Wood is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:208
+The work of an author is writing books or novels professionally. Helsley is an optician. Chatterton is an author. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:209
+The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a nurse is helping medical professionals look after the sick or injured. Kirtley is a lifeguard. Borntrager is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:210
+Pier is a farmer. The work of a farmer is working on a farm usually with animals. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Steiger is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:211
+The work of a teacher is passing knowledge to students at school. Bing is a teacher. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Belton is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:212
+The work of a bookkeeper is managing a customer's or client's financial records. The work of a bricklayer is helping to build houses using bricks. Zhang is a bookkeeper. Watford is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:213
+The work of a politician is seeking an elected seat in government. Maner is a politician. The work of a translator is translating from one language to another professionally. Euceda is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:214
+The work of a carpenter is making things from wood including houses and furniture. Canez is a photographer. Arboleda is a carpenter. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:215
+The work of a bookkeeper is managing a customer's or client's financial records. Schiavone is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Forcier is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:216
+Hurd is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a nurse is helping medical professionals look after the sick or injured. Felt is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:217
+The work of an actor is acting in a play or a movie. Muto is an optician. Barreras is an actor. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:218
+Cohee is a carpenter. The work of an electrician is working with electric circuits. Wilmes is an electrician. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:219
+Creason is an astronomer. The work of a chef is preparing food for others in a restaurant. Foulks is a chef. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:220
+The work of an astronomer is studying the stars and the universe. Bickford is an astronomer. The work of a carpenter is making things from wood including houses and furniture. Nemec is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:221
+The work of a politician is seeking an elected seat in government. The work of a photographer is taking photos professionally. Kimmel is a photographer. Sutherland is a politician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:222
+Cassara is a travel agent. Stefanski is a politician. The work of a politician is seeking an elected seat in government. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:223
+The work of a photographer is taking photos professionally. Belman is a photographer. Arenas is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:224
+Gosnell is a mechanic. Abernathy is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:225
+Leath is a mechanic. Beadles is an actor. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an actor is acting in a play or a movie.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:226
+The work of a farmer is working on a farm usually with animals. The work of an author is writing books or novels professionally. Mabie is a farmer. Kendig is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:227
+Janik is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records. Roh is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:228
+Khawaja is a politician. The work of a nurse is helping medical professionals look after the sick or injured. Vess is a nurse. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:229
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a carpenter is making things from wood including houses and furniture. Schatz is a carpenter. Winship is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:230
+Hyder is a teacher. Boyette is an electrician. The work of an electrician is working with electric circuits. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:231
+The work of a carpenter is making things from wood including houses and furniture. The work of an optician is checking and correcting any problems with eyes and eye sight. Vanpelt is a carpenter. Stickle is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:232
+The work of an actor is acting in a play or a movie. The work of an astronomer is studying the stars and the universe. Petroff is an actor. Fuhrmann is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:233
+Musso is a carpenter. The work of a carpenter is making things from wood including houses and furniture. Overturf is a farmer. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:234
+The work of a carpenter is making things from wood including houses and furniture. Lancaster is a carpenter. The work of a farmer is working on a farm usually with animals. Montilla is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:235
+Crownover is an actor. Levins is an author. The work of an actor is acting in a play or a movie. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:236
+Zeringue is a stocking associate. The work of a translator is translating from one language to another professionally. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Mizer is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:237
+Dorsett is a politician. The work of an astronomer is studying the stars and the universe. Cherney is an astronomer. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:238
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Buscher is a stocking associate. Dimick is a bricklayer. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:239
+Decamp is a politician. Belt is a photographer. The work of a politician is seeking an elected seat in government. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:240
+Odaniel is a customer service representative. Partee is a carpenter. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:241
+The work of an optician is checking and correcting any problems with eyes and eye sight. Michalski is an optician. Risinger is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:242
+Coss is a carpenter. The work of a farmer is working on a farm usually with animals. The work of a carpenter is making things from wood including houses and furniture. Allbright is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:243
+Gabrielson is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of a farmer is working on a farm usually with animals. Stenberg is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:244
+The work of an optician is checking and correcting any problems with eyes and eye sight. Hubler is an optician. The work of a nurse is helping medical professionals look after the sick or injured. Lisi is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:245
+Sickler is a travel agent. Olinger is a lifeguard. The work of a travel agent is organising and selling holidays and flights for others. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:246
+The work of a bricklayer is helping to build houses using bricks. Weiss is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Swart is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:247
+The work of an electrician is working with electric circuits. Winland is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Climer is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:248
+The work of an author is writing books or novels professionally. Gregerson is a lifeguard. Marceau is an author. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:249
+The work of a bookkeeper is managing a customer's or client's financial records. The work of an astronomer is studying the stars and the universe. Razo is an astronomer. Mclane is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:250
+The work of a carpenter is making things from wood including houses and furniture. The work of a bookkeeper is managing a customer's or client's financial records. Prickett is a carpenter. Landman is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:251
+Shoup is a translator. Moree is an electrician. The work of a translator is translating from one language to another professionally. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:252
+The work of a teacher is passing knowledge to students at school. Cornette is a lifeguard. Bowlby is a teacher. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:253
+The work of a farmer is working on a farm usually with animals. Rayo is a customer service representative. Boelter is a farmer. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:254
+Veazey is a chef. The work of a chef is preparing food for others in a restaurant. The work of a travel agent is organising and selling holidays and flights for others. Dimmick is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:255
+The work of a carpenter is making things from wood including houses and furniture. Hertzler is a travel agent. The work of a travel agent is organising and selling holidays and flights for others. Polito is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:256
+Pettiford is an electrician. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of an electrician is working with electric circuits. Macko is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:257
+Schaible is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Saulsbury is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:258
+Barrientes is a nurse. The work of a politician is seeking an elected seat in government. Templeton is a politician. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:259
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Puryear is a stocking associate. Orrick is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:260
+Bosworth is an optician. Verrett is a lifeguard. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:261
+The work of an optician is checking and correcting any problems with eyes and eye sight. Fenn is an optician. The work of a teacher is passing knowledge to students at school. Parekh is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:262
+Ell is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Owings is a photographer. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:263
+The work of an author is writing books or novels professionally. The work of a teacher is passing knowledge to students at school. Holdren is a teacher. Chewning is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:264
+The work of a chef is preparing food for others in a restaurant. Sydnor is a chef. The work of a nurse is helping medical professionals look after the sick or injured. Roundtree is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:265
+Monterroso is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Dedeaux is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:266
+The work of a chef is preparing food for others in a restaurant. Taube is a nurse. Robillard is a chef. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:267
+The work of a travel agent is organising and selling holidays and flights for others. The work of a bricklayer is helping to build houses using bricks. Krug is a bricklayer. Kirkwood is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:268
+The work of an astronomer is studying the stars and the universe. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Hazelton is a customer service representative. Bond is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:269
+The work of a farmer is working on a farm usually with animals. Cordes is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Seamster is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:270
+Stock is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Erhart is an electrician. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:271
+Rueda is a farmer. The work of a bricklayer is helping to build houses using bricks. Gandarilla is a bricklayer. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:272
+Brummitt is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of an astronomer is studying the stars and the universe. Potts is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:273
+The work of an astronomer is studying the stars and the universe. Murch is a bricklayer. Voll is an astronomer. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:274
+The work of a teacher is passing knowledge to students at school. Fiscus is a teacher. The work of an actor is acting in a play or a movie. Schimpf is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:275
+The work of a nurse is helping medical professionals look after the sick or injured. Nevels is a photographer. Claus is a nurse. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:276
+Demott is an electrician. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an electrician is working with electric circuits. Herrod is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:277
+Carwile is an astronomer. The work of an astronomer is studying the stars and the universe. Erb is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:278
+The work of an optician is checking and correcting any problems with eyes and eye sight. Kinnear is a farmer. Hyder is an optician. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:279
+The work of an electrician is working with electric circuits. Saavedra is an electrician. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Spurgeon is a customer service representative.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:280
+Gandarilla is a stocking associate. The work of a translator is translating from one language to another professionally. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Pfaff is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:281
+The work of an astronomer is studying the stars and the universe. Stainbrook is an astronomer. Saini is a carpenter. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:282
+The work of an optician is checking and correcting any problems with eyes and eye sight. The work of an actor is acting in a play or a movie. Levingston is an optician. Wiltz is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:283
+The work of an optician is checking and correcting any problems with eyes and eye sight. Nagle is an optician. The work of a translator is translating from one language to another professionally. Keels is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:284
+Ruder is a teacher. The work of an astronomer is studying the stars and the universe. The work of a teacher is passing knowledge to students at school. Mas is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:285
+Barros is an electrician. Riehl is a farmer. The work of a farmer is working on a farm usually with animals. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:286
+Kinne is a carpenter. The work of a travel agent is organising and selling holidays and flights for others. Maes is a travel agent. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:287
+The work of a bricklayer is helping to build houses using bricks. Haggerty is a bricklayer. The work of a teacher is passing knowledge to students at school. Peralta is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:288
+Russo is a politician. Levitt is an electrician. The work of an electrician is working with electric circuits. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:289
+Seale is a customer service representative. Wendorf is a carpenter. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:290
+The work of a travel agent is organising and selling holidays and flights for others. The work of an optician is checking and correcting any problems with eyes and eye sight. In is an optician. Scheidt is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:291
+Vila is an optician. Mcgrane is an electrician. The work of an electrician is working with electric circuits. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:292
+Leite is a stocking associate. The work of a farmer is working on a farm usually with animals. Richman is a farmer. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:293
+The work of an astronomer is studying the stars and the universe. Mcneeley is an astronomer. Sarno is a bricklayer. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:294
+Ragsdale is a farmer. The work of an author is writing books or novels professionally. The work of a farmer is working on a farm usually with animals. Almon is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:295
+The work of an author is writing books or novels professionally. Whelchel is an author. The work of an electrician is working with electric circuits. Cozad is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:296
+Ojeda is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. The work of an actor is acting in a play or a movie. Katzman is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:297
+The work of an electrician is working with electric circuits. The work of a photographer is taking photos professionally. Miedema is an electrician. Brouwer is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:298
+Schrecengost is a stocking associate. Mcgill is an astronomer. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:299
+The work of an author is writing books or novels professionally. Willer is a farmer. Hecker is an author. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:300
+Couey is a chef. The work of a bricklayer is helping to build houses using bricks. The work of a chef is preparing food for others in a restaurant. Hilty is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:301
+The work of a carpenter is making things from wood including houses and furniture. Gribble is a carpenter. Neptune is a farmer. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:302
+Arata is a mechanic. Whiteford is an optician. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:303
+Crabb is an electrician. The work of a travel agent is organising and selling holidays and flights for others. The work of an electrician is working with electric circuits. Hampshire is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:304
+The work of a bookkeeper is managing a customer's or client's financial records. The work of a nurse is helping medical professionals look after the sick or injured. Zawacki is a nurse. Bohm is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:305
+The work of an electrician is working with electric circuits. Noggle is a stocking associate. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Perrotta is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:306
+The work of a carpenter is making things from wood including houses and furniture. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Fuss is a carpenter. Dunmore is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:307
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Nie is a mechanic. Ledgerwood is an astronomer. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:308
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Haskin is an optician. Strouse is a customer service representative. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:309
+The work of a farmer is working on a farm usually with animals. Thaler is an astronomer. Schilling is a farmer. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:310
+The work of a farmer is working on a farm usually with animals. Dragon is a farmer. Batchelor is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:311
+The work of a photographer is taking photos professionally. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Hild is a photographer. Bragdon is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:312
+The work of a photographer is taking photos professionally. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Fimbres is a customer service representative. Bramblett is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:313
+The work of a bookkeeper is managing a customer's or client's financial records. Hanlon is a bookkeeper. The work of an actor is acting in a play or a movie. Redinger is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:314
+The work of a translator is translating from one language to another professionally. Schuh is a translator. Bostic is a travel agent. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:315
+Millhouse is a politician. The work of a politician is seeking an elected seat in government. Heap is a translator. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:316
+Ehrhart is an astronomer. Buser is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:317
+Dietrick is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Strickler is a politician. The work of a politician is seeking an elected seat in government.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:318
+The work of a politician is seeking an elected seat in government. Hilderbrand is a photographer. Downard is a politician. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:319
+The work of a chef is preparing food for others in a restaurant. Elizondo is a translator. The work of a translator is translating from one language to another professionally. Rine is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:320
+Mcgrady is an author. Minick is a stocking associate. The work of an author is writing books or novels professionally. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:321
+Berlanga is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of an actor is acting in a play or a movie. Mccleskey is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:322
+The work of an astronomer is studying the stars and the universe. The work of a teacher is passing knowledge to students at school. Andress is an astronomer. Molitor is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:323
+Hammel is a mechanic. Morvant is a lifeguard. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:324
+The work of an electrician is working with electric circuits. Hoover is a bricklayer. The work of a bricklayer is helping to build houses using bricks. Munch is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:325
+Bartolo is a bookkeeper. The work of a travel agent is organising and selling holidays and flights for others. The work of a bookkeeper is managing a customer's or client's financial records. Kushner is a travel agent.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:326
+The work of a nurse is helping medical professionals look after the sick or injured. The work of a bookkeeper is managing a customer's or client's financial records. Krahn is a nurse. Din is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:327
+Kurth is an astronomer. The work of a translator is translating from one language to another professionally. Bayles is a translator. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:328
+Zhuang is a carpenter. The work of a carpenter is making things from wood including houses and furniture. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Laughter is a mechanic.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:329
+Devinney is a nurse. Avallone is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:330
+Meidinger is an electrician. Wareham is an author. The work of an author is writing books or novels professionally. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:331
+Albertson is a photographer. Mcneely is a bookkeeper. The work of a bookkeeper is managing a customer's or client's financial records. The work of a photographer is taking photos professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:332
+Cadle is a nurse. The work of an author is writing books or novels professionally. Schwab is an author. The work of a nurse is helping medical professionals look after the sick or injured.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:333
+The work of a politician is seeking an elected seat in government. The work of a photographer is taking photos professionally. Picard is a politician. Villafuerte is a photographer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:334
+Peloquin is a translator. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Coghlan is a mechanic. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:335
+Merola is an author. The work of an actor is acting in a play or a movie. The work of an author is writing books or novels professionally. Hilliard is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:336
+Mwangi is a photographer. The work of a photographer is taking photos professionally. The work of an electrician is working with electric circuits. Nokes is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:337
+The work of an author is writing books or novels professionally. Bale is an author. Wiesner is an electrician. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:338
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a bricklayer is helping to build houses using bricks. Islas is a stocking associate. Coomes is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:339
+Hawn is an actor. The work of an author is writing books or novels professionally. The work of an actor is acting in a play or a movie. Chavarin is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:340
+Beltran is a teacher. The work of a teacher is passing knowledge to students at school. The work of a chef is preparing food for others in a restaurant. Bouton is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:341
+Prager is a travel agent. Hight is a farmer. The work of a farmer is working on a farm usually with animals. The work of a travel agent is organising and selling holidays and flights for others.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:342
+The work of a politician is seeking an elected seat in government. Bohlen is an optician. Mattice is a politician. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:343
+The work of an actor is acting in a play or a movie. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Taunton is an actor. Veith is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:344
+The work of a translator is translating from one language to another professionally. Mcentee is a translator. Colwell is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:345
+The work of a chef is preparing food for others in a restaurant. The work of a translator is translating from one language to another professionally. Pittman is a translator. Morey is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:346
+Roehl is a farmer. Bick is a translator. The work of a farmer is working on a farm usually with animals. The work of a translator is translating from one language to another professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:347
+The work of a translator is translating from one language to another professionally. The work of a chef is preparing food for others in a restaurant. Marlette is a chef. Winkler is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:348
+The work of a chef is preparing food for others in a restaurant. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Loch is a stocking associate. Ong is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:349
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Creech is a lifeguard. Marlatt is a stocking associate. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:350
+The work of a travel agent is organising and selling holidays and flights for others. Hallam is a travel agent. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. Cofield is a stocking associate.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:351
+The work of an electrician is working with electric circuits. Levis is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. Smalls is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:352
+Foy is a farmer. The work of a farmer is working on a farm usually with animals. The work of an optician is checking and correcting any problems with eyes and eye sight. Wolff is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:353
+Shedd is a travel agent. The work of an author is writing books or novels professionally. The work of a travel agent is organising and selling holidays and flights for others. Eckel is an author.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:354
+The work of a bookkeeper is managing a customer's or client's financial records. Faught is a bookkeeper. The work of an astronomer is studying the stars and the universe. Feldkamp is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:355
+Quezada is a photographer. The work of a photographer is taking photos professionally. The work of a carpenter is making things from wood including houses and furniture. Haga is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:356
+Denning is a teacher. Moton is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:357
+Trombly is a carpenter. The work of a carpenter is making things from wood including houses and furniture. The work of a teacher is passing knowledge to students at school. Crandall is a teacher.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:358
+The work of an electrician is working with electric circuits. Coons is an electrician. The work of a bookkeeper is managing a customer's or client's financial records. Boese is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:359
+The work of a translator is translating from one language to another professionally. Michels is a nurse. The work of a nurse is helping medical professionals look after the sick or injured. Valdivieso is a translator.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:360
+Herbst is a photographer. Jolicoeur is a teacher. The work of a photographer is taking photos professionally. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:361
+Whelan is a translator. The work of a chef is preparing food for others in a restaurant. The work of a translator is translating from one language to another professionally. Good is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:362
+The work of an astronomer is studying the stars and the universe. Stroh is a teacher. The work of a teacher is passing knowledge to students at school. Pelham is an astronomer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:363
+Perea is a bricklayer. Anzalone is a translator. The work of a translator is translating from one language to another professionally. The work of a bricklayer is helping to build houses using bricks.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:364
+Zehr is a travel agent. The work of a travel agent is organising and selling holidays and flights for others. Heideman is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:365
+Acuna is an actor. Pettus is a chef. The work of an actor is acting in a play or a movie. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:366
+The work of an optician is checking and correcting any problems with eyes and eye sight. Loughlin is a stocking associate. Staab is an optician. The work of a stocking associate is unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:367
+Terrero is a mechanic. Probst is a carpenter. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:368
+Marceau is a customer service representative. The work of a nurse is helping medical professionals look after the sick or injured. Heideman is a nurse. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:369
+Mcneill is a carpenter. Ressler is an optician. The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:370
+Godina is a farmer. Baity is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of a farmer is working on a farm usually with animals.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:371
+Karn is a customer service representative. Sleeper is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:372
+The work of a chef is preparing food for others in a restaurant. Dones is a carpenter. Stansbury is a chef. The work of a carpenter is making things from wood including houses and furniture.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:373
+The work of a bookkeeper is managing a customer's or client's financial records. Latorre is a bookkeeper. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Qu is a lifeguard.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:374
+The work of a bookkeeper is managing a customer's or client's financial records. The work of a carpenter is making things from wood including houses and furniture. Mcmillan is a carpenter. Rothenberger is a bookkeeper.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:375
+Janzen is a teacher. The work of a farmer is working on a farm usually with animals. The work of a teacher is passing knowledge to students at school. Flinchum is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:376
+The work of a politician is seeking an elected seat in government. Fogg is a politician. The work of an optician is checking and correcting any problems with eyes and eye sight. Parkey is an optician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:377
+The work of a bricklayer is helping to build houses using bricks. The work of a politician is seeking an elected seat in government. Lemmon is a politician. Couey is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:378
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of an actor is acting in a play or a movie. Crossland is a stocking associate. Pinner is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:379
+The work of a nurse is helping medical professionals look after the sick or injured. Grabow is a nurse. Messner is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:380
+The work of a travel agent is organising and selling holidays and flights for others. Bachelder is a customer service representative. Mcguinness is a travel agent. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:381
+Greeno is a mechanic. The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of a carpenter is making things from wood including houses and furniture. Doane is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:382
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. The work of an actor is acting in a play or a movie. Knoll is a mechanic. Coutts is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:383
+The work of an author is writing books or novels professionally. Banuelos is an author. Zavala is an astronomer. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:384
+Resch is a chef. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. Keese is a lifeguard. The work of a chef is preparing food for others in a restaurant.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:385
+The work of a politician is seeking an elected seat in government. Garrard is an author. Hasegawa is a politician. The work of an author is writing books or novels professionally.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:386
+The work of a carpenter is making things from wood including houses and furniture. Futch is a carpenter. The work of an electrician is working with electric circuits. Sanabria is an electrician.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:387
+Modi is a bookkeeper. Chupp is an optician. The work of a bookkeeper is managing a customer's or client's financial records. The work of an optician is checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:388
+The work of an author is writing books or novels professionally. Kennett is an electrician. Hyland is an author. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:389
+The work of an optician is checking and correcting any problems with eyes and eye sight. The work of a chef is preparing food for others in a restaurant. Badeaux is an optician. Farney is a chef.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:390
+Chatmon is a customer service representative. The work of a customer service representative is talking to customers and providing them with information on their company's products and services. The work of a carpenter is making things from wood including houses and furniture. Nakayama is a carpenter.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:391
+Blasko is a bricklayer. The work of a bricklayer is helping to build houses using bricks. The work of an actor is acting in a play or a movie. Lawver is an actor.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:392
+Rouse is a customer service representative. Shuck is a translator. The work of a translator is translating from one language to another professionally. The work of a customer service representative is talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:393
+The work of a mechanic is troubleshooting and identifying problems with vehicles including cars and trucks professionally. Rein is a mechanic. The work of a bricklayer is helping to build houses using bricks. Zukowski is a bricklayer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:394
+The work of a customer service representative is talking to customers and providing them with information on their company's products and services. Centers is an astronomer. Plouffe is a customer service representative. The work of an astronomer is studying the stars and the universe.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:395
+The work of a stocking associate is unpacking merchandise when it arrives at the warehouse. The work of a nurse is helping medical professionals look after the sick or injured. Geoghegan is a stocking associate. Durkee is a nurse.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:396
+The work of an author is writing books or novels professionally. Cornette is an electrician. Bedell is an author. The work of an electrician is working with electric circuits.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:397
+Loyola is an electrician. The work of an electrician is working with electric circuits. Koshy is a teacher. The work of a teacher is passing knowledge to students at school.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:398
+The work of a farmer is working on a farm usually with animals. The work of an actor is acting in a play or a movie. Ban is an actor. Mcnerney is a farmer.
+
+kitmus/background-both/subtask_2_ents/knowledge-text-only/validation:399
+Molinar is an actor. Halsted is a lifeguard. The work of a lifeguard is supervising the safety and rescue of swimmers at a beach or swimming pool. The work of an actor is acting in a play or a movie.

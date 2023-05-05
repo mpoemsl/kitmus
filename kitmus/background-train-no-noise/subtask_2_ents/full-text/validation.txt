@@ -1,0 +1,1199 @@
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:0
+Pawlak is a mechanic. Bloch is a photographer. Bloch and Pawlak connected at the food co-op. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:1
+Denison is a mechanic. Galeano is an optician. At the metro, Galeano and Denison came across each other. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:2
+Strahan is a politician. Renshaw is a stocking associate. Strahan and Renshaw started a conversation at the public park. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:3
+Bottomley is a lifeguard. Kann is a bricklayer. Kann and Bottomley connected at the design expo. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:4
+Zell is an astronomer. Bohl is an optician. Bohl and Zell connected at the coffee shop. She was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:5
+Sletten is an actor. Whitmer is an author. Sletten and Whitmer connected at the gallery. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:6
+Miedema is an author. Schmalz is a chef. Miedema and Schmalz ran into each other at the grocery store. He was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:7
+Morocho is a travel agent. Kittrell is an author. Kittrell and Morocho connected at the comic book expo. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:8
+Hendren is an astronomer. Estevez is a translator. Hendren and Estevez ran into each other at the social community gathering. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:9
+Bombard is a chef. Fang is an astronomer. At the restaurant, Bombard and Fang came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:10
+Heins is a lifeguard. Fettig is an optician. At the restaurant, Fettig and Heins came across each other. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:11
+Manly is an astronomer. Blakey is a teacher. At the power yoga class, Blakey and Manly started a conversation. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:12
+Kirkley is a carpenter. Dunigan is an astronomer. Kirkley and Dunigan ran into each other at the social community gathering. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:13
+Hotaling is an author. Durante is an optician. Hotaling and Durante connected at the rideshare. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:14
+Seery is a travel agent. Geter is a carpenter. At the restaurant, Seery and Geter came across each other. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:15
+Parrilla is a travel agent. Willer is a lifeguard. Parrilla and Willer started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:16
+Applegate is a lifeguard. Pelaez is a teacher. Pelaez and Applegate started a conversation at the music festival. Ze was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:17
+Markiewicz is a translator. Pantaleon is a mechanic. At the improvisation class, Markiewicz and Pantaleon started a conversation. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:18
+Gowen is a stocking associate. Rowe is a translator. Gowen and Rowe connected at the rideshare. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:19
+Mantooth is a politician. Burr is a translator. Mantooth and Burr started a conversation at the gallery opening event. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:20
+Hoffmeister is a travel agent. Luoma is a nurse. Hoffmeister and Luoma connected at the partner dancing classes. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:21
+Thurber is a bricklayer. Figgins is an astronomer. At the winery tour, Figgins and Thurber came across each other. Ze was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:22
+Gallardo is an author. Starnes is a politician. At the gallery opening event, Starnes and Gallardo started a conversation. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:23
+Barrows is a lifeguard. Mundell is a mechanic. Mundell and Barrows connected at the bar. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:24
+Baumgartner is a lifeguard. Errico is a stocking associate. At the archery class, Baumgartner and Errico started a conversation. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:25
+Bury is a bricklayer. Mcglothin is a bookkeeper. At the music festival, Mcglothin and Bury came across each other. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:26
+Richert is a bookkeeper. Acklin is a photographer. Richert and Acklin ran into each other at the poolside event. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:27
+Ranson is a photographer. Bamford is a carpenter. Bamford and Ranson started a conversation at the restaurant. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:28
+Gower is a photographer. Tindal is a travel agent. At the archery class, Tindal and Gower came across each other. He was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:29
+Acree is an astronomer. Benoit is a customer service representative. At the sports bar, Benoit and Acree came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:30
+Varnado is a chef. Enders is a lifeguard. Varnado and Enders ran into each other at the gallery. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:31
+Wehmeyer is an author. Firth is a lifeguard. Firth and Wehmeyer started a conversation at the rideshare. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:32
+Papineau is an electrician. Mccaleb is a chef. Papineau and Mccaleb connected at the photography class. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:33
+Greenhill is an author. Ruppel is an astronomer. Ruppel and Greenhill connected at the group vacation. Ze was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:34
+Desouza is an astronomer. Liechty is a politician. At the theme park, Desouza and Liechty started a conversation. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:35
+Sanner is a bookkeeper. Bloch is a photographer. Bloch and Sanner started a conversation at the winery tour. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:36
+Holsinger is a nurse. Streater is a photographer. Holsinger and Streater started a conversation at the music festival. After a long day at work taking photos professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:37
+Jurgens is an author. Engels is a bookkeeper. Jurgens and Engels ran into each other at the metro. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:38
+Lavalle is a politician. Sano is an author. Lavalle and Sano connected at the bike tour. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:39
+Hollingshead is a customer service representative. Deters is a farmer. At the halloweeen party, Hollingshead and Deters started a conversation. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:40
+Bolinger is a travel agent. Suhr is an optician. At the birthday party, Suhr and Bolinger came across each other. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:41
+Breckenridge is a stocking associate. Knobloch is an author. At the comic book expo, Breckenridge and Knobloch started a conversation. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:42
+Kobayashi is a mechanic. Plancarte is an actor. Plancarte and Kobayashi started a conversation at the archery class. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:43
+Hughs is an author. Counts is a customer service representative. Counts and Hughs started a conversation at the rideshare. She was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:44
+Carrol is a bookkeeper. Brummett is an astronomer. Brummett and Carrol connected at the book club. She was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:45
+Villani is a translator. Scarboro is a mechanic. At the sports bar, Scarboro and Villani started a conversation. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:46
+Waggoner is a customer service representative. Duffield is a bookkeeper. Duffield and Waggoner connected at the restaurant. He was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:47
+Mederos is a bookkeeper. Albro is a farmer. Albro and Mederos started a conversation at the flea market. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:48
+Franks is a teacher. Byers is a chef. Byers and Franks connected at the fitness class. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:49
+Lozier is a politician. Ebanks is a travel agent. At the religious and spiritual gathering, Lozier and Ebanks started a conversation. They were relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:50
+Varona is a customer service representative. Sarkisian is an optician. Varona and Sarkisian started a conversation at the coffee shop. She was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:51
+Trautman is a bookkeeper. Volker is an electrician. Trautman and Volker started a conversation at the grocery store. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:52
+Moskal is a carpenter. Frisbie is a customer service representative. Frisbie and Moskal started a conversation at the birthday party. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:53
+Palladino is a carpenter. Jewett is a travel agent. Jewett and Palladino connected at the museum. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:54
+Crandall is a nurse. Helfrich is a teacher. Crandall and Helfrich ran into each other at the restaurant. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:55
+Stracener is a farmer. Condon is a travel agent. Stracener and Condon started a conversation at the gallery. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:56
+Hafner is a travel agent. Barth is a nurse. At the music festival, Hafner and Barth came across each other. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:57
+Guerriero is a nurse. Mccollum is a bookkeeper. At the volunteer organization meet, Guerriero and Mccollum started a conversation. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:58
+Garber is a chef. Mcnab is a stocking associate. Garber and Mcnab ran into each other at the comic book expo. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:59
+Amstutz is a carpenter. Larosa is a teacher. At the fitness class, Larosa and Amstutz came across each other. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:60
+Mu is a lifeguard. Schuh is a nurse. Schuh and Mu started a conversation at the bike tour. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:61
+Nichol is a lifeguard. Smelser is a mechanic. At the food co-op, Nichol and Smelser came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:62
+Pohl is an actor. Mckee is a carpenter. Mckee and Pohl ran into each other at the grocery store. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:63
+Eisenhart is a chef. Mcglynn is a customer service representative. Eisenhart and Mcglynn ran into each other at the winery tour. Ze was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:64
+Scheerer is an author. Fritch is a farmer. Scheerer and Fritch connected at the volunteer organization meet. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:65
+Bremer is a chef. Ancheta is a stocking associate. At the gallery, Bremer and Ancheta came across each other. They were relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:66
+Brownlee is a stocking associate. Hoffman is an author. At the bar, Hoffman and Brownlee came across each other. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:67
+Saulnier is a nurse. Mosley is a carpenter. Mosley and Saulnier started a conversation at the theme park. After a long day at work making things from wood including houses and furniture, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:68
+Gamache is a politician. Lipford is a travel agent. At the public park, Lipford and Gamache came across each other. He was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:69
+Levesque is an author. Parshall is a nurse. Parshall and Levesque ran into each other at the metro. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:70
+Soohoo is a photographer. Hattaway is a chef. Hattaway and Soohoo ran into each other at the music festival. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:71
+Adkison is a travel agent. Nutting is a chef. Nutting and Adkison ran into each other at the coffee shop. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:72
+Ohearn is a lifeguard. Leis is an electrician. Ohearn and Leis started a conversation at the photography class. Ze was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:73
+Durfee is a chef. Leighty is a bricklayer. At the fitness class, Leighty and Durfee started a conversation. He was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:74
+Wild is a mechanic. Danley is an astronomer. Wild and Danley ran into each other at the halloweeen party. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:75
+Ordway is a customer service representative. Kirtley is an actor. At the food co-op, Kirtley and Ordway came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:76
+Esquivel is a bricklayer. Hoey is a stocking associate. Esquivel and Hoey started a conversation at the improvisation class. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:77
+Covarrubias is a photographer. Loney is an actor. At the rideshare, Covarrubias and Loney started a conversation. After a long day at work acting in a play or a movie, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:78
+Curd is a mechanic. Blazek is a bricklayer. At the archery class, Blazek and Curd started a conversation. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:79
+Skelley is a teacher. Lahti is a politician. Skelley and Lahti ran into each other at the bike tour. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:80
+Lile is an astronomer. Weddle is a mechanic. Lile and Weddle ran into each other at the metro. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:81
+Surette is a farmer. Miraglia is a chef. Miraglia and Surette started a conversation at the volunteer organization meet. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:82
+Rieman is a politician. Sieg is an optician. Sieg and Rieman connected at the archery class. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:83
+Graney is an author. Standish is a lifeguard. Graney and Standish connected at the specialty retail market. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:84
+Theisen is a lifeguard. Rickert is a mechanic. Theisen and Rickert started a conversation at the fitness class. Ey was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:85
+Lemmer is an electrician. Schroder is an author. Lemmer and Schroder ran into each other at the volunteer organization meet. He was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:86
+Normandin is a chef. Weaver is a politician. Normandin and Weaver started a conversation at the design expo. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:87
+Halverson is an actor. Steinman is a nurse. Halverson and Steinman connected at the winery tour. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:88
+Mcguire is a travel agent. Khatri is a nurse. Khatri and Mcguire ran into each other at the halloweeen party. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:89
+Hayward is a translator. Moretz is an actor. Hayward and Moretz connected at the improvisation class. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:90
+Shake is a customer service representative. Lash is a nurse. Lash and Shake started a conversation at the theme park. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:91
+Siddiqui is a bookkeeper. Whittle is a stocking associate. At the photography class, Siddiqui and Whittle came across each other. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:92
+Gooden is a farmer. Mcgough is a photographer. Mcgough and Gooden started a conversation at the birthday party. They were relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:93
+Walcott is a translator. Peachey is a bookkeeper. Peachey and Walcott connected at the partner dancing classes. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:94
+Puerto is an electrician. Philpott is a mechanic. At the partner dancing classes, Philpott and Puerto came across each other. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:95
+Pitman is a politician. Mcwilliams is a customer service representative. At the sports bar, Mcwilliams and Pitman came across each other. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:96
+Scalzo is a customer service representative. Delamora is a translator. Scalzo and Delamora started a conversation at the poolside event. He was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:97
+Means is a carpenter. Eckel is a teacher. Eckel and Means started a conversation at the comic book expo. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:98
+Deltoro is a translator. Rocheleau is an optician. Deltoro and Rocheleau ran into each other at the rideshare. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:99
+Latiolais is a customer service representative. Kennelly is a mechanic. At the public park, Latiolais and Kennelly started a conversation. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:100
+Capehart is a travel agent. Flatt is an astronomer. At the theme park, Flatt and Capehart came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:101
+Howes is a photographer. Boyle is a politician. Howes and Boyle ran into each other at the rideshare. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:102
+Welter is a politician. Sikes is a customer service representative. Welter and Sikes connected at the restaurant. She was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:103
+Chacon is a mechanic. Cairns is an optician. At the group vacation, Chacon and Cairns came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:104
+Landwehr is a translator. Hollowell is a mechanic. Hollowell and Landwehr connected at the food co-op. Ey was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:105
+Hullinger is a teacher. Durfee is a politician. Hullinger and Durfee ran into each other at the archery class. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:106
+Moats is a translator. Blatt is a teacher. Blatt and Moats ran into each other at the photography class. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:107
+Hauptman is a nurse. Wible is a politician. Hauptman and Wible connected at the social community gathering. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:108
+Escalona is an author. Moretz is a farmer. Escalona and Moretz connected at the design expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:109
+Lukasik is an author. Hintze is a lifeguard. At the food court, Lukasik and Hintze came across each other. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:110
+Steck is a mechanic. Sepe is an author. Sepe and Steck connected at the restaurant. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:111
+Greig is an actor. Alleman is a teacher. Alleman and Greig started a conversation at the fitness class. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:112
+Mcewan is a customer service representative. Moos is a chef. Moos and Mcewan connected at the birthday party. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:113
+Kimbro is an astronomer. Colombo is a chef. At the social community gathering, Kimbro and Colombo started a conversation. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:114
+Falco is an electrician. Ricca is a mechanic. Ricca and Falco connected at the theme park. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:115
+Sarver is a bookkeeper. Shuman is an optician. Shuman and Sarver started a conversation at the specialty retail market. She was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:116
+Pascua is an optician. Halton is a farmer. At the specialty retail market, Halton and Pascua came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:117
+Ang is a farmer. Pardee is a chef. Ang and Pardee connected at the gallery. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:118
+Poppe is a bricklayer. Romans is a stocking associate. Poppe and Romans started a conversation at the birthday party. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:119
+Yaeger is a politician. Leis is a lifeguard. At the winery tour, Leis and Yaeger started a conversation. They were relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:120
+Ivers is an author. Lieber is a farmer. Lieber and Ivers connected at the flea market. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:121
+Socha is a farmer. Heiser is a stocking associate. Heiser and Socha started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:122
+Schauer is an electrician. Whelan is an actor. Whelan and Schauer ran into each other at the specialty retail market. He was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:123
+Zeringue is an author. Villicana is a chef. Villicana and Zeringue started a conversation at the poolside event. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:124
+Leedy is an optician. Puerto is a bookkeeper. Puerto and Leedy started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:125
+Drakeford is an optician. Grimm is a customer service representative. Grimm and Drakeford ran into each other at the specialty retail market. After a long day at work talking to customers and providing them with information on their company's products and services, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:126
+Santucci is a bookkeeper. Laskowski is an actor. Laskowski and Santucci started a conversation at the coffee shop. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:127
+Yoder is an actor. Cave is a chef. Cave and Yoder started a conversation at the rideshare. They were relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:128
+Easterwood is a nurse. Croce is a translator. At the music festival, Croce and Easterwood came across each other. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:129
+Alejos is an optician. Salley is a politician. Alejos and Salley connected at the food court. She was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:130
+Tart is a nurse. Gandara is a customer service representative. Gandara and Tart started a conversation at the photography class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:131
+Ploof is a teacher. Timm is a customer service representative. Ploof and Timm ran into each other at the bike tour. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:132
+Bono is a carpenter. Coble is a teacher. Coble and Bono ran into each other at the bar. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:133
+Galbreath is a stocking associate. Domingues is a travel agent. Domingues and Galbreath started a conversation at the specialty retail market. After a long day at work organising and selling holidays and flights for others, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:134
+Lengyel is an astronomer. Felts is a politician. At the group vacation, Felts and Lengyel came across each other. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:135
+Barrow is a nurse. Gobert is a lifeguard. Barrow and Gobert connected at the poolside event. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:136
+Gannaway is a bricklayer. Munn is a bookkeeper. Munn and Gannaway connected at the fitness class. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:137
+Yount is a photographer. Waxman is a teacher. Yount and Waxman connected at the volunteer organization meet. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:138
+Etheredge is a teacher. Alamilla is an actor. Alamilla and Etheredge ran into each other at the public park. After a long day at work acting in a play or a movie, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:139
+Lotz is a teacher. Gerling is a mechanic. Lotz and Gerling ran into each other at the sports bar. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:140
+Patino is a translator. Ji is a chef. At the food court, Patino and Ji started a conversation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:141
+Botta is a customer service representative. Roa is an electrician. At the partner dancing classes, Botta and Roa started a conversation. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:142
+Lingle is an author. Lapinski is a translator. Lapinski and Lingle connected at the fitness class. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:143
+Beecher is a travel agent. Lakes is a stocking associate. Beecher and Lakes started a conversation at the grocery store. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:144
+Hann is a chef. Adames is a farmer. Hann and Adames ran into each other at the birthday party. They were relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:145
+Buff is an author. Oreilly is an electrician. Oreilly and Buff started a conversation at the partner dancing classes. Ze was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:146
+Thoman is a teacher. Lopezlopez is a politician. Lopezlopez and Thoman started a conversation at the food co-op. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:147
+Ritenour is a bricklayer. Gaskins is a nurse. Gaskins and Ritenour ran into each other at the gallery. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:148
+Basurto is a bookkeeper. Huckaby is a teacher. Huckaby and Basurto ran into each other at the rideshare. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:149
+Cannady is a chef. Shiflett is a travel agent. At the flea market, Cannady and Shiflett started a conversation. After a long day at work organising and selling holidays and flights for others, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:150
+Hoffmeister is a farmer. Figaro is a mechanic. Hoffmeister and Figaro started a conversation at the bike tour. He was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:151
+Kimura is a bookkeeper. Arispe is an electrician. Kimura and Arispe ran into each other at the fitness class. After a long day at work managing a customer's or client's financial records, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:152
+Enderle is an author. Bangert is a bricklayer. At the comic book expo, Enderle and Bangert started a conversation. After a long day at work writing books or novels professionally, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:153
+Popa is an actor. Mulloy is an astronomer. Popa and Mulloy connected at the design expo. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:154
+Ecklund is an electrician. Bruder is an actor. Bruder and Ecklund started a conversation at the winery tour. She was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:155
+Hower is an actor. Beggs is a farmer. Hower and Beggs connected at the religious and spiritual gathering. Ze was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:156
+Sroka is a teacher. Pohl is a customer service representative. Pohl and Sroka started a conversation at the social community gathering. They were relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:157
+Berthiaume is a stocking associate. Testerman is an astronomer. At the food court, Testerman and Berthiaume came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:158
+Dwyer is a travel agent. Marmolejo is a bookkeeper. At the private club, Dwyer and Marmolejo came across each other. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:159
+Gamache is a travel agent. Bradbury is a photographer. Gamache and Bradbury started a conversation at the rideshare. She was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:160
+Ballentine is a stocking associate. Chico is an electrician. Ballentine and Chico started a conversation at the improvisation class. They were relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:161
+Quist is a translator. Gandara is an optician. Gandara and Quist started a conversation at the archery class. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:162
+Antunes is a stocking associate. Lore is an electrician. Lore and Antunes ran into each other at the birthday party. After a long day at work working with electric circuits, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:163
+Kinkade is a mechanic. Desantis is an author. Desantis and Kinkade connected at the gallery. They were relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:164
+Marsden is a politician. Kesner is an actor. Marsden and Kesner started a conversation at the group vacation. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:165
+Kolesar is an astronomer. Richman is an actor. Richman and Kolesar started a conversation at the partner dancing classes. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:166
+Pera is a bookkeeper. Abramson is a carpenter. At the group vacation, Abramson and Pera came across each other. They were relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:167
+Sudol is a mechanic. Pouliot is an author. Pouliot and Sudol connected at the gallery opening event. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:168
+Sorrels is a customer service representative. Laviolette is an astronomer. At the design expo, Sorrels and Laviolette started a conversation. He was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:169
+Sines is a photographer. Broder is a customer service representative. Sines and Broder connected at the specialty retail market. She was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:170
+Witherell is a stocking associate. Ahl is an astronomer. Ahl and Witherell started a conversation at the food co-op. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:171
+Gilmore is an astronomer. Deters is a mechanic. At the coffee shop, Deters and Gilmore started a conversation. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:172
+Heiser is a mechanic. Valero is a customer service representative. At the social community gathering, Heiser and Valero started a conversation. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:173
+Weidner is an astronomer. Ferrel is a teacher. Ferrel and Weidner started a conversation at the restaurant. He was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:174
+Winters is an astronomer. Degraw is a mechanic. Degraw and Winters started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:175
+Drummer is a stocking associate. Touchstone is an electrician. Drummer and Touchstone connected at the halloweeen party. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:176
+Klingler is a lifeguard. Reimann is a mechanic. At the power yoga class, Klingler and Reimann came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:177
+Gale is an electrician. Winsett is an actor. At the photography class, Winsett and Gale started a conversation. He was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:178
+Chenevert is a travel agent. Deramus is a photographer. Deramus and Chenevert connected at the museum. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:179
+Verde is an optician. Singley is a travel agent. Verde and Singley ran into each other at the food co-op. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:180
+Brister is a bookkeeper. Parmley is a lifeguard. Brister and Parmley started a conversation at the photography class. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:181
+Bisson is a stocking associate. Garwood is a lifeguard. At the coffee shop, Garwood and Bisson started a conversation. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:182
+Higuera is a translator. Lepe is an author. Lepe and Higuera connected at the poolside event. She was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:183
+Normandin is an electrician. Leiva is an optician. Normandin and Leiva ran into each other at the private club. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:184
+Mendiola is a carpenter. Deters is an electrician. Mendiola and Deters started a conversation at the power yoga class. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:185
+Diosdado is a lifeguard. Cram is a farmer. Diosdado and Cram connected at the winery tour. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:186
+Natarajan is an optician. Rocheleau is a photographer. At the flea market, Natarajan and Rocheleau came across each other. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:187
+Pastrana is a mechanic. Reisner is a photographer. At the design expo, Pastrana and Reisner started a conversation. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:188
+Choudhary is an electrician. Arispe is a bricklayer. Choudhary and Arispe connected at the religious and spiritual gathering. After a long day at work working with electric circuits, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:189
+Lingo is a carpenter. Dysart is an electrician. Dysart and Lingo started a conversation at the volunteer organization meet. Ze was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:190
+Perna is a farmer. Dippel is a mechanic. Dippel and Perna ran into each other at the private club. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:191
+Whitehouse is an actor. Magruder is an astronomer. Whitehouse and Magruder started a conversation at the partner dancing classes. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:192
+Cronk is a teacher. Gunderson is a travel agent. Gunderson and Cronk ran into each other at the coffee shop. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:193
+Furrow is a lifeguard. Delrio is a customer service representative. At the flea market, Delrio and Furrow started a conversation. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:194
+Borland is a farmer. Cusick is a chef. Borland and Cusick connected at the volunteer organization meet. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:195
+Zamudio is a nurse. Castellanos is a chef. Zamudio and Castellanos started a conversation at the bar. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:196
+Ebron is a politician. Donaldson is a nurse. Ebron and Donaldson started a conversation at the car show. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:197
+Veilleux is a lifeguard. Bucher is a chef. At the private club, Bucher and Veilleux came across each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:198
+Dowd is an electrician. Dooley is a photographer. Dooley and Dowd connected at the grocery store. They were relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:199
+Ketter is a bricklayer. Hundt is an electrician. Ketter and Hundt started a conversation at the religious and spiritual gathering. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:200
+Felts is a bricklayer. Monk is a nurse. At the fitness class, Monk and Felts started a conversation. After a long day at work helping to build houses using bricks, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:201
+Fleury is a mechanic. Mccraw is an optician. At the group vacation, Mccraw and Fleury came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:202
+Calleros is a politician. Roybal is an astronomer. Roybal and Calleros connected at the sports bar. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:203
+Brochu is a bricklayer. Melone is a lifeguard. At the grocery store, Brochu and Melone started a conversation. He was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:204
+Rojo is an electrician. Mango is a bookkeeper. At the food court, Mango and Rojo started a conversation. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:205
+Spector is an electrician. Derryberry is a politician. At the winery tour, Spector and Derryberry started a conversation. After a long day at work seeking an elected seat in government, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:206
+Arechiga is a politician. Maradiaga is a nurse. Maradiaga and Arechiga started a conversation at the bar. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:207
+Umanzor is an optician. Hosler is a politician. Umanzor and Hosler started a conversation at the birthday party. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:208
+Meinert is a carpenter. Burley is a bookkeeper. Burley and Meinert started a conversation at the religious and spiritual gathering. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:209
+Johannsen is an astronomer. Scoville is a politician. At the fitness class, Johannsen and Scoville came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:210
+Eastland is a politician. Macauley is a chef. At the comic book expo, Macauley and Eastland came across each other. After a long day at work seeking an elected seat in government, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:211
+Gallimore is a customer service representative. Ono is a translator. Ono and Gallimore connected at the food co-op. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:212
+Vanderburg is a teacher. Mauk is a carpenter. Mauk and Vanderburg ran into each other at the public park. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:213
+Wilhoite is an actor. Weddle is a farmer. Weddle and Wilhoite connected at the public park. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:214
+Debellis is a carpenter. Zanders is an optician. Zanders and Debellis started a conversation at the car show. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:215
+Cashman is a carpenter. Dougan is a farmer. Dougan and Cashman ran into each other at the theme park. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:216
+Boomer is a travel agent. Arrieta is an astronomer. At the improvisation class, Boomer and Arrieta started a conversation. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:217
+Viviano is a mechanic. Twilley is a customer service representative. Viviano and Twilley started a conversation at the book club. Ey was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:218
+Mcqueen is a mechanic. Macauley is a teacher. At the specialty retail market, Mcqueen and Macauley came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:219
+Mass is a customer service representative. Seng is a carpenter. Seng and Mass ran into each other at the birthday party. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:220
+Belue is a chef. Hardt is a mechanic. Belue and Hardt connected at the food court. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:221
+Jozwiak is a bookkeeper. Nau is an astronomer. At the partner dancing classes, Jozwiak and Nau started a conversation. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:222
+Rosenberry is a nurse. Okeke is a chef. Rosenberry and Okeke connected at the photography class. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:223
+Swanberg is an electrician. Pickell is a chef. Pickell and Swanberg connected at the group vacation. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:224
+Deems is a farmer. Lunt is an actor. Deems and Lunt started a conversation at the fitness class. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:225
+Purdom is an electrician. Szymanski is a photographer. Purdom and Szymanski connected at the gallery opening event. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:226
+Almendarez is a chef. Huffman is an astronomer. At the religious and spiritual gathering, Almendarez and Huffman came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:227
+Freshour is an actor. Glade is a translator. Freshour and Glade connected at the halloweeen party. Ey was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:228
+Recker is a mechanic. Bury is a chef. Bury and Recker connected at the improvisation class. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:229
+Haus is a lifeguard. Birnbaum is a mechanic. At the halloweeen party, Haus and Birnbaum started a conversation. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:230
+Rosier is an astronomer. Jiron is an author. Jiron and Rosier started a conversation at the birthday party. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:231
+Vanbrunt is an astronomer. Pullum is a politician. At the group vacation, Pullum and Vanbrunt started a conversation. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:232
+Bakken is a bricklayer. Villalpando is a politician. At the volunteer organization meet, Villalpando and Bakken started a conversation. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:233
+Vento is an electrician. Davalos is a translator. At the car show, Vento and Davalos started a conversation. He was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:234
+Mansfield is an actor. Chambers is a nurse. Mansfield and Chambers connected at the public park. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:235
+Muirhead is a nurse. Berube is a chef. Berube and Muirhead ran into each other at the coffee shop. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:236
+Hovey is a photographer. Lampe is a translator. Lampe and Hovey connected at the grocery store. After a long day at work taking photos professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:237
+Geist is a chef. Bosworth is an author. Geist and Bosworth connected at the gallery. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:238
+Ausmus is a bricklayer. Chilson is a lifeguard. Ausmus and Chilson connected at the bike tour. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:239
+Brunton is an author. Bergerson is a translator. Bergerson and Brunton started a conversation at the comic book expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:240
+Mecham is a farmer. Nishimura is a photographer. Mecham and Nishimura connected at the book club. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:241
+Steeves is a photographer. Bickers is a nurse. At the coffee shop, Steeves and Bickers started a conversation. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:242
+Coffelt is an author. Gottfried is a carpenter. Gottfried and Coffelt connected at the music festival. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:243
+Wrona is an author. Felten is an optician. Wrona and Felten started a conversation at the gallery. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:244
+Mchargue is an actor. Bolin is a stocking associate. At the fitness class, Bolin and Mchargue started a conversation. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:245
+Alameda is a politician. Premo is a translator. Alameda and Premo ran into each other at the coffee shop. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:246
+Harrold is a travel agent. Fulks is a translator. Harrold and Fulks connected at the fitness class. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:247
+Nehls is an astronomer. Cloyd is a teacher. Cloyd and Nehls ran into each other at the fitness class. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:248
+Woodford is a customer service representative. Soohoo is a photographer. Soohoo and Woodford started a conversation at the winery tour. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:249
+Dutta is a politician. Henegar is a bookkeeper. At the social community gathering, Henegar and Dutta came across each other. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:250
+Herr is a translator. Aburto is a mechanic. At the gallery, Aburto and Herr came across each other. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:251
+Legaspi is a chef. Jeon is an author. At the improvisation class, Legaspi and Jeon started a conversation. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:252
+Kinslow is a travel agent. Speights is a lifeguard. Speights and Kinslow connected at the partner dancing classes. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:253
+Petras is a chef. Guaman is an astronomer. Guaman and Petras started a conversation at the music festival. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:254
+Dummer is a mechanic. Vanbuskirk is an author. At the religious and spiritual gathering, Dummer and Vanbuskirk started a conversation. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:255
+Lejeune is a stocking associate. Mccaughey is an actor. Lejeune and Mccaughey started a conversation at the design expo. They were relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:256
+Hiett is an electrician. Whitner is a mechanic. Hiett and Whitner connected at the winery tour. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:257
+Scales is a stocking associate. Black is an electrician. Scales and Black connected at the archery class. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:258
+Simonson is a carpenter. Huskey is a bricklayer. At the partner dancing classes, Simonson and Huskey started a conversation. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:259
+Hickerson is an astronomer. Bunner is a bricklayer. Bunner and Hickerson connected at the metro. Ey was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:260
+Ehrhardt is a photographer. Kavanaugh is a mechanic. Ehrhardt and Kavanaugh ran into each other at the private club. They were relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:261
+Rivero is a translator. Lejeune is a teacher. Rivero and Lejeune connected at the photography class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:262
+Narayanan is an astronomer. Nilsen is a mechanic. Narayanan and Nilsen started a conversation at the volunteer organization meet. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:263
+Mendelsohn is an actor. Mcmurtrey is a carpenter. Mendelsohn and Mcmurtrey started a conversation at the archery class. After a long day at work making things from wood including houses and furniture, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:264
+Rando is an optician. Macdougall is a carpenter. At the restaurant, Rando and Macdougall started a conversation. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:265
+Cappiello is a farmer. Siemens is a chef. At the power yoga class, Siemens and Cappiello started a conversation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:266
+Kontos is a carpenter. Normandin is a nurse. Kontos and Normandin connected at the book club. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:267
+Sotomayor is an electrician. Rasberry is a teacher. Sotomayor and Rasberry started a conversation at the gallery opening event. She was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:268
+Biro is a bricklayer. Pera is a stocking associate. Biro and Pera connected at the photography class. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:269
+Au is an electrician. Prins is an author. At the halloweeen party, Au and Prins started a conversation. He was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:270
+Wiedemann is a lifeguard. Whisnant is a nurse. Whisnant and Wiedemann started a conversation at the birthday party. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:271
+Harness is a bricklayer. Harrod is an actor. Harness and Harrod ran into each other at the gallery opening event. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:272
+Ziemba is a bricklayer. Dass is a teacher. Dass and Ziemba started a conversation at the car show. He was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:273
+Trainer is an author. Mccusker is an optician. Trainer and Mccusker ran into each other at the comic book expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:274
+Kester is a politician. Mechling is a lifeguard. Kester and Mechling ran into each other at the food co-op. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:275
+Bradbury is a bricklayer. Huskins is an optician. At the flea market, Huskins and Bradbury came across each other. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:276
+Halligan is a lifeguard. Sauter is a farmer. At the halloweeen party, Sauter and Halligan came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:277
+Galeano is a translator. Roten is an author. Galeano and Roten connected at the specialty retail market. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:278
+Whisenant is an electrician. Zamudio is an optician. Zamudio and Whisenant started a conversation at the food co-op. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:279
+Mojica is an optician. Roush is a translator. At the social community gathering, Roush and Mojica came across each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:280
+Burger is a travel agent. Griego is a chef. Burger and Griego started a conversation at the music festival. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:281
+Basurto is a farmer. Holiman is a lifeguard. At the bike tour, Basurto and Holiman came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:282
+Raulerson is a mechanic. Munn is a politician. Raulerson and Munn connected at the metro. He was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:283
+Ladwig is an optician. Napolitano is a translator. At the rideshare, Napolitano and Ladwig started a conversation. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:284
+Kershner is a nurse. Kimsey is an actor. Kimsey and Kershner ran into each other at the grocery store. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:285
+Sheehan is a carpenter. Fonda is an author. Sheehan and Fonda ran into each other at the coffee shop. After a long day at work making things from wood including houses and furniture, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:286
+Bitter is a farmer. Simcox is a nurse. At the rideshare, Bitter and Simcox started a conversation. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:287
+Mosby is an author. Scanlan is a chef. Mosby and Scanlan started a conversation at the book club. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:288
+Howery is a bookkeeper. Pesina is a nurse. Pesina and Howery connected at the social community gathering. He was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:289
+Prather is a translator. Ginder is an electrician. Prather and Ginder ran into each other at the museum. Ze was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:290
+Theiss is an author. Braggs is a lifeguard. At the food co-op, Theiss and Braggs started a conversation. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:291
+Kirkley is a mechanic. Weddle is a bricklayer. At the museum, Weddle and Kirkley came across each other. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:292
+Mashburn is an electrician. Buchanan is an astronomer. Buchanan and Mashburn ran into each other at the music festival. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:293
+Westby is a translator. Bolduc is a farmer. At the food court, Westby and Bolduc came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:294
+Fenstermaker is an actor. Huddleston is an astronomer. At the photography class, Fenstermaker and Huddleston came across each other. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:295
+Loveall is a stocking associate. Gaskins is a translator. At the museum, Gaskins and Loveall came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:296
+Milstead is an author. Banegas is a nurse. At the halloweeen party, Milstead and Banegas came across each other. They were relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:297
+Astle is a bricklayer. Delay is an author. At the religious and spiritual gathering, Delay and Astle came across each other. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:298
+Vielma is an electrician. Grimshaw is a farmer. At the winery tour, Grimshaw and Vielma started a conversation. He was relieved to unwind after a long day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:299
+Tubb is an astronomer. Bergeron is a customer service representative. Bergeron and Tubb ran into each other at the coffee shop. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:300
+Ristau is an astronomer. Heidenreich is an electrician. At the private club, Ristau and Heidenreich came across each other. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:301
+Doe is a translator. Fruge is a bookkeeper. Doe and Fruge ran into each other at the fitness class. He was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:302
+Chambers is a bookkeeper. Meyerson is a bricklayer. At the specialty retail market, Chambers and Meyerson came across each other. After a long day at work helping to build houses using bricks, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:303
+Frier is a photographer. Pugh is a nurse. Frier and Pugh started a conversation at the gallery opening event. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:304
+Forde is a mechanic. Segoviano is a bookkeeper. Segoviano and Forde ran into each other at the volunteer organization meet. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:305
+Matney is an optician. Whisnant is an astronomer. At the music festival, Whisnant and Matney came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:306
+Knopp is a nurse. Alameda is a lifeguard. Alameda and Knopp connected at the comic book expo. Ey was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:307
+Burgoyne is an actor. Wall is a farmer. At the photography class, Burgoyne and Wall came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:308
+Gayer is a teacher. Sickles is an actor. Gayer and Sickles connected at the museum. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:309
+Bruton is a mechanic. Maradiaga is an author. Maradiaga and Bruton ran into each other at the group vacation. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:310
+Cottle is a teacher. Drost is a photographer. Drost and Cottle started a conversation at the winery tour. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:311
+Worrall is a farmer. Cusick is a translator. Cusick and Worrall ran into each other at the archery class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:312
+Litke is a nurse. Hornbeck is a photographer. Litke and Hornbeck started a conversation at the winery tour. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:313
+Younts is a farmer. Crook is an astronomer. Younts and Crook started a conversation at the coffee shop. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:314
+Botta is a nurse. Cogburn is a chef. At the food court, Botta and Cogburn started a conversation. After a long day at work preparing food for others in a restaurant, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:315
+Ohl is an astronomer. Santistevan is a bricklayer. Ohl and Santistevan connected at the gallery. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:316
+Hott is a customer service representative. Harriman is an actor. Hott and Harriman started a conversation at the coffee shop. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:317
+Kassab is an astronomer. Atienza is a lifeguard. Kassab and Atienza connected at the comic book expo. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:318
+Villamil is an electrician. Jeanfrancois is an actor. Jeanfrancois and Villamil connected at the coffee shop. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:319
+Eberhart is a nurse. Kimble is a travel agent. Eberhart and Kimble started a conversation at the volunteer organization meet. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:320
+Wall is a mechanic. Morgenstern is an optician. Wall and Morgenstern started a conversation at the power yoga class. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:321
+Tollett is a chef. Ocasio is a lifeguard. Tollett and Ocasio connected at the specialty retail market. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:322
+Caperton is an author. Ong is a teacher. At the book club, Caperton and Ong came across each other. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:323
+Cheng is a lifeguard. Hund is a carpenter. At the social community gathering, Hund and Cheng came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:324
+Necaise is a chef. Tennis is a bookkeeper. At the design expo, Necaise and Tennis came across each other. After a long day at work preparing food for others in a restaurant, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:325
+Lehner is a carpenter. Faller is a chef. Lehner and Faller connected at the theme park. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:326
+Kratzer is a nurse. Orduno is a photographer. At the theme park, Orduno and Kratzer came across each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:327
+Bourn is a teacher. Calleros is a bookkeeper. At the social community gathering, Bourn and Calleros started a conversation. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:328
+Boysen is a translator. Camarena is a teacher. Camarena and Boysen connected at the coffee shop. Ey was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:329
+Lambert is an author. Acton is an electrician. At the specialty retail market, Lambert and Acton started a conversation. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:330
+Lieu is a travel agent. Scruggs is a bookkeeper. At the metro, Scruggs and Lieu came across each other. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:331
+Sager is a bookkeeper. Gale is an optician. At the fitness class, Sager and Gale came across each other. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:332
+Cullison is a mechanic. Fresquez is a carpenter. At the fitness class, Cullison and Fresquez started a conversation. He was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:333
+Swinson is a translator. Mcnabb is a teacher. Swinson and Mcnabb ran into each other at the halloweeen party. He was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:334
+Grisham is an optician. Falconer is a customer service representative. Grisham and Falconer connected at the gallery opening event. She was relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:335
+Avent is a bricklayer. Eich is an actor. Avent and Eich ran into each other at the gallery opening event. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:336
+Soltis is an electrician. Bedgood is a stocking associate. Soltis and Bedgood started a conversation at the improvisation class. After a long day at work working with electric circuits, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:337
+Boller is a bricklayer. Ancona is a politician. Ancona and Boller started a conversation at the religious and spiritual gathering. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:338
+Laporta is a nurse. Isbell is a bricklayer. Isbell and Laporta started a conversation at the book club. After a long day at work helping to build houses using bricks, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:339
+Fontenot is a teacher. Mango is an actor. Mango and Fontenot connected at the restaurant. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:340
+Kovar is a customer service representative. Ells is a lifeguard. Ells and Kovar started a conversation at the photography class. Ze was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:341
+Held is a carpenter. Fagin is a stocking associate. At the museum, Fagin and Held came across each other. Ze was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:342
+Sifuentes is a carpenter. Herr is a farmer. Herr and Sifuentes connected at the book club. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:343
+Mook is an electrician. Mccloy is a customer service representative. At the halloweeen party, Mccloy and Mook started a conversation. He was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:344
+Rizzuto is a teacher. Burbank is an optician. At the restaurant, Rizzuto and Burbank came across each other. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:345
+Villeda is a stocking associate. Kuhns is a travel agent. Villeda and Kuhns started a conversation at the bike tour. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:346
+Money is a stocking associate. Schuessler is an electrician. At the gallery, Money and Schuessler started a conversation. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:347
+Hepburn is a bookkeeper. Bourn is a translator. At the bike tour, Bourn and Hepburn came across each other. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:348
+Lonergan is a farmer. Mandell is an actor. Lonergan and Mandell connected at the rideshare. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:349
+Wallin is an electrician. Tibbs is a translator. Tibbs and Wallin connected at the rideshare. She was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:350
+Deras is an electrician. Ladwig is an actor. Deras and Ladwig connected at the music festival. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:351
+Neugebauer is an author. Hansley is an astronomer. Hansley and Neugebauer ran into each other at the museum. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:352
+Choice is a chef. Portilla is a politician. Choice and Portilla connected at the specialty retail market. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:353
+Melanson is a lifeguard. Sandquist is an astronomer. Sandquist and Melanson started a conversation at the sports bar. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:354
+Durkin is a nurse. Zeringue is a bookkeeper. Durkin and Zeringue connected at the food court. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:355
+Krouse is a teacher. Behnke is a chef. Krouse and Behnke ran into each other at the religious and spiritual gathering. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:356
+Medford is an electrician. Brizuela is a nurse. Brizuela and Medford connected at the photography class. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:357
+Schantz is a teacher. Forrester is an author. Forrester and Schantz ran into each other at the music festival. She was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:358
+Evanoff is a lifeguard. Birmingham is a stocking associate. Evanoff and Birmingham connected at the photography class. Ey was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:359
+Deems is a stocking associate. Blaney is a teacher. Blaney and Deems ran into each other at the power yoga class. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:360
+Greenfield is an electrician. Ludwick is a travel agent. At the volunteer organization meet, Ludwick and Greenfield started a conversation. After a long day at work working with electric circuits, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:361
+Orchard is an optician. Pandya is a teacher. Pandya and Orchard connected at the birthday party. Ey was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:362
+Plouffe is a farmer. Bologna is an electrician. At the poolside event, Plouffe and Bologna came across each other. He was relieved to unwind after a long day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:363
+Stenger is a lifeguard. Dunson is a chef. Dunson and Stenger started a conversation at the grocery store. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:364
+Womack is a chef. Asbell is a carpenter. Asbell and Womack started a conversation at the specialty retail market. They were relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:365
+Maloney is a teacher. Bontrager is a bricklayer. At the grocery store, Bontrager and Maloney started a conversation. After a long day at work helping to build houses using bricks, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:366
+Begay is a bricklayer. Rasberry is a carpenter. Begay and Rasberry connected at the birthday party. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:367
+Poulos is a lifeguard. Mcpeek is a bricklayer. At the metro, Poulos and Mcpeek started a conversation. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:368
+Hitchcock is a nurse. Auer is a customer service representative. Auer and Hitchcock ran into each other at the winery tour. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:369
+Severson is a nurse. Carrillo is a bricklayer. At the metro, Severson and Carrillo came across each other. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:370
+Depaz is a politician. Chevez is a carpenter. Chevez and Depaz connected at the bike tour. She was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:371
+Barreto is an astronomer. Macdowell is a teacher. Macdowell and Barreto ran into each other at the religious and spiritual gathering. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:372
+Boysen is a translator. Wall is a teacher. At the theme park, Boysen and Wall started a conversation. After a long day at work translating from one language to another professionally, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:373
+Trillo is a stocking associate. Depaz is an electrician. At the religious and spiritual gathering, Trillo and Depaz came across each other. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:374
+Alamilla is a farmer. Brocato is an actor. Brocato and Alamilla ran into each other at the grocery store. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:375
+Skillman is a politician. Schauer is an astronomer. Skillman and Schauer connected at the bike tour. They were relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:376
+Derose is an astronomer. Hearn is a teacher. At the sports bar, Derose and Hearn started a conversation. They were relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:377
+Hammon is a bricklayer. Cadenas is a politician. Cadenas and Hammon connected at the winery tour. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:378
+Eckel is an electrician. Romo is a travel agent. At the grocery store, Eckel and Romo came across each other. After a long day at work working with electric circuits, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:379
+Enfinger is a carpenter. Alday is a customer service representative. At the sports bar, Enfinger and Alday started a conversation. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:380
+Patt is a carpenter. Bark is a nurse. At the design expo, Bark and Patt started a conversation. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:381
+Hamer is a nurse. Zellner is a politician. At the music festival, Hamer and Zellner came across each other. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:382
+Sundquist is a nurse. Stubbs is a lifeguard. Stubbs and Sundquist started a conversation at the public park. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:383
+Potvin is a photographer. Levis is a farmer. Potvin and Levis connected at the restaurant. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:384
+Gauvin is a carpenter. Emig is a travel agent. Emig and Gauvin connected at the social community gathering. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:385
+Gehringer is a carpenter. Cavins is a lifeguard. Cavins and Gehringer started a conversation at the birthday party. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:386
+Blundell is a travel agent. Swaim is an astronomer. At the photography class, Blundell and Swaim came across each other. After a long day at work studying the stars and the universe, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:387
+Richert is a stocking associate. Lai is a customer service representative. Richert and Lai ran into each other at the theme park. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:388
+Glazier is an electrician. Turcotte is a mechanic. Turcotte and Glazier started a conversation at the sports bar. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:389
+Peltier is a translator. Spurrier is a customer service representative. Peltier and Spurrier ran into each other at the partner dancing classes. She was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:390
+Caples is an optician. Stmartin is a bricklayer. Stmartin and Caples ran into each other at the birthday party. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:391
+Harter is a bookkeeper. Calzada is a travel agent. Calzada and Harter connected at the group vacation. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:392
+Bentz is a teacher. Delaluz is a mechanic. Bentz and Delaluz connected at the birthday party. They were relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:393
+Trivedi is a stocking associate. Peavler is an optician. Trivedi and Peavler ran into each other at the museum. He was relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:394
+Matuszak is a farmer. Bosworth is a politician. At the car show, Matuszak and Bosworth started a conversation. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:395
+Mcgrew is a bricklayer. Bushnell is a chef. Bushnell and Mcgrew ran into each other at the group vacation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:396
+Godines is an optician. Arriaza is an electrician. Arriaza and Godines ran into each other at the volunteer organization meet. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:397
+Biehl is a farmer. Junker is an author. Junker and Biehl started a conversation at the partner dancing classes. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:398
+Kravitz is a photographer. Qu is a teacher. Qu and Kravitz started a conversation at the bar. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/full-text/validation:399
+Muszynski is a bricklayer. Dorr is a teacher. At the rideshare, Dorr and Muszynski started a conversation. After a long day at work passing knowledge to students at school, they were happy to relax.

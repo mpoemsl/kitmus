@@ -1,0 +1,1199 @@
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:0
+Whitmer, Stauffer, Carranza, and Morefield started a conversation at the photography class. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:1
+At the archery class, Crone, Walters, Asay, and Ouzts encountered each other. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:2
+Row, Quimby, Barringer, and Underhill started a conversation at the cafe. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:3
+Langevin, Thiessen, Treece, and Brandenburg came across each other at the beer making classes. After a long day at work unpacking merchandise when it arrives at the warehouse, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:4
+At the wine tasting, Cuesta, Covert, Bustillos, and Restivo encountered each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:5
+At the house party, Kohr, Gose, Stump, and Rothrock encountered each other. After a long day at work passing knowledge to students at school, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:6
+Vue, Derosa, Merrifield, and Ouzts came across each other at the house party. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:7
+At the business meet, Kremer, Ngo, Schurr, and Profit encountered each other. After a long day at work cleaning the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:8
+Dunnam, Gehring, Hurd, and Hovis came across each other at the specialty retail market. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:9
+Cozad, Elizarraras, Schick, and Leclair bumped into each other at the holiday party. Ze was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:10
+Harned, Turcios, Quiroga, and Hild started a conversation at the stadium. She was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:11
+At the volunteer work, Enfinger, Giroux, Geissler, and Loiselle came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:12
+Reynosa, Edgell, Rossetti, and Hindman started a conversation at the library. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:13
+At the house party, Sabatino, Osuna, Vides, and Battles came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:14
+At the fundraiser, Hurd, Lease, Greenwalt, and Fisch came across each other. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:15
+Latour, Moose, Carreno, and Fogarty came across each other at the volunteer work. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:16
+Lamoureux, Bloss, Greenawalt, and Pentz came across each other at the public transport. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:17
+At the school reunion, Imperial, Aguado, Liptak, and Saliba encountered each other. After a long day at work fixing and treating problems with teeth, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:18
+At the volunteer work, Duby, Krout, Rubino, and Peres encountered each other. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:19
+Boylan, Mccurry, Shumate, and Tuohy came across each other at the stadium. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:20
+At the music and art festival, Limones, Scherr, Stabile, and Spinks came across each other. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:21
+Bucher, Oliveira, Seamon, and Vialpando came across each other at the archery class. Ey was relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:22
+Holsinger, Lybarger, Solt, and Mccaulley bumped into each other at the holiday party. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:23
+At the holiday party, Trombley, Spisak, Cusick, and Cerezo encountered each other. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:24
+Stricklin, Hahn, Dunnam, and Manske bumped into each other at the fundraiser. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:25
+At the book store, Mcadams, Mackin, Karns, and Laliberte encountered each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:26
+Abbate, Bohl, Thom, and Tallman started a conversation at the holiday party. After a long day at work fixing and treating problems with teeth, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:27
+At the book club, Moen, Jeppesen, Spohn, and Hillen encountered each other. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:28
+At the public transport, Dollard, Soules, Stebbins, and Hammack came across each other. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:29
+Dacus, Rothenberg, Dinges, and Messer came across each other at the charity car wash. After a long day at work translating from one language to another professionally, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:30
+At the school reunion, Grindle, Huskins, Sandquist, and Hosford encountered each other. Ey told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:31
+Ngo, Mcmichael, Spoor, and Kegler bumped into each other at the archery class. They told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:32
+At the cafe, Trussell, Crowl, Emmons, and Hazlewood encountered each other. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:33
+Carreno, Lankford, Isenberg, and Howery bumped into each other at the library. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:34
+At the cafe, Farrior, Greenwalt, Deleo, and Whigham came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:35
+At the evening language class, Tardiff, Barger, Seymore, and Baksh came across each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:36
+Viers, Bottoms, Horn, and Pupo came across each other at the open gallery museum. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:37
+At the house party, Clemmons, Hoffert, Courtemanche, and Crumb encountered each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:38
+At the cafe, Zabel, Furr, Decaro, and Dittmer encountered each other. After a long day at work cleaning the kitchen area at restaurants, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:39
+Cohn, Fierros, Arp, and Mineo started a conversation at the charity car wash. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:40
+Marroquin, Near, Pazmino, and Gilpin came across each other at the public transport. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:41
+Biggers, Espy, Abbasi, and Lovins bumped into each other at the house party. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:42
+Banuelos, Loos, Kravitz, and Caldera started a conversation at the fundraiser. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:43
+Onofre, Book, Caballero, and Beadles bumped into each other at the business meet. After a long day at work unpacking merchandise when it arrives at the warehouse, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:44
+Hittle, Hopewell, Ferrante, and Hallowell came across each other at the holiday party. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:45
+Kang, Christoffersen, Duchene, and Donoghue started a conversation at the music and art festival. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:46
+At the party, Mcinnis, Fischbach, Geissler, and Cadiz came across each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:47
+Mcdougal, Tull, Chichester, and Picazo bumped into each other at the music and art festival. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:48
+At the evening language class, Quinteros, Goines, Stehle, and Hasley came across each other. Ze told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:49
+At the fitness class, Dubey, Rodman, Mazzella, and Polak encountered each other. She told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:50
+Derouen, Tinkham, Bissell, and Dick bumped into each other at the business expo. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:51
+Chichester, Finger, Meunier, and Hagedorn came across each other at the metro. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:52
+At the restaurant, Carstens, Butler, Pettengill, and Brickman encountered each other. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:53
+At the wine tasting, Dorr, Labadie, Knorr, and Eich encountered each other. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:54
+At the private club, Cornish, Starner, Schick, and Hassel encountered each other. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:55
+Philpott, Heatherly, Abeyta, and Ceja bumped into each other at the evening language class. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:56
+Chao, Rosenblum, Hassen, and Lachance came across each other at the wine tasting. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:57
+At the open gallery museum, Dillow, Silk, Andrada, and Ibanez came across each other. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:58
+Harpole, Baity, Serratos, and File started a conversation at the music and art festival. After a long day at work working in fashion and modeling clothes and accessories, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:59
+Linhart, Morgado, Rummel, and Scalise came across each other at the fitness class. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:60
+Feinstein, Knarr, Sorrels, and Capellan bumped into each other at the fitness class. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:61
+At the wine tasting, Sylla, Massengill, Gaye, and Jeffries came across each other. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:62
+At the school reunion, Friar, Muszynski, Large, and Humes came across each other. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:63
+At the public transport, Malm, Halbrook, Bischof, and Runk came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:64
+Duffy, Kaster, Pringle, and Snelson came across each other at the stadium. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:65
+At the bar, Offutt, Pettaway, Larrea, and Sosebee came across each other. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:66
+At the food and drink festival, Lacasse, Mcquinn, Hutchings, and Exum came across each other. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:67
+At the book store, Saito, Mohn, Mcgreevy, and Borchert came across each other. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:68
+Brawner, Gorden, Moore, and Sherlock started a conversation at the library. He told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:69
+Stjean, Wolter, Allender, and Hosler came across each other at the specialty retail market. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:70
+At the cafe, Bivins, Reinhart, Lomax, and Muszynski came across each other. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:71
+Heitmann, Santibanez, Chipman, and Mccart started a conversation at the evening language class. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:72
+Reimann, Halpern, Asberry, and Larose started a conversation at the bar. After a long day at work overseeing the management of executives' calendars and travel arrangements, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:73
+Fazio, Winebrenner, Slack, and Leake bumped into each other at the bar. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:74
+Kantor, Yap, Maresca, and Weinberg came across each other at the school reunion. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:75
+At the party, Meisner, Yazzie, Shubert, and Mccaffery encountered each other. Ey told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:76
+Vanetten, Willett, Halcomb, and Alberti bumped into each other at the public transport. Ey told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:77
+Greenawalt, Alfaro, Lauria, and Brickman started a conversation at the house party. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:78
+At the private club, Harpe, Hahn, Scheffer, and Raposo encountered each other. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:79
+Devore, Getz, Eyer, and Mcmullin bumped into each other at the charity car wash. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:80
+Epperly, Holtman, Main, and Shoop started a conversation at the school reunion. After a long day at work giving lectures in a university, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:81
+Bussell, Wingate, Bolden, and Conder bumped into each other at the archery class. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:82
+At the restaurant, Ordaz, Tardiff, Nicks, and Loomis came across each other. They told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:83
+Petri, Sartor, Opitz, and Zaragoza started a conversation at the school reunion. He told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:84
+At the school reunion, Lindner, Stidham, Scalzo, and Rollings came across each other. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:85
+Cola, Coscia, Roane, and Knupp started a conversation at the hotel. After a long day at work cleaning the kitchen area at restaurants, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:86
+Brutus, Cumming, Mcquade, and Veach bumped into each other at the charity car wash. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:87
+Slavin, Holcomb, Moore, and Greenlaw came across each other at the open gallery museum. Ze was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:88
+Pyles, Gros, Foos, and Goings bumped into each other at the business meet. They were relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:89
+At the private club, Conti, Messersmith, Romine, and Vose encountered each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:90
+Benavente, Stiner, Sisk, and Wamsley bumped into each other at the open gallery museum. They told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:91
+Meese, Shukla, Bontrager, and Filler started a conversation at the evening language class. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:92
+Woodhouse, Selfridge, Coghill, and Mackin bumped into each other at the evening language class. Ey told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:93
+Palomino, Bielecki, Simmers, and Mccord started a conversation at the library. They told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:94
+Nascimento, Radcliffe, Vicari, and Biles came across each other at the house party. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:95
+Decicco, Trainor, Tejeda, and Crum bumped into each other at the metro. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:96
+At the archery class, Munns, Lamson, Ota, and Corlew came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:97
+Knutson, Fimbres, Herrman, and Zawadzki bumped into each other at the metro. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:98
+At the fundraiser, Zalewski, Stilson, Ketner, and Gurganus came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:99
+Tuttle, Mahler, Basco, and Hohl started a conversation at the metro. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:100
+At the wine tasting, Shenk, Hasse, Sisk, and Aparicio encountered each other. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:101
+Segal, Graf, Younan, and Milone came across each other at the book store. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:102
+Schweiger, Glines, Gutierrez, and Badgett started a conversation at the fitness class. He was relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:103
+Sylva, Frier, Gelb, and Whitener came across each other at the house party. After a long day at work fixing and treating problems with teeth, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:104
+Twitchell, Kulp, Mckeen, and Labarge bumped into each other at the holiday party. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:105
+Teske, Gutshall, Sen, and Dumond bumped into each other at the music and art festival. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:106
+Kapoor, Patino, Tietz, and Goldsby started a conversation at the food and drink festival. After a long day at work making bread and cakes in a bakery, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:107
+Weekly, Darley, Laclair, and Boutwell bumped into each other at the dog park. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:108
+Bush, Okada, Hartness, and Coniglio started a conversation at the volunteer work. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:109
+At the metro, Licht, Freeze, Crosswhite, and Suttles encountered each other. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:110
+Webber, Lesh, Chagnon, and Bohne bumped into each other at the holiday party. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:111
+Stolte, Rahe, Amodeo, and Westfall came across each other at the private club. He was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:112
+Locklear, Groner, Vitek, and Munsell started a conversation at the public transport. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:113
+Chino, Nuckols, Loggins, and Menzies bumped into each other at the business meet. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:114
+Greenland, Misner, Arledge, and Steadman bumped into each other at the community garden. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:115
+Booze, Kaminski, Rusher, and Sartor started a conversation at the bar. She told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:116
+Porto, Galbraith, Waiters, and Shetler started a conversation at the house party. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:117
+At the specialty retail market, Bala, Elsberry, Reeser, and Stenson came across each other. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:118
+Sluder, Spitzer, Flom, and Gorden started a conversation at the specialty retail market. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:119
+Mcnally, Hurn, Goudreau, and Budde came across each other at the charity car wash. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:120
+Stacks, Yetter, Hinojos, and Nunn bumped into each other at the fitness class. Ze told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:121
+Gandarilla, Liverman, Chahal, and Molinari started a conversation at the fitness class. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:122
+At the trivia night, Agostini, Aylward, Dulay, and Tasker came across each other. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:123
+At the metro, Chenault, Alongi, Gerhard, and Greaves encountered each other. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:124
+At the library, Gatson, Dolezal, Michalek, and Spero came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:125
+At the wine tasting, Prahl, Fisch, Leng, and Losoya came across each other. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:126
+Branam, Weisel, Beer, and Fountain bumped into each other at the library. After a long day at work giving lectures in a university, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:127
+At the archery class, Kangas, Booze, Mullings, and Mcbean encountered each other. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:128
+Frisby, Silverman, Crossman, and Kline bumped into each other at the book club. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:129
+At the hotel, Lagarde, Quintero, Delaluz, and Gale came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:130
+At the fitness class, Frias, Bush, Mort, and Davila came across each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:131
+Shryock, Levan, Back, and Liriano started a conversation at the open gallery museum. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:132
+At the business expo, Wicklund, Sturges, Craycraft, and Shisler came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:133
+At the party, Lybarger, Hollenbeck, Weger, and Hagopian encountered each other. Ze was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:134
+Olsson, Baratta, Kneeland, and Dahlberg bumped into each other at the business expo. They were relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:135
+At the holiday party, Younan, Pimentel, Biswas, and Blackstone came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:136
+Swenson, Morlan, Kneeland, and Shankle started a conversation at the business meet. He was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:137
+Coke, Garza, Kast, and Earles came across each other at the business expo. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:138
+At the library, Ours, Deel, Hsieh, and Mccarroll encountered each other. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:139
+Satchell, Ung, Grogg, and Handley came across each other at the music and art festival. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:140
+At the business expo, Lillis, Champagne, Giardina, and Eguia encountered each other. Ey told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:141
+Vital, Mceachern, Eisenman, and Hagins started a conversation at the photography class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:142
+Streit, Macneill, Shatto, and Woodrum came across each other at the dog park. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:143
+Straus, Mccloy, Powers, and Harte came across each other at the party. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:144
+Hollingshead, Whitener, Marlette, and Cooke bumped into each other at the sports bar. After a long day at work working in fashion and modeling clothes and accessories, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:145
+At the open gallery museum, Markiewicz, Riedl, Boozer, and Hambright came across each other. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:146
+Keaney, Peterkin, Ammerman, and Beard started a conversation at the book store. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:147
+Alfano, Vicknair, Perera, and Pyatt started a conversation at the archery class. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:148
+At the fitness class, Kepple, Kirkbride, Chirinos, and Bublitz encountered each other. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:149
+Criner, Ferretti, Rabe, and Lavalley came across each other at the restaurant. After a long day at work fixing and treating problems with teeth, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:150
+Lebouef, Hibbard, Sandquist, and Barrientos started a conversation at the commuter bus. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:151
+Pullum, Simpkins, Stange, and Belcher started a conversation at the happy hours. After a long day at work growing and selling flowers, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:152
+Mccay, Phalen, Latino, and Manske bumped into each other at the specialty retail market. He told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:153
+At the business expo, Aguiar, Ammerman, Manz, and Songer encountered each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:154
+Lammers, Pulliam, Thorsen, and Weiland started a conversation at the dog park. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:155
+Hu, Angulo, Teasley, and Obando started a conversation at the specialty retail market. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:156
+Newhart, Hemenway, Mccrory, and Cantwell started a conversation at the wine tasting. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:157
+Andreasen, Krantz, Fridley, and Guizar bumped into each other at the community garden. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:158
+Kulp, Perron, Rosenquist, and Ramachandran came across each other at the business expo. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:159
+Hageman, Tiscareno, Maker, and Dingler came across each other at the metro. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:160
+Penaloza, Haq, Lapham, and Janzen started a conversation at the library. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:161
+Gabrielson, Orner, Fisk, and Kuhl started a conversation at the specialty retail market. They told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:162
+Delagarza, Bankston, Bulger, and Bradfield came across each other at the private club. They told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:163
+Leake, Galbraith, Krause, and Mebane started a conversation at the book club. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:164
+Swing, Gilmour, Molinaro, and Hillyer came across each other at the metro. They told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:165
+Grzybowski, Lamb, Dinges, and Neher bumped into each other at the community garden. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:166
+Callison, Dawkins, Malagon, and Scaglione came across each other at the cafe. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:167
+Fansler, Emmons, Polk, and Penna bumped into each other at the business expo. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:168
+At the business expo, Rivas, Mancuso, Nyman, and Cabezas came across each other. He was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:169
+Maner, Maradiaga, Sotelo, and Swiatek started a conversation at the music and art festival. After a long day at work growing and selling flowers, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:170
+At the photography class, Kost, Berrier, Manalo, and Huard encountered each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:171
+Boylan, Zerr, Stringer, and Belz bumped into each other at the trivia night. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:172
+Estell, Kogut, Hughs, and Delafuente started a conversation at the business meet. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:173
+Carrasco, Hwang, Hutchings, and Endicott bumped into each other at the stadium. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:174
+Pecoraro, Herald, Motto, and Kwak started a conversation at the metro. After a long day at work making bread and cakes in a bakery, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:175
+At the party, Messinger, Greenwalt, Hildebrandt, and Fuentez came across each other. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:176
+Secor, Savell, Chaires, and Poteat came across each other at the book store. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:177
+Kochan, Porto, Mingo, and Drennen bumped into each other at the beer making classes. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:178
+Bongiovanni, Sollars, Funderburk, and Gibbons came across each other at the evening language class. After a long day at work cleaning the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:179
+Eilers, Keeter, Dauria, and Foy started a conversation at the party. After a long day at work passing knowledge to students at school, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:180
+At the evening language class, Immel, Kehl, Pitchford, and Damico encountered each other. After a long day at work putting out fires, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:181
+Prisco, Henriquez, Glover, and Hasbrouck bumped into each other at the public transport. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:182
+Hagberg, Wittmer, Doster, and Hodgson started a conversation at the fundraiser. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:183
+Hotchkiss, Smelser, Datta, and Winnett bumped into each other at the restaurant. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:184
+Kafka, Colella, Henriquez, and Fontes came across each other at the open gallery museum. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:185
+At the public transport, Quigley, Qi, Gano, and Touchet came across each other. She told anecdotes from a career of overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:186
+Dike, Gettinger, Lozada, and Blea started a conversation at the trivia night. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:187
+Halbrook, Beier, Hillery, and Ying bumped into each other at the fundraiser. After a long day at work working in a factory, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:188
+Flory, Heald, Raddatz, and Teasley bumped into each other at the evening language class. Ze was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:189
+Amis, Alcazar, Rascon, and Betancourt bumped into each other at the wine tasting. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:190
+Husted, Guard, Segraves, and Kallas bumped into each other at the book store. She told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:191
+Bauder, Raposo, Burgoyne, and Lambrecht came across each other at the bar. They told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:192
+At the business meet, Eggen, Gallagher, Palmateer, and Pereira encountered each other. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:193
+At the hotel, Newlon, Balderas, Matteson, and Tenorio encountered each other. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:194
+Lagrange, Bergeron, Norvell, and Humphreys bumped into each other at the book club. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:195
+Peart, Shouse, Jock, and Mcmillion bumped into each other at the business meet. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:196
+Steil, Derose, Shevlin, and Cerny started a conversation at the business meet. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:197
+Stein, Arocha, Okafor, and Merwin started a conversation at the fitness class. Ze told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:198
+At the fundraiser, Paschke, Munsell, Zehnder, and Born encountered each other. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:199
+At the cafe, Lybarger, Bjorklund, Notaro, and Snelson came across each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:200
+Mazzei, Sandquist, Astorga, and Palacios bumped into each other at the school reunion. She told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:201
+Shulman, Hayles, Woolley, and Gerrish started a conversation at the commuter bus. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:202
+Bankston, Wiens, Losoya, and Altieri bumped into each other at the bar. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:203
+At the open gallery museum, Rosenow, Thoreson, Costley, and Arruda came across each other. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:204
+At the party, Robb, Summers, Turlington, and Sine encountered each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:205
+Stringer, Fulkerson, Acevedo, and Denn started a conversation at the book store. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:206
+Ugarte, Mcgrew, Bischoff, and Mejias bumped into each other at the wine tasting. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:207
+At the school reunion, Elders, Caso, Sciacca, and Brost came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:208
+At the restaurant, Swing, Brumm, Ley, and Gooch came across each other. Ze was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:209
+At the hotel, Kravitz, Gans, Shank, and Theriot encountered each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:210
+At the metro, Belt, Hoskins, Bickett, and Raby came across each other. After a long day at work making bread and cakes in a bakery, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:211
+Mccurry, Koontz, Liverman, and Bonham came across each other at the house party. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:212
+At the cafe, Raiford, Tignor, Valverde, and Toledo came across each other. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:213
+Cadet, Roane, Pazmino, and Mort bumped into each other at the metro. He told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:214
+Caskey, Chatterton, Chao, and Halterman started a conversation at the cafe. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:215
+At the private club, Schreffler, Mork, Bingham, and Meads came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:216
+At the hotel, Jaros, Rezendes, Westra, and Weatherspoon came across each other. Ey was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:217
+Goodlow, Schuelke, Shimp, and Bakke came across each other at the sports bar. After a long day at work working in a factory, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:218
+Dykema, Hemenway, Schlemmer, and Granillo started a conversation at the restaurant. Ze was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:219
+Spurling, Shapiro, Riehle, and Goodfellow bumped into each other at the book club. After a long day at work cleaning the kitchen area at restaurants, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:220
+Trigueros, Hard, Zuber, and Pavon bumped into each other at the wine tasting. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:221
+Vanness, Kogut, Sayegh, and Deardorff bumped into each other at the book club. She was relieved to unwind after a demanding day at work growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:222
+Tamez, Beyers, Neu, and Moynihan started a conversation at the photography class. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:223
+Heflin, Gerardi, Valadez, and Onofre started a conversation at the wine tasting. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:224
+Treanor, Still, Tomaszewski, and Sparacino bumped into each other at the fitness class. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:225
+Vasques, Marton, Kogut, and Silvey started a conversation at the volunteer work. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:226
+At the happy hours, Wilke, Mayfield, Dunson, and Battaglia came across each other. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:227
+At the library, Blizzard, Sommerville, Partington, and Donahoe came across each other. He told anecdotes from a career of translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:228
+At the business meet, Blankinship, Lucido, Qi, and Schacht came across each other. After a long day at work organising and selling holidays and flights for others, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:229
+At the commuter bus, Hohl, Grissett, Horta, and Mcconville came across each other. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:230
+Mcelhaney, Quackenbush, Gose, and Smelser started a conversation at the music and art festival. He told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:231
+Roosa, Hatfield, Clinger, and Woolard bumped into each other at the dog park. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:232
+At the commuter bus, Ohearn, Weinstock, Bruckner, and Walley encountered each other. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:233
+Fryman, Besse, Legere, and Leeds bumped into each other at the business meet. After a long day at work growing and selling flowers, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:234
+At the commuter bus, Cheshire, Garg, Southall, and Chenoweth encountered each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:235
+Czech, Barringer, Isaacs, and Konen started a conversation at the book club. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:236
+Binion, Yao, Sosnowski, and Silvey started a conversation at the community garden. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:237
+Hilliard, Oliveri, Wendorf, and Stripling came across each other at the stadium. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:238
+Mcinnis, Dewolf, Roessler, and Harb came across each other at the volunteer work. She was relieved to unwind after a demanding day at work making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:239
+Poulsen, Sabatini, Sevier, and Ippolito bumped into each other at the business expo. She was relieved to unwind after a demanding day at work working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:240
+Callanan, Mcgeehan, Schock, and Burse started a conversation at the party. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:241
+Citizen, Cusick, Body, and Nanney bumped into each other at the bar. She told anecdotes from a career of unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:242
+Gehrke, Nakayama, Plyler, and Gowan started a conversation at the metro. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:243
+At the cafe, Sabado, Teeter, Troncoso, and Spohn encountered each other. Ze was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:244
+At the private club, Worrall, Geissler, Fritch, and Craine came across each other. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:245
+Accardi, Wilkes, Richey, and Hein bumped into each other at the house party. After a long day at work organising and selling holidays and flights for others, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:246
+Hoekstra, Paley, Tieman, and Riddle bumped into each other at the hotel. He was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:247
+Soules, Winch, Bencomo, and Brubaker came across each other at the volunteer work. Ey told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:248
+Ayon, Richey, Bartling, and Rothrock came across each other at the business expo. She told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:249
+At the dog park, Scheib, Phares, Durrant, and Oliveira encountered each other. She was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:250
+At the archery class, Pare, Feemster, Pitcher, and Cabello came across each other. They told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:251
+Soltis, Blackburn, Boettcher, and Whitlatch started a conversation at the library. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:252
+Hollenbeck, Wescott, Lavergne, and Vicencio bumped into each other at the music and art festival. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:253
+At the holiday party, Fridley, Stringfield, Sheetz, and Linderman came across each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:254
+At the fitness class, Burger, Vanhoose, Spiess, and Mcelligott encountered each other. After a long day at work designing building and houses, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:255
+Lein, Archila, Turgeon, and Kilburn came across each other at the photography class. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:256
+Woolbright, Wingfield, Ball, and Mujica started a conversation at the beer making classes. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:257
+Rollo, Kinnear, Segraves, and Cadiz came across each other at the commuter bus. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:258
+Aponte, Batres, Mcnally, and Wallach came across each other at the evening language class. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:259
+At the wine tasting, Coghill, Hasley, Lawhead, and Bloss came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:260
+At the public transport, Knudsen, Akers, Uresti, and Threatt encountered each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:261
+Westby, Schrum, Schiltz, and Dandridge came across each other at the volunteer work. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:262
+Thomasson, Heslin, Simmon, and Heatherly started a conversation at the holiday party. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:263
+At the fitness class, Mceachin, Askins, Peres, and Sosa came across each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:264
+At the stadium, Schooley, Hartzler, Flippin, and Betancourt came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:265
+At the book club, Sword, Byrnes, Carcamo, and Lines encountered each other. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:266
+Mohn, Millington, Spielman, and Demeter started a conversation at the evening language class. He was relieved to unwind after a demanding day at work cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:267
+At the house party, Salyer, Tietz, Pankey, and Dunn came across each other. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:268
+Eley, Ruckman, Goehring, and March started a conversation at the private club. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:269
+Boylan, Dauria, Marbury, and Qian came across each other at the hotel. She told anecdotes from a career of cleaning the kitchen area at restaurants.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:270
+At the party, Tu, Pollak, Destefano, and Lohmann came across each other. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:271
+Twiggs, Devoe, Flick, and Bassi bumped into each other at the library. After a long day at work passing knowledge to students at school, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:272
+At the private club, Rozanski, Hahn, Innis, and Tutt encountered each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:273
+At the fundraiser, Sant, Hatmaker, Zou, and Fazio encountered each other. Ze told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:274
+At the stadium, Epling, Guizar, Blick, and Cifuentes came across each other. She told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:275
+At the sports bar, Stine, Parrott, Garza, and Strahan came across each other. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:276
+Rix, Wirt, Lok, and Lesh came across each other at the specialty retail market. He told anecdotes from a career of controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:277
+Valiente, Rumley, Exline, and Culp came across each other at the school reunion. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:278
+Fauntleroy, Pifer, Sheffer, and Wilkey started a conversation at the business meet. He told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:279
+Baksh, Roh, Galindez, and Holsinger came across each other at the wine tasting. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:280
+Pizano, Casale, Frisch, and Cocco came across each other at the public transport. After a long day at work fixing and treating problems with teeth, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:281
+At the charity car wash, Coscia, Barrientos, Hord, and Chua encountered each other. After a long day at work working in a factory, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:282
+Poplin, Pavon, Ciccone, and Criner started a conversation at the cafe. They were relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:283
+Sisk, Moore, Lattin, and Hettinger came across each other at the specialty retail market. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:284
+Fenley, Burney, Chalfant, and Riffe came across each other at the book store. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:285
+Isaacs, Koepp, Pitchford, and Mares started a conversation at the book club. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:286
+Hokanson, Steffens, Gudino, and Birney started a conversation at the restaurant. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:287
+Dry, Zeman, Gerdes, and Kahler started a conversation at the cafe. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:288
+Pokorny, Izquierdo, Hamburg, and Mcdonough came across each other at the hotel. Ze was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:289
+Sturdivant, Holsey, Mundell, and Lockridge came across each other at the photography class. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:290
+Hyun, Bartle, Swords, and Winebrenner came across each other at the school reunion. After a long day at work growing and selling flowers, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:291
+Surface, Epling, Helmuth, and Bischoff started a conversation at the school reunion. They were relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:292
+At the happy hours, Buckles, Billingsley, Wessels, and Devault came across each other. He was relieved to unwind after a demanding day at work designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:293
+Criddle, Meaux, Bivins, and Hotchkiss bumped into each other at the archery class. Ze was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:294
+At the hotel, Byrne, Matheney, Aguiar, and Clutter encountered each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:295
+Palafox, Edmunds, Strock, and Bee bumped into each other at the hotel. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:296
+Rice, Nesbit, Tasker, and Guest started a conversation at the school reunion. After a long day at work overseeing the management of executives' calendars and travel arrangements, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:297
+Hambright, Sorrels, Maus, and Cottone started a conversation at the charity car wash. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:298
+Compton, Giffin, Hovis, and Schrum bumped into each other at the evening language class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:299
+Goings, Manwaring, Raposo, and Bliven bumped into each other at the beer making classes. She was relieved to unwind after a demanding day at work controlling the flight of an aircraft by operating its directional flight controls.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:300
+At the restaurant, Perlmutter, Witham, Blacker, and Nevitt came across each other. They told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:301
+Grooms, Farrier, Alleyne, and Younts started a conversation at the charity car wash. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:302
+Hook, Ocallaghan, Beach, and Plank started a conversation at the evening language class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:303
+Gard, Lavigne, Pinon, and Stocking came across each other at the music and art festival. After a long day at work growing and selling flowers, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:304
+Pollak, Schumann, Frasher, and Foltz bumped into each other at the volunteer work. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:305
+Polk, Privette, Rivas, and Ramachandran came across each other at the school reunion. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:306
+At the bar, Castro, Salter, Lederer, and Butterworth encountered each other. She was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:307
+At the cafe, Kopp, Laduke, Mcnally, and Quirk came across each other. Ey told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:308
+At the community garden, Peed, Oglesby, Volkert, and Ellman encountered each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:309
+Bhardwaj, Mckissick, Lucido, and Spires started a conversation at the hotel. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:310
+Topp, Tarantino, Chmura, and Kang came across each other at the holiday party. After a long day at work fixing and treating problems with teeth, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:311
+At the library, Lozier, Treadaway, Irvine, and Philpott came across each other. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:312
+Wein, Shearin, Mohn, and Mikula bumped into each other at the school reunion. She was relieved to unwind after a demanding day at work overseeing the management of executives' calendars and travel arrangements.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:313
+Lybarger, Houser, Gran, and Barksdale came across each other at the cafe. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:314
+Yarbrough, Teneyck, Bostic, and Choudhry came across each other at the business meet. He told anecdotes from a career of passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:315
+Reimann, Llerena, Gosnell, and Sankar bumped into each other at the restaurant. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:316
+Kapur, Morado, Milian, and Beets started a conversation at the happy hours. After a long day at work putting out fires, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:317
+At the house party, Breaux, Gossman, Casados, and Lippincott came across each other. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:318
+Fouse, Maresca, Frausto, and Waguespack came across each other at the wine tasting. She told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:319
+Sayers, Bruch, Grams, and Finan started a conversation at the house party. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:320
+Elders, Mccarter, Waterbury, and Rakestraw came across each other at the party. They were relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:321
+Claborn, Navarra, Robie, and Swing bumped into each other at the hotel. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:322
+Derosa, Vanzandt, Kopp, and Hur started a conversation at the volunteer work. After a long day at work overseeing the management of executives' calendars and travel arrangements, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:323
+Squire, Houtz, Cooks, and Southall came across each other at the food and drink festival. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:324
+At the book club, Boomer, Nehring, Ours, and Bolduc encountered each other. He told anecdotes from a career of designing building and houses.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:325
+At the evening language class, Schick, Knisley, Northcutt, and Tocci encountered each other. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:326
+At the wine tasting, Levesque, Spataro, Rheaume, and Stiff encountered each other. After a long day at work making bread and cakes in a bakery, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:327
+At the specialty retail market, Rivas, Dorris, Lefevre, and Ramesh encountered each other. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:328
+Parkey, Hernandezlopez, Hollowell, and Tillett started a conversation at the private club. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:329
+Sheffer, Cashman, Mangione, and Harbison started a conversation at the holiday party. He told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:330
+Cavalier, Grondin, Pokorny, and Prevost started a conversation at the sports bar. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:331
+Strozier, Weed, Avelar, and Guttman started a conversation at the fitness class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:332
+At the business expo, Legendre, Bridgeforth, Sippel, and Renninger came across each other. She told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:333
+At the school reunion, Prejean, Kong, Gelb, and Mccrory encountered each other. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:334
+Crompton, Brathwaite, Nightingale, and Peasley started a conversation at the stadium. After a long day at work working in fashion and modeling clothes and accessories, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:335
+Likens, Cuello, Fischbach, and Blizzard came across each other at the community garden. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:336
+At the business meet, Chung, Persinger, Highsmith, and Messersmith encountered each other. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:337
+Crandell, Mcculloch, Pennell, and Masterson bumped into each other at the charity car wash. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:338
+At the open gallery museum, Fahey, Stehle, Sirianni, and Kutz came across each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:339
+At the community garden, Brigman, Mcginness, Goodwill, and Ulm encountered each other. He told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:340
+Laprade, Rybak, Manske, and Troutman came across each other at the evening language class. He was relieved to unwind after a demanding day at work giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:341
+Doolan, Mattocks, Bybee, and Cervantez bumped into each other at the food and drink festival. After a long day at work cleaning the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:342
+Lafollette, Willeford, Lebo, and Block came across each other at the library. They told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:343
+Opp, Sieber, Pecora, and Kessinger started a conversation at the community garden. After a long day at work organising and selling holidays and flights for others, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:344
+Buchman, Tuma, Canizales, and Grandberry started a conversation at the photography class. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:345
+Sensenig, Moraga, Vivar, and Bischof bumped into each other at the holiday party. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:346
+At the fitness class, Hagedorn, Robards, Fields, and Serna came across each other. She told anecdotes from a career of putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:347
+Crum, Seward, Monsalve, and Bott started a conversation at the public transport. He told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:348
+Bramlett, Haas, Patel, and Greenhaw started a conversation at the photography class. Ze was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:349
+Plank, Hern, Farney, and Hoagland bumped into each other at the open gallery museum. After a long day at work working in fashion and modeling clothes and accessories, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:350
+Searcy, Irick, Mallette, and Hoelscher bumped into each other at the school reunion. They told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:351
+Crutchfield, Leite, Vanpelt, and Dutton bumped into each other at the open gallery museum. They told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:352
+Shriner, Gonzales, Scheib, and Hoxie came across each other at the open gallery museum. After a long day at work designing building and houses, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:353
+Talamantez, Winnett, Bornstein, and Mosquera bumped into each other at the fundraiser. He told anecdotes from a career of growing and selling flowers.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:354
+Crane, Sieber, Enochs, and Rothwell bumped into each other at the evening language class. After a long day at work putting out fires, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:355
+At the open gallery museum, Leyden, Theiss, Carlstrom, and Keyes came across each other. After a long day at work giving lectures in a university, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:356
+Degraw, Lybarger, Thiele, and Sheedy came across each other at the dog park. He told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:357
+Donati, Christoffersen, Piotrowski, and Ramesh started a conversation at the fitness class. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:358
+Phifer, Guertin, Schuck, and Arzate came across each other at the photography class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:359
+At the photography class, Holst, Mccrory, Sant, and Bednarz came across each other. He told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:360
+Tuazon, Poarch, Genova, and Helmick came across each other at the library. He told anecdotes from a career of giving lectures in a university.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:361
+Harshbarger, Tsang, Friesen, and Jaynes started a conversation at the music and art festival. She told anecdotes from a career of supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:362
+Mosser, Ake, Fryman, and Groom came across each other at the business meet. After a long day at work making news reports in writing and television, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:363
+Sears, Berg, Donati, and Cutshaw came across each other at the wine tasting. After a long day at work giving lectures in a university, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:364
+At the book club, Chewning, Arndt, Minnick, and Speck came across each other. She was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:365
+At the library, Manders, Deavila, Hose, and Tower came across each other. After a long day at work controlling the flight of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:366
+Mccune, Flick, Mclaurin, and Kind came across each other at the archery class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:367
+Bartman, Frias, Starnes, and Worcester bumped into each other at the school reunion. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:368
+At the music and art festival, Baca, Cheever, Vogler, and Mowbray came across each other. Ey told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:369
+Cutting, Mincey, Winstead, and Llerena came across each other at the charity car wash. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:370
+At the school reunion, Mooney, Steelman, Lavallee, and Ramires encountered each other. They were relieved to unwind after a demanding day at work working in fashion and modeling clothes and accessories.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:371
+Munns, Bevilacqua, Horning, and Cadena started a conversation at the cafe. She told anecdotes from a career of organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:372
+Steward, Fountain, Eberle, and Gammill came across each other at the book club. She told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:373
+At the school reunion, Beam, Fife, Benford, and Vanetten came across each other. He told anecdotes from a career of working in a factory.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:374
+At the photography class, Vandenberg, Bolte, Benavente, and Porterfield came across each other. He told anecdotes from a career of making news reports in writing and television.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:375
+Sedlak, Ojo, Straughn, and Boehm came across each other at the business meet. They were relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:376
+Cronin, Cecere, Barrus, and Hernandezlopez bumped into each other at the charity car wash. Ze told anecdotes from a career of acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:377
+Ebel, Graff, Fenley, and Mcmillan bumped into each other at the public transport. She told anecdotes from a career of fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:378
+At the cafe, Peart, Hopewell, Frutos, and Seger came across each other. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:379
+Sweatman, Dunagan, Gehring, and Lavin started a conversation at the charity car wash. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:380
+Tineo, Stucky, Brutus, and Olsson bumped into each other at the hotel. She told anecdotes from a career of helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:381
+At the public transport, Thorn, Faulkner, Farney, and Eckels encountered each other. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:382
+Cantero, Reinert, Messer, and Levingston started a conversation at the cafe. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:383
+At the specialty retail market, Dishman, Strock, Roos, and Ashburn encountered each other. He was relieved to unwind after a demanding day at work making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:384
+Quiles, Harker, Serratos, and Lamoureux started a conversation at the music and art festival. After a long day at work putting out fires, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:385
+Lupton, Zou, Eastep, and Kost started a conversation at the school reunion. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:386
+Duenez, Hashimoto, Plank, and Wathen started a conversation at the school reunion. After a long day at work making bread and cakes in a bakery, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:387
+Greenwald, Short, Butterworth, and Guzman came across each other at the book store. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:388
+At the metro, Rudisill, Lichty, Ramakrishnan, and Okane encountered each other. He told anecdotes from a career of working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:389
+Tomlin, Karch, Besaw, and Dubiel bumped into each other at the sports bar. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:390
+Dusek, Oyler, Roh, and Kollman bumped into each other at the school reunion. She told anecdotes from a career of making bread and cakes in a bakery.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:391
+Villasana, Ellerbe, Parten, and Benavente came across each other at the bar. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:392
+Dykema, Bollin, Sawicki, and Naples started a conversation at the house party. After a long day at work making news reports in writing and television, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:393
+At the school reunion, Hahn, Notaro, Ramesh, and Sarno came across each other. They were relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:394
+At the hotel, Deroche, Morrell, Licari, and Iler came across each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:395
+Son, Ugarte, Batres, and Gatica bumped into each other at the metro. He was relieved to unwind after a demanding day at work fixing and treating problems with teeth.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:396
+Dall, Blea, Santistevan, and Corliss bumped into each other at the happy hours. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:397
+Threatt, Heitman, Howington, and Lagrange came across each other at the party. After a long day at work designing building and houses, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:398
+Fogarty, Cassara, Baur, and Becton started a conversation at the charity car wash. He was relieved to unwind after a demanding day at work putting out fires.
+
+kitmus/background-train-no-noise/subtask_4_ents/task-text-only/validation:399
+At the holiday party, Lakhani, Biehl, Plemons, and Doane came across each other. She told anecdotes from a career of growing and selling flowers.

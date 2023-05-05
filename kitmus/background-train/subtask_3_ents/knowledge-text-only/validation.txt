@@ -1,0 +1,1199 @@
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:0
+Preble is a tailor. Lahey is a librarian. Millman is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:1
+Nissley is a bookkeeper. Cornman is a travel agent. Eves is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:2
+Sova is a hairdresser. Chapin is a dentist. Sokolowski is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:3
+Ratchford is a translator. Churchwell is an office clerk. Holl is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:4
+Mandell is a manager. Dufrene is a florist. Moscato is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:5
+Engstrom is a manager. Spiegel is a librarian. Horwitz is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:6
+Drinkard is a journalist. Rockey is an electrician. Strouse is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:7
+Graybeal is a stocking associate. Jimerson is a researcher. Buentello is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:8
+Salmon is a hairdresser. Luera is a model. Deer is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:9
+Barclay is a bookkeeper. Wagstaff is a stocking associate. Biggerstaff is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:10
+Colella is an office clerk. Sinkler is a bartender. Ferri is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:11
+Urzua is an electrician. Sonnenberg is a model. Reinhardt is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:12
+Vanbuskirk is a manager. Wortman is a customer service representative. Conboy is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:13
+Borger is a manager. Vanhorn is a stocking associate. Abadie is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:14
+Mccombs is a manager. Rosenbaum is a journalist. Pack is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:15
+Figaro is a translator. Arredondo is a dentist. Rawlings is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:16
+Fenstermacher is a hairdresser. Shire is an electrician. Baldonado is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:17
+Copas is a tailor. Albers is a manager. Kratzer is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:18
+Bechtel is a journalist. Throckmorton is a bartender. Dorantes is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:19
+Luecke is a travel agent. Gottschalk is a bartender. Mebane is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:20
+Kepner is a bartender. Middleton is a customer service representative. Wertman is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:21
+Steger is a journalist. Parshall is a manager. Swanner is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:22
+Wootton is a tailor. Junker is a stocking associate. Sato is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:23
+Friar is an electrician. Hasbrouck is a lawyer. Sarver is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:24
+Pringle is a customer service representative. Denison is a dentist. Kitt is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:25
+Michaelis is a tailor. Heaney is a bookkeeper. Vangilder is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:26
+Almodovar is a lawyer. Otoole is a researcher. Soderstrom is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:27
+Klingler is a customer service representative. Boehme is a researcher. Malec is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:28
+Birdsong is a journalist. Hagel is a bookkeeper. Stumbo is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:29
+Bevers is a florist. Visser is a tailor. Mullican is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:30
+Stinson is a travel agent. Hodgson is a lawyer. Montanez is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:31
+Conwell is a dentist. Mcnew is a manager. Feeley is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:32
+Knights is a librarian. Stahl is a translator. Lowe is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:33
+Leggett is a dentist. Lagrange is a tailor. Faulkner is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:34
+Pedraza is a tailor. Berrier is a researcher. Pyatt is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:35
+Schlueter is a model. Walch is a firefighter. Yelton is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:36
+Luoma is a translator. Haislip is a model. Mcavoy is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:37
+Dones is an office clerk. Grasso is a journalist. Konkel is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:38
+Polson is a hairdresser. Som is a customer service representative. Tyndall is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:39
+Bolling is a bookkeeper. Nissley is a hairdresser. Magnuson is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:40
+Warnke is a stocking associate. Brodersen is a firefighter. Rone is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:41
+Weatherspoon is a bookkeeper. Hallmark is a lawyer. Garfias is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:42
+Espada is a hairdresser. Boatman is a translator. Thiele is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:43
+Vannorman is a manager. Tarvin is a firefighter. Stalker is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:44
+Rummel is a model. Otey is a bartender. Bulloch is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:45
+Jenness is a travel agent. Shaikh is a journalist. Doolin is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:46
+Corzo is a librarian. Daub is a lawyer. Marmol is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:47
+Otey is a librarian. Bible is a bartender. Lucente is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:48
+Lindahl is a translator. Helman is a stocking associate. Schalk is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:49
+Dike is a model. Brummett is an office clerk. Wan is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:50
+Higham is a translator. Sistrunk is a journalist. Rubinstein is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:51
+Sarkar is an optician. Kohli is a firefighter. Tietz is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:52
+Mero is a dentist. Moorhouse is an electrician. Mcateer is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:53
+Reinhart is a journalist. Aday is a manager. Haake is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:54
+Sison is a hairdresser. Lombardi is a lawyer. Bazan is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:55
+Bun is a tailor. Yorke is a bookkeeper. Touchstone is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:56
+Painter is an electrician. Crittendon is a customer service representative. Rech is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:57
+Valladares is a bookkeeper. Mcgraw is a florist. Leyden is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:58
+Flippen is an electrician. Predmore is an office clerk. Giacalone is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:59
+Crowder is a florist. Brackett is a customer service representative. Hinz is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:60
+Decuir is a librarian. Silberman is a tailor. Vaca is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:61
+Yard is a model. Chatelain is a hairdresser. Ek is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:62
+Mcjunkin is a travel agent. Mcmeans is a journalist. Ingles is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:63
+Adamson is a hairdresser. Fish is an office clerk. Studdard is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:64
+Sistrunk is a travel agent. Sluss is a librarian. Twitchell is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:65
+Loredo is a librarian. Hinch is a tailor. States is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:66
+Galante is a customer service representative. Ducksworth is an optician. Holtz is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:67
+Akhter is an optician. Resendiz is an electrician. Haggard is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:68
+Yung is a bookkeeper. Howington is a librarian. Negri is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:69
+Kratz is an optician. Uhler is a customer service representative. Selders is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:70
+Stange is a tailor. Chiang is a hairdresser. Rolston is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:71
+Pelzer is an office clerk. Demery is a manager. Livengood is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:72
+Waddell is a translator. Hornback is a stocking associate. Donis is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:73
+Woodrum is a bartender. Brainard is a dentist. Bennette is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:74
+Maes is an optician. Paugh is a journalist. Kopacz is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:75
+Echavarria is a florist. Gandy is a researcher. Srinivasan is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:76
+Sumpter is an optician. Withers is an electrician. Mcgaha is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:77
+Abramson is a dentist. Thorpe is a model. Mackie is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:78
+Fell is a manager. Canter is a travel agent. Deese is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:79
+Arbogast is a firefighter. Taulbee is a travel agent. Cavallaro is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:80
+Ortego is a translator. Samuelson is a florist. Paradiso is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:81
+Lauck is a florist. Tun is a manager. Irizarry is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:82
+Figaro is a translator. Howington is a travel agent. Plott is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:83
+Toland is a lawyer. Kaster is a travel agent. Casiano is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:84
+Stam is a florist. Egbert is an electrician. Guadarrama is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:85
+Winget is a bartender. Conboy is a lawyer. Vore is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:86
+Riebe is an electrician. Nassar is a dentist. Stonebraker is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:87
+Viens is a model. Hockensmith is a journalist. Bennette is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:88
+Wetter is a journalist. Hefley is a model. Marks is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:89
+Seabrook is a bartender. Snowden is a tailor. Luft is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:90
+Lavergne is a translator. Wyllie is a firefighter. Veloz is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:91
+Mcbride is a firefighter. Glasgow is a translator. Wiltse is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:92
+Dryer is a firefighter. Fraire is an office clerk. Wharton is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:93
+Clayborne is a librarian. Nuckolls is an office clerk. Porto is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:94
+Mccarron is a dentist. Manzano is a lawyer. Vancil is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:95
+Brasel is a librarian. Shuler is a translator. Dunker is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:96
+Lagasse is a customer service representative. Kratzer is a bookkeeper. Rao is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:97
+Dietz is a tailor. Barthelemy is a lawyer. Luong is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:98
+Svendsen is a stocking associate. Trapani is a translator. Armistead is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:99
+Valiente is a stocking associate. Lorusso is a model. Durrant is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:100
+Riedel is a travel agent. Ogorman is a stocking associate. Cropper is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:101
+Yau is a florist. Buescher is a librarian. Mckillip is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:102
+Weisel is an optician. Deters is a lawyer. Repp is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:103
+Delvalle is a manager. Swearengin is a tailor. Gallegos is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:104
+Hanlon is a lawyer. Purdy is a tailor. Tijerina is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:105
+Weissman is a dentist. Rizvi is a firefighter. Houchins is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:106
+Dulaney is a manager. Capehart is a customer service representative. Schalk is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:107
+Gorrell is a journalist. Houde is a model. Mauck is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:108
+Eoff is a manager. Loder is a firefighter. Slifer is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:109
+Moscoso is a travel agent. Beadles is an electrician. Binns is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:110
+Resendez is a travel agent. Navarrete is a hairdresser. Amstutz is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:111
+Fontanilla is an electrician. Creel is a bookkeeper. Camarena is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:112
+Pentecost is an office clerk. Chain is a translator. Bauman is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:113
+Martinek is a travel agent. Aldama is a journalist. Manrique is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:114
+Granberry is an optician. Procopio is an office clerk. Rascoe is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:115
+Grounds is a lawyer. Moran is a researcher. Tharpe is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:116
+Birchfield is a florist. Cortina is a tailor. Asuncion is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:117
+Richer is a hairdresser. Post is a customer service representative. Reimer is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:118
+Gammill is a journalist. Thomsen is a bartender. Defazio is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:119
+Chaplin is a tailor. Kramp is a firefighter. Noone is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:120
+Haar is a translator. Wheat is a florist. Molden is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:121
+Malec is a dentist. Breckenridge is a stocking associate. Holtz is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:122
+Crigger is a librarian. Stenger is a tailor. Whiddon is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:123
+Haun is a manager. Koerner is a librarian. Meader is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:124
+Plyler is a dentist. Downie is a bartender. Mathai is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:125
+Majors is a tailor. Stebbins is a translator. Kinnaird is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:126
+Timmons is an optician. Colletti is a florist. Rines is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:127
+Bastida is a bookkeeper. Jiron is a model. Berberich is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:128
+Nutt is a researcher. Sommerville is an optician. Solari is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:129
+Whiteside is a firefighter. Carino is a lawyer. Paulus is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:130
+Rochester is a bookkeeper. Hunsberger is a travel agent. Holthaus is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:131
+Horan is an office clerk. Sellman is a customer service representative. Voris is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:132
+Battista is a librarian. Rubinstein is a customer service representative. Robidoux is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:133
+Danforth is a firefighter. Gallegos is a bartender. Degroat is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:134
+Efird is an optician. Greenman is a researcher. Chafin is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:135
+Petrick is a travel agent. Becton is a customer service representative. Griebel is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:136
+Mendez is a hairdresser. Caraveo is a librarian. Pantano is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:137
+Mckernan is an optician. Duet is a firefighter. Seabrook is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:138
+Kish is a researcher. Loveday is a firefighter. Tarango is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:139
+Mullet is an electrician. Dulaney is a stocking associate. Varela is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:140
+Summey is an office clerk. Sturgeon is a firefighter. Chenault is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:141
+Corr is an office clerk. Desroches is a stocking associate. Michalowski is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:142
+Carmean is a tailor. Janowski is a stocking associate. Woodruff is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:143
+Manno is an electrician. Cuthbertson is an office clerk. Callender is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:144
+Morillo is a tailor. Schoenfeld is a translator. Hagood is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:145
+Soliz is a journalist. Harrigan is a customer service representative. Nadler is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:146
+Sigler is a stocking associate. Riffe is a manager. Costales is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:147
+Goodenough is a dentist. Buchholz is an office clerk. Hartsfield is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:148
+Babin is a bookkeeper. Winship is a librarian. Ammons is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:149
+Macpherson is a researcher. Gard is a travel agent. Hightower is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:150
+Yin is a lawyer. Traywick is a firefighter. Overly is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:151
+Pellegrin is a florist. Gettys is a manager. Bierman is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:152
+Renda is a librarian. Ropp is a tailor. Chasse is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:153
+Escudero is a travel agent. Townsley is a florist. Holsey is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:154
+Haslett is a hairdresser. Billingsley is a bartender. Cutlip is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:155
+Starke is a travel agent. Worsley is a manager. Pullins is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:156
+Whitham is a bartender. Lyall is a customer service representative. Rohm is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:157
+Cioffi is a translator. Breen is an office clerk. Jernigan is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:158
+Ruzicka is a stocking associate. Grimaldo is a bartender. Avina is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:159
+Means is a translator. Silva is a manager. Fulmore is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:160
+Mantle is a hairdresser. Sotomayor is a model. Gigliotti is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:161
+Juhl is a librarian. Hallum is a customer service representative. Mackley is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:162
+Nuss is an office clerk. Strausbaugh is a hairdresser. Woodside is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:163
+Diosdado is a bartender. Mcneill is a bookkeeper. Isenberg is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:164
+Sebring is a model. Hartzler is a stocking associate. Baisley is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:165
+Pulver is a bartender. Pfister is a tailor. Theriault is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:166
+Edgell is an electrician. Marks is a manager. Orrick is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:167
+Whitmer is a tailor. Hosley is an optician. Espinosa is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:168
+Babin is a manager. Feldmann is a model. Cheatham is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:169
+Calhoun is a librarian. Sale is a model. Eaton is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:170
+Mccomb is a dentist. Loria is a lawyer. Muirhead is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:171
+Saha is a tailor. Seevers is an electrician. Antillon is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:172
+Huitron is a manager. Mccraney is a tailor. Dennett is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:173
+Rayl is a manager. Wendland is a researcher. Holtman is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:174
+Alamilla is a librarian. Negri is a firefighter. Chamblee is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:175
+Land is an office clerk. Klepper is a bookkeeper. Nipper is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:176
+Witzel is a librarian. Holiman is an office clerk. Knipp is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:177
+Culler is a journalist. Parkes is a researcher. Vaz is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:178
+Weatherwax is a hairdresser. Gaye is an optician. Paschke is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:179
+Johannsen is an electrician. Belser is a lawyer. Kropf is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:180
+Bjerke is an optician. Swensen is a dentist. Winder is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:181
+Factor is a dentist. Bolles is an optician. Clinard is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:182
+Ladd is a tailor. Kelch is a bartender. Shoulders is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:183
+Ortman is a firefighter. Dolin is a researcher. Heitman is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:184
+Vitale is a translator. Lowrey is a manager. Hostetter is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:185
+Bollin is an electrician. Bewley is a firefighter. Mctaggart is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:186
+Griffiths is a model. Rusin is a manager. Redmon is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:187
+Bottomley is a stocking associate. Cota is a model. Hoskinson is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:188
+Hosler is a lawyer. Lage is a model. Pepe is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:189
+Mcmeans is a travel agent. Vosburgh is a journalist. Winkel is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:190
+Turnquist is a travel agent. Hoffner is a firefighter. Kitchens is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:191
+Pappalardo is an office clerk. Lass is a hairdresser. Hofstetter is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:192
+Focht is a customer service representative. Edgell is a lawyer. Starrett is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:193
+Wallach is a stocking associate. Port is a tailor. Dy is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:194
+Sherer is a hairdresser. Tiller is a customer service representative. Guzik is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:195
+Plyler is a researcher. Godina is an office clerk. Fetters is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:196
+Resendiz is a customer service representative. Weissman is a stocking associate. Worthen is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:197
+Swinton is a lawyer. Weinberger is a stocking associate. Alligood is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:198
+Grandison is an optician. Otten is a translator. Colella is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:199
+Janda is an office clerk. Hovland is a dentist. Dowell is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:200
+Fankhauser is a tailor. Byrne is a lawyer. Breen is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:201
+Seiden is a model. Mook is a tailor. Proulx is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:202
+Garfinkel is a stocking associate. Harkleroad is a dentist. Seiter is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:203
+Lao is a lawyer. Roe is a tailor. Dowdell is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:204
+Mair is a lawyer. Manjarrez is a tailor. Mccubbin is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:205
+Schurman is a model. Fogarty is a translator. Cervantes is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:206
+Brame is a customer service representative. Mount is a translator. Hammitt is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:207
+Ament is an electrician. Grate is a lawyer. Bergman is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:208
+Feinstein is a dentist. Paik is a researcher. Corum is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:209
+Prendergast is an electrician. Odom is an optician. Meriwether is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:210
+Rozelle is a lawyer. Prock is an office clerk. Cervantes is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:211
+Litke is an office clerk. Holtz is a hairdresser. Arboleda is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:212
+Thakkar is a travel agent. Spengler is a firefighter. Viviano is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:213
+Joo is a librarian. Bartram is a dentist. Barnhart is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:214
+Cuello is an electrician. Trevizo is a lawyer. Kunz is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:215
+Ostler is a journalist. Bourdon is an electrician. Donegan is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:216
+Barbeau is a firefighter. Zimmer is a tailor. Danko is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:217
+Stine is a translator. Ramakrishnan is a bookkeeper. Touchstone is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:218
+Meaney is a bookkeeper. Bhattacharya is a lawyer. Truax is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:219
+Pegg is a model. Orban is a librarian. Dipaola is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:220
+Ploof is a firefighter. Moffitt is a translator. Chapple is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:221
+Burda is a dentist. Garcialopez is a travel agent. Courter is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:222
+Schoenfeld is a stocking associate. Coston is a florist. Bhakta is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:223
+Tepper is an optician. Rakes is a lawyer. Qin is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:224
+Stoker is a tailor. Buggs is a journalist. Wieser is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:225
+Warwick is an office clerk. Talbott is a dentist. Nichol is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:226
+Danley is a translator. Burley is an office clerk. Cabaniss is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:227
+Wolter is a florist. Dickenson is a tailor. Bilderback is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:228
+Traynor is a travel agent. Colley is a researcher. Carbaugh is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:229
+Scearce is a dentist. Preble is a manager. Golder is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:230
+Grams is a stocking associate. Dorsch is a bartender. Mucha is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:231
+Post is an optician. Rosenbloom is a researcher. Goodall is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:232
+Wallick is a florist. Shupp is a translator. Strom is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:233
+Andress is a model. Couey is an office clerk. Biron is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:234
+Rigney is an optician. Wurtz is a model. Gleeson is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:235
+Hetherington is an optician. Bryner is a dentist. Landreth is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:236
+Cienfuegos is a hairdresser. Hammon is a dentist. Horsman is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:237
+Goode is a firefighter. Barmore is a travel agent. Exley is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:238
+Trudell is a firefighter. Mcavoy is a stocking associate. Schuh is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:239
+Barreras is a customer service representative. Holmes is a dentist. Rubenstein is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:240
+Troup is an electrician. Pincus is a customer service representative. Saravia is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:241
+Kratz is a journalist. Bramlett is a lawyer. Rossiter is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:242
+Nottingham is a researcher. Kitterman is a journalist. Dall is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:243
+Severson is a bookkeeper. Paik is a model. Fankhauser is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:244
+Liddle is a stocking associate. Cochrane is a travel agent. Enyart is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:245
+Perezlopez is a bookkeeper. Sears is a bartender. Hyun is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:246
+Feher is a dentist. Logue is a bartender. Hamil is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:247
+Drennan is a translator. Stackhouse is a journalist. Dampier is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:248
+Trainor is a tailor. Morin is a librarian. Mcgaha is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:249
+Doiron is a model. Cude is a journalist. Fluker is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:250
+Leonetti is a bookkeeper. Jovanovic is a stocking associate. Brainard is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:251
+Sablan is a stocking associate. Cantrell is an office clerk. Rugg is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:252
+Fregoso is a model. Styer is an electrician. Vandoren is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:253
+Sund is a stocking associate. Marini is a customer service representative. Handel is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:254
+Grosso is a dentist. Sowards is a model. Coachman is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:255
+Wilds is a librarian. Fenster is a lawyer. Magers is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:256
+Dunnam is a model. Duren is an optician. Eady is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:257
+Lancaster is a travel agent. Purtell is a customer service representative. Balderas is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:258
+Barkley is a manager. Dunbar is a lawyer. Drane is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:259
+Kellner is an office clerk. Runnels is a dentist. Gerrity is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:260
+Biggers is a travel agent. Waterbury is a librarian. Goodall is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:261
+Barber is a translator. Schmit is a customer service representative. Brumm is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:262
+Lathrop is a customer service representative. Fath is a model. Muscarella is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:263
+Lockman is a researcher. Nadel is an optician. Apodaca is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:264
+Woodside is a librarian. Winfrey is a translator. Brinker is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:265
+Stadler is a lawyer. Tessmer is a stocking associate. Curl is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:266
+Piscitelli is a manager. Eguia is a researcher. Middleton is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:267
+Gephart is a researcher. Villela is a tailor. Byler is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:268
+Twilley is an office clerk. Alford is an electrician. Lauer is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:269
+Attaway is an optician. Vasquez is a bookkeeper. Sabatino is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:270
+Most is a journalist. Blasi is a model. Hartmann is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:271
+Priebe is a florist. Moline is a tailor. Steverson is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:272
+Dubey is a travel agent. States is a florist. Cofer is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:273
+Condrey is a journalist. Lepage is a florist. Sorrells is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:274
+Dryer is a tailor. Balderas is a librarian. Asaro is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:275
+Averett is an office clerk. Wind is a translator. Permenter is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:276
+Loredo is an electrician. Marten is an optician. Easterday is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:277
+Burkhart is a researcher. Jimenez is a florist. Crites is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:278
+Hornberger is a firefighter. Bazile is a bartender. Whittington is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:279
+Cammarata is a tailor. Mullings is an office clerk. Blumer is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:280
+Christmas is a librarian. Harn is a stocking associate. Asencio is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:281
+Devries is an office clerk. Dunleavy is a firefighter. Gregerson is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:282
+Napoli is a customer service representative. Copenhaver is a journalist. Lima is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:283
+Deveau is a bookkeeper. Culver is a lawyer. Lighty is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:284
+Bratcher is a translator. Vrabel is a hairdresser. Giardina is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:285
+Cline is a researcher. Keehn is a firefighter. Zabala is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:286
+Lesure is a librarian. Horowitz is a tailor. Rothe is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:287
+Vasquez is an office clerk. Olivo is a journalist. Hine is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:288
+Mahone is a stocking associate. Cochrane is a florist. Richer is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:289
+Burroughs is a translator. Pinheiro is a manager. Pupo is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:290
+Mederos is a bartender. Bair is a customer service representative. Oreilly is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:291
+Licari is a hairdresser. Mcmeans is a researcher. Nemitz is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:292
+Causey is a firefighter. Laflamme is a customer service representative. Rolfes is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:293
+Silverberg is a dentist. Dann is an electrician. Hatton is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:294
+Goodell is a stocking associate. Horn is an optician. Coachman is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:295
+Dorman is a tailor. Krantz is a firefighter. Lecuyer is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:296
+Witek is a bartender. Guevara is an office clerk. Hursh is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:297
+Perea is a bookkeeper. Dinardo is a tailor. Spadaro is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:298
+Brookins is a journalist. Slack is a hairdresser. Beaudet is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:299
+Stjean is a customer service representative. Fertig is a florist. Gorrell is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:300
+Bontrager is a florist. Woodell is a dentist. Pinnix is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:301
+Friedland is a firefighter. Palma is a tailor. Weiland is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:302
+Bost is an optician. Lepage is a librarian. Troncoso is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:303
+Adelson is a researcher. Thakur is a florist. Orchard is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:304
+Doak is a translator. Lauck is a travel agent. Samuels is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:305
+Bjork is a stocking associate. Nigro is a tailor. Vanderlinden is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:306
+Funderburg is a tailor. Wible is a bartender. Broadbent is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:307
+Wisner is a travel agent. Lamere is a journalist. Aday is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:308
+Shire is a researcher. Weatherwax is a dentist. Standard is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:309
+Mettler is a bartender. Fagundes is a manager. Buffa is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:310
+Velez is a hairdresser. Ocallaghan is a bartender. Legrand is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:311
+Zuniga is an office clerk. Belman is an electrician. Bloch is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:312
+Fenn is a customer service representative. Aslam is a lawyer. Whitted is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:313
+Daves is a hairdresser. Gonsales is a lawyer. Geissler is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:314
+Canady is a journalist. Sum is an office clerk. Mccrimmon is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:315
+Fredericksen is a model. Bridgeman is a bartender. Bushey is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:316
+Hauk is a librarian. Householder is a manager. Odowd is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:317
+Witherow is an electrician. Motsinger is a hairdresser. Tullis is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:318
+Goff is an office clerk. Beranek is a translator. Current is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:319
+Ferrigno is a researcher. Filippi is an office clerk. Ponce is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:320
+Asare is a dentist. Boots is a librarian. Glassman is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:321
+Lugo is a lawyer. Rugg is a hairdresser. Walsh is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:322
+Baney is an optician. To is a hairdresser. Enamorado is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:323
+Nester is a bartender. Burley is a lawyer. Besse is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:324
+Bohrer is a travel agent. Ochsner is a tailor. Denniston is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:325
+Neuman is a florist. Burford is a translator. Ruffino is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:326
+Saenz is an office clerk. Bodner is a customer service representative. Stull is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:327
+Lillis is a journalist. Twombly is a model. Preuss is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:328
+Manz is a bookkeeper. Shope is a travel agent. Schroeter is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:329
+Saville is a tailor. Clinard is a stocking associate. Mcinnis is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:330
+Chawla is an office clerk. Villasana is a florist. Durant is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:331
+Staples is a manager. Hands is a customer service representative. Spinks is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:332
+Seevers is a bartender. Wetzel is a stocking associate. Cadogan is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:333
+Brey is a travel agent. Bergerson is a manager. Hankins is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:334
+Kleckner is a hairdresser. Pinheiro is an office clerk. Apodaca is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:335
+Goodell is an electrician. Cosner is a hairdresser. Banuelos is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:336
+Fenster is a stocking associate. Reigle is a model. Sangster is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:337
+Ziegler is a bookkeeper. Troncoso is an optician. Brinker is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:338
+Bratcher is a stocking associate. Lipinski is an office clerk. Buresh is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:339
+Doner is a librarian. Isenberg is a bookkeeper. Caldera is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:340
+Warf is a journalist. Ezzell is a customer service representative. Replogle is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:341
+Utter is an electrician. Bilyeu is a bartender. Arthurs is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:342
+Lykins is a customer service representative. Ruelas is an electrician. Dickerson is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:343
+Montejo is a customer service representative. Truax is a researcher. Deboer is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:344
+Funderburg is a dentist. Preuss is a bartender. Guffey is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:345
+Ibarra is a travel agent. Houtz is a bookkeeper. Melnyk is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:346
+Leonetti is a dentist. Alejos is a travel agent. Shorter is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:347
+Vaca is a librarian. Vanslyke is a customer service representative. Valliere is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:348
+Cofield is a stocking associate. Swaney is a hairdresser. Castilleja is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:349
+Babbitt is a dentist. Bramlett is a manager. Hammock is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:350
+Zacher is a bookkeeper. Abbate is a librarian. Dunbar is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:351
+Defrancisco is a librarian. Roush is a tailor. Manrique is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:352
+Montz is a translator. Woodhouse is a bartender. Fentress is a manager.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:353
+Shipley is an electrician. Prioleau is a researcher. Schupp is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:354
+Destefano is a dentist. Soderstrom is a researcher. Roles is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:355
+Comeaux is a stocking associate. Grosso is a lawyer. Nakano is a firefighter.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:356
+Weiss is a customer service representative. Bullis is a stocking associate. Turrentine is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:357
+Boling is a stocking associate. Hodgkins is an office clerk. Belser is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:358
+Rosenbloom is an electrician. Reinecke is a librarian. Averett is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:359
+Mcguinness is a tailor. Tun is a librarian. Mishra is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:360
+Carleton is a stocking associate. Grange is an optician. Gammons is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:361
+Huerta is an optician. Giuliani is a manager. Finney is a translator.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:362
+Vasquez is a bartender. Waller is a hairdresser. Branham is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:363
+Ducker is an electrician. Gehring is a researcher. Fauntleroy is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:364
+Tarvin is a florist. Goshorn is a tailor. Iacono is a hairdresser.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:365
+Fetterman is a hairdresser. Bernstein is a manager. Northcutt is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:366
+Situ is a hairdresser. Snider is a travel agent. Digiorgio is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:367
+Simpkins is a researcher. Wilmore is a hairdresser. Bair is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:368
+Enochs is an optician. Soltis is a researcher. Fischbach is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:369
+Brey is a tailor. Lemieux is a travel agent. Blosser is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:370
+Simonetti is a stocking associate. Howse is a manager. Graziano is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:371
+Medellin is an office clerk. Soltis is a bartender. Loder is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:372
+Delao is a lawyer. Meche is a researcher. Bruni is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:373
+Nice is a stocking associate. Kleckner is a bartender. Ruzicka is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:374
+Dismuke is a bookkeeper. Mcnerney is a researcher. Lesure is an office clerk.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:375
+Delcampo is a manager. Wimberly is a librarian. Zarazua is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:376
+Troncoso is a researcher. Mccary is a customer service representative. Hargreaves is a bookkeeper.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:377
+Neubert is a florist. Raasch is a bartender. Parsley is a tailor.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:378
+Lage is a travel agent. Starke is a stocking associate. Cheshire is a lawyer.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:379
+Greaves is a bartender. Balint is a tailor. Baggs is a model.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:380
+Spahr is a stocking associate. Westgate is a model. Tutor is a travel agent.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:381
+Hollen is a lawyer. Hultgren is a bookkeeper. Bickford is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:382
+Cuthbertson is a stocking associate. Weeden is a travel agent. Zigler is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:383
+Munro is an office clerk. Rivas is an optician. Vannatta is a customer service representative.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:384
+Gambrel is a dentist. Marr is a model. Mclaren is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:385
+Gundlach is a customer service representative. Demartino is a lawyer. Desilva is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:386
+Joubert is a stocking associate. Paschke is a model. Konopka is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:387
+Oyler is a stocking associate. Burman is a bartender. Roux is a researcher.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:388
+Washam is a bartender. Usry is a translator. Cripps is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:389
+Dreher is an office clerk. Beall is a lawyer. Awad is a librarian.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:390
+Walther is a customer service representative. Faulkenberry is an optician. Purdom is a dentist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:391
+Galeana is a researcher. Epps is a bookkeeper. Bedoya is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:392
+Pack is a librarian. Din is a researcher. Norberg is an optician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:393
+Wagoner is a travel agent. Real is a florist. Shute is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:394
+Sin is a dentist. Timm is a tailor. Mantle is a stocking associate.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:395
+Scheerer is a manager. Coplin is a translator. Lim is a journalist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:396
+Vandam is a translator. Asuncion is a travel agent. Adamson is a florist.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:397
+Ramage is a translator. Azevedo is a lawyer. Stickley is a bartender.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:398
+Mebane is a firefighter. Widener is a hairdresser. Ammons is an electrician.
+
+kitmus/background-train/subtask_3_ents/knowledge-text-only/validation:399
+Craine is a model. Dolson is a translator. Eaves is a manager.

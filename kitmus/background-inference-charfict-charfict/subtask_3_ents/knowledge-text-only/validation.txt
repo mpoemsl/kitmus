@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:0
+Shupp is an onner. The work of a culfaer is gholicoring intairly. The work of an onner is axtactifying sethourdorly. Degroat is a wenbumber. The work of a wenbumber is sadliging hezly. Mcelligott is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:1
+The work of a pinwer is juthjodding voarly. Wolbert is a pinwer. Espinosa is an onner. The work of an onner is axtactifying sethourdorly. Mcquay is a poyefer. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:2
+The work of a seaizer is tractering quitprilly. Hiner is a fangher. The work of a pinwer is juthjodding voarly. Terwilliger is a seaizer. The work of a fangher is sparluing gobewly. Hathcock is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:3
+Deines is a contaker. The work of a pinwer is juthjodding voarly. The work of a cluker is sombling enrinkmically. Foushee is a cluker. Laster is a pinwer. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:4
+The work of a prottober is andonging cartroly. Foran is a jogunder. Clinard is a culfaer. Insley is a prottober. The work of a jogunder is consersiving odmeraindly. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:5
+The work of a prottober is andonging cartroly. Thornley is a camsciater. Meares is a prottober. The work of an onner is axtactifying sethourdorly. The work of a camsciater is momdresining namisly. Stracener is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:6
+Finney is a cluker. The work of a pinwer is juthjodding voarly. The work of a culfaer is gholicoring intairly. Judkins is a culfaer. Guillen is a pinwer. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:7
+Catron is a byeeper. The work of a tolter is glidetting cobaly. The work of a patalcer is heuting riuly. Golston is a patalcer. The work of a byeeper is galmaunting induancingly. Tompkins is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:8
+The work of a fangher is sparluing gobewly. Jung is a fangher. The work of a dymer is barraking amolly. The work of a tolter is glidetting cobaly. Gilroy is a tolter. Landers is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:9
+The work of a camsciater is momdresining namisly. The work of an oducer is dunounding sacanothely. Noguera is an oducer. The work of a cluker is sombling enrinkmically. Bump is a cluker. Shover is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:10
+Castelo is a camsciater. The work of a camsciater is momdresining namisly. The work of an exsowiver is bonsing caply. Guill is an exsowiver. The work of a tolter is glidetting cobaly. Gros is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:11
+Poitras is a cluker. The work of a cluker is sombling enrinkmically. Mitzel is a prottober. The work of a prottober is andonging cartroly. The work of a culfaer is gholicoring intairly. Brandes is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:12
+The work of a jogunder is consersiving odmeraindly. Robie is a peeptoer. Grandy is a cluker. The work of a cluker is sombling enrinkmically. The work of a peeptoer is mepuing cevely. Pahl is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:13
+Rauh is a dymer. The work of a camsciater is momdresining namisly. The work of a dymer is barraking amolly. Keebler is a pinwer. Mcdougal is a camsciater. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:14
+Herb is a poyefer. The work of a pinwer is juthjodding voarly. Lucke is a pinwer. The work of a poyefer is backminguing tourderly. Milazzo is a prottober. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:15
+The work of a camsciater is momdresining namisly. Laduke is a camsciater. The work of a dymer is barraking amolly. Rickman is a dymer. The work of a poyefer is backminguing tourderly. Dubon is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:16
+Bernal is a pinwer. Way is a seaizer. Castrejon is a jogunder. The work of a pinwer is juthjodding voarly. The work of a jogunder is consersiving odmeraindly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:17
+The work of a seaizer is tractering quitprilly. The work of a pinwer is juthjodding voarly. Arreaga is a wenbumber. Pantoja is a seaizer. Mcvicker is a pinwer. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:18
+Sensabaugh is a fangher. Heineman is a byeeper. Twombly is a camsciater. The work of a byeeper is galmaunting induancingly. The work of a fangher is sparluing gobewly. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:19
+Zobel is an oducer. The work of a culfaer is gholicoring intairly. Depaul is a poyefer. Decicco is a culfaer. The work of a poyefer is backminguing tourderly. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:20
+The work of a mirituer is ehemting smorbtly. The work of a tolter is glidetting cobaly. The work of an exsowiver is bonsing caply. Rozelle is an exsowiver. Weigle is a tolter. Sainz is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:21
+Borgen is an exsowiver. The work of a dymer is barraking amolly. The work of a pinwer is juthjodding voarly. The work of an exsowiver is bonsing caply. Freed is a dymer. Albarran is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:22
+The work of a poyefer is backminguing tourderly. Arbaugh is a poyefer. The work of a seaizer is tractering quitprilly. The work of an oducer is dunounding sacanothely. Zych is a seaizer. Rivet is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:23
+The work of a prottober is andonging cartroly. The work of a wenbumber is sadliging hezly. Co is a prottober. Mcmaster is a byeeper. The work of a byeeper is galmaunting induancingly. Clift is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:24
+The work of a mirituer is ehemting smorbtly. The work of a peeptoer is mepuing cevely. Soler is a peeptoer. Burrage is a mirituer. The work of an exsowiver is bonsing caply. Goodwin is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:25
+Hough is a fangher. Stickley is a poyefer. Laforge is an exsowiver. The work of a poyefer is backminguing tourderly. The work of an exsowiver is bonsing caply. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:26
+The work of a jogunder is consersiving odmeraindly. The work of a pinwer is juthjodding voarly. Schoon is a pinwer. Maughan is a seaizer. Hanneman is a jogunder. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:27
+Flory is an onner. Butz is a camsciater. The work of a byeeper is galmaunting induancingly. The work of a camsciater is momdresining namisly. The work of an onner is axtactifying sethourdorly. Akridge is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:28
+Penix is a seaizer. The work of a seaizer is tractering quitprilly. The work of a jogunder is consersiving odmeraindly. The work of a tolter is glidetting cobaly. Makowski is a jogunder. Spahn is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:29
+The work of a mirituer is ehemting smorbtly. Mundell is a dymer. The work of a dymer is barraking amolly. Hutcherson is a culfaer. Ulibarri is a mirituer. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:30
+The work of a wenbumber is sadliging hezly. The work of a patalcer is heuting riuly. Golding is a prottober. The work of a prottober is andonging cartroly. Heise is a patalcer. Kinchen is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:31
+The work of a tolter is glidetting cobaly. The work of a byeeper is galmaunting induancingly. The work of an oducer is dunounding sacanothely. Brimmer is a byeeper. Broadway is a tolter. Pair is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:32
+The work of an exsowiver is bonsing caply. Rosales is an onner. The work of an onner is axtactifying sethourdorly. The work of a prottober is andonging cartroly. Wagler is a prottober. Kreitzer is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:33
+The work of a wenbumber is sadliging hezly. Schoenherr is a mirituer. Swain is a camsciater. Rother is a wenbumber. The work of a camsciater is momdresining namisly. The work of a mirituer is ehemting smorbtly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:34
+Carothers is a patalcer. Behrendt is a camsciater. The work of a seaizer is tractering quitprilly. The work of a patalcer is heuting riuly. Neece is a seaizer. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:35
+The work of a dymer is barraking amolly. The work of a patalcer is heuting riuly. The work of an oducer is dunounding sacanothely. Diep is an oducer. Lesperance is a dymer. Matsumoto is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:36
+Burnette is an exsowiver. Dahm is a cluker. The work of a cluker is sombling enrinkmically. The work of a byeeper is galmaunting induancingly. Maas is a byeeper. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:37
+Brummitt is a patalcer. The work of a patalcer is heuting riuly. Purifoy is a contaker. Sommerfeld is a prottober. The work of a contaker is acmastatting rigeorly. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:38
+Peets is a jogunder. The work of a tolter is glidetting cobaly. The work of a cluker is sombling enrinkmically. The work of a jogunder is consersiving odmeraindly. Linthicum is a tolter. Petrovic is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:39
+The work of a prottober is andonging cartroly. Mccown is a prottober. The work of an oducer is dunounding sacanothely. The work of a fangher is sparluing gobewly. Bean is an oducer. Tiedemann is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:40
+Whitehill is a wenbumber. Sheedy is a byeeper. The work of a mirituer is ehemting smorbtly. Byrom is a mirituer. The work of a byeeper is galmaunting induancingly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:41
+The work of a seaizer is tractering quitprilly. The work of a poyefer is backminguing tourderly. Patillo is a culfaer. The work of a culfaer is gholicoring intairly. Holston is a poyefer. Campisi is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:42
+The work of a tolter is glidetting cobaly. Toler is a tolter. Jaggers is a seaizer. Braman is a pinwer. The work of a pinwer is juthjodding voarly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:43
+Newswanger is a contaker. Rowe is a fangher. Smolen is a tolter. The work of a contaker is acmastatting rigeorly. The work of a fangher is sparluing gobewly. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:44
+Dubbs is a prottober. The work of an oducer is dunounding sacanothely. The work of a contaker is acmastatting rigeorly. Howell is an oducer. Nichols is a contaker. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:45
+Mauk is a jogunder. The work of a poyefer is backminguing tourderly. Dunlop is a prottober. Janicki is a poyefer. The work of a prottober is andonging cartroly. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:46
+The work of a pinwer is juthjodding voarly. Carreon is a pinwer. The work of a mirituer is ehemting smorbtly. Stogsdill is a prottober. The work of a prottober is andonging cartroly. Fowles is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:47
+Hileman is an oducer. Quesada is an onner. The work of a poyefer is backminguing tourderly. The work of an onner is axtactifying sethourdorly. Hine is a poyefer. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:48
+Deberry is a dymer. The work of a dymer is barraking amolly. The work of an onner is axtactifying sethourdorly. Foushee is an onner. Bevis is a byeeper. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:49
+The work of a peeptoer is mepuing cevely. The work of a jogunder is consersiving odmeraindly. Iannone is a peeptoer. The work of a camsciater is momdresining namisly. Millsap is a camsciater. Vanek is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:50
+The work of a prottober is andonging cartroly. Junge is a prottober. The work of a seaizer is tractering quitprilly. The work of a poyefer is backminguing tourderly. Callihan is a poyefer. Saliba is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:51
+Resendes is a cluker. Carnahan is a prottober. The work of a prottober is andonging cartroly. The work of an onner is axtactifying sethourdorly. Stanfield is an onner. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:52
+Crompton is a byeeper. The work of a fangher is sparluing gobewly. The work of a byeeper is galmaunting induancingly. The work of a tolter is glidetting cobaly. Mayo is a tolter. Ferman is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:53
+The work of a fangher is sparluing gobewly. The work of an exsowiver is bonsing caply. Keagle is an exsowiver. The work of a mirituer is ehemting smorbtly. Noffsinger is a fangher. Metheny is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:54
+The work of a wenbumber is sadliging hezly. Strayhorn is a byeeper. The work of a jogunder is consersiving odmeraindly. Vinyard is a wenbumber. Maravilla is a jogunder. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:55
+Whitted is an onner. The work of a patalcer is heuting riuly. The work of a byeeper is galmaunting induancingly. Mull is a patalcer. Orzechowski is a byeeper. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:56
+The work of a cluker is sombling enrinkmically. Bash is a patalcer. Yelverton is a cluker. The work of a patalcer is heuting riuly. The work of a jogunder is consersiving odmeraindly. Randles is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:57
+The work of a culfaer is gholicoring intairly. Reichert is a peeptoer. The work of a tolter is glidetting cobaly. The work of a peeptoer is mepuing cevely. Strohm is a tolter. Lindell is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:58
+The work of a tolter is glidetting cobaly. The work of an exsowiver is bonsing caply. The work of a contaker is acmastatting rigeorly. Spagnola is an exsowiver. Quam is a tolter. Kittleson is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:59
+The work of a dymer is barraking amolly. The work of a poyefer is backminguing tourderly. The work of a wenbumber is sadliging hezly. Speaks is a wenbumber. Barahona is a poyefer. Klingensmith is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:60
+Faherty is a patalcer. The work of a byeeper is galmaunting induancingly. Dufault is a byeeper. Burchett is a peeptoer. The work of a peeptoer is mepuing cevely. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:61
+The work of a dymer is barraking amolly. Akin is a peeptoer. The work of a poyefer is backminguing tourderly. The work of a peeptoer is mepuing cevely. Towler is a dymer. Comiskey is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:62
+Guyette is an onner. Pilgrim is a culfaer. Villalpando is a pinwer. The work of a culfaer is gholicoring intairly. The work of an onner is axtactifying sethourdorly. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:63
+Schell is a byeeper. The work of a patalcer is heuting riuly. Pajak is a patalcer. Thibodaux is a cluker. The work of a byeeper is galmaunting induancingly. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:64
+Ham is a fangher. The work of a byeeper is galmaunting induancingly. Schulz is a dymer. The work of a dymer is barraking amolly. The work of a fangher is sparluing gobewly. Dunlop is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:65
+Dewald is a seaizer. Shands is a poyefer. The work of a seaizer is tractering quitprilly. The work of a peeptoer is mepuing cevely. The work of a poyefer is backminguing tourderly. Childress is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:66
+The work of a seaizer is tractering quitprilly. The work of a mirituer is ehemting smorbtly. Steward is a peeptoer. Tassin is a mirituer. Hammett is a seaizer. The work of a peeptoer is mepuing cevely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:67
+The work of a seaizer is tractering quitprilly. Wilhoit is a seaizer. Trego is a peeptoer. The work of a contaker is acmastatting rigeorly. Kaufmann is a contaker. The work of a peeptoer is mepuing cevely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:68
+The work of a pinwer is juthjodding voarly. Higham is a camsciater. Hodson is a tolter. The work of a tolter is glidetting cobaly. Almeda is a pinwer. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:69
+The work of a byeeper is galmaunting induancingly. Formica is a byeeper. The work of a wenbumber is sadliging hezly. Youngberg is a dymer. Luman is a wenbumber. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:70
+Rall is an oducer. The work of a camsciater is momdresining namisly. The work of an oducer is dunounding sacanothely. Kin is a camsciater. The work of a contaker is acmastatting rigeorly. Courson is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:71
+The work of a contaker is acmastatting rigeorly. Fannin is a byeeper. The work of a byeeper is galmaunting induancingly. The work of a poyefer is backminguing tourderly. Depaul is a contaker. Almaguer is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:72
+The work of a camsciater is momdresining namisly. Mccrary is a camsciater. The work of a poyefer is backminguing tourderly. The work of a patalcer is heuting riuly. Carvalho is a patalcer. Magee is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:73
+The work of a patalcer is heuting riuly. Fike is a patalcer. Erazo is a peeptoer. The work of a pinwer is juthjodding voarly. Minton is a pinwer. The work of a peeptoer is mepuing cevely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:74
+Towles is a camsciater. The work of a camsciater is momdresining namisly. Hertz is a pinwer. The work of an oducer is dunounding sacanothely. The work of a pinwer is juthjodding voarly. Norden is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:75
+The work of an exsowiver is bonsing caply. The work of a patalcer is heuting riuly. Poulson is a patalcer. Bronstein is an oducer. The work of an oducer is dunounding sacanothely. Aberle is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:76
+Swarey is a prottober. Siders is a culfaer. Schleicher is a seaizer. The work of a prottober is andonging cartroly. The work of a culfaer is gholicoring intairly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:77
+The work of a poyefer is backminguing tourderly. The work of a culfaer is gholicoring intairly. Carico is a culfaer. Wetzel is a patalcer. The work of a patalcer is heuting riuly. Rancourt is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:78
+Karras is a mirituer. The work of a mirituer is ehemting smorbtly. The work of a seaizer is tractering quitprilly. Stampley is a fangher. The work of a fangher is sparluing gobewly. Pascucci is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:79
+The work of a jogunder is consersiving odmeraindly. Shumpert is a prottober. The work of a prottober is andonging cartroly. The work of an onner is axtactifying sethourdorly. Perlmutter is a jogunder. Solorzano is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:80
+The work of a contaker is acmastatting rigeorly. Gros is a pinwer. Rathbone is a contaker. The work of a peeptoer is mepuing cevely. The work of a pinwer is juthjodding voarly. Ogorman is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:81
+The work of a camsciater is momdresining namisly. Tallent is a fangher. The work of a fangher is sparluing gobewly. Scheuerman is a culfaer. The work of a culfaer is gholicoring intairly. Haught is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:82
+The work of a cluker is sombling enrinkmically. The work of a contaker is acmastatting rigeorly. Assad is a cluker. Scanlon is a contaker. The work of a seaizer is tractering quitprilly. Gouveia is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:83
+Labbe is a pinwer. The work of a peeptoer is mepuing cevely. The work of a pinwer is juthjodding voarly. Watterson is a peeptoer. Blakeslee is an exsowiver. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:84
+Steinkamp is an oducer. Llanos is a cluker. The work of a cluker is sombling enrinkmically. Sao is a wenbumber. The work of an oducer is dunounding sacanothely. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:85
+The work of a patalcer is heuting riuly. The work of an oducer is dunounding sacanothely. The work of a poyefer is backminguing tourderly. Hammes is a patalcer. Fujimoto is an oducer. Hix is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:86
+The work of a tolter is glidetting cobaly. Palmore is a tolter. The work of a mirituer is ehemting smorbtly. Klepper is a mirituer. The work of a contaker is acmastatting rigeorly. Naples is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:87
+Locklin is a seaizer. The work of a patalcer is heuting riuly. The work of a peeptoer is mepuing cevely. Clevenger is a peeptoer. The work of a seaizer is tractering quitprilly. Hovey is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:88
+Gambill is a peeptoer. The work of a mirituer is ehemting smorbtly. The work of a peeptoer is mepuing cevely. The work of a camsciater is momdresining namisly. Spitzer is a camsciater. Bloom is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:89
+Savoy is a byeeper. Furman is an onner. Betancur is a poyefer. The work of a poyefer is backminguing tourderly. The work of an onner is axtactifying sethourdorly. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:90
+The work of a wenbumber is sadliging hezly. The work of a prottober is andonging cartroly. Pine is a culfaer. Bencomo is a wenbumber. The work of a culfaer is gholicoring intairly. Puga is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:91
+Stedman is a fangher. Snider is an onner. The work of an onner is axtactifying sethourdorly. The work of a fangher is sparluing gobewly. The work of a pinwer is juthjodding voarly. Saari is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:92
+The work of a cluker is sombling enrinkmically. The work of a jogunder is consersiving odmeraindly. Hennig is a cluker. Chunn is a jogunder. The work of a peeptoer is mepuing cevely. Daves is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:93
+The work of a wenbumber is sadliging hezly. Richert is a wenbumber. The work of a byeeper is galmaunting induancingly. The work of a pinwer is juthjodding voarly. Gow is a byeeper. Adamczyk is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:94
+The work of a peeptoer is mepuing cevely. Mensch is an exsowiver. Spates is a peeptoer. The work of a dymer is barraking amolly. The work of an exsowiver is bonsing caply. Dirksen is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:95
+The work of a byeeper is galmaunting induancingly. Lisenby is a byeeper. Choice is a poyefer. The work of a pinwer is juthjodding voarly. The work of a poyefer is backminguing tourderly. Ogata is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:96
+Sink is a contaker. The work of a camsciater is momdresining namisly. Mercier is a fangher. The work of a contaker is acmastatting rigeorly. The work of a fangher is sparluing gobewly. Stripling is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:97
+Fix is an onner. The work of a wenbumber is sadliging hezly. Najar is a pinwer. The work of an onner is axtactifying sethourdorly. The work of a pinwer is juthjodding voarly. Tat is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:98
+Tinker is a dymer. Perrine is a pinwer. The work of a dymer is barraking amolly. The work of a pinwer is juthjodding voarly. The work of a seaizer is tractering quitprilly. Recio is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:99
+Kensinger is a jogunder. The work of a mirituer is ehemting smorbtly. The work of a jogunder is consersiving odmeraindly. Mccrary is a mirituer. The work of a culfaer is gholicoring intairly. Legrand is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:100
+The work of a cluker is sombling enrinkmically. The work of a contaker is acmastatting rigeorly. The work of a peeptoer is mepuing cevely. Hintz is a peeptoer. Gochenour is a contaker. Cazares is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:101
+Patron is a tolter. Grinder is a pinwer. The work of a tolter is glidetting cobaly. Somerville is a culfaer. The work of a pinwer is juthjodding voarly. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:102
+Peak is a poyefer. The work of a poyefer is backminguing tourderly. Shupp is an onner. The work of an onner is axtactifying sethourdorly. Higbee is a cluker. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:103
+The work of a dymer is barraking amolly. Sikes is a contaker. The work of a tolter is glidetting cobaly. Digiovanni is a dymer. Tooker is a tolter. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:104
+Emig is a dymer. The work of a cluker is sombling enrinkmically. The work of a jogunder is consersiving odmeraindly. Kees is a cluker. Whiteford is a jogunder. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:105
+Rickman is a seaizer. The work of a mirituer is ehemting smorbtly. The work of a camsciater is momdresining namisly. Johnstone is a camsciater. The work of a seaizer is tractering quitprilly. Dileo is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:106
+Fisk is a poyefer. Minnich is an exsowiver. The work of an exsowiver is bonsing caply. The work of a poyefer is backminguing tourderly. The work of a fangher is sparluing gobewly. Ceniceros is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:107
+The work of a wenbumber is sadliging hezly. The work of an onner is axtactifying sethourdorly. Mozingo is a contaker. Leos is a wenbumber. Farney is an onner. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:108
+The work of a culfaer is gholicoring intairly. The work of an oducer is dunounding sacanothely. Auger is an oducer. Wilhoit is a culfaer. Ramseur is a jogunder. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:109
+Roundy is a camsciater. Gier is a byeeper. The work of an oducer is dunounding sacanothely. The work of a camsciater is momdresining namisly. Perlman is an oducer. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:110
+Sprenger is an onner. Fluellen is a seaizer. The work of an onner is axtactifying sethourdorly. Oceguera is a jogunder. The work of a jogunder is consersiving odmeraindly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:111
+Hughley is a dymer. The work of a mirituer is ehemting smorbtly. The work of a prottober is andonging cartroly. Seawright is a prottober. The work of a dymer is barraking amolly. Spafford is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:112
+Denniston is an exsowiver. Patron is a byeeper. The work of an exsowiver is bonsing caply. Dittman is a wenbumber. The work of a byeeper is galmaunting induancingly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:113
+Auerbach is a fangher. Boren is a contaker. Krol is a tolter. The work of a fangher is sparluing gobewly. The work of a tolter is glidetting cobaly. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:114
+Haymon is a culfaer. The work of a cluker is sombling enrinkmically. Purpura is a cluker. The work of a prottober is andonging cartroly. Simeone is a prottober. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:115
+Bigelow is a tolter. Roane is a contaker. The work of an exsowiver is bonsing caply. The work of a contaker is acmastatting rigeorly. The work of a tolter is glidetting cobaly. Mcpeek is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:116
+The work of a seaizer is tractering quitprilly. The work of a byeeper is galmaunting induancingly. The work of a poyefer is backminguing tourderly. Murley is a byeeper. Holmquist is a seaizer. Tubbs is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:117
+Souther is a jogunder. Housman is a pinwer. Redwine is a peeptoer. The work of a jogunder is consersiving odmeraindly. The work of a peeptoer is mepuing cevely. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:118
+Gerrish is a contaker. Gilreath is a pinwer. The work of a pinwer is juthjodding voarly. The work of a contaker is acmastatting rigeorly. Venditti is a fangher. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:119
+Rudder is a culfaer. The work of a pinwer is juthjodding voarly. The work of a peeptoer is mepuing cevely. Tickle is a pinwer. The work of a culfaer is gholicoring intairly. Worley is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:120
+The work of a contaker is acmastatting rigeorly. Hiller is a jogunder. The work of a fangher is sparluing gobewly. Plum is a contaker. Gallant is a fangher. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:121
+The work of a poyefer is backminguing tourderly. Turano is a mirituer. Quintal is a poyefer. The work of a pinwer is juthjodding voarly. The work of a mirituer is ehemting smorbtly. Cahill is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:122
+The work of a poyefer is backminguing tourderly. The work of a culfaer is gholicoring intairly. Corchado is a contaker. The work of a contaker is acmastatting rigeorly. Barcus is a poyefer. Vila is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:123
+The work of a camsciater is momdresining namisly. Beggs is a camsciater. The work of a prottober is andonging cartroly. The work of a poyefer is backminguing tourderly. Haack is a prottober. Killinger is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:124
+Vangorder is a culfaer. Seiden is an onner. Fulcher is a cluker. The work of a culfaer is gholicoring intairly. The work of a cluker is sombling enrinkmically. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:125
+The work of a peeptoer is mepuing cevely. Hyppolite is a poyefer. The work of a poyefer is backminguing tourderly. The work of a cluker is sombling enrinkmically. Bingham is a peeptoer. Michaelis is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:126
+The work of a fangher is sparluing gobewly. The work of a culfaer is gholicoring intairly. The work of a mirituer is ehemting smorbtly. Domenech is a culfaer. Lavoie is a mirituer. Mccallister is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:127
+The work of a pinwer is juthjodding voarly. The work of a contaker is acmastatting rigeorly. Eastland is a pinwer. The work of a wenbumber is sadliging hezly. Diop is a contaker. Dewees is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:128
+Brummitt is a pinwer. The work of a camsciater is momdresining namisly. The work of an exsowiver is bonsing caply. The work of a pinwer is juthjodding voarly. Guyer is an exsowiver. Popov is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:129
+The work of a pinwer is juthjodding voarly. Fitzgibbons is a fangher. The work of a fangher is sparluing gobewly. Luoma is a pinwer. Bhattacharya is a camsciater. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:130
+Dobbs is a poyefer. Wahl is a mirituer. The work of a camsciater is momdresining namisly. Arellanes is a camsciater. The work of a poyefer is backminguing tourderly. The work of a mirituer is ehemting smorbtly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:131
+The work of a peeptoer is mepuing cevely. Curto is a tolter. Ebling is a cluker. The work of a tolter is glidetting cobaly. The work of a cluker is sombling enrinkmically. Granberry is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:132
+The work of a jogunder is consersiving odmeraindly. Colligan is a cluker. The work of an onner is axtactifying sethourdorly. Hershey is an onner. The work of a cluker is sombling enrinkmically. Slick is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:133
+The work of a tolter is glidetting cobaly. Cool is a camsciater. Marciniak is a peeptoer. Weirich is a tolter. The work of a peeptoer is mepuing cevely. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:134
+The work of a byeeper is galmaunting induancingly. The work of a poyefer is backminguing tourderly. The work of a patalcer is heuting riuly. Kirksey is a patalcer. Herren is a byeeper. Halcomb is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:135
+Kuchta is a byeeper. Sobolewski is a mirituer. Neubert is a patalcer. The work of a byeeper is galmaunting induancingly. The work of a patalcer is heuting riuly. The work of a mirituer is ehemting smorbtly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:136
+The work of a camsciater is momdresining namisly. Epperly is a camsciater. Weigel is a wenbumber. The work of a pinwer is juthjodding voarly. Guess is a pinwer. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:137
+The work of a seaizer is tractering quitprilly. Godbout is a jogunder. The work of a jogunder is consersiving odmeraindly. Thoms is a seaizer. The work of an onner is axtactifying sethourdorly. Shands is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:138
+Pringle is an onner. The work of a mirituer is ehemting smorbtly. Crocker is a mirituer. The work of a tolter is glidetting cobaly. The work of an onner is axtactifying sethourdorly. Shin is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:139
+The work of a byeeper is galmaunting induancingly. The work of a pinwer is juthjodding voarly. Hauptman is a pinwer. The work of a wenbumber is sadliging hezly. Yunker is a byeeper. Osuna is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:140
+The work of a cluker is sombling enrinkmically. Merkel is a cluker. Olvera is a byeeper. The work of a byeeper is galmaunting induancingly. Tippett is an exsowiver. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:141
+The work of a patalcer is heuting riuly. Roh is an exsowiver. Clyne is a patalcer. The work of an exsowiver is bonsing caply. The work of an onner is axtactifying sethourdorly. Pangilinan is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:142
+The work of a poyefer is backminguing tourderly. The work of an onner is axtactifying sethourdorly. The work of an oducer is dunounding sacanothely. Crouse is an oducer. Sproles is a poyefer. Eich is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:143
+The work of a contaker is acmastatting rigeorly. The work of a wenbumber is sadliging hezly. Meraz is a jogunder. Saavedra is a wenbumber. The work of a jogunder is consersiving odmeraindly. Large is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:144
+Gilbertson is a byeeper. The work of a peeptoer is mepuing cevely. The work of a camsciater is momdresining namisly. The work of a byeeper is galmaunting induancingly. Sung is a peeptoer. Utz is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:145
+Stroh is a seaizer. Dull is a culfaer. The work of a seaizer is tractering quitprilly. Roundy is a wenbumber. The work of a culfaer is gholicoring intairly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:146
+Plemmons is a fangher. The work of an oducer is dunounding sacanothely. Parlier is a pinwer. Dykes is an oducer. The work of a pinwer is juthjodding voarly. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:147
+The work of a pinwer is juthjodding voarly. The work of a patalcer is heuting riuly. Pecina is a patalcer. Fite is a pinwer. Swinehart is a dymer. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:148
+The work of a prottober is andonging cartroly. The work of a tolter is glidetting cobaly. The work of a jogunder is consersiving odmeraindly. Kriner is a jogunder. Garduno is a tolter. Foss is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:149
+The work of a poyefer is backminguing tourderly. The work of a fangher is sparluing gobewly. Klock is a poyefer. Paiva is a fangher. The work of a peeptoer is mepuing cevely. Borton is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:150
+The work of a patalcer is heuting riuly. Cosper is a patalcer. Clermont is a contaker. Scarberry is a wenbumber. The work of a contaker is acmastatting rigeorly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:151
+Willits is a jogunder. The work of a byeeper is galmaunting induancingly. The work of a mirituer is ehemting smorbtly. Rasnick is a byeeper. Mell is a mirituer. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:152
+Kingsbury is an exsowiver. The work of a patalcer is heuting riuly. The work of an oducer is dunounding sacanothely. The work of an exsowiver is bonsing caply. Jury is a patalcer. Zabel is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:153
+The work of a poyefer is backminguing tourderly. The work of an exsowiver is bonsing caply. Strode is a poyefer. The work of a tolter is glidetting cobaly. Ramesh is a tolter. Rozell is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:154
+The work of a wenbumber is sadliging hezly. Ranallo is a byeeper. Nilles is a seaizer. Montanez is a wenbumber. The work of a byeeper is galmaunting induancingly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:155
+The work of a jogunder is consersiving odmeraindly. Perreault is a camsciater. Veale is a jogunder. The work of a camsciater is momdresining namisly. Macauley is an onner. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:156
+Pauling is a byeeper. The work of an exsowiver is bonsing caply. The work of a peeptoer is mepuing cevely. Hunte is an exsowiver. Kilbourne is a peeptoer. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:157
+The work of a culfaer is gholicoring intairly. Hillery is a byeeper. The work of a byeeper is galmaunting induancingly. Leos is a culfaer. Barcenas is an oducer. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:158
+The work of a cluker is sombling enrinkmically. The work of a patalcer is heuting riuly. The work of a jogunder is consersiving odmeraindly. Harmer is a cluker. Bevilacqua is a jogunder. Spangler is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:159
+Crouse is a peeptoer. The work of an exsowiver is bonsing caply. Chand is an exsowiver. Balmer is a contaker. The work of a peeptoer is mepuing cevely. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:160
+The work of a patalcer is heuting riuly. The work of a contaker is acmastatting rigeorly. Sadowski is a patalcer. Bickerstaff is a contaker. The work of a peeptoer is mepuing cevely. Beltz is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:161
+The work of a dymer is barraking amolly. The work of a camsciater is momdresining namisly. Haffner is a dymer. Espinola is a byeeper. Upshaw is a camsciater. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:162
+Espinoza is an exsowiver. The work of an exsowiver is bonsing caply. Suresh is a cluker. The work of a patalcer is heuting riuly. Gayer is a patalcer. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:163
+The work of an exsowiver is bonsing caply. The work of a cluker is sombling enrinkmically. The work of a contaker is acmastatting rigeorly. Dail is a cluker. Serio is a contaker. Archila is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:164
+Carranza is a jogunder. Norton is a pinwer. Horstman is a wenbumber. The work of a jogunder is consersiving odmeraindly. The work of a wenbumber is sadliging hezly. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:165
+Villalba is a patalcer. The work of a poyefer is backminguing tourderly. Babb is a fangher. The work of a patalcer is heuting riuly. Tonn is a poyefer. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:166
+Dufrene is a fangher. The work of a cluker is sombling enrinkmically. The work of a fangher is sparluing gobewly. The work of an onner is axtactifying sethourdorly. Searles is a cluker. Kramp is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:167
+Oppenheim is a camsciater. The work of a culfaer is gholicoring intairly. Jemison is a culfaer. The work of an oducer is dunounding sacanothely. The work of a camsciater is momdresining namisly. Heilig is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:168
+The work of a tolter is glidetting cobaly. The work of a seaizer is tractering quitprilly. The work of a culfaer is gholicoring intairly. Eilers is a culfaer. Musial is a seaizer. Quam is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:169
+Wendler is a poyefer. The work of a poyefer is backminguing tourderly. The work of a peeptoer is mepuing cevely. The work of a pinwer is juthjodding voarly. Pinnock is a pinwer. Loew is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:170
+The work of an exsowiver is bonsing caply. The work of a contaker is acmastatting rigeorly. The work of a byeeper is galmaunting induancingly. Quigley is a contaker. Renfro is a byeeper. Bender is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:171
+The work of an onner is axtactifying sethourdorly. Fannin is an onner. The work of a peeptoer is mepuing cevely. Recio is a peeptoer. The work of a camsciater is momdresining namisly. Silvernail is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:172
+The work of a seaizer is tractering quitprilly. Wachtel is a dymer. Blades is a seaizer. Garr is a fangher. The work of a fangher is sparluing gobewly. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:173
+The work of a wenbumber is sadliging hezly. Gaudio is a wenbumber. Foshee is a byeeper. French is a culfaer. The work of a culfaer is gholicoring intairly. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:174
+The work of a peeptoer is mepuing cevely. Shorty is a peeptoer. The work of a camsciater is momdresining namisly. The work of a pinwer is juthjodding voarly. Butz is a pinwer. Couch is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:175
+Townsley is a tolter. The work of a peeptoer is mepuing cevely. The work of a tolter is glidetting cobaly. Beauchemin is a peeptoer. The work of a poyefer is backminguing tourderly. Gong is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:176
+The work of an exsowiver is bonsing caply. Legrand is an exsowiver. Spurling is a fangher. The work of a fangher is sparluing gobewly. Mathurin is a jogunder. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:177
+The work of a patalcer is heuting riuly. The work of a jogunder is consersiving odmeraindly. Tiller is a jogunder. The work of a tolter is glidetting cobaly. Jorgensen is a patalcer. Tubbs is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:178
+Sandidge is an exsowiver. Ackerman is a prottober. Husband is a cluker. The work of a prottober is andonging cartroly. The work of a cluker is sombling enrinkmically. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:179
+Crumpler is an exsowiver. Lowden is a wenbumber. Bogue is a prottober. The work of an exsowiver is bonsing caply. The work of a prottober is andonging cartroly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:180
+The work of a dymer is barraking amolly. Croker is an onner. The work of a poyefer is backminguing tourderly. The work of an onner is axtactifying sethourdorly. Pry is a dymer. Schroth is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:181
+The work of a peeptoer is mepuing cevely. The work of a prottober is andonging cartroly. Berkman is a peeptoer. Milone is an onner. The work of an onner is axtactifying sethourdorly. Peek is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:182
+The work of a mirituer is ehemting smorbtly. The work of a patalcer is heuting riuly. Dubay is a mirituer. Spivak is a poyefer. The work of a poyefer is backminguing tourderly. Derrickson is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:183
+The work of a wenbumber is sadliging hezly. Bateman is a wenbumber. The work of a tolter is glidetting cobaly. Goodwin is a prottober. Zapata is a tolter. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:184
+Shew is an onner. Bone is a seaizer. The work of a patalcer is heuting riuly. The work of an onner is axtactifying sethourdorly. Stagner is a patalcer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:185
+The work of a camsciater is momdresining namisly. Raynor is a camsciater. The work of an exsowiver is bonsing caply. The work of a peeptoer is mepuing cevely. Greenleaf is an exsowiver. Bellis is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:186
+The work of a patalcer is heuting riuly. The work of an oducer is dunounding sacanothely. The work of a dymer is barraking amolly. Casarez is a patalcer. Turley is an oducer. Pence is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:187
+The work of a camsciater is momdresining namisly. Orcutt is a camsciater. Madrid is an exsowiver. The work of an oducer is dunounding sacanothely. Crager is an oducer. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:188
+Michalik is a peeptoer. Roselli is a seaizer. The work of an oducer is dunounding sacanothely. The work of a seaizer is tractering quitprilly. The work of a peeptoer is mepuing cevely. Graddy is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:189
+Migliaccio is a seaizer. Degroot is a tolter. The work of a dymer is barraking amolly. Deitch is a dymer. The work of a tolter is glidetting cobaly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:190
+The work of a mirituer is ehemting smorbtly. Edmunds is an oducer. Plotkin is a mirituer. Bick is a peeptoer. The work of a peeptoer is mepuing cevely. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:191
+The work of a contaker is acmastatting rigeorly. Tuthill is a peeptoer. The work of a tolter is glidetting cobaly. Gerdes is a tolter. The work of a peeptoer is mepuing cevely. Menon is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:192
+The work of a mirituer is ehemting smorbtly. Samaniego is a culfaer. Boykins is a patalcer. The work of a patalcer is heuting riuly. The work of a culfaer is gholicoring intairly. Brendle is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:193
+The work of a contaker is acmastatting rigeorly. The work of a prottober is andonging cartroly. Mintz is a contaker. Misra is a pinwer. The work of a pinwer is juthjodding voarly. Macgregor is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:194
+Arjona is an exsowiver. The work of a wenbumber is sadliging hezly. The work of an exsowiver is bonsing caply. The work of a contaker is acmastatting rigeorly. Lutz is a contaker. Seim is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:195
+The work of a camsciater is momdresining namisly. Eno is a fangher. Voris is a camsciater. The work of a fangher is sparluing gobewly. The work of a pinwer is juthjodding voarly. Brightwell is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:196
+The work of a peeptoer is mepuing cevely. Coots is a peeptoer. The work of a byeeper is galmaunting induancingly. Casagrande is a byeeper. Waite is a patalcer. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:197
+The work of a byeeper is galmaunting induancingly. Tatman is a poyefer. The work of a poyefer is backminguing tourderly. The work of an oducer is dunounding sacanothely. Rehm is a byeeper. Kehoe is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:198
+The work of a pinwer is juthjodding voarly. Mckeever is a fangher. Serino is a pinwer. The work of a fangher is sparluing gobewly. Xu is a contaker. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:199
+Bussell is a cluker. The work of a tolter is glidetting cobaly. The work of a cluker is sombling enrinkmically. Straight is a tolter. The work of a pinwer is juthjodding voarly. Tercero is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:200
+The work of a contaker is acmastatting rigeorly. The work of a wenbumber is sadliging hezly. The work of a dymer is barraking amolly. Strayhorn is a dymer. Pelletier is a contaker. Grubbs is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:201
+Brochu is a peeptoer. The work of a peeptoer is mepuing cevely. Holthaus is a seaizer. The work of an oducer is dunounding sacanothely. The work of a seaizer is tractering quitprilly. Lewellyn is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:202
+The work of an onner is axtactifying sethourdorly. Watford is an onner. Grimm is a tolter. Dennie is a patalcer. The work of a patalcer is heuting riuly. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:203
+Pence is an exsowiver. The work of a mirituer is ehemting smorbtly. The work of a camsciater is momdresining namisly. Stgermain is a camsciater. The work of an exsowiver is bonsing caply. Conforti is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:204
+The work of a cluker is sombling enrinkmically. Perrine is a wenbumber. Howarth is a cluker. The work of a wenbumber is sadliging hezly. The work of a dymer is barraking amolly. Htoo is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:205
+The work of a fangher is sparluing gobewly. Runk is a seaizer. Bushee is a fangher. The work of a seaizer is tractering quitprilly. The work of a dymer is barraking amolly. Dittman is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:206
+Drennen is a fangher. The work of an oducer is dunounding sacanothely. The work of a dymer is barraking amolly. The work of a fangher is sparluing gobewly. Hoke is an oducer. Maness is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:207
+Standifer is a contaker. The work of an exsowiver is bonsing caply. Cantero is an onner. The work of a contaker is acmastatting rigeorly. The work of an onner is axtactifying sethourdorly. Olivas is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:208
+The work of a peeptoer is mepuing cevely. Erlandson is a prottober. The work of a prottober is andonging cartroly. Lines is a contaker. Bentz is a peeptoer. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:209
+The work of a tolter is glidetting cobaly. The work of a seaizer is tractering quitprilly. Mandeville is a tolter. Parrett is a cluker. Klosterman is a seaizer. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:210
+Lillis is a tolter. The work of an exsowiver is bonsing caply. Barahona is an exsowiver. The work of a camsciater is momdresining namisly. The work of a tolter is glidetting cobaly. Nyberg is a camsciater.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:211
+Gosney is a jogunder. The work of a byeeper is galmaunting induancingly. Maravilla is a tolter. The work of a tolter is glidetting cobaly. The work of a jogunder is consersiving odmeraindly. Maul is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:212
+The work of a prottober is andonging cartroly. The work of a wenbumber is sadliging hezly. Moraga is a wenbumber. The work of a byeeper is galmaunting induancingly. Dunning is a byeeper. Marconi is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:213
+Mccallum is an oducer. Tweedy is a cluker. Fray is a wenbumber. The work of a wenbumber is sadliging hezly. The work of a cluker is sombling enrinkmically. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:214
+Isenberg is a jogunder. Lenoir is a camsciater. The work of a camsciater is momdresining namisly. Bernat is a fangher. The work of a fangher is sparluing gobewly. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:215
+Trout is a camsciater. The work of a culfaer is gholicoring intairly. The work of a camsciater is momdresining namisly. Grunewald is a culfaer. The work of a mirituer is ehemting smorbtly. Neiman is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:216
+The work of a fangher is sparluing gobewly. The work of an oducer is dunounding sacanothely. Earley is a mirituer. Mccutchen is a fangher. Cluff is an oducer. The work of a mirituer is ehemting smorbtly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:217
+The work of a tolter is glidetting cobaly. The work of a patalcer is heuting riuly. Prosser is a camsciater. Woodring is a tolter. The work of a camsciater is momdresining namisly. Cabezas is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:218
+Schaefer is a patalcer. The work of a fangher is sparluing gobewly. The work of a contaker is acmastatting rigeorly. The work of a patalcer is heuting riuly. Smalls is a fangher. Warfel is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:219
+Shover is a wenbumber. Towles is a dymer. Deshields is an exsowiver. The work of an exsowiver is bonsing caply. The work of a dymer is barraking amolly. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:220
+The work of a cluker is sombling enrinkmically. Mccain is a dymer. The work of a jogunder is consersiving odmeraindly. The work of a dymer is barraking amolly. Parkhill is a cluker. Brew is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:221
+Hamer is a cluker. The work of a camsciater is momdresining namisly. Caggiano is a camsciater. The work of a prottober is andonging cartroly. Astorga is a prottober. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:222
+The work of a camsciater is momdresining namisly. Beaird is a camsciater. The work of a seaizer is tractering quitprilly. The work of an oducer is dunounding sacanothely. Bush is an oducer. Frasure is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:223
+The work of a byeeper is galmaunting induancingly. Thibodeaux is a byeeper. The work of a pinwer is juthjodding voarly. The work of a peeptoer is mepuing cevely. Hopewell is a peeptoer. Provost is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:224
+The work of a patalcer is heuting riuly. Cantero is a patalcer. The work of a cluker is sombling enrinkmically. The work of a camsciater is momdresining namisly. Lehr is a camsciater. Hofman is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:225
+The work of a cluker is sombling enrinkmically. Matney is a cluker. Thach is a contaker. Flannigan is a culfaer. The work of a contaker is acmastatting rigeorly. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:226
+The work of an oducer is dunounding sacanothely. The work of a poyefer is backminguing tourderly. Birt is a poyefer. Shaeffer is a fangher. The work of a fangher is sparluing gobewly. Sollars is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:227
+Scaife is a wenbumber. Raygoza is a pinwer. The work of a pinwer is juthjodding voarly. The work of a wenbumber is sadliging hezly. Bruening is a contaker. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:228
+Shellenberger is an oducer. The work of a culfaer is gholicoring intairly. The work of an oducer is dunounding sacanothely. Caskey is a seaizer. The work of a seaizer is tractering quitprilly. Zobel is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:229
+The work of a byeeper is galmaunting induancingly. Gough is a patalcer. The work of a peeptoer is mepuing cevely. Beaird is a peeptoer. Gunderson is a byeeper. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:230
+The work of a poyefer is backminguing tourderly. Rickert is an oducer. The work of an oducer is dunounding sacanothely. The work of a patalcer is heuting riuly. Pry is a poyefer. Dickenson is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:231
+The work of a byeeper is galmaunting induancingly. Latino is a fangher. Feinberg is a byeeper. The work of a fangher is sparluing gobewly. Washburn is a wenbumber. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:232
+The work of a contaker is acmastatting rigeorly. Brotherton is an onner. The work of a mirituer is ehemting smorbtly. Swilley is a mirituer. The work of an onner is axtactifying sethourdorly. Mclaughlin is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:233
+Pond is an onner. The work of a tolter is glidetting cobaly. Carrell is a tolter. The work of a cluker is sombling enrinkmically. The work of an onner is axtactifying sethourdorly. Campfield is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:234
+Auerbach is a tolter. Ek is a culfaer. The work of a culfaer is gholicoring intairly. Oyola is a patalcer. The work of a tolter is glidetting cobaly. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:235
+The work of a camsciater is momdresining namisly. Bradburn is a jogunder. Graybeal is a tolter. Heimbach is a camsciater. The work of a jogunder is consersiving odmeraindly. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:236
+The work of an onner is axtactifying sethourdorly. Wyant is a camsciater. The work of a camsciater is momdresining namisly. The work of a mirituer is ehemting smorbtly. Ramage is a mirituer. Barrows is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:237
+The work of a peeptoer is mepuing cevely. The work of a contaker is acmastatting rigeorly. Kohn is a contaker. The work of a patalcer is heuting riuly. Varma is a patalcer. Okada is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:238
+The work of a dymer is barraking amolly. Noll is a culfaer. The work of a peeptoer is mepuing cevely. Pair is a peeptoer. The work of a culfaer is gholicoring intairly. Pestana is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:239
+Croteau is a culfaer. Negri is a mirituer. The work of a culfaer is gholicoring intairly. The work of a mirituer is ehemting smorbtly. Prewett is a tolter. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:240
+The work of a contaker is acmastatting rigeorly. Paschall is a contaker. Mcnees is a cluker. The work of a pinwer is juthjodding voarly. Plasencia is a pinwer. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:241
+Castillon is a camsciater. Aldana is a byeeper. Weyant is an oducer. The work of a byeeper is galmaunting induancingly. The work of a camsciater is momdresining namisly. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:242
+Hendley is a culfaer. The work of a culfaer is gholicoring intairly. Roundy is a fangher. The work of a fangher is sparluing gobewly. Salama is a prottober. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:243
+Kadlec is a camsciater. The work of a tolter is glidetting cobaly. The work of a peeptoer is mepuing cevely. Fenn is a tolter. The work of a camsciater is momdresining namisly. Orosz is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:244
+The work of an onner is axtactifying sethourdorly. Shin is an onner. The work of a culfaer is gholicoring intairly. Saum is a byeeper. Gibbon is a culfaer. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:245
+The work of an exsowiver is bonsing caply. The work of an onner is axtactifying sethourdorly. Aliff is an exsowiver. Kemmerer is an onner. The work of a culfaer is gholicoring intairly. Coppock is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:246
+The work of a wenbumber is sadliging hezly. The work of a mirituer is ehemting smorbtly. The work of a cluker is sombling enrinkmically. Varga is a mirituer. Biron is a cluker. Grubbs is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:247
+The work of a camsciater is momdresining namisly. Conboy is a seaizer. Josephson is a mirituer. The work of a mirituer is ehemting smorbtly. Smail is a camsciater. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:248
+The work of a pinwer is juthjodding voarly. The work of an oducer is dunounding sacanothely. Nadler is a pinwer. The work of a contaker is acmastatting rigeorly. Tisdale is an oducer. Baumbach is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:249
+Papineau is a poyefer. The work of a wenbumber is sadliging hezly. The work of a poyefer is backminguing tourderly. The work of a byeeper is galmaunting induancingly. Minks is a wenbumber. Schatz is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:250
+The work of a fangher is sparluing gobewly. Fleener is a fangher. The work of a wenbumber is sadliging hezly. The work of an onner is axtactifying sethourdorly. Hudak is a wenbumber. Mcelyea is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:251
+Holm is an exsowiver. Cuba is an onner. Manzi is a wenbumber. The work of an exsowiver is bonsing caply. The work of a wenbumber is sadliging hezly. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:252
+Pentecost is a tolter. The work of a tolter is glidetting cobaly. The work of a seaizer is tractering quitprilly. The work of a poyefer is backminguing tourderly. Spataro is a seaizer. Luk is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:253
+The work of a jogunder is consersiving odmeraindly. The work of a mirituer is ehemting smorbtly. The work of a cluker is sombling enrinkmically. Bourke is a cluker. Diazdeleon is a mirituer. Prickett is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:254
+Laflamme is a patalcer. The work of a patalcer is heuting riuly. The work of a cluker is sombling enrinkmically. The work of an exsowiver is bonsing caply. Copple is a cluker. Moye is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:255
+Kershaw is a patalcer. The work of a cluker is sombling enrinkmically. The work of a byeeper is galmaunting induancingly. Veliz is a byeeper. Kiger is a cluker. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:256
+The work of an oducer is dunounding sacanothely. The work of a fangher is sparluing gobewly. The work of a dymer is barraking amolly. Agosto is a dymer. Ragusa is a fangher. Ransdell is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:257
+Moraga is a fangher. Rothman is a byeeper. The work of a poyefer is backminguing tourderly. The work of a byeeper is galmaunting induancingly. Goldman is a poyefer. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:258
+Warman is a contaker. The work of a seaizer is tractering quitprilly. The work of a contaker is acmastatting rigeorly. Brownfield is a seaizer. The work of a poyefer is backminguing tourderly. Caulfield is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:259
+The work of a prottober is andonging cartroly. The work of a pinwer is juthjodding voarly. The work of a tolter is glidetting cobaly. Vanallen is a tolter. Caplinger is a pinwer. Baca is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:260
+Slone is a dymer. The work of an exsowiver is bonsing caply. The work of a dymer is barraking amolly. The work of a seaizer is tractering quitprilly. Borelli is an exsowiver. Santoyo is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:261
+Mallette is a dymer. Armitage is a patalcer. The work of an exsowiver is bonsing caply. The work of a patalcer is heuting riuly. Asberry is an exsowiver. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:262
+Shavers is a byeeper. Brummer is a wenbumber. The work of a byeeper is galmaunting induancingly. The work of a peeptoer is mepuing cevely. Dickenson is a peeptoer. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:263
+Lundy is an exsowiver. The work of a culfaer is gholicoring intairly. Orosz is a contaker. Theus is a culfaer. The work of an exsowiver is bonsing caply. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:264
+Lehrer is a pinwer. The work of a pinwer is juthjodding voarly. The work of a prottober is andonging cartroly. Voth is a prottober. Bloomer is a seaizer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:265
+The work of a pinwer is juthjodding voarly. Mullet is a pinwer. The work of a peeptoer is mepuing cevely. Kovarik is a peeptoer. Perlman is a seaizer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:266
+Wittenberg is a fangher. Acree is a pinwer. The work of a fangher is sparluing gobewly. The work of a seaizer is tractering quitprilly. The work of a pinwer is juthjodding voarly. Allmond is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:267
+Mcquay is a fangher. The work of a fangher is sparluing gobewly. Hobby is a camsciater. Bednarz is a patalcer. The work of a camsciater is momdresining namisly. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:268
+The work of a mirituer is ehemting smorbtly. Washer is an oducer. The work of a tolter is glidetting cobaly. Sterrett is a mirituer. The work of an oducer is dunounding sacanothely. Abernethy is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:269
+Habel is a tolter. Velazquez is a seaizer. The work of a tolter is glidetting cobaly. The work of a dymer is barraking amolly. The work of a seaizer is tractering quitprilly. Schramm is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:270
+The work of a culfaer is gholicoring intairly. The work of a byeeper is galmaunting induancingly. The work of a mirituer is ehemting smorbtly. Pavey is a mirituer. Bannerman is a byeeper. Macauley is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:271
+Pusey is a dymer. The work of a dymer is barraking amolly. Ortman is a byeeper. Herrington is a cluker. The work of a byeeper is galmaunting induancingly. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:272
+The work of a culfaer is gholicoring intairly. The work of a prottober is andonging cartroly. The work of a pinwer is juthjodding voarly. Spurrier is a culfaer. Townsley is a pinwer. Stricklin is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:273
+The work of a mirituer is ehemting smorbtly. Warburton is a mirituer. Keesler is a culfaer. The work of a pinwer is juthjodding voarly. The work of a culfaer is gholicoring intairly. Carone is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:274
+Mccleary is a fangher. Weeden is an exsowiver. The work of a fangher is sparluing gobewly. Gehring is a culfaer. The work of a culfaer is gholicoring intairly. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:275
+Crumbley is a patalcer. The work of a tolter is glidetting cobaly. The work of a contaker is acmastatting rigeorly. Summers is a tolter. The work of a patalcer is heuting riuly. Capuano is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:276
+Sumrall is a cluker. Cooks is a contaker. The work of a contaker is acmastatting rigeorly. The work of a cluker is sombling enrinkmically. Croyle is a dymer. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:277
+The work of an exsowiver is bonsing caply. The work of a camsciater is momdresining namisly. The work of a patalcer is heuting riuly. Gaviria is an exsowiver. Carreon is a camsciater. Fishburn is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:278
+Berube is a prottober. The work of a prottober is andonging cartroly. Hines is a culfaer. Fraizer is a tolter. The work of a culfaer is gholicoring intairly. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:279
+The work of a cluker is sombling enrinkmically. Boddy is a cluker. The work of an onner is axtactifying sethourdorly. Lipscomb is an onner. Tassin is an oducer. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:280
+Siguenza is a fangher. Milks is a culfaer. The work of a culfaer is gholicoring intairly. Vandam is a byeeper. The work of a fangher is sparluing gobewly. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:281
+The work of a seaizer is tractering quitprilly. Flemings is a dymer. The work of an oducer is dunounding sacanothely. Shorts is a seaizer. Gustafson is an oducer. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:282
+Froelich is a prottober. The work of a dymer is barraking amolly. The work of a prottober is andonging cartroly. Bath is a dymer. The work of a tolter is glidetting cobaly. Gillon is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:283
+The work of a fangher is sparluing gobewly. The work of a dymer is barraking amolly. Coello is a contaker. Seiber is a fangher. Pridemore is a dymer. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:284
+Schaal is a seaizer. Pritchett is a prottober. Byrom is a poyefer. The work of a prottober is andonging cartroly. The work of a seaizer is tractering quitprilly. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:285
+The work of an onner is axtactifying sethourdorly. Gartman is a cluker. The work of a pinwer is juthjodding voarly. Ramachandran is an onner. Isenberg is a pinwer. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:286
+The work of a fangher is sparluing gobewly. Kelemen is a fangher. The work of an oducer is dunounding sacanothely. The work of a contaker is acmastatting rigeorly. Clodfelter is an oducer. Velarde is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:287
+Weinberg is a tolter. The work of a tolter is glidetting cobaly. Locicero is a wenbumber. The work of a patalcer is heuting riuly. The work of a wenbumber is sadliging hezly. Bosse is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:288
+Kopf is a culfaer. Rozell is a peeptoer. Segundo is a wenbumber. The work of a wenbumber is sadliging hezly. The work of a culfaer is gholicoring intairly. The work of a peeptoer is mepuing cevely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:289
+Ronquillo is a mirituer. The work of a mirituer is ehemting smorbtly. Wyant is a wenbumber. The work of an onner is axtactifying sethourdorly. Pavone is an onner. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:290
+The work of a wenbumber is sadliging hezly. The work of a culfaer is gholicoring intairly. Horrell is a fangher. Petrone is a wenbumber. Schutt is a culfaer. The work of a fangher is sparluing gobewly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:291
+The work of a byeeper is galmaunting induancingly. Bronstein is a byeeper. Odeh is a cluker. Killingsworth is a seaizer. The work of a cluker is sombling enrinkmically. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:292
+The work of a dymer is barraking amolly. Alles is a dymer. Bains is a camsciater. Kravitz is an exsowiver. The work of an exsowiver is bonsing caply. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:293
+Heuer is a dymer. The work of a seaizer is tractering quitprilly. Escobar is a seaizer. The work of a dymer is barraking amolly. Voris is a pinwer. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:294
+The work of a mirituer is ehemting smorbtly. The work of a wenbumber is sadliging hezly. Grate is a byeeper. Redwine is a wenbumber. The work of a byeeper is galmaunting induancingly. Crumbley is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:295
+The work of a cluker is sombling enrinkmically. The work of a prottober is andonging cartroly. Koonce is a prottober. Gruber is a cluker. Staff is a seaizer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:296
+The work of a tolter is glidetting cobaly. The work of a cluker is sombling enrinkmically. Mackall is a cluker. Strode is a tolter. The work of a culfaer is gholicoring intairly. Rothenberger is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:297
+Grossman is a wenbumber. Theus is a fangher. The work of a patalcer is heuting riuly. The work of a wenbumber is sadliging hezly. The work of a fangher is sparluing gobewly. Valdivia is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:298
+The work of a prottober is andonging cartroly. The work of a byeeper is galmaunting induancingly. The work of a seaizer is tractering quitprilly. Altman is a seaizer. Levis is a prottober. Mouser is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:299
+Reichard is a cluker. Husband is an oducer. Dabney is a seaizer. The work of an oducer is dunounding sacanothely. The work of a cluker is sombling enrinkmically. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:300
+Graver is a peeptoer. The work of a pinwer is juthjodding voarly. The work of a poyefer is backminguing tourderly. The work of a peeptoer is mepuing cevely. Bastin is a poyefer. Spradlin is a pinwer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:301
+Mcleroy is a camsciater. The work of a camsciater is momdresining namisly. The work of a jogunder is consersiving odmeraindly. Insley is a jogunder. Bencomo is a byeeper. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:302
+The work of a mirituer is ehemting smorbtly. Herd is a mirituer. Weinman is an exsowiver. The work of an exsowiver is bonsing caply. The work of a tolter is glidetting cobaly. Eubank is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:303
+The work of a pinwer is juthjodding voarly. The work of a dymer is barraking amolly. Graybeal is a pinwer. Millette is a dymer. The work of a wenbumber is sadliging hezly. Riggle is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:304
+Gilpin is a camsciater. Fahy is a fangher. The work of a fangher is sparluing gobewly. The work of a mirituer is ehemting smorbtly. Munguia is a mirituer. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:305
+The work of a dymer is barraking amolly. The work of a camsciater is momdresining namisly. Hower is a camsciater. Lanza is a dymer. The work of a fangher is sparluing gobewly. Milone is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:306
+The work of a dymer is barraking amolly. The work of a pinwer is juthjodding voarly. Laycock is a prottober. The work of a prottober is andonging cartroly. Majewski is a pinwer. Lanham is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:307
+The work of an onner is axtactifying sethourdorly. Lynam is an onner. The work of a camsciater is momdresining namisly. Beadles is a wenbumber. Word is a camsciater. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:308
+Jacobowitz is a jogunder. Wasik is a camsciater. The work of an oducer is dunounding sacanothely. The work of a jogunder is consersiving odmeraindly. The work of a camsciater is momdresining namisly. Hunte is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:309
+The work of an oducer is dunounding sacanothely. The work of a mirituer is ehemting smorbtly. The work of a fangher is sparluing gobewly. Tavarez is a fangher. Oropeza is an oducer. Searls is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:310
+The work of an oducer is dunounding sacanothely. Flakes is an oducer. The work of an exsowiver is bonsing caply. Loy is a patalcer. Kravitz is an exsowiver. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:311
+Wahl is an onner. Ramachandran is a fangher. The work of a fangher is sparluing gobewly. The work of a seaizer is tractering quitprilly. Paone is a seaizer. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:312
+The work of a byeeper is galmaunting induancingly. Hovey is a pinwer. The work of a pinwer is juthjodding voarly. The work of a peeptoer is mepuing cevely. Herrera is a peeptoer. Bickerstaff is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:313
+The work of a fangher is sparluing gobewly. Langer is a fangher. Tobler is a prottober. Jimenez is a tolter. The work of a tolter is glidetting cobaly. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:314
+The work of a seaizer is tractering quitprilly. Lantigua is a poyefer. The work of a prottober is andonging cartroly. The work of a poyefer is backminguing tourderly. Duarte is a seaizer. Moreau is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:315
+The work of a seaizer is tractering quitprilly. Tibbits is a seaizer. Morita is a dymer. Dancy is a cluker. The work of a dymer is barraking amolly. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:316
+Burnett is a peeptoer. The work of a peeptoer is mepuing cevely. Brotherton is a mirituer. The work of a culfaer is gholicoring intairly. The work of a mirituer is ehemting smorbtly. Lacasse is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:317
+The work of a dymer is barraking amolly. Rybicki is a seaizer. The work of a seaizer is tractering quitprilly. Demasi is a dymer. The work of a patalcer is heuting riuly. Pickle is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:318
+Pangilinan is a cluker. Kahn is a jogunder. The work of an exsowiver is bonsing caply. The work of a jogunder is consersiving odmeraindly. The work of a cluker is sombling enrinkmically. Kirsch is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:319
+The work of a cluker is sombling enrinkmically. Killough is a dymer. Hasler is a cluker. The work of an onner is axtactifying sethourdorly. The work of a dymer is barraking amolly. Boyett is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:320
+Schwartz is an oducer. Lockwood is a camsciater. The work of an exsowiver is bonsing caply. Cadena is an exsowiver. The work of an oducer is dunounding sacanothely. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:321
+The work of a cluker is sombling enrinkmically. The work of an oducer is dunounding sacanothely. Drinkard is a cluker. Metoyer is an onner. Brancato is an oducer. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:322
+The work of a patalcer is heuting riuly. Rawlins is a patalcer. Bhatia is an oducer. The work of an oducer is dunounding sacanothely. Bogue is a seaizer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:323
+Fluharty is a byeeper. The work of a patalcer is heuting riuly. Wheat is a patalcer. The work of a prottober is andonging cartroly. The work of a byeeper is galmaunting induancingly. Dombroski is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:324
+The work of a jogunder is consersiving odmeraindly. Perezperez is a jogunder. The work of an exsowiver is bonsing caply. The work of a seaizer is tractering quitprilly. Pentecost is a seaizer. Stowe is an exsowiver.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:325
+The work of an oducer is dunounding sacanothely. Hudock is an oducer. The work of a byeeper is galmaunting induancingly. Howes is a byeeper. The work of an onner is axtactifying sethourdorly. Blom is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:326
+The work of a byeeper is galmaunting induancingly. The work of a seaizer is tractering quitprilly. Whitlock is a cluker. The work of a cluker is sombling enrinkmically. Kuhlmann is a seaizer. Galiano is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:327
+Shive is a camsciater. The work of a jogunder is consersiving odmeraindly. Borne is a peeptoer. The work of a peeptoer is mepuing cevely. The work of a camsciater is momdresining namisly. Grossman is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:328
+Stanko is a mirituer. The work of an onner is axtactifying sethourdorly. Haga is an onner. Deibert is a contaker. The work of a mirituer is ehemting smorbtly. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:329
+Kappel is an exsowiver. The work of an exsowiver is bonsing caply. The work of a poyefer is backminguing tourderly. The work of a dymer is barraking amolly. Aldaco is a dymer. Munn is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:330
+The work of a dymer is barraking amolly. The work of a prottober is andonging cartroly. Coyne is a prottober. The work of a seaizer is tractering quitprilly. Stegner is a seaizer. Alsup is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:331
+The work of a wenbumber is sadliging hezly. Bratcher is a poyefer. The work of a poyefer is backminguing tourderly. The work of a mirituer is ehemting smorbtly. Maag is a mirituer. Downer is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:332
+The work of a prottober is andonging cartroly. Persad is a contaker. The work of a contaker is acmastatting rigeorly. The work of a mirituer is ehemting smorbtly. Dubuque is a prottober. Pettitt is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:333
+The work of a byeeper is galmaunting induancingly. Danforth is a prottober. The work of a contaker is acmastatting rigeorly. Mauch is a contaker. The work of a prottober is andonging cartroly. Mcjunkin is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:334
+The work of a patalcer is heuting riuly. Hardesty is a mirituer. The work of a mirituer is ehemting smorbtly. The work of a contaker is acmastatting rigeorly. Casson is a patalcer. Bevers is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:335
+The work of a contaker is acmastatting rigeorly. Yopp is a jogunder. The work of a culfaer is gholicoring intairly. Mcwhorter is a culfaer. Newcomer is a contaker. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:336
+The work of a peeptoer is mepuing cevely. Arledge is a peeptoer. The work of a poyefer is backminguing tourderly. Mcgriff is a poyefer. The work of a culfaer is gholicoring intairly. Birt is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:337
+The work of a culfaer is gholicoring intairly. Mckey is a camsciater. Bronstein is a jogunder. The work of a jogunder is consersiving odmeraindly. The work of a camsciater is momdresining namisly. Goudeau is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:338
+Beardsley is a peeptoer. The work of a peeptoer is mepuing cevely. The work of an oducer is dunounding sacanothely. Trevino is a camsciater. Melanson is an oducer. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:339
+The work of a contaker is acmastatting rigeorly. The work of a camsciater is momdresining namisly. Manzo is a contaker. Cathcart is a dymer. Depaul is a camsciater. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:340
+Paiz is a jogunder. Baez is a fangher. The work of a fangher is sparluing gobewly. Lovato is a mirituer. The work of a mirituer is ehemting smorbtly. The work of a jogunder is consersiving odmeraindly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:341
+The work of a poyefer is backminguing tourderly. The work of a culfaer is gholicoring intairly. The work of a tolter is glidetting cobaly. Castillon is a tolter. Eubank is a culfaer. Dery is a poyefer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:342
+The work of a pinwer is juthjodding voarly. Gaiser is an onner. The work of a fangher is sparluing gobewly. Engelman is a fangher. Beeler is a pinwer. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:343
+The work of a wenbumber is sadliging hezly. The work of a camsciater is momdresining namisly. Agosto is a wenbumber. Burkhardt is a camsciater. The work of a cluker is sombling enrinkmically. Menendez is a cluker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:344
+The work of an onner is axtactifying sethourdorly. The work of a wenbumber is sadliging hezly. Bickerstaff is a wenbumber. Guyer is a tolter. The work of a tolter is glidetting cobaly. Smolen is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:345
+The work of a fangher is sparluing gobewly. Bone is a wenbumber. The work of a jogunder is consersiving odmeraindly. The work of a wenbumber is sadliging hezly. Castanon is a fangher. Kluge is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:346
+Gamez is a byeeper. Human is a pinwer. Baucom is an onner. The work of a pinwer is juthjodding voarly. The work of an onner is axtactifying sethourdorly. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:347
+Kidd is a seaizer. The work of a contaker is acmastatting rigeorly. Wilmoth is a contaker. Benitez is a prottober. The work of a prottober is andonging cartroly. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:348
+The work of a poyefer is backminguing tourderly. The work of a mirituer is ehemting smorbtly. The work of a prottober is andonging cartroly. Magee is a prottober. Tennant is a poyefer. Traore is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:349
+The work of a wenbumber is sadliging hezly. Lebrun is a poyefer. The work of a poyefer is backminguing tourderly. The work of an oducer is dunounding sacanothely. Blomberg is a wenbumber. Burstein is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:350
+Back is a cluker. The work of a cluker is sombling enrinkmically. The work of a poyefer is backminguing tourderly. Philipps is a poyefer. The work of an onner is axtactifying sethourdorly. Worman is an onner.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:351
+Acklin is a peeptoer. The work of an onner is axtactifying sethourdorly. The work of a peeptoer is mepuing cevely. Deguzman is an onner. Alves is a poyefer. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:352
+The work of a byeeper is galmaunting induancingly. The work of a wenbumber is sadliging hezly. Henninger is an oducer. The work of an oducer is dunounding sacanothely. Hintz is a byeeper. Solari is a wenbumber.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:353
+Borbon is a byeeper. The work of a pinwer is juthjodding voarly. Flores is a pinwer. The work of a byeeper is galmaunting induancingly. Kinnard is a cluker. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:354
+Ledgerwood is a pinwer. The work of a pinwer is juthjodding voarly. Greenstein is a mirituer. The work of a cluker is sombling enrinkmically. Hain is a cluker. The work of a mirituer is ehemting smorbtly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:355
+The work of a tolter is glidetting cobaly. Kurian is an oducer. Ybarra is a cluker. The work of an oducer is dunounding sacanothely. Degeorge is a tolter. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:356
+Kinch is an oducer. The work of a fangher is sparluing gobewly. Labarre is a poyefer. The work of an oducer is dunounding sacanothely. Boothby is a fangher. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:357
+Gonser is a patalcer. The work of a dymer is barraking amolly. Chea is a dymer. The work of a poyefer is backminguing tourderly. Kubiak is a poyefer. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:358
+Tanaka is a seaizer. Bencomo is a dymer. The work of a pinwer is juthjodding voarly. Birney is a pinwer. The work of a seaizer is tractering quitprilly. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:359
+The work of a seaizer is tractering quitprilly. The work of a prottober is andonging cartroly. Paschall is a seaizer. Contino is a contaker. Steinhoff is a prottober. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:360
+The work of an exsowiver is bonsing caply. Bourassa is an exsowiver. To is a camsciater. The work of a camsciater is momdresining namisly. Robbins is an onner. The work of an onner is axtactifying sethourdorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:361
+Dhaliwal is a fangher. The work of a fangher is sparluing gobewly. The work of a dymer is barraking amolly. Locicero is a culfaer. Vazquez is a dymer. The work of a culfaer is gholicoring intairly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:362
+Hostetler is an oducer. The work of a patalcer is heuting riuly. The work of an oducer is dunounding sacanothely. The work of a pinwer is juthjodding voarly. Stagner is a pinwer. Smyth is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:363
+The work of a mirituer is ehemting smorbtly. Brister is a mirituer. Monje is a poyefer. Marcum is a jogunder. The work of a jogunder is consersiving odmeraindly. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:364
+The work of an onner is axtactifying sethourdorly. The work of a cluker is sombling enrinkmically. Bakker is a cluker. Monje is a contaker. Mandeville is an onner. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:365
+The work of a tolter is glidetting cobaly. Denby is a camsciater. Drinkard is a fangher. The work of a fangher is sparluing gobewly. The work of a camsciater is momdresining namisly. Hoback is a tolter.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:366
+Hooley is a dymer. Isenberg is a patalcer. Merriam is a prottober. The work of a dymer is barraking amolly. The work of a prottober is andonging cartroly. The work of a patalcer is heuting riuly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:367
+Albano is a prottober. The work of an onner is axtactifying sethourdorly. Nilles is an onner. Hastie is a seaizer. The work of a seaizer is tractering quitprilly. The work of a prottober is andonging cartroly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:368
+Sawyers is a camsciater. The work of a peeptoer is mepuing cevely. Blanding is a peeptoer. The work of a wenbumber is sadliging hezly. Stigall is a wenbumber. The work of a camsciater is momdresining namisly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:369
+Wolverton is a culfaer. The work of a culfaer is gholicoring intairly. Mccracken is a cluker. The work of a cluker is sombling enrinkmically. The work of a dymer is barraking amolly. Fargo is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:370
+The work of a cluker is sombling enrinkmically. The work of a poyefer is backminguing tourderly. Groves is a cluker. Ransdell is a poyefer. Daniels is a tolter. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:371
+Deblasio is a peeptoer. The work of a peeptoer is mepuing cevely. Gause is a prottober. Breese is a cluker. The work of a prottober is andonging cartroly. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:372
+The work of a culfaer is gholicoring intairly. Ruvalcaba is a tolter. The work of a patalcer is heuting riuly. The work of a tolter is glidetting cobaly. Spaulding is a patalcer. Atwell is a culfaer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:373
+Brassard is a culfaer. The work of a mirituer is ehemting smorbtly. The work of a culfaer is gholicoring intairly. The work of a dymer is barraking amolly. Caprio is a dymer. Mclaughlin is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:374
+The work of a tolter is glidetting cobaly. Lohman is a poyefer. Leveille is a tolter. The work of a fangher is sparluing gobewly. The work of a poyefer is backminguing tourderly. Clinard is a fangher.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:375
+Shiner is a tolter. Mortensen is a poyefer. The work of a camsciater is momdresining namisly. The work of a poyefer is backminguing tourderly. Hughs is a camsciater. The work of a tolter is glidetting cobaly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:376
+The work of an oducer is dunounding sacanothely. The work of a camsciater is momdresining namisly. Esposito is a camsciater. Mabe is a pinwer. The work of a pinwer is juthjodding voarly. Caudle is an oducer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:377
+Dass is a jogunder. The work of a mirituer is ehemting smorbtly. The work of a jogunder is consersiving odmeraindly. The work of an exsowiver is bonsing caply. Burrus is an exsowiver. Baltes is a mirituer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:378
+Fudge is an onner. Gowen is a camsciater. The work of a prottober is andonging cartroly. The work of an onner is axtactifying sethourdorly. The work of a camsciater is momdresining namisly. Mcconville is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:379
+Dery is a pinwer. Blizzard is an oducer. The work of a pinwer is juthjodding voarly. The work of an oducer is dunounding sacanothely. The work of a jogunder is consersiving odmeraindly. Kunkle is a jogunder.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:380
+Musgrave is a camsciater. The work of a contaker is acmastatting rigeorly. The work of a seaizer is tractering quitprilly. Burris is a contaker. The work of a camsciater is momdresining namisly. Deberry is a seaizer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:381
+Kittleson is an exsowiver. The work of an exsowiver is bonsing caply. Kilpatrick is a pinwer. The work of a byeeper is galmaunting induancingly. The work of a pinwer is juthjodding voarly. Baranowski is a byeeper.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:382
+Adamczyk is a fangher. The work of an onner is axtactifying sethourdorly. The work of a fangher is sparluing gobewly. Croyle is an onner. Redfern is a wenbumber. The work of a wenbumber is sadliging hezly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:383
+The work of an onner is axtactifying sethourdorly. The work of an exsowiver is bonsing caply. Witte is an exsowiver. Willhite is an onner. Reser is a contaker. The work of a contaker is acmastatting rigeorly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:384
+The work of a mirituer is ehemting smorbtly. Wiest is a pinwer. Sussman is a mirituer. The work of an exsowiver is bonsing caply. Schuldt is an exsowiver. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:385
+The work of a wenbumber is sadliging hezly. Huot is a wenbumber. The work of a peeptoer is mepuing cevely. The work of a cluker is sombling enrinkmically. Coppola is a cluker. Oropeza is a peeptoer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:386
+Jiang is a wenbumber. Rusnak is a cluker. The work of a jogunder is consersiving odmeraindly. The work of a wenbumber is sadliging hezly. Forehand is a jogunder. The work of a cluker is sombling enrinkmically.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:387
+Towler is a camsciater. The work of a mirituer is ehemting smorbtly. The work of a camsciater is momdresining namisly. The work of a contaker is acmastatting rigeorly. Capo is a mirituer. Burroughs is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:388
+Fretwell is a cluker. The work of a wenbumber is sadliging hezly. Reith is an exsowiver. The work of a cluker is sombling enrinkmically. Lenhart is a wenbumber. The work of an exsowiver is bonsing caply.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:389
+The work of a mirituer is ehemting smorbtly. The work of a poyefer is backminguing tourderly. The work of a patalcer is heuting riuly. Abramowitz is a mirituer. Earp is a poyefer. Veatch is a patalcer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:390
+The work of a contaker is acmastatting rigeorly. Wagers is a contaker. The work of a poyefer is backminguing tourderly. Saporito is a dymer. Waite is a poyefer. The work of a dymer is barraking amolly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:391
+The work of a mirituer is ehemting smorbtly. The work of a poyefer is backminguing tourderly. Aybar is a byeeper. Backus is a mirituer. Giusti is a poyefer. The work of a byeeper is galmaunting induancingly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:392
+Summers is a camsciater. The work of a dymer is barraking amolly. The work of a poyefer is backminguing tourderly. The work of a camsciater is momdresining namisly. Catalan is a poyefer. Frasure is a dymer.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:393
+Ostrowski is an oducer. Smolinski is a peeptoer. The work of a seaizer is tractering quitprilly. The work of a peeptoer is mepuing cevely. Luker is a seaizer. The work of an oducer is dunounding sacanothely.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:394
+The work of a camsciater is momdresining namisly. Saldivar is a jogunder. Abston is a poyefer. The work of a jogunder is consersiving odmeraindly. Smelser is a camsciater. The work of a poyefer is backminguing tourderly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:395
+Bains is a wenbumber. The work of a tolter is glidetting cobaly. Plotkin is a tolter. The work of a wenbumber is sadliging hezly. Martinsen is a seaizer. The work of a seaizer is tractering quitprilly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:396
+Brumm is an exsowiver. The work of an exsowiver is bonsing caply. The work of a prottober is andonging cartroly. Marron is a dymer. The work of a dymer is barraking amolly. Hang is a prottober.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:397
+Greenstein is a pinwer. The work of an exsowiver is bonsing caply. The work of an onner is axtactifying sethourdorly. Bonanno is an onner. Wheelock is an exsowiver. The work of a pinwer is juthjodding voarly.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:398
+The work of a contaker is acmastatting rigeorly. The work of an oducer is dunounding sacanothely. Kearney is a mirituer. Rainwater is an oducer. The work of a mirituer is ehemting smorbtly. Siegel is a contaker.
+
+kitmus/background-inference-charfict-charfict/subtask_3_ents/knowledge-text-only/validation:399
+Villeneuve is a patalcer. The work of a pinwer is juthjodding voarly. Mckeever is a pinwer. The work of a patalcer is heuting riuly. The work of a mirituer is ehemting smorbtly. Wichmann is a mirituer.

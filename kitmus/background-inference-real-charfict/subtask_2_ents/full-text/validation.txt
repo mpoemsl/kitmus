@@ -1,0 +1,1199 @@
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:0
+The work of an electrician is consersiving odmeraindly. Duckworth is a mechanic. Shrout is an electrician. The work of a mechanic is ipsoring celmonly. At the rock climbing gym, Duckworth and Shrout started a conversation. It's a perfect place to get a new look. After a long day at work consersiving odmeraindly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:1
+Antunes is a teacher. Seidl is a travel agent. The work of a teacher is hammenting quinlenely. The work of a travel agent is momdresining namisly. At the charity car wash, Antunes and Seidl came across each other. The festival is run by the United Methodist Church. After a long day at work momdresining namisly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:2
+Nale is a carpenter. The work of a photographer is juabeing klaierly. The work of a carpenter is rizespeuping bernly. Horn is a photographer. Nale and Horn ran into each other at the piano class. The classes teach the same number of skills expected in a business class. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:3
+Kerley is an actor. The work of a customer service representative is evengimeing nougusly. Folds is a customer service representative. The work of an actor is bonsing caply. Kerley and Folds started a conversation at the charity car wash. It is being held to commemorate the 70's and 80's people. She was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:4
+Craft is a translator. Dittman is an optician. The work of an optician is barraking amolly. The work of a translator is dernfewing geneurifily. At the power yoga class, Craft and Dittman started a conversation. The class starts with a warm - up session. Ey was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:5
+The work of a stocking associate is deperving wonly. Foley is a translator. Gosser is a stocking associate. The work of a translator is dernfewing geneurifily. At the school sports event, Foley and Gosser came across each other. The main reason for visiting these places is to explore new areas of the city. She was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:6
+Baeza is a carpenter. Higgs is a teacher. The work of a carpenter is rizespeuping bernly. The work of a teacher is hammenting quinlenely. At the museum, Baeza and Higgs came across each other. The museum has many ancient things. He was relieved to unwind after a demanding day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:7
+Deford is a bricklayer. Hutcheson is a politician. The work of a bricklayer is rethiling orsuly. The work of a politician is backminguing tourderly. At the paintball courses, Hutcheson and Deford started a conversation. The class is fun! She was relieved to unwind after a long day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:8
+Salyer is an actor. The work of an astronomer is galmaunting induancingly. Jaworski is an astronomer. The work of an actor is bonsing caply. Jaworski and Salyer ran into each other at the party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. He was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:9
+The work of a customer service representative is evengimeing nougusly. Mcalpine is a photographer. The work of a photographer is juabeing klaierly. Camarena is a customer service representative. At the party, Camarena and Mcalpine started a conversation. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. Ey was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:10
+The work of a nurse is sombling enrinkmically. The work of an astronomer is galmaunting induancingly. Lohse is an astronomer. Monteith is a nurse. At the beer making classes, Lohse and Monteith came across each other. The classes sometimes have "class" games. She was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:11
+Darden is a carpenter. The work of a carpenter is rizespeuping bernly. The work of an astronomer is galmaunting induancingly. Knapp is an astronomer. Knapp and Darden ran into each other at the charity car wash. This event is to help make the community a better place. He was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:12
+Balke is an author. Hinrichs is a customer service representative. The work of an author is pesitlelling sonozously. The work of a customer service representative is evengimeing nougusly. At the walking tour, Balke and Hinrichs started a conversation. Tours can provide with an opportunity to meet foreigners. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:13
+The work of a translator is dernfewing geneurifily. Traxler is an author. Houchins is a translator. The work of an author is pesitlelling sonozously. At the museum, Houchins and Traxler started a conversation. The museums show how the city looked thousands of years ago. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:14
+The work of a photographer is juabeing klaierly. Alegre is a travel agent. The work of a travel agent is momdresining namisly. Eslick is a photographer. Eslick and Alegre connected at the social community gathering. The community is moving through a number of options that would provide greater support to the community in future. He was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:15
+The work of a politician is backminguing tourderly. Worsley is a customer service representative. The work of a customer service representative is evengimeing nougusly. Wasielewski is a politician. Wasielewski and Worsley connected at the bar crawl. Tours show all the important places in a city. He was relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:16
+Votaw is a travel agent. Broome is a teacher. The work of a teacher is hammenting quinlenely. The work of a travel agent is momdresining namisly. Votaw and Broome ran into each other at the local reading. In the book - club, one can choose to spend time with friends who want books. She was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:17
+Pippins is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of an astronomer is galmaunting induancingly. Padron is an astronomer. At the sports bar, Padron and Pippins came across each other. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work galmaunting induancingly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:18
+Weil is an actor. Meiser is a politician. The work of an actor is bonsing caply. The work of a politician is backminguing tourderly. At the hotel, Meiser and Weil came across each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. They were relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:19
+The work of a nurse is sombling enrinkmically. Bushnell is a translator. The work of a translator is dernfewing geneurifily. Glatt is a nurse. Glatt and Bushnell connected at the piano class. The class requires the students to read and comprehend the course material and understand the various topics. After a long day at work dernfewing geneurifily, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:20
+Caple is an optician. Fairley is an actor. The work of an optician is barraking amolly. The work of an actor is bonsing caply. At the bar crawl, Fairley and Caple came across each other. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:21
+Lemasters is an actor. The work of an actor is bonsing caply. The work of a travel agent is momdresining namisly. Jaros is a travel agent. At the public transport, Lemasters and Jaros started a conversation. The public transports are public. He was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:22
+Leathers is a stocking associate. Riffe is a politician. The work of a stocking associate is deperving wonly. The work of a politician is backminguing tourderly. At the beach, Leathers and Riffe came across each other. The beach is made of sand but only in a beautiful, sunny place on the island of Nanga, about 100 km -LRB- 65 miles -RRB- southeast of the city. After a long day at work deperving wonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:23
+The work of an actor is bonsing caply. Davila is an actor. Higginson is a translator. The work of a translator is dernfewing geneurifily. Higginson and Davila started a conversation at the rock climbing gym. It's a small and fun place. He was relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:24
+Sloss is a bricklayer. The work of an author is pesitlelling sonozously. The work of a bricklayer is rethiling orsuly. Broadwell is an author. Sloss and Broadwell started a conversation at the club. It is a quiet spot to hang out, it would definitely leave people satisfied. Ey was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:25
+Kump is a nurse. The work of a nurse is sombling enrinkmically. The work of a chef is snelicing weltaskly. Roop is a chef. Kump and Roop ran into each other at the piano class. Each session teaches a different theme. Ey was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:26
+The work of an astronomer is galmaunting induancingly. Votaw is an astronomer. Beazley is a photographer. The work of a photographer is juabeing klaierly. At the trivia night, Beazley and Votaw started a conversation. Many of the events are very popular in the city. They were relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:27
+Cowger is a nurse. The work of a nurse is sombling enrinkmically. The work of an astronomer is galmaunting induancingly. Berkey is an astronomer. Cowger and Berkey connected at the cafe. The other items that are great here are the coffee creamer. After a long day at work sombling enrinkmically, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:28
+The work of a bookkeeper is exmeting coenoguly. Mott is an electrician. Fierros is a bookkeeper. The work of an electrician is consersiving odmeraindly. At the rock climbing gym, Mott and Fierros came across each other. It's a small and fun place. After a long day at work exmeting coenoguly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:29
+The work of an author is pesitlelling sonozously. Sickler is a travel agent. Bienaime is an author. The work of a travel agent is momdresining namisly. At the book club, Sickler and Bienaime came across each other. Book clubs organize discussions on specific books. She was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:30
+The work of a photographer is juabeing klaierly. Spinner is a photographer. Cano is a chef. The work of a chef is snelicing weltaskly. Cano and Spinner started a conversation at the walking tour. The tour is an important part of the new generation. After a long day at work snelicing weltaskly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:31
+The work of a teacher is hammenting quinlenely. The work of an optician is barraking amolly. Hegg is an optician. Crosier is a teacher. Hegg and Crosier connected at the social community gathering. We have to work together through different platforms. She was relieved to unwind after a demanding day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:32
+Urquhart is a bricklayer. Blakeney is an optician. The work of a bricklayer is rethiling orsuly. The work of an optician is barraking amolly. Urquhart and Blakeney started a conversation at the public transport. Public transport is environmentally sustainable. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:33
+Worden is an electrician. The work of a teacher is hammenting quinlenely. Silverman is a teacher. The work of an electrician is consersiving odmeraindly. Worden and Silverman connected at the beach. The beach is full of a sense of awe and awe - inspiring beauty. Ey was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:34
+The work of an actor is bonsing caply. Silverstein is a travel agent. Farrand is an actor. The work of a travel agent is momdresining namisly. Farrand and Silverstein ran into each other at the club. The place is nice. After a long day at work momdresining namisly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:35
+The work of a translator is dernfewing geneurifily. Hosmer is a bricklayer. The work of a bricklayer is rethiling orsuly. Rominger is a translator. Hosmer and Rominger started a conversation at the power yoga class. The yoga class lasts around 24 - 27 minutes. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:36
+The work of a travel agent is momdresining namisly. Leiker is a lifeguard. The work of a lifeguard is extleaning podonducly. Leffler is a travel agent. Leffler and Leiker connected at the park. The dogs that play here are super cute. After a long day at work extleaning podonducly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:37
+Telfer is a teacher. The work of an author is pesitlelling sonozously. Krell is an author. The work of a teacher is hammenting quinlenely. Krell and Telfer connected at the book club. Book clubs organize monthly meetings. After a long day at work hammenting quinlenely, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:38
+Tucci is a chef. The work of a chef is snelicing weltaskly. Sellars is an astronomer. The work of an astronomer is galmaunting induancingly. At the beer making classes, Sellars and Tucci started a conversation. The class tries to make the course enjoyable. After a long day at work snelicing weltaskly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:39
+The work of a customer service representative is evengimeing nougusly. Simcox is an optician. The work of an optician is barraking amolly. Shake is a customer service representative. Simcox and Shake started a conversation at the street fair. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work barraking amolly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:40
+Eisenhart is a teacher. Grieco is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. The work of a teacher is hammenting quinlenely. At the school sports event, Grieco and Eisenhart started a conversation. This event is to help make the community a better place. After a long day at work exmeting coenoguly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:41
+The work of a politician is backminguing tourderly. Martinsen is a stocking associate. Lineberry is a politician. The work of a stocking associate is deperving wonly. Martinsen and Lineberry connected at the cafe. A great, comfortable location for a relaxed bar. He was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:42
+The work of an actor is bonsing caply. Rubenstein is an actor. The work of a bricklayer is rethiling orsuly. Wiener is a bricklayer. Wiener and Rubenstein ran into each other at the power yoga class. People around begin chanting an action which takes about 5 - 10 minutes. After a long day at work rethiling orsuly, ze was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:43
+The work of a bricklayer is rethiling orsuly. Borunda is a farmer. Nunley is a bricklayer. The work of a farmer is kuinding toorbickly. Nunley and Borunda connected at the social community gathering. The community has an open kitchen. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:44
+Devinney is a translator. The work of a carpenter is rizespeuping bernly. The work of a translator is dernfewing geneurifily. Fulks is a carpenter. Devinney and Fulks ran into each other at the walking tour. The tour is coming along in several interesting ways. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:45
+Middleton is a photographer. The work of a photographer is juabeing klaierly. The work of a stocking associate is deperving wonly. Castonguay is a stocking associate. At the group vacation, Middleton and Castonguay started a conversation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. After a long day at work juabeing klaierly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:46
+Borchers is a carpenter. The work of a carpenter is rizespeuping bernly. Wickstrom is a stocking associate. The work of a stocking associate is deperving wonly. Borchers and Wickstrom started a conversation at the charity car wash. A lot of people participate in these events! She was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:47
+The work of a carpenter is rizespeuping bernly. The work of a travel agent is momdresining namisly. Ryba is a travel agent. Orgeron is a carpenter. Ryba and Orgeron ran into each other at the sports bar. The drinks are served on time. He was relieved to unwind after a demanding day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:48
+Stigall is an author. The work of a translator is dernfewing geneurifily. Granillo is a translator. The work of an author is pesitlelling sonozously. At the piano class, Granillo and Stigall started a conversation. People should check out the classes online, it wo n't be boring! He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:49
+Vollmer is a nurse. Dubinsky is a bookkeeper. The work of a nurse is sombling enrinkmically. The work of a bookkeeper is exmeting coenoguly. Dubinsky and Vollmer ran into each other at the fundraiser. A lot of people are always talking and eating together. They were relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:50
+The work of a carpenter is rizespeuping bernly. Juneau is a carpenter. The work of a mechanic is ipsoring celmonly. Doucet is a mechanic. Doucet and Juneau started a conversation at the museum. The museum has any important buildings, like the Museum of Archaeology in Baltimore. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:51
+The work of an optician is barraking amolly. Towell is an optician. The work of an electrician is consersiving odmeraindly. Calderone is an electrician. Calderone and Towell started a conversation at the public transport. The article for this transport was amended on August 18, 2017. A previous version said that the public transport was free. He was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:52
+The work of a carpenter is rizespeuping bernly. Davalos is a carpenter. The work of a translator is dernfewing geneurifily. Ammons is a translator. Davalos and Ammons connected at the community service day event. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:53
+Laborde is a nurse. The work of a nurse is sombling enrinkmically. Cerda is a teacher. The work of a teacher is hammenting quinlenely. At the brewery tour, Cerda and Laborde started a conversation. The tour is not in its 20th year, unfortunately. He was relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:54
+The work of a lifeguard is extleaning podonducly. The work of a nurse is sombling enrinkmically. Wetherell is a lifeguard. Bisbee is a nurse. Bisbee and Wetherell ran into each other at the fundraiser. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work sombling enrinkmically, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:55
+Heim is a stocking associate. The work of a carpenter is rizespeuping bernly. Villalta is a carpenter. The work of a stocking associate is deperving wonly. Heim and Villalta ran into each other at the yoga studio. Yoga is best done in silence. She was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:56
+Goodwyn is a travel agent. The work of a bookkeeper is exmeting coenoguly. The work of a travel agent is momdresining namisly. Gilland is a bookkeeper. Gilland and Goodwyn connected at the book store. Going to a book club meeting is a good way to learn about a specific book. They were relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:57
+Shake is a nurse. The work of a translator is dernfewing geneurifily. The work of a nurse is sombling enrinkmically. Trovato is a translator. Shake and Trovato started a conversation at the bar crawl. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:58
+Mccarty is an optician. The work of an optician is barraking amolly. Keels is a carpenter. The work of a carpenter is rizespeuping bernly. Keels and Mccarty connected at the private club. On weekend nights, this place is crowded. After a long day at work barraking amolly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:59
+Stenson is a translator. The work of a teacher is hammenting quinlenely. The work of a translator is dernfewing geneurifily. Boylan is a teacher. At the yoga studio, Stenson and Boylan came across each other. At this point, the participants must n't interrupt the activity. They were relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:60
+Palko is a mechanic. Hocking is a customer service representative. The work of a customer service representative is evengimeing nougusly. The work of a mechanic is ipsoring celmonly. Palko and Hocking started a conversation at the group vacation. The tour is also the longest walk on the tour. He was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:61
+The work of an actor is bonsing caply. The work of a farmer is kuinding toorbickly. Holiman is an actor. Applewhite is a farmer. At the cafe, Applewhite and Holiman started a conversation. One of the few spots for everyone. After a long day at work kuinding toorbickly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:62
+The work of a travel agent is momdresining namisly. Alleman is a mechanic. Capasso is a travel agent. The work of a mechanic is ipsoring celmonly. At the local reading, Alleman and Capasso came across each other. One can get started with reading here in many ways! After a long day at work momdresining namisly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:63
+The work of a politician is backminguing tourderly. The work of a photographer is juabeing klaierly. Cork is a politician. Castonguay is a photographer. At the power yoga class, Cork and Castonguay came across each other. The practice takes about twenty minutes, and it is also very active. She was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:64
+The work of an actor is bonsing caply. The work of a mechanic is ipsoring celmonly. Hoag is a mechanic. Bridgewater is an actor. Hoag and Bridgewater connected at the archery class. A new class starts with a fun and unique theme! He was relieved to unwind after a demanding day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:65
+The work of a photographer is juabeing klaierly. Leeper is a photographer. Colangelo is an optician. The work of an optician is barraking amolly. Colangelo and Leeper started a conversation at the museum. The museum has books, which can come together in a wonderful way. She was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:66
+Slattery is a bookkeeper. Wethington is a chef. The work of a chef is snelicing weltaskly. The work of a bookkeeper is exmeting coenoguly. At the sports bar, Wethington and Slattery started a conversation. Here, people can find someone to become friends with. He was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:67
+The work of a lifeguard is extleaning podonducly. Gerrity is a lifeguard. Moseley is a chef. The work of a chef is snelicing weltaskly. Gerrity and Moseley started a conversation at the bar crawl. The tour is slated to be held in Austin, Texas on May 2, where a new venue, The Art of Improvisation, will be announced. After a long day at work extleaning podonducly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:68
+The work of a nurse is sombling enrinkmically. Peach is a nurse. Palombo is a chef. The work of a chef is snelicing weltaskly. Peach and Palombo ran into each other at the book store. Nowadays a few types of web - sites do it all. That says more than anything, the community is an awesome resource for other things besides books for anyone to read. He was relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:69
+The work of a mechanic is ipsoring celmonly. Meece is a carpenter. Renda is a mechanic. The work of a carpenter is rizespeuping bernly. Meece and Renda started a conversation at the fundraiser. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. Ze was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:70
+Ribeiro is an author. The work of an author is pesitlelling sonozously. Conboy is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. Conboy and Ribeiro ran into each other at the community service day event. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. After a long day at work exmeting coenoguly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:71
+The work of a photographer is juabeing klaierly. Ellwood is a teacher. Sayers is a photographer. The work of a teacher is hammenting quinlenely. Ellwood and Sayers connected at the grocery store. Markets are full of surprises! After a long day at work juabeing klaierly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:72
+Daoust is an author. The work of a carpenter is rizespeuping bernly. The work of an author is pesitlelling sonozously. Vanarsdale is a carpenter. At the book store, Daoust and Vanarsdale came across each other. It is a great way to stay organized for the first time! He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:73
+Mcinerney is a customer service representative. The work of a customer service representative is evengimeing nougusly. Caple is an author. The work of an author is pesitlelling sonozously. At the carpool, Caple and Mcinerney started a conversation. The public transports are public. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:74
+The work of a bookkeeper is exmeting coenoguly. Mcilwain is a bookkeeper. Doud is a travel agent. The work of a travel agent is momdresining namisly. Mcilwain and Doud started a conversation at the rock climbing gym. People can really make a lasting impression off each other at the gym! He was relieved to unwind after a long day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:75
+The work of a carpenter is rizespeuping bernly. Whitefield is a nurse. The work of a nurse is sombling enrinkmically. Magers is a carpenter. Magers and Whitefield ran into each other at the book store. One can get started with reading here in many ways! After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:76
+Fishburn is a carpenter. Wasielewski is an electrician. The work of a carpenter is rizespeuping bernly. The work of an electrician is consersiving odmeraindly. Fishburn and Wasielewski started a conversation at the bar crawl. Tours can provide with an opportunity to meet foreigners. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:77
+Levering is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a lifeguard is extleaning podonducly. Fleischer is a lifeguard. At the rock climbing gym, Levering and Fleischer came across each other. The gym is located in the same building as the famous Old Glory training ground. Ey was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:78
+The work of a farmer is kuinding toorbickly. The work of a stocking associate is deperving wonly. Remigio is a farmer. Askew is a stocking associate. Remigio and Askew connected at the community garden. On the south side, in the woods along the corner of St. Rose and West Broadway, a long wooden fence runs along a line of woods over a raised road. After a long day at work deperving wonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:79
+The work of an optician is barraking amolly. Urrea is an optician. The work of a translator is dernfewing geneurifily. Mcgaha is a translator. At the beach, Urrea and Mcgaha started a conversation. The beach is full of birds. He was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:80
+Marmol is a lifeguard. The work of a lifeguard is extleaning podonducly. Sweeney is a carpenter. The work of a carpenter is rizespeuping bernly. At the piano class, Marmol and Sweeney came across each other. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. After a long day at work rizespeuping bernly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:81
+Knoblauch is a bricklayer. The work of a bricklayer is rethiling orsuly. Mancia is a nurse. The work of a nurse is sombling enrinkmically. Knoblauch and Mancia ran into each other at the evening language class. The classes usually begin before work. After a long day at work sombling enrinkmically, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:82
+The work of a mechanic is ipsoring celmonly. Hite is a mechanic. The work of a chef is snelicing weltaskly. Grams is a chef. Grams and Hite ran into each other at the sports bar. The coffee cake is quite good. After a long day at work ipsoring celmonly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:83
+Oates is a customer service representative. Bergerson is a carpenter. The work of a carpenter is rizespeuping bernly. The work of a customer service representative is evengimeing nougusly. At the walking tour, Oates and Bergerson started a conversation. In a foreign land, the first stop should always be a tour. After a long day at work evengimeing nougusly, ze was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:84
+Sprouse is a teacher. Vezina is a photographer. The work of a photographer is juabeing klaierly. The work of a teacher is hammenting quinlenely. Vezina and Sprouse ran into each other at the cafe. The beer is excellent. After a long day at work hammenting quinlenely, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:85
+The work of a customer service representative is evengimeing nougusly. Ros is a customer service representative. Lutz is a politician. The work of a politician is backminguing tourderly. Lutz and Ros ran into each other at the private club. The food here is very tasty. He was relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:86
+The work of an astronomer is galmaunting induancingly. The work of a bookkeeper is exmeting coenoguly. Reichardt is an astronomer. Hoglund is a bookkeeper. Reichardt and Hoglund connected at the archery class. Classes use tasks which are very common and have multiple modules. After a long day at work galmaunting induancingly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:87
+Porcelli is an actor. Dunn is a travel agent. The work of a travel agent is momdresining namisly. The work of an actor is bonsing caply. Porcelli and Dunn ran into each other at the book club. Book clubs have like - minded people talking about all kinds of books. He was relieved to unwind after a demanding day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:88
+Suhr is an actor. The work of an actor is bonsing caply. Orban is a photographer. The work of a photographer is juabeing klaierly. Suhr and Orban ran into each other at the carpool. Public transportation is good for daily commutes. Ze was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:89
+The work of a politician is backminguing tourderly. The work of a bookkeeper is exmeting coenoguly. Guan is a politician. Waldner is a bookkeeper. At the school sports event, Waldner and Guan started a conversation. Many of the events are very popular in the city. He was relieved to unwind after a long day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:90
+The work of a lifeguard is extleaning podonducly. Kinnear is a lifeguard. The work of a carpenter is rizespeuping bernly. Robison is a carpenter. At the cafe, Robison and Kinnear came across each other. The food here has some of the best food in the city. He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:91
+Davalos is an electrician. The work of an electrician is consersiving odmeraindly. The work of a teacher is hammenting quinlenely. Puls is a teacher. At the bar crawl, Davalos and Puls started a conversation. Tours help one discover the city. They were relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:92
+Ciaccio is a politician. Guimond is an optician. The work of an optician is barraking amolly. The work of a politician is backminguing tourderly. Ciaccio and Guimond started a conversation at the power yoga class. The yoga class lasts around 24 - 27 minutes. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:93
+Lower is an electrician. The work of an electrician is consersiving odmeraindly. Bomberger is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. At the archery class, Lower and Bomberger started a conversation. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. After a long day at work exmeting coenoguly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:94
+The work of a bookkeeper is exmeting coenoguly. Crandall is a bookkeeper. The work of a mechanic is ipsoring celmonly. Ehrman is a mechanic. At the yoga studio, Ehrman and Crandall came across each other. It is helpful to break the ice and bring more calm back. She was relieved to unwind after a long day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:95
+The work of a mechanic is ipsoring celmonly. Behringer is a mechanic. The work of a stocking associate is deperving wonly. Ziemba is a stocking associate. Behringer and Ziemba ran into each other at the book store. Readers may read more books on a particular topic. She was relieved to unwind after a long day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:96
+The work of a photographer is juabeing klaierly. Ahearn is a photographer. Ansari is a politician. The work of a politician is backminguing tourderly. Ahearn and Ansari ran into each other at the rock climbing gym. The idea of a one - minute plank can be daunting for many people here! He was relieved to unwind after a demanding day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:97
+Beason is a stocking associate. The work of an author is pesitlelling sonozously. The work of a stocking associate is deperving wonly. Mcbride is an author. Mcbride and Beason connected at the community garden. The park is good. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:98
+Lafrance is a mechanic. The work of a mechanic is ipsoring celmonly. The work of an electrician is consersiving odmeraindly. Gauger is an electrician. At the rock climbing gym, Lafrance and Gauger started a conversation. The gym is located in Yap in Taipei, China and is the world's biggest gymnasium of its kind. After a long day at work ipsoring celmonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:99
+The work of a farmer is kuinding toorbickly. The work of a lifeguard is extleaning podonducly. Palencia is a farmer. Srinivasan is a lifeguard. Palencia and Srinivasan connected at the private club. The place is the first stop on the way to the park. He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:100
+Mancini is a customer service representative. The work of a stocking associate is deperving wonly. The work of a customer service representative is evengimeing nougusly. Gatling is a stocking associate. At the paintball courses, Mancini and Gatling came across each other. Classes take place every week at the downtown campus. He was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:101
+The work of a teacher is hammenting quinlenely. The work of a mechanic is ipsoring celmonly. Bail is a teacher. Mayor is a mechanic. At the beer making classes, Mayor and Bail started a conversation. The classes sometimes have "class" games. She was relieved to unwind after a long day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:102
+The work of a nurse is sombling enrinkmically. Steinberg is a nurse. Kirst is a photographer. The work of a photographer is juabeing klaierly. At the walking tour, Kirst and Steinberg came across each other. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. She was relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:103
+The work of a bricklayer is rethiling orsuly. Ogle is a politician. The work of a politician is backminguing tourderly. Deford is a bricklayer. Ogle and Deford connected at the brewery tour. The tour is coming along in several interesting ways. After a long day at work rethiling orsuly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:104
+Brochu is an author. The work of an author is pesitlelling sonozously. Minix is a carpenter. The work of a carpenter is rizespeuping bernly. At the school sports event, Brochu and Minix came across each other. A lot of people participate in these events! After a long day at work rizespeuping bernly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:105
+The work of an actor is bonsing caply. The work of a nurse is sombling enrinkmically. Southwick is a nurse. Woodberry is an actor. At the cafe, Woodberry and Southwick came across each other. The place was crowded. After a long day at work bonsing caply, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:106
+The work of a chef is snelicing weltaskly. The work of an electrician is consersiving odmeraindly. Mungo is an electrician. Vang is a chef. Vang and Mungo ran into each other at the beach. The beach is very beautiful. He was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:107
+Feldmann is a bricklayer. The work of an author is pesitlelling sonozously. Manahan is an author. The work of a bricklayer is rethiling orsuly. Feldmann and Manahan started a conversation at the walking tour. The tour is held in the small town of Boulogne, North Rhine - Westphalia. After a long day at work rethiling orsuly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:108
+Beauvais is an author. The work of a chef is snelicing weltaskly. Kaminski is a chef. The work of an author is pesitlelling sonozously. Kaminski and Beauvais connected at the archery class. It is easy to find and enjoy the classes. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:109
+The work of a chef is snelicing weltaskly. Reaves is a travel agent. Fetty is a chef. The work of a travel agent is momdresining namisly. Reaves and Fetty connected at the rock climbing gym. The idea of a one - minute plank can be daunting for many people here! After a long day at work momdresining namisly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:110
+The work of a carpenter is rizespeuping bernly. The work of a chef is snelicing weltaskly. Brummett is a chef. Burket is a carpenter. At the local reading, Burket and Brummett started a conversation. There are ways to find the great websites out there. After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:111
+Pellerin is a teacher. The work of a translator is dernfewing geneurifily. The work of a teacher is hammenting quinlenely. Warnke is a translator. At the business meet, Warnke and Pellerin started a conversation. The event is free and open to all people. He was relieved to unwind after a demanding day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:112
+The work of a bookkeeper is exmeting coenoguly. The work of a lifeguard is extleaning podonducly. Hoxie is a bookkeeper. Poulson is a lifeguard. At the local reading, Hoxie and Poulson started a conversation. It is a great way to stay organized for the first time! He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:113
+Hardiman is a customer service representative. The work of an actor is bonsing caply. The work of a customer service representative is evengimeing nougusly. Holding is an actor. At the community garden, Hardiman and Holding started a conversation. The park is very green and refreshing. They were relieved to unwind after a demanding day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:114
+Nakamura is an astronomer. The work of a photographer is juabeing klaierly. Weathers is a photographer. The work of an astronomer is galmaunting induancingly. Weathers and Nakamura ran into each other at the social community gathering. The community is a small group that engages at the community level to achieve great social and cultural well - being. They were relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:115
+Bosch is a carpenter. The work of an astronomer is galmaunting induancingly. Hansford is an astronomer. The work of a carpenter is rizespeuping bernly. Hansford and Bosch ran into each other at the book store. Book clubs have like - minded people talking about all kinds of books. After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:116
+Tasker is an optician. The work of an optician is barraking amolly. The work of a customer service representative is evengimeing nougusly. Owensby is a customer service representative. At the paintball courses, Tasker and Owensby came across each other. It is easy to find and enjoy the classes. He was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:117
+The work of a lifeguard is extleaning podonducly. The work of a teacher is hammenting quinlenely. Meneses is a teacher. Hartle is a lifeguard. Hartle and Meneses connected at the paintball courses. The class has interesting sessions. After a long day at work hammenting quinlenely, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:118
+The work of an author is pesitlelling sonozously. The work of a nurse is sombling enrinkmically. Hoffer is a nurse. Dufault is an author. Hoffer and Dufault connected at the book store. If there are a lot of books then one does n't need to go to a book club. After a long day at work sombling enrinkmically, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:119
+Polak is a chef. Tokarz is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a chef is snelicing weltaskly. Tokarz and Polak started a conversation at the fundraiser. A lot of people participate in these events! After a long day at work ipsoring celmonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:120
+Herron is a stocking associate. Witte is an actor. The work of an actor is bonsing caply. The work of a stocking associate is deperving wonly. Herron and Witte ran into each other at the carpool. Each public bus will have a fixed schedule. She was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:121
+The work of a lifeguard is extleaning podonducly. The work of a bricklayer is rethiling orsuly. Riehle is a lifeguard. Chee is a bricklayer. At the grocery store, Riehle and Chee came across each other. The market is divided into sub-markets. She was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:122
+Clemmer is a politician. The work of a politician is backminguing tourderly. The work of an actor is bonsing caply. Sease is an actor. At the trivia night, Sease and Clemmer came across each other. These events and events help the local community become more active, and the whole community grows through these programs. He was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:123
+The work of an optician is barraking amolly. Beadles is an optician. Drawdy is a farmer. The work of a farmer is kuinding toorbickly. Drawdy and Beadles connected at the community garden. There is a lot of green. It really does n't matter where one looks! She was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:124
+The work of a mechanic is ipsoring celmonly. Rinaldi is a mechanic. Sobolewski is an optician. The work of an optician is barraking amolly. At the brewery tour, Sobolewski and Rinaldi came across each other. Tours can provide with an opportunity to meet foreigners. He was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:125
+The work of an optician is barraking amolly. Banda is an optician. The work of a translator is dernfewing geneurifily. Otey is a translator. At the bar crawl, Otey and Banda started a conversation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:126
+The work of a bookkeeper is exmeting coenoguly. The work of an optician is barraking amolly. Chee is an optician. Wada is a bookkeeper. At the brewery tour, Wada and Chee came across each other. Tours show all the important places in a city. She was relieved to unwind after a long day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:127
+The work of a translator is dernfewing geneurifily. Harkins is an optician. The work of an optician is barraking amolly. Wohlgemuth is a translator. At the trivia night, Wohlgemuth and Harkins started a conversation. It is a very informal and there is no money to spend on these events. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:128
+The work of an astronomer is galmaunting induancingly. The work of an actor is bonsing caply. Bal is an actor. Nieto is an astronomer. At the rock climbing gym, Bal and Nieto started a conversation. The gym is located in Yap in Taipei, China and is the world's biggest gymnasium of its kind. He was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:129
+Midkiff is a chef. Cassella is an actor. The work of a chef is snelicing weltaskly. The work of an actor is bonsing caply. Midkiff and Cassella ran into each other at the business meet. This event is to help make the community a better place. He was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:130
+Kost is an astronomer. Feinberg is a nurse. The work of a nurse is sombling enrinkmically. The work of an astronomer is galmaunting induancingly. Feinberg and Kost connected at the trivia night. Many of the events are very popular in the city. She was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:131
+The work of an author is pesitlelling sonozously. Salvo is a nurse. Yip is an author. The work of a nurse is sombling enrinkmically. Yip and Salvo started a conversation at the hotel. A great, comfortable location for a relaxed bar. After a long day at work sombling enrinkmically, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:132
+Mcnair is a customer service representative. Traina is a mechanic. The work of a customer service representative is evengimeing nougusly. The work of a mechanic is ipsoring celmonly. At the community garden, Mcnair and Traina came across each other. The park is super crowded. After a long day at work ipsoring celmonly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:133
+Olguin is a bricklayer. The work of a bricklayer is rethiling orsuly. Smithey is a customer service representative. The work of a customer service representative is evengimeing nougusly. At the yoga studio, Smithey and Olguin came across each other. The yoga program provides support and encouragement. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:134
+Paulsen is a politician. Alday is an author. The work of a politician is backminguing tourderly. The work of an author is pesitlelling sonozously. Alday and Paulsen connected at the beach. The beach is just right, the ocean is n't too big, people and the sun are always just right. He was relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:135
+Vrabel is a politician. The work of a politician is backminguing tourderly. The work of a farmer is kuinding toorbickly. Kaster is a farmer. At the evening language class, Vrabel and Kaster came across each other. Classes use tasks which are very common and have multiple modules. He was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:136
+The work of an optician is barraking amolly. The work of a farmer is kuinding toorbickly. Tennant is a farmer. Sylvain is an optician. Tennant and Sylvain started a conversation at the hotel. It is a quiet spot to hang out, it would definitely leave people satisfied. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:137
+Topp is a farmer. Grondin is a carpenter. The work of a farmer is kuinding toorbickly. The work of a carpenter is rizespeuping bernly. Topp and Grondin started a conversation at the private club. The coffee cake is quite good. He was relieved to unwind after a long day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:138
+The work of a customer service representative is evengimeing nougusly. The work of an electrician is consersiving odmeraindly. Officer is a customer service representative. Damiani is an electrician. At the grocery store, Officer and Damiani started a conversation. The market is open to all genders and ages. He was relieved to unwind after a demanding day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:139
+The work of an author is pesitlelling sonozously. The work of a carpenter is rizespeuping bernly. Carollo is an author. Farrelly is a carpenter. Carollo and Farrelly ran into each other at the street fair. It is a very informal and there is no money to spend on these events. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:140
+Diederich is an astronomer. The work of an astronomer is galmaunting induancingly. The work of a nurse is sombling enrinkmically. Telles is a nurse. At the street fair, Telles and Diederich started a conversation. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work sombling enrinkmically, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:141
+Landa is a bricklayer. The work of a customer service representative is evengimeing nougusly. The work of a bricklayer is rethiling orsuly. Mosely is a customer service representative. Landa and Mosely started a conversation at the private club. The place was crowded. He was relieved to unwind after a demanding day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:142
+The work of a stocking associate is deperving wonly. The work of an optician is barraking amolly. Mastrangelo is a stocking associate. Kuss is an optician. At the street fair, Kuss and Mastrangelo started a conversation. Many of the events are very popular in the city. She was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:143
+Combs is an author. The work of an author is pesitlelling sonozously. The work of an optician is barraking amolly. Brecht is an optician. At the park, Combs and Brecht started a conversation. All the flowers in the park are so nice. She was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:144
+The work of an electrician is consersiving odmeraindly. Ducharme is an electrician. The work of a lifeguard is extleaning podonducly. Tamayo is a lifeguard. At the cafe, Ducharme and Tamayo started a conversation. The other beverages served here are ok. She was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:145
+The work of a politician is backminguing tourderly. The work of an electrician is consersiving odmeraindly. Lineberger is a politician. Switzer is an electrician. Lineberger and Switzer connected at the paintball courses. The class is extremely motivating. Ze was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:146
+The work of an electrician is consersiving odmeraindly. Deppe is a bookkeeper. Haugen is an electrician. The work of a bookkeeper is exmeting coenoguly. Deppe and Haugen connected at the cafe. The food here is very tasty. She was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:147
+Magness is an actor. The work of a translator is dernfewing geneurifily. Hammock is a translator. The work of an actor is bonsing caply. Magness and Hammock ran into each other at the community service day event. It is important to work together. He was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:148
+The work of a farmer is kuinding toorbickly. Fishburn is a farmer. The work of a nurse is sombling enrinkmically. Cobbs is a nurse. Cobbs and Fishburn connected at the paintball courses. The classes sometimes have "class" games. After a long day at work sombling enrinkmically, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:149
+The work of a nurse is sombling enrinkmically. Rebollar is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. Kopecky is a nurse. At the happy hours, Kopecky and Rebollar started a conversation. The drinks are served on time. After a long day at work sombling enrinkmically, ey was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:150
+Hutchison is an actor. Strother is a politician. The work of an actor is bonsing caply. The work of a politician is backminguing tourderly. Hutchison and Strother connected at the grocery store. Markets exhibit antiques, collectors' items or anything else of value and interest. He was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:151
+Meszaros is an optician. The work of a politician is backminguing tourderly. Leal is a politician. The work of an optician is barraking amolly. At the charity car wash, Leal and Meszaros started a conversation. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:152
+Neumann is a bookkeeper. The work of a customer service representative is evengimeing nougusly. The work of a bookkeeper is exmeting coenoguly. Serrato is a customer service representative. Serrato and Neumann ran into each other at the paintball courses. Classes have a special event called a "Shuffle Jam". She was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:153
+The work of an actor is bonsing caply. Sarno is an author. Azevedo is an actor. The work of an author is pesitlelling sonozously. Azevedo and Sarno started a conversation at the rock climbing gym. The men and women of all age groups are welcome at the gym! She was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:154
+Quinones is an electrician. The work of a translator is dernfewing geneurifily. Beemer is a translator. The work of an electrician is consersiving odmeraindly. Quinones and Beemer ran into each other at the rock climbing gym. It's a perfect place to get a new look. He was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:155
+Jenks is a lifeguard. The work of a lifeguard is extleaning podonducly. The work of an electrician is consersiving odmeraindly. Cosgrove is an electrician. At the piano class, Jenks and Cosgrove started a conversation. Every class takes 7 to 13 minutes or more to become complete. They were relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:156
+Blackstone is a teacher. The work of an astronomer is galmaunting induancingly. Ridgway is an astronomer. The work of a teacher is hammenting quinlenely. At the happy hours, Ridgway and Blackstone came across each other. The atmosphere was nice. After a long day at work hammenting quinlenely, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:157
+Reisman is a politician. The work of a politician is backminguing tourderly. The work of a translator is dernfewing geneurifily. Smidt is a translator. At the street fair, Reisman and Smidt came across each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work dernfewing geneurifily, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:158
+The work of a mechanic is ipsoring celmonly. The work of a bricklayer is rethiling orsuly. Lazzara is a mechanic. Haydel is a bricklayer. Lazzara and Haydel started a conversation at the piano class. The class has interesting sessions. He was relieved to unwind after a long day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:159
+Andreasen is a farmer. Devita is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a farmer is kuinding toorbickly. Andreasen and Devita ran into each other at the bar crawl. The tour is an essential part of a growing number of South African children entering the profession. After a long day at work ipsoring celmonly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:160
+The work of an astronomer is galmaunting induancingly. The work of a chef is snelicing weltaskly. Hooker is a chef. Slusser is an astronomer. Slusser and Hooker connected at the trivia night. It has been said that all the different cultural events can be fun! She was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:161
+Germano is a stocking associate. The work of a stocking associate is deperving wonly. The work of a chef is snelicing weltaskly. Creekmore is a chef. Creekmore and Germano connected at the brewery tour. The tour is slated to be held in Austin, Texas on May 2, where a new venue, The Art of Improvisation, will be announced. After a long day at work deperving wonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:162
+Stokes is a bricklayer. Gaskill is a chef. The work of a chef is snelicing weltaskly. The work of a bricklayer is rethiling orsuly. At the piano class, Stokes and Gaskill started a conversation. Classes provide fun and challenge. After a long day at work snelicing weltaskly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:163
+The work of a farmer is kuinding toorbickly. Pinter is a farmer. Pentecost is a chef. The work of a chef is snelicing weltaskly. At the public transport, Pentecost and Pinter came across each other. Many routes and public lanes will see changes and closures within the next year. She was relieved to unwind after a long day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:164
+Pearlman is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of an optician is barraking amolly. Whitmore is an optician. At the brewery tour, Whitmore and Pearlman came across each other. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. They were relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:165
+Bergerson is an electrician. Hanrahan is a farmer. The work of an electrician is consersiving odmeraindly. The work of a farmer is kuinding toorbickly. Bergerson and Hanrahan connected at the charity car wash. It takes time to develop the cultural component of a event, particularly in an already huge city. Ze was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:166
+The work of a stocking associate is deperving wonly. Carrizales is a stocking associate. The work of a teacher is hammenting quinlenely. Mayor is a teacher. At the private club, Carrizales and Mayor came across each other. The spot is located just a short walk away from the main park. She was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:167
+The work of a mechanic is ipsoring celmonly. The work of a travel agent is momdresining namisly. Parlier is a mechanic. Reich is a travel agent. Parlier and Reich started a conversation at the museum. The museum has many ancient things. She was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:168
+Speranza is a travel agent. The work of a stocking associate is deperving wonly. The work of a travel agent is momdresining namisly. Bornstein is a stocking associate. Speranza and Bornstein connected at the street fair. It is a very informal and there is no money to spend on these events. He was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:169
+Mccaleb is a teacher. The work of a mechanic is ipsoring celmonly. The work of a teacher is hammenting quinlenely. Burley is a mechanic. At the local reading, Mccaleb and Burley started a conversation. Just show up, book on the night, talk or do the next talk. After a long day at work hammenting quinlenely, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:170
+The work of a politician is backminguing tourderly. The work of a mechanic is ipsoring celmonly. Nordquist is a politician. Yorke is a mechanic. At the museum, Nordquist and Yorke started a conversation. It is nice to visit the ruins of ancient cities mentioned there. These are very unique places, and museums have to give us some special insight. She was relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:171
+The work of an optician is barraking amolly. The work of a translator is dernfewing geneurifily. Voight is a translator. Kershaw is an optician. Kershaw and Voight started a conversation at the business meet. It is being held to commemorate the 70's and 80's people. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:172
+The work of a travel agent is momdresining namisly. Sessoms is a travel agent. Mulford is a politician. The work of a politician is backminguing tourderly. At the book store, Sessoms and Mulford started a conversation. This is the best way to find out what more people want to know about reading trends. She was relieved to unwind after a demanding day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:173
+The work of an actor is bonsing caply. Thornley is a lifeguard. Oubre is an actor. The work of a lifeguard is extleaning podonducly. Thornley and Oubre started a conversation at the museum. This museum and art is what we need more of. She was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:174
+The work of a bricklayer is rethiling orsuly. The work of an optician is barraking amolly. Leclerc is a bricklayer. Mabie is an optician. At the cafe, Mabie and Leclerc came across each other. There are a lot of vegetarian food options here. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:175
+Talavera is a travel agent. The work of a mechanic is ipsoring celmonly. The work of a travel agent is momdresining namisly. Havens is a mechanic. At the rock climbing gym, Talavera and Havens started a conversation. After doing some exercise, it is recommended to go home, take a hot shower and give the body some rest. He was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:176
+Arwood is a translator. The work of an optician is barraking amolly. Geier is an optician. The work of a translator is dernfewing geneurifily. Geier and Arwood ran into each other at the paintball courses. The class is fun! He was relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:177
+The work of an optician is barraking amolly. Nunnally is a bricklayer. Harkins is an optician. The work of a bricklayer is rethiling orsuly. Harkins and Nunnally connected at the group vacation. Tours help one discover the city. They were relieved to unwind after a long day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:178
+Coviello is a customer service representative. The work of a translator is dernfewing geneurifily. Veach is a translator. The work of a customer service representative is evengimeing nougusly. Veach and Coviello ran into each other at the beer making classes. Classes have a special event called a "Shuffle Jam". She was relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:179
+The work of a bricklayer is rethiling orsuly. Bellows is a travel agent. Goulet is a bricklayer. The work of a travel agent is momdresining namisly. At the archery class, Bellows and Goulet came across each other. The class has interesting sessions. She was relieved to unwind after a long day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:180
+Schoolcraft is a bricklayer. The work of a carpenter is rizespeuping bernly. Maricle is a carpenter. The work of a bricklayer is rethiling orsuly. Maricle and Schoolcraft ran into each other at the paintball courses. All the group members have the freedom to get together. Ey was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:181
+Groff is a carpenter. The work of a nurse is sombling enrinkmically. The work of a carpenter is rizespeuping bernly. Kamm is a nurse. At the carpool, Kamm and Groff started a conversation. Transportation by subway takes a few minutes to walk about the city. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:182
+Polzin is a nurse. The work of a photographer is juabeing klaierly. Chiang is a photographer. The work of a nurse is sombling enrinkmically. Chiang and Polzin started a conversation at the beer making classes. Classes use tasks which are very common and have multiple modules. He was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:183
+The work of a lifeguard is extleaning podonducly. Fruge is a mechanic. Wiggin is a lifeguard. The work of a mechanic is ipsoring celmonly. At the community garden, Wiggin and Fruge came across each other. The park has a lot of gardens. After a long day at work extleaning podonducly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:184
+The work of a farmer is kuinding toorbickly. Koval is a farmer. The work of a carpenter is rizespeuping bernly. Howe is a carpenter. At the party, Howe and Koval started a conversation. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. After a long day at work kuinding toorbickly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:185
+Haga is an astronomer. Chatelain is a politician. The work of an astronomer is galmaunting induancingly. The work of a politician is backminguing tourderly. Chatelain and Haga connected at the school sports event. Participation is the best way is to get the most out of these festivals! He was relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:186
+Sauls is a photographer. The work of a photographer is juabeing klaierly. Ehrlich is a bricklayer. The work of a bricklayer is rethiling orsuly. Sauls and Ehrlich connected at the beach. The beach is full of birds. After a long day at work juabeing klaierly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:187
+Declue is a bricklayer. The work of a teacher is hammenting quinlenely. Lukens is a teacher. The work of a bricklayer is rethiling orsuly. Lukens and Declue connected at the evening language class. A new class starts with a fun and unique theme! After a long day at work hammenting quinlenely, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:188
+Hannigan is an electrician. The work of an author is pesitlelling sonozously. The work of an electrician is consersiving odmeraindly. Mercado is an author. Hannigan and Mercado connected at the carpool. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. She was relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:189
+The work of a politician is backminguing tourderly. Engler is a politician. Aldama is an electrician. The work of an electrician is consersiving odmeraindly. Aldama and Engler ran into each other at the trivia night. These events and events help the local community become more active, and the whole community grows through these programs. She was relieved to unwind after a demanding day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:190
+The work of a translator is dernfewing geneurifily. The work of an actor is bonsing caply. Nourse is a translator. Wilding is an actor. Wilding and Nourse connected at the carpool. Public transportation will have increased transit times. They were relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:191
+Middlebrook is a teacher. Meck is a nurse. The work of a nurse is sombling enrinkmically. The work of a teacher is hammenting quinlenely. At the book club, Middlebrook and Meck came across each other. Readers may read more books on a particular topic. He was relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:192
+Tippett is a farmer. Treece is a carpenter. The work of a carpenter is rizespeuping bernly. The work of a farmer is kuinding toorbickly. At the street fair, Tippett and Treece came across each other. Festivals are normally conducted as cultural events. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:193
+Hogue is an optician. The work of an optician is barraking amolly. Mcpeak is a nurse. The work of a nurse is sombling enrinkmically. Hogue and Mcpeak ran into each other at the archery class. The class is extremely motivating. She was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:194
+Ammons is a teacher. Criddle is a mechanic. The work of a teacher is hammenting quinlenely. The work of a mechanic is ipsoring celmonly. At the fundraiser, Criddle and Ammons came across each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work ipsoring celmonly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:195
+The work of a farmer is kuinding toorbickly. Paramo is a farmer. Swartz is a chef. The work of a chef is snelicing weltaskly. At the power yoga class, Paramo and Swartz started a conversation. The more people learn and practice yoga, the happier they will be with their life and career. After a long day at work kuinding toorbickly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:196
+The work of a bookkeeper is exmeting coenoguly. The work of a lifeguard is extleaning podonducly. Lindo is a bookkeeper. Piercy is a lifeguard. Lindo and Piercy connected at the public transport. Public transport is environmentally sustainable. She was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:197
+Salyer is an astronomer. The work of an astronomer is galmaunting induancingly. The work of a carpenter is rizespeuping bernly. Sinn is a carpenter. Sinn and Salyer ran into each other at the public transport. Public transport is environmentally sustainable. He was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:198
+Stgeorge is a bricklayer. Belmonte is a chef. The work of a bricklayer is rethiling orsuly. The work of a chef is snelicing weltaskly. Belmonte and Stgeorge ran into each other at the community service day event. The service is what all the people have been working to do. Ey was relieved to unwind after a long day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:199
+Tomberlin is a translator. The work of a travel agent is momdresining namisly. The work of a translator is dernfewing geneurifily. Drozd is a travel agent. Drozd and Tomberlin connected at the community service day event. The service is what all the people have been working to do. After a long day at work dernfewing geneurifily, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:200
+Licht is a translator. Pasternak is an electrician. The work of a translator is dernfewing geneurifily. The work of an electrician is consersiving odmeraindly. Licht and Pasternak ran into each other at the park. The park is good. He was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:201
+Shaner is a carpenter. Mccraney is an actor. The work of a carpenter is rizespeuping bernly. The work of an actor is bonsing caply. Mccraney and Shaner started a conversation at the local reading. If there are a lot of books then one does n't need to go to a book club. She was relieved to unwind after a demanding day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:202
+The work of a lifeguard is extleaning podonducly. Arocho is a customer service representative. Baughn is a lifeguard. The work of a customer service representative is evengimeing nougusly. At the sports bar, Arocho and Baughn started a conversation. The place is the first stop on the way to the park. He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:203
+The work of a photographer is juabeing klaierly. The work of an author is pesitlelling sonozously. Bartlett is an author. Primus is a photographer. Primus and Bartlett connected at the sports bar. The place is nice. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:204
+The work of an author is pesitlelling sonozously. Biederman is an author. Millen is a mechanic. The work of a mechanic is ipsoring celmonly. At the archery class, Biederman and Millen started a conversation. People should check out the classes online, it wo n't be boring! After a long day at work ipsoring celmonly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:205
+Session is an electrician. The work of a customer service representative is evengimeing nougusly. Mcmath is a customer service representative. The work of an electrician is consersiving odmeraindly. At the piano class, Session and Mcmath came across each other. It's a huge place! After a long day at work consersiving odmeraindly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:206
+Mcnair is a lifeguard. The work of a chef is snelicing weltaskly. Dowell is a chef. The work of a lifeguard is extleaning podonducly. At the private club, Dowell and Mcnair started a conversation. The beer is excellent. He was relieved to unwind after a demanding day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:207
+Landa is a nurse. The work of a nurse is sombling enrinkmically. Shepardson is a teacher. The work of a teacher is hammenting quinlenely. At the evening language class, Landa and Shepardson came across each other. People should check out the classes online, it wo n't be boring! After a long day at work sombling enrinkmically, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:208
+The work of an author is pesitlelling sonozously. Kirkman is an optician. Tawil is an author. The work of an optician is barraking amolly. Kirkman and Tawil ran into each other at the museum. The museum has art exhibitions sometimes. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:209
+The work of a lifeguard is extleaning podonducly. The work of a nurse is sombling enrinkmically. Katz is a lifeguard. Mix is a nurse. Mix and Katz started a conversation at the business meet. This event is to help make the community a better place. They were relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:210
+Font is a farmer. The work of a farmer is kuinding toorbickly. The work of a stocking associate is deperving wonly. Rieman is a stocking associate. At the brewery tour, Rieman and Font started a conversation. The tour is held in the small town of Boulogne, North Rhine - Westphalia. He was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:211
+The work of a teacher is hammenting quinlenely. Rohde is a teacher. The work of a stocking associate is deperving wonly. Alatorre is a stocking associate. Alatorre and Rohde connected at the cafe. People ca n't be too disappointed at the spot for cheap coffee. Ze was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:212
+The work of a bookkeeper is exmeting coenoguly. The work of a bricklayer is rethiling orsuly. Tietz is a bookkeeper. Petrie is a bricklayer. At the park, Tietz and Petrie started a conversation. Most of the time people just sit here watching the birds or the dogs. He was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:213
+The work of a politician is backminguing tourderly. Vanderveer is a politician. The work of a translator is dernfewing geneurifily. Arevalo is a translator. Vanderveer and Arevalo started a conversation at the sports bar. The beer is excellent. He was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:214
+The work of a carpenter is rizespeuping bernly. Bretz is a photographer. Macedo is a carpenter. The work of a photographer is juabeing klaierly. Bretz and Macedo connected at the sports bar. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:215
+The work of a bookkeeper is exmeting coenoguly. Peinado is a customer service representative. The work of a customer service representative is evengimeing nougusly. Ju is a bookkeeper. Peinado and Ju ran into each other at the power yoga class. In the yoga class, people do n't have to leave their rooms or stand on a chair. He was relieved to unwind after a long day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:216
+Gaylor is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a nurse is sombling enrinkmically. Mcintosh is a nurse. Gaylor and Mcintosh started a conversation at the happy hours. The place is the first stop on the way to the park. She was relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:217
+The work of an actor is bonsing caply. Skiba is an optician. Orr is an actor. The work of an optician is barraking amolly. Skiba and Orr connected at the local reading. Book clubs have like - minded people talking about all kinds of books. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:218
+Rojo is a carpenter. The work of an electrician is consersiving odmeraindly. Luker is an electrician. The work of a carpenter is rizespeuping bernly. Luker and Rojo connected at the school sports event. The main reason for visiting these places is to explore new areas of the city. After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:219
+Olivarez is an astronomer. The work of a chef is snelicing weltaskly. Goss is a chef. The work of an astronomer is galmaunting induancingly. Olivarez and Goss ran into each other at the community garden. The water is very good and clean. She was relieved to unwind after a demanding day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:220
+The work of an astronomer is galmaunting induancingly. Mulford is an astronomer. The work of a carpenter is rizespeuping bernly. Partington is a carpenter. Partington and Mulford ran into each other at the school sports event. The festival is run by the United Methodist Church. She was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:221
+The work of a politician is backminguing tourderly. The work of a photographer is juabeing klaierly. Cunningham is a photographer. Line is a politician. Cunningham and Line ran into each other at the yoga studio. It is helpful to break the ice and bring more calm back. He was relieved to unwind after a long day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:222
+Suda is a travel agent. Wickline is a politician. The work of a politician is backminguing tourderly. The work of a travel agent is momdresining namisly. Suda and Wickline ran into each other at the park. The park is very green and refreshing. He was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:223
+The work of a photographer is juabeing klaierly. Peterman is a photographer. Rothenberg is a politician. The work of a politician is backminguing tourderly. Rothenberg and Peterman connected at the community service day event. We have to work together through different platforms. She was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:224
+Tennis is a mechanic. Baumann is a lifeguard. The work of a lifeguard is extleaning podonducly. The work of a mechanic is ipsoring celmonly. Tennis and Baumann started a conversation at the bar crawl. In a foreign land, the first stop should always be a tour. He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:225
+Fiedler is a mechanic. Steinmetz is an actor. The work of a mechanic is ipsoring celmonly. The work of an actor is bonsing caply. Fiedler and Steinmetz ran into each other at the paintball courses. Classes are well organized. She was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:226
+The work of a farmer is kuinding toorbickly. The work of an author is pesitlelling sonozously. Mayen is a farmer. Dattilo is an author. Mayen and Dattilo connected at the social community gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. After a long day at work kuinding toorbickly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:227
+Weathers is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. Newport is a stocking associate. The work of a stocking associate is deperving wonly. At the fundraiser, Weathers and Newport came across each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work deperving wonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:228
+Hallum is a politician. The work of a nurse is sombling enrinkmically. Martens is a nurse. The work of a politician is backminguing tourderly. Martens and Hallum connected at the social community gathering. We all live our lives trying to feed each other and the community. He was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:229
+The work of a customer service representative is evengimeing nougusly. The work of a carpenter is rizespeuping bernly. Spradley is a carpenter. Laliberte is a customer service representative. At the grocery store, Laliberte and Spradley came across each other. Markets are usually crowded. She was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:230
+Trevizo is a teacher. Mckissick is an electrician. The work of an electrician is consersiving odmeraindly. The work of a teacher is hammenting quinlenely. At the evening language class, Mckissick and Trevizo came across each other. The class tries to make the course enjoyable. After a long day at work consersiving odmeraindly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:231
+The work of a carpenter is rizespeuping bernly. The work of an optician is barraking amolly. Maio is a carpenter. Goetz is an optician. At the archery class, Goetz and Maio started a conversation. This class has amazing outcomes. She was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:232
+The work of an actor is bonsing caply. The work of an astronomer is galmaunting induancingly. Weissman is an actor. Pippins is an astronomer. At the grocery store, Pippins and Weissman started a conversation. The markets are one of the favorite venues in town. He was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:233
+Raynes is a carpenter. The work of a carpenter is rizespeuping bernly. Schillinger is a farmer. The work of a farmer is kuinding toorbickly. Raynes and Schillinger started a conversation at the happy hours. A great, comfortable location for a relaxed bar. He was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:234
+The work of a carpenter is rizespeuping bernly. Luo is a carpenter. The work of a farmer is kuinding toorbickly. Abbate is a farmer. At the carpool, Abbate and Luo started a conversation. Please note that the bus routes for each vehicle are subject to change while they are in operation. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:235
+Puig is an actor. Gatson is an author. The work of an actor is bonsing caply. The work of an author is pesitlelling sonozously. Puig and Gatson started a conversation at the local reading. In the book - club, one can choose to spend time with friends who want books. He was relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:236
+Purdue is a stocking associate. The work of a translator is dernfewing geneurifily. The work of a stocking associate is deperving wonly. Laskowski is a translator. Laskowski and Purdue ran into each other at the social community gathering. We all live our lives trying to feed each other and the community. After a long day at work dernfewing geneurifily, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:237
+Tokarz is a politician. The work of an astronomer is galmaunting induancingly. Coffer is an astronomer. The work of a politician is backminguing tourderly. At the community garden, Coffer and Tokarz came across each other. The park has many plants and flowers. After a long day at work backminguing tourderly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:238
+The work of a stocking associate is deperving wonly. Ge is a stocking associate. Toothman is a bricklayer. The work of a bricklayer is rethiling orsuly. At the community service day event, Toothman and Ge started a conversation. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:239
+Goodwin is a politician. Bischof is a photographer. The work of a politician is backminguing tourderly. The work of a photographer is juabeing klaierly. Bischof and Goodwin connected at the carpool. The government updated the first error in fares but a second mistake appears in the original version that said free. He was relieved to unwind after a demanding day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:240
+Belair is a customer service representative. Ellenberger is a carpenter. The work of a customer service representative is evengimeing nougusly. The work of a carpenter is rizespeuping bernly. Ellenberger and Belair ran into each other at the carpool. Public transportation will have increased transit times. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:241
+The work of an optician is barraking amolly. Krebs is an optician. Kump is a mechanic. The work of a mechanic is ipsoring celmonly. At the happy hours, Krebs and Kump started a conversation. The spot is located just a short walk away from the main park. He was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:242
+Marlatt is a carpenter. The work of a farmer is kuinding toorbickly. The work of a carpenter is rizespeuping bernly. Dykstra is a farmer. Dykstra and Marlatt started a conversation at the paintball courses. Classes provide fun and challenge. He was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:243
+Rollison is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of a farmer is kuinding toorbickly. Tolleson is a farmer. Rollison and Tolleson connected at the yoga studio. The more people learn and practice yoga, the happier they will be with their life and career. After a long day at work kuinding toorbickly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:244
+The work of an optician is barraking amolly. Seidl is an optician. The work of a nurse is sombling enrinkmically. Witherspoon is a nurse. At the museum, Seidl and Witherspoon started a conversation. The museum has an enormous collection of famous paintings. She was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:245
+Mastin is a travel agent. Brehm is a lifeguard. The work of a travel agent is momdresining namisly. The work of a lifeguard is extleaning podonducly. Mastin and Brehm started a conversation at the private club. A great, comfortable location for a relaxed bar. She was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:246
+The work of a bricklayer is rethiling orsuly. Masood is a nurse. The work of a nurse is sombling enrinkmically. Cover is a bricklayer. At the piano class, Cover and Masood started a conversation. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:247
+The work of an electrician is consersiving odmeraindly. Chadwell is a stocking associate. The work of a stocking associate is deperving wonly. Castro is an electrician. At the archery class, Chadwell and Castro came across each other. Classes have a special event called a "Shuffle Jam". They were relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:248
+The work of an author is pesitlelling sonozously. Eggen is a lifeguard. Lowrey is an author. The work of a lifeguard is extleaning podonducly. Lowrey and Eggen connected at the book store. Book clubs are one of the coolest groups to be a part of. They were relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:249
+The work of a bookkeeper is exmeting coenoguly. The work of an astronomer is galmaunting induancingly. Helle is an astronomer. Sasse is a bookkeeper. Helle and Sasse started a conversation at the club. The coffee cake is quite good. After a long day at work galmaunting induancingly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:250
+The work of a carpenter is rizespeuping bernly. The work of a bookkeeper is exmeting coenoguly. Barreiro is a carpenter. Aultman is a bookkeeper. Aultman and Barreiro connected at the happy hours. The coffee tastes good. After a long day at work rizespeuping bernly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:251
+Bobo is a translator. Sandman is an electrician. The work of a translator is dernfewing geneurifily. The work of an electrician is consersiving odmeraindly. At the book club, Bobo and Sandman started a conversation. Book clubs help expand social circles. After a long day at work dernfewing geneurifily, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:252
+The work of a teacher is hammenting quinlenely. Wiltshire is a lifeguard. Halstead is a teacher. The work of a lifeguard is extleaning podonducly. Wiltshire and Halstead ran into each other at the group vacation. The tour is coming along in several interesting ways. Ze was relieved to unwind after a long day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:253
+The work of a farmer is kuinding toorbickly. Clabaugh is a customer service representative. Slusser is a farmer. The work of a customer service representative is evengimeing nougusly. Clabaugh and Slusser started a conversation at the walking tour. The tours showcase the different activities that people can do. She was relieved to unwind after a long day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:254
+Sandler is a chef. The work of a chef is snelicing weltaskly. The work of a travel agent is momdresining namisly. Pence is a travel agent. At the rock climbing gym, Sandler and Pence started a conversation. The gym is located in the same building as the famous Old Glory training ground. After a long day at work snelicing weltaskly, ze was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:255
+The work of a carpenter is rizespeuping bernly. Lebel is a travel agent. The work of a travel agent is momdresining namisly. Flanagan is a carpenter. Flanagan and Lebel started a conversation at the grocery store. The market is a big source of income for many people. They were relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:256
+Kropf is an electrician. The work of a lifeguard is extleaning podonducly. The work of an electrician is consersiving odmeraindly. Borchers is a lifeguard. At the archery class, Kropf and Borchers started a conversation. The class is fun! He was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:257
+Steadman is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a customer service representative is evengimeing nougusly. Falls is a customer service representative. Falls and Steadman connected at the cafe. The drinks are served on time. After a long day at work ipsoring celmonly, ey was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:258
+Mcbride is a nurse. The work of a politician is backminguing tourderly. Orgeron is a politician. The work of a nurse is sombling enrinkmically. At the trivia night, Mcbride and Orgeron started a conversation. Participation is the best way is to get the most out of these festivals! She was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:259
+The work of a stocking associate is deperving wonly. Gadson is a stocking associate. Koons is a teacher. The work of a teacher is hammenting quinlenely. At the hotel, Gadson and Koons started a conversation. The atmosphere was nice. He was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:260
+Hillyard is an optician. Barrette is a lifeguard. The work of an optician is barraking amolly. The work of a lifeguard is extleaning podonducly. Barrette and Hillyard connected at the grocery store. Markets are full of surprises! She was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:261
+The work of an optician is barraking amolly. Getz is an optician. The work of a teacher is hammenting quinlenely. Clevinger is a teacher. Clevinger and Getz ran into each other at the yoga studio. Meditation is very important to reduce the stress levels. He was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:262
+Thiele is a mechanic. The work of a mechanic is ipsoring celmonly. Woodruff is a photographer. The work of a photographer is juabeing klaierly. At the grocery store, Woodruff and Thiele came across each other. The market is taking shape in Delhi's south to protect food crops from drought and drought - related diseases as the nation is fighting a deadly drought. She was relieved to unwind after a long day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:263
+The work of an author is pesitlelling sonozously. The work of a teacher is hammenting quinlenely. Mizer is a teacher. Northrup is an author. Mizer and Northrup started a conversation at the beer making classes. Classes take place every Friday at 8:00 pm. He was relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:264
+The work of a chef is snelicing weltaskly. Fikes is a chef. The work of a nurse is sombling enrinkmically. Chui is a nurse. At the power yoga class, Chui and Fikes started a conversation. The class starts with a warm - up session. He was relieved to unwind after a demanding day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:265
+Vogl is a nurse. The work of a nurse is sombling enrinkmically. Falbo is a teacher. The work of a teacher is hammenting quinlenely. At the public transport, Falbo and Vogl started a conversation. The public transport can move at all times without interruption. He was relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:266
+The work of a chef is snelicing weltaskly. Chesson is a nurse. Salameh is a chef. The work of a nurse is sombling enrinkmically. At the community garden, Salameh and Chesson came across each other. The park is very green and refreshing. They were relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:267
+The work of a travel agent is momdresining namisly. The work of a bricklayer is rethiling orsuly. Aguilar is a bricklayer. Guan is a travel agent. Guan and Aguilar started a conversation at the community service day event. The community is a small group that engages at the community level to achieve great social and cultural well - being. She was relieved to unwind after a demanding day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:268
+The work of an astronomer is galmaunting induancingly. The work of a customer service representative is evengimeing nougusly. Mrozek is a customer service representative. Trull is an astronomer. Mrozek and Trull ran into each other at the book store. If there are a lot of books then one does n't need to go to a book club. He was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:269
+The work of a farmer is kuinding toorbickly. Feeley is a stocking associate. The work of a stocking associate is deperving wonly. Delcampo is a farmer. Delcampo and Feeley ran into each other at the social community gathering. We all live our lives trying to feed each other and the community. She was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:270
+Newman is a lifeguard. The work of a lifeguard is extleaning podonducly. Kimpel is an electrician. The work of an electrician is consersiving odmeraindly. Kimpel and Newman started a conversation at the local reading. Going to a book club meeting is a good way to learn about a specific book. She was relieved to unwind after a demanding day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:271
+Strandberg is a farmer. The work of a bricklayer is rethiling orsuly. Noto is a bricklayer. The work of a farmer is kuinding toorbickly. At the rock climbing gym, Noto and Strandberg came across each other. The gym is located on the southeast side of the campus, which runs from 10 a.m. to 5 p.m. daily at Lenny's Club. He was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:272
+Pender is an optician. The work of an optician is barraking amolly. The work of an astronomer is galmaunting induancingly. Villicana is an astronomer. Villicana and Pender ran into each other at the yoga studio. People around begin chanting an action which takes about 5 - 10 minutes. She was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:273
+The work of an astronomer is galmaunting induancingly. Foltz is a bricklayer. Mouton is an astronomer. The work of a bricklayer is rethiling orsuly. Foltz and Mouton connected at the fundraiser. A lot of people are always talking and eating together. He was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:274
+The work of a teacher is hammenting quinlenely. Kensinger is a teacher. The work of an actor is bonsing caply. Plaisance is an actor. Kensinger and Plaisance ran into each other at the yoga studio. Meditation is very important to reduce the stress levels. He was relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:275
+The work of a nurse is sombling enrinkmically. Petrella is a photographer. States is a nurse. The work of a photographer is juabeing klaierly. At the business meet, Petrella and States started a conversation. The event is free and open to all people. He was relieved to unwind after a demanding day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:276
+Corella is an electrician. The work of a mechanic is ipsoring celmonly. The work of an electrician is consersiving odmeraindly. Natoli is a mechanic. Natoli and Corella ran into each other at the street fair. The event is free and open to all people. After a long day at work consersiving odmeraindly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:277
+Dechant is an astronomer. The work of an astronomer is galmaunting induancingly. Umanzor is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. Umanzor and Dechant ran into each other at the beach. There is another side of the ocean, in the form of a beach known as a' Pill Road'. He was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:278
+The work of an optician is barraking amolly. Keels is a farmer. Trevizo is an optician. The work of a farmer is kuinding toorbickly. Trevizo and Keels started a conversation at the public transport. The public buses come equipped with the same service options as trains. She was relieved to unwind after a long day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:279
+The work of an electrician is consersiving odmeraindly. Severns is an electrician. The work of a customer service representative is evengimeing nougusly. Behrens is a customer service representative. Severns and Behrens started a conversation at the bar crawl. The tour is held in the small town of Boulogne, North Rhine - Westphalia. She was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:280
+Noto is a stocking associate. The work of a translator is dernfewing geneurifily. The work of a stocking associate is deperving wonly. Gibbens is a translator. At the trivia night, Noto and Gibbens came across each other. It is open to the public. He was relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:281
+The work of an astronomer is galmaunting induancingly. Biehl is an astronomer. Sprenger is a carpenter. The work of a carpenter is rizespeuping bernly. At the community garden, Sprenger and Biehl started a conversation. The park has a running track. After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:282
+The work of an optician is barraking amolly. The work of an actor is bonsing caply. Diener is an optician. Bilbrey is an actor. At the beach, Diener and Bilbrey started a conversation. The beach is dotted with beaches as diverse as Laguna Sunset, Tangerine and the Tilden Islands. After a long day at work barraking amolly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:283
+The work of an optician is barraking amolly. Repp is an optician. The work of a translator is dernfewing geneurifily. Shupp is a translator. Shupp and Repp connected at the sports bar. People ca n't be too disappointed at the spot for cheap coffee. After a long day at work dernfewing geneurifily, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:284
+Vowell is a teacher. The work of an astronomer is galmaunting induancingly. The work of a teacher is hammenting quinlenely. Mo is an astronomer. Mo and Vowell connected at the community service day event. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. They were relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:285
+Mckinnon is an electrician. Lozoya is a farmer. The work of a farmer is kuinding toorbickly. The work of an electrician is consersiving odmeraindly. At the local reading, Lozoya and Mckinnon came across each other. If there are a lot of books then one does n't need to go to a book club. She was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:286
+Eastland is a carpenter. The work of a travel agent is momdresining namisly. Engelmann is a travel agent. The work of a carpenter is rizespeuping bernly. Engelmann and Eastland connected at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:287
+The work of a bricklayer is rethiling orsuly. Krishnan is a bricklayer. The work of a teacher is hammenting quinlenely. Bosch is a teacher. Bosch and Krishnan started a conversation at the social community gathering. The community's support is essential if a community exists to provide for each other. After a long day at work hammenting quinlenely, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:288
+Haner is a politician. Engebretson is an electrician. The work of an electrician is consersiving odmeraindly. The work of a politician is backminguing tourderly. Engebretson and Haner started a conversation at the archery class. The class is fun! He was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:289
+Isham is a customer service representative. Beckner is a carpenter. The work of a customer service representative is evengimeing nougusly. The work of a carpenter is rizespeuping bernly. At the fundraiser, Beckner and Isham came across each other. The festival is run by the United Methodist Church. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:290
+The work of a travel agent is momdresining namisly. The work of an optician is barraking amolly. Ferrier is an optician. Telles is a travel agent. Telles and Ferrier ran into each other at the school sports event. Many of the events are very popular in the city. She was relieved to unwind after a demanding day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:291
+Piro is an optician. Stringfield is an electrician. The work of an electrician is consersiving odmeraindly. The work of an optician is barraking amolly. At the book club, Stringfield and Piro started a conversation. In one case, some people would like to have friends with a friend or find them on a different social media. She was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:292
+Postell is a stocking associate. The work of a farmer is kuinding toorbickly. Herzberg is a farmer. The work of a stocking associate is deperving wonly. Herzberg and Postell connected at the fundraiser. A lot of people participate in these events! After a long day at work deperving wonly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:293
+The work of an astronomer is galmaunting induancingly. Heredia is an astronomer. Slattery is a bricklayer. The work of a bricklayer is rethiling orsuly. At the power yoga class, Slattery and Heredia started a conversation. At this point, the participants must n't interrupt the activity. After a long day at work rethiling orsuly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:294
+Edler is a farmer. The work of an author is pesitlelling sonozously. The work of a farmer is kuinding toorbickly. Pulsifer is an author. Pulsifer and Edler started a conversation at the book store. There are ways to find the great websites out there. After a long day at work kuinding toorbickly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:295
+The work of an author is pesitlelling sonozously. Malkin is an author. The work of an electrician is consersiving odmeraindly. Oubre is an electrician. At the public transport, Oubre and Malkin started a conversation. The map shows the transportation by road; this version indicates that if people travel by road, public transport is free. She was relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:296
+Klar is a nurse. The work of a nurse is sombling enrinkmically. The work of an actor is bonsing caply. Elwell is an actor. Klar and Elwell started a conversation at the group vacation. The tours showcase the different activities that people can do. Ey was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:297
+The work of an electrician is consersiving odmeraindly. The work of a photographer is juabeing klaierly. Ung is an electrician. Algarin is a photographer. Algarin and Ung ran into each other at the archery class. The class is fun! After a long day at work juabeing klaierly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:298
+Garay is a stocking associate. Linderman is an astronomer. The work of a stocking associate is deperving wonly. The work of an astronomer is galmaunting induancingly. Garay and Linderman started a conversation at the archery class. The class has interesting sessions. He was relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:299
+The work of an author is pesitlelling sonozously. Boyden is a farmer. Mcglothin is an author. The work of a farmer is kuinding toorbickly. Mcglothin and Boyden started a conversation at the piano class. This class has amazing outcomes. She was relieved to unwind after a long day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:300
+Alaimo is a chef. The work of a bricklayer is rethiling orsuly. The work of a chef is snelicing weltaskly. Gittens is a bricklayer. Alaimo and Gittens ran into each other at the public transport. The public transports are public. She was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:301
+The work of a carpenter is rizespeuping bernly. Mardis is a carpenter. Piscitelli is a farmer. The work of a farmer is kuinding toorbickly. Piscitelli and Mardis started a conversation at the carpool. Public transportation is good for daily commutes. After a long day at work kuinding toorbickly, ey was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:302
+Byard is a mechanic. Rhoden is an optician. The work of a mechanic is ipsoring celmonly. The work of an optician is barraking amolly. Rhoden and Byard connected at the carpool. Each public bus will have a fixed schedule. She was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:303
+Galle is an electrician. The work of a travel agent is momdresining namisly. The work of an electrician is consersiving odmeraindly. Blass is a travel agent. Blass and Galle ran into each other at the bar crawl. Tours show all the important places in a city. Ey was relieved to unwind after a demanding day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:304
+The work of a bookkeeper is exmeting coenoguly. The work of a nurse is sombling enrinkmically. Broman is a nurse. Deardorff is a bookkeeper. Deardorff and Broman connected at the archery class. Classes use tasks which are very common and have multiple modules. After a long day at work sombling enrinkmically, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:305
+The work of an electrician is consersiving odmeraindly. Crivello is a stocking associate. The work of a stocking associate is deperving wonly. Salzman is an electrician. Salzman and Crivello started a conversation at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". Ey was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:306
+The work of a carpenter is rizespeuping bernly. The work of a mechanic is ipsoring celmonly. Provost is a carpenter. Gerrity is a mechanic. At the street fair, Provost and Gerrity came across each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:307
+The work of a mechanic is ipsoring celmonly. Woolford is a mechanic. Frausto is an astronomer. The work of an astronomer is galmaunting induancingly. At the evening language class, Frausto and Woolford came across each other. It is easy to find and enjoy the classes. She was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:308
+The work of a customer service representative is evengimeing nougusly. Dysart is an optician. Simmon is a customer service representative. The work of an optician is barraking amolly. At the cafe, Dysart and Simmon came across each other. The place was crowded. He was relieved to unwind after a demanding day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:309
+The work of a farmer is kuinding toorbickly. Nygaard is an astronomer. Hammes is a farmer. The work of an astronomer is galmaunting induancingly. Nygaard and Hammes ran into each other at the walking tour. The tour is a very exciting one for fans in Japan. After a long day at work kuinding toorbickly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:310
+The work of a farmer is kuinding toorbickly. Murga is a farmer. Bushnell is a politician. The work of a politician is backminguing tourderly. Murga and Bushnell connected at the happy hours. Here, people can find someone to become friends with. After a long day at work backminguing tourderly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:311
+The work of a photographer is juabeing klaierly. The work of a mechanic is ipsoring celmonly. Killingsworth is a photographer. Kuczynski is a mechanic. Kuczynski and Killingsworth started a conversation at the park. The birds are wild and hungry! She was relieved to unwind after a long day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:312
+The work of a photographer is juabeing klaierly. The work of a customer service representative is evengimeing nougusly. Serrano is a customer service representative. Fulks is a photographer. At the cafe, Fulks and Serrano came across each other. The place was crowded. She was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:313
+The work of a bookkeeper is exmeting coenoguly. Studley is a bookkeeper. The work of an actor is bonsing caply. Cleland is an actor. At the book club, Cleland and Studley started a conversation. Book clubs are one of the coolest groups to be a part of. He was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:314
+The work of a translator is dernfewing geneurifily. Niemi is a translator. Mckee is a travel agent. The work of a travel agent is momdresining namisly. At the park, Niemi and Mckee started a conversation. In the middle of things, the park has a fountain. She was relieved to unwind after a demanding day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:315
+Charbonneau is a politician. The work of a politician is backminguing tourderly. Sego is a translator. The work of a translator is dernfewing geneurifily. At the archery class, Sego and Charbonneau started a conversation. Classes teach new things every week. They were relieved to unwind after a long day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:316
+Kos is an astronomer. Fulgham is a mechanic. The work of a mechanic is ipsoring celmonly. The work of an astronomer is galmaunting induancingly. At the public transport, Fulgham and Kos came across each other. Public transports are eco-friendly. After a long day at work galmaunting induancingly, ze was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:317
+Obert is a nurse. The work of a nurse is sombling enrinkmically. Murrin is a politician. The work of a politician is backminguing tourderly. Obert and Murrin ran into each other at the sports bar. It is a cool place to hang out. She was relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:318
+The work of a politician is backminguing tourderly. Mederos is a photographer. Bornstein is a politician. The work of a photographer is juabeing klaierly. Bornstein and Mederos ran into each other at the public transport. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. He was relieved to unwind after a long day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:319
+The work of a chef is snelicing weltaskly. Ayon is a translator. The work of a translator is dernfewing geneurifily. Shirey is a chef. At the brewery tour, Shirey and Ayon started a conversation. The tour is coming along in several interesting ways. They were relieved to unwind after a long day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:320
+Burger is an author. Flick is a stocking associate. The work of an author is pesitlelling sonozously. The work of a stocking associate is deperving wonly. At the party, Burger and Flick started a conversation. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. After a long day at work deperving wonly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:321
+Delorenzo is a lifeguard. The work of a lifeguard is extleaning podonducly. The work of an actor is bonsing caply. Barrows is an actor. Barrows and Delorenzo started a conversation at the beach. The beach is dotted with beaches as diverse as Laguna Sunset, Tangerine and the Tilden Islands. She was relieved to unwind after a demanding day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:322
+The work of an astronomer is galmaunting induancingly. The work of a teacher is hammenting quinlenely. Seda is an astronomer. Tesfaye is a teacher. Tesfaye and Seda started a conversation at the bar crawl. Tours help one discover the city. After a long day at work hammenting quinlenely, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:323
+Egner is a mechanic. Newswanger is a lifeguard. The work of a mechanic is ipsoring celmonly. The work of a lifeguard is extleaning podonducly. Egner and Newswanger connected at the rock climbing gym. It's a perfect place to get a new look. He was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:324
+The work of an electrician is consersiving odmeraindly. Laferriere is a bricklayer. The work of a bricklayer is rethiling orsuly. Tasker is an electrician. Laferriere and Tasker ran into each other at the evening language class. Classes often contain people that know how to the technology to access it. After a long day at work consersiving odmeraindly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:325
+Castille is a bookkeeper. The work of a travel agent is momdresining namisly. The work of a bookkeeper is exmeting coenoguly. Yeatts is a travel agent. Castille and Yeatts connected at the hotel. The place is nice. After a long day at work momdresining namisly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:326
+The work of a nurse is sombling enrinkmically. The work of a bookkeeper is exmeting coenoguly. Kliewer is a nurse. Jovel is a bookkeeper. Kliewer and Jovel started a conversation at the piano class. Every class takes 7 to 13 minutes or more to become complete. She was relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:327
+Chaplin is an astronomer. The work of a translator is dernfewing geneurifily. Frahm is a translator. The work of an astronomer is galmaunting induancingly. At the private club, Frahm and Chaplin started a conversation. The beer is excellent. After a long day at work dernfewing geneurifily, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:328
+Demarest is a carpenter. The work of a carpenter is rizespeuping bernly. The work of a mechanic is ipsoring celmonly. Lachance is a mechanic. At the paintball courses, Lachance and Demarest came across each other. The class is extremely motivating. After a long day at work ipsoring celmonly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:329
+Landa is a nurse. Weitz is a lifeguard. The work of a lifeguard is extleaning podonducly. The work of a nurse is sombling enrinkmically. At the community garden, Landa and Weitz started a conversation. The park is super crowded. She was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:330
+Slover is an electrician. Bratten is an author. The work of an author is pesitlelling sonozously. The work of an electrician is consersiving odmeraindly. At the power yoga class, Slover and Bratten started a conversation. The practice takes about twenty minutes, and it is also very active. He was relieved to unwind after a long day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:331
+Heitz is a photographer. Martinelli is a bookkeeper. The work of a bookkeeper is exmeting coenoguly. The work of a photographer is juabeing klaierly. Martinelli and Heitz started a conversation at the sports bar. The other items that are great here are the coffee creamer. They were relieved to unwind after a demanding day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:332
+Hamada is a nurse. The work of an author is pesitlelling sonozously. Rhee is an author. The work of a nurse is sombling enrinkmically. At the yoga studio, Rhee and Hamada came across each other. After the class, the participants may get a video lecture. After a long day at work sombling enrinkmically, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:333
+The work of a politician is backminguing tourderly. The work of a photographer is juabeing klaierly. Brito is a politician. Grizzard is a photographer. Brito and Grizzard ran into each other at the beer making classes. All the group members have the freedom to get together. Ze was relieved to unwind after a long day at work juabeing klaierly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:334
+Martello is a translator. The work of a mechanic is ipsoring celmonly. Derosa is a mechanic. The work of a translator is dernfewing geneurifily. At the walking tour, Derosa and Martello started a conversation. The tour is an important part of the new generation. She was relieved to unwind after a demanding day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:335
+Grajales is an author. The work of an actor is bonsing caply. The work of an author is pesitlelling sonozously. Caliendo is an actor. Grajales and Caliendo connected at the private club. One of the few spots for everyone. After a long day at work bonsing caply, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:336
+Fordyce is a photographer. The work of a photographer is juabeing klaierly. The work of an electrician is consersiving odmeraindly. Furlow is an electrician. At the yoga studio, Furlow and Fordyce came across each other. After the class, the participants may get a video lecture. After a long day at work juabeing klaierly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:337
+The work of an author is pesitlelling sonozously. Wedel is an author. Coutu is an electrician. The work of an electrician is consersiving odmeraindly. Coutu and Wedel connected at the beach. The beach is just right, the ocean is n't too big, people and the sun are always just right. After a long day at work pesitlelling sonozously, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:338
+The work of a stocking associate is deperving wonly. The work of a bricklayer is rethiling orsuly. Dickens is a stocking associate. Barreras is a bricklayer. At the fundraiser, Barreras and Dickens started a conversation. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:339
+Otte is an actor. The work of an author is pesitlelling sonozously. The work of an actor is bonsing caply. Bhatt is an author. At the grocery store, Otte and Bhatt came across each other. The market is still in the early stages of finding out what's best. Ze was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:340
+Withers is a teacher. The work of a teacher is hammenting quinlenely. The work of a chef is snelicing weltaskly. Wiggins is a chef. Withers and Wiggins ran into each other at the club. A great, comfortable location for a relaxed bar. After a long day at work snelicing weltaskly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:341
+Friedland is a travel agent. Whitmer is a farmer. The work of a farmer is kuinding toorbickly. The work of a travel agent is momdresining namisly. Friedland and Whitmer connected at the rock climbing gym. The gym is open until 10:00 pm. They were relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:342
+The work of a politician is backminguing tourderly. Odegard is an optician. Gasca is a politician. The work of an optician is barraking amolly. Gasca and Odegard connected at the carpool. The public transports are public. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:343
+The work of an actor is bonsing caply. The work of a lifeguard is extleaning podonducly. Goel is an actor. Kopec is a lifeguard. At the local reading, Goel and Kopec came across each other. Just show up, book on the night, talk or do the next talk. She was relieved to unwind after a demanding day at work extleaning podonducly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:344
+The work of a translator is dernfewing geneurifily. Robidoux is a translator. Mcswain is a teacher. The work of a teacher is hammenting quinlenely. Robidoux and Mcswain started a conversation at the happy hours. The place is nice. After a long day at work dernfewing geneurifily, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:345
+The work of a chef is snelicing weltaskly. The work of a translator is dernfewing geneurifily. Mcmahan is a translator. Panzer is a chef. Panzer and Mcmahan started a conversation at the charity car wash. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. After a long day at work snelicing weltaskly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:346
+Balch is a farmer. Ketchum is a translator. The work of a farmer is kuinding toorbickly. The work of a translator is dernfewing geneurifily. At the club, Balch and Ketchum started a conversation. The drinks are served on time. She was relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:347
+The work of a translator is dernfewing geneurifily. The work of a chef is snelicing weltaskly. Guida is a chef. Taulbee is a translator. Taulbee and Guida started a conversation at the community garden. The park has a running track. After a long day at work dernfewing geneurifily, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:348
+The work of a chef is snelicing weltaskly. The work of a stocking associate is deperving wonly. Kaufmann is a stocking associate. Few is a chef. At the group vacation, Kaufmann and Few came across each other. Tours show all the important places in a city. They were relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:349
+The work of a stocking associate is deperving wonly. Pulley is a lifeguard. Adkison is a stocking associate. The work of a lifeguard is extleaning podonducly. At the party, Pulley and Adkison came across each other. The party is also filled by the band. After a long day at work extleaning podonducly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:350
+The work of a travel agent is momdresining namisly. Olmedo is a travel agent. The work of a stocking associate is deperving wonly. Slick is a stocking associate. At the community garden, Slick and Olmedo came across each other. All the flowers in the park are so nice. After a long day at work momdresining namisly, ey was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:351
+The work of an electrician is consersiving odmeraindly. Overholt is an optician. The work of an optician is barraking amolly. Maust is an electrician. At the park, Maust and Overholt came across each other. The park is good. They were relieved to unwind after a demanding day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:352
+Vannatta is a farmer. The work of a farmer is kuinding toorbickly. The work of an optician is barraking amolly. Pastrana is an optician. Vannatta and Pastrana ran into each other at the power yoga class. At this point, the participants must n't interrupt the activity. After a long day at work barraking amolly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:353
+Atchley is a travel agent. The work of an author is pesitlelling sonozously. The work of a travel agent is momdresining namisly. Cabrales is an author. Atchley and Cabrales ran into each other at the piano class. The classes sometimes have "class" games. He was relieved to unwind after a demanding day at work pesitlelling sonozously.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:354
+The work of a bookkeeper is exmeting coenoguly. Poplawski is a bookkeeper. The work of an astronomer is galmaunting induancingly. Bartling is an astronomer. Bartling and Poplawski connected at the book store. Book clubs organize monthly meetings. Ey was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:355
+Loughlin is a photographer. The work of a photographer is juabeing klaierly. The work of a carpenter is rizespeuping bernly. Ehlers is a carpenter. Loughlin and Ehlers ran into each other at the club. One of the few spots for everyone. After a long day at work juabeing klaierly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:356
+Kearns is a teacher. Zapata is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of a teacher is hammenting quinlenely. Kearns and Zapata ran into each other at the carpool. With no trains or subway service, buses are not public. They were relieved to unwind after a demanding day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:357
+Krishnamurthy is a carpenter. The work of a carpenter is rizespeuping bernly. The work of a teacher is hammenting quinlenely. Enloe is a teacher. Krishnamurthy and Enloe ran into each other at the trivia night. The event is free and open to all people. She was relieved to unwind after a long day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:358
+The work of an electrician is consersiving odmeraindly. Boren is an electrician. The work of a bookkeeper is exmeting coenoguly. Vancleave is a bookkeeper. Vancleave and Boren ran into each other at the hotel. The coffee tea is great. She was relieved to unwind after a long day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:359
+The work of a translator is dernfewing geneurifily. Asbell is a nurse. The work of a nurse is sombling enrinkmically. Jaros is a translator. At the grocery store, Jaros and Asbell started a conversation. Markets exhibit antiques, collectors' items or anything else of value and interest. They were relieved to unwind after a long day at work dernfewing geneurifily.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:360
+Burg is a photographer. Heitmann is a teacher. The work of a photographer is juabeing klaierly. The work of a teacher is hammenting quinlenely. Burg and Heitmann started a conversation at the charity car wash. The event is free and open to all people. He was relieved to unwind after a long day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:361
+Rieke is a translator. The work of a chef is snelicing weltaskly. The work of a translator is dernfewing geneurifily. Ostler is a chef. Ostler and Rieke ran into each other at the power yoga class. It is helpful to break the ice and bring more calm back. After a long day at work snelicing weltaskly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:362
+The work of an astronomer is galmaunting induancingly. Keogh is a teacher. The work of a teacher is hammenting quinlenely. Bohanan is an astronomer. At the rock climbing gym, Bohanan and Keogh started a conversation. The gym is located in the same building as the famous Old Glory training ground. She was relieved to unwind after a demanding day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:363
+Hofstetter is a bricklayer. Weatherford is a translator. The work of a translator is dernfewing geneurifily. The work of a bricklayer is rethiling orsuly. Hofstetter and Weatherford connected at the hotel. People ca n't be too disappointed at the spot for cheap coffee. She was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:364
+Jarman is a travel agent. The work of a travel agent is momdresining namisly. Obannon is an optician. The work of an optician is barraking amolly. Obannon and Jarman started a conversation at the party. The party is going to be full. After a long day at work barraking amolly, they were happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:365
+Shurtz is an actor. Mcneese is a chef. The work of an actor is bonsing caply. The work of a chef is snelicing weltaskly. Mcneese and Shurtz ran into each other at the walking tour. The tour is limited to ten spots a day. After a long day at work snelicing weltaskly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:366
+The work of an optician is barraking amolly. Hewett is a stocking associate. Rubinstein is an optician. The work of a stocking associate is deperving wonly. Rubinstein and Hewett ran into each other at the charity car wash. Participation is the best way is to get the most out of these festivals! She was relieved to unwind after a demanding day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:367
+Killam is a mechanic. Rouleau is a carpenter. The work of a mechanic is ipsoring celmonly. The work of a carpenter is rizespeuping bernly. Rouleau and Killam connected at the party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. After a long day at work rizespeuping bernly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:368
+Lowrey is a customer service representative. The work of a nurse is sombling enrinkmically. Obannon is a nurse. The work of a customer service representative is evengimeing nougusly. At the school sports event, Lowrey and Obannon came across each other. The event is being held on Friday, July 8, 2018 at Mott Center. She was relieved to unwind after a long day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:369
+Mccurry is a carpenter. Spiker is an optician. The work of an optician is barraking amolly. The work of a carpenter is rizespeuping bernly. At the charity car wash, Mccurry and Spiker started a conversation. The event is still scheduled at the end of May for a crowd of around 200. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:370
+Crites is a farmer. Hayhurst is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of a farmer is kuinding toorbickly. Crites and Hayhurst ran into each other at the museum. On the museum wall is a framed mosaic, made up of images of creatures from a world that we think were at least 200 million years. He was relieved to unwind after a demanding day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:371
+Stansfield is a customer service representative. Lines is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of a customer service representative is evengimeing nougusly. At the walking tour, Lines and Stansfield started a conversation. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. After a long day at work evengimeing nougusly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:372
+The work of a chef is snelicing weltaskly. Tandy is a carpenter. Mcclure is a chef. The work of a carpenter is rizespeuping bernly. Tandy and Mcclure connected at the beer making classes. It is easy to find and enjoy the classes. After a long day at work snelicing weltaskly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:373
+The work of a bookkeeper is exmeting coenoguly. Chuang is a bookkeeper. The work of a lifeguard is extleaning podonducly. Brothers is a lifeguard. Brothers and Chuang connected at the school sports event. It is open to the public. After a long day at work extleaning podonducly, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:374
+The work of a bookkeeper is exmeting coenoguly. The work of a carpenter is rizespeuping bernly. Vandyke is a carpenter. Barnard is a bookkeeper. Barnard and Vandyke connected at the fundraiser. The festival is run by the United Methodist Church. He was relieved to unwind after a demanding day at work rizespeuping bernly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:375
+Dorr is a teacher. The work of a farmer is kuinding toorbickly. The work of a teacher is hammenting quinlenely. Mcmath is a farmer. Mcmath and Dorr ran into each other at the social community gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. He was relieved to unwind after a long day at work kuinding toorbickly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:376
+The work of a politician is backminguing tourderly. Canseco is a politician. The work of an optician is barraking amolly. Philbrook is an optician. Canseco and Philbrook ran into each other at the street fair. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He was relieved to unwind after a long day at work barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:377
+The work of a bricklayer is rethiling orsuly. The work of a politician is backminguing tourderly. Hales is a politician. Alaimo is a bricklayer. At the community service day event, Hales and Alaimo came across each other. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. He was relieved to unwind after a demanding day at work backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:378
+The work of a stocking associate is deperving wonly. The work of an actor is bonsing caply. Luff is a stocking associate. Bhuiyan is an actor. Bhuiyan and Luff connected at the book store. Readers may read more books on a particular topic. They were relieved to unwind after a long day at work bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:379
+The work of a nurse is sombling enrinkmically. Montanez is a nurse. Kear is a lifeguard. The work of a lifeguard is extleaning podonducly. At the archery class, Kear and Montanez came across each other. The class has interesting sessions. They were relieved to unwind after a demanding day at work sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:380
+The work of a travel agent is momdresining namisly. Mullins is a customer service representative. Janik is a travel agent. The work of a customer service representative is evengimeing nougusly. At the private club, Mullins and Janik came across each other. Here, people can find someone to become friends with. Ey was relieved to unwind after a long day at work momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:381
+Serpas is a mechanic. The work of a mechanic is ipsoring celmonly. The work of a carpenter is rizespeuping bernly. Gunnell is a carpenter. Gunnell and Serpas ran into each other at the fundraiser. The event is being held on Friday, July 8, 2018 at Mott Center. She was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:382
+The work of a mechanic is ipsoring celmonly. The work of an actor is bonsing caply. Twilley is a mechanic. Sloss is an actor. Twilley and Sloss started a conversation at the power yoga class. People around begin chanting an action which takes about 5 - 10 minutes. He was relieved to unwind after a demanding day at work ipsoring celmonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:383
+The work of an author is pesitlelling sonozously. Gandarilla is an author. Pina is an astronomer. The work of an astronomer is galmaunting induancingly. At the group vacation, Gandarilla and Pina started a conversation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. After a long day at work pesitlelling sonozously, she was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:384
+Dunning is a chef. The work of a lifeguard is extleaning podonducly. Lippman is a lifeguard. The work of a chef is snelicing weltaskly. Lippman and Dunning started a conversation at the park. On the south side, in the woods along the corner of St. Rose and West Broadway, a long wooden fence runs along a line of woods over a raised road. Ze was relieved to unwind after a demanding day at work snelicing weltaskly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:385
+The work of a politician is backminguing tourderly. Arboleda is an author. Lucatero is a politician. The work of an author is pesitlelling sonozously. Lucatero and Arboleda ran into each other at the piano class. It's a huge place! After a long day at work backminguing tourderly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:386
+The work of a carpenter is rizespeuping bernly. Beranek is a carpenter. The work of an electrician is consersiving odmeraindly. Fontenot is an electrician. Beranek and Fontenot connected at the happy hours. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work rizespeuping bernly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:387
+Bussard is a bookkeeper. Beddingfield is an optician. The work of a bookkeeper is exmeting coenoguly. The work of an optician is barraking amolly. Beddingfield and Bussard started a conversation at the archery class. Each session teaches a different theme. She was relieved to unwind after a demanding day at work exmeting coenoguly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:388
+The work of an author is pesitlelling sonozously. Spivey is an electrician. Surface is an author. The work of an electrician is consersiving odmeraindly. Spivey and Surface connected at the fundraiser. It is open to the public. After a long day at work consersiving odmeraindly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:389
+The work of an optician is barraking amolly. The work of a chef is snelicing weltaskly. Kling is an optician. Becerril is a chef. Becerril and Kling connected at the book store. Book clubs are one of the coolest groups to be a part of. After a long day at work snelicing weltaskly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:390
+Hur is a customer service representative. The work of a customer service representative is evengimeing nougusly. The work of a carpenter is rizespeuping bernly. Margolis is a carpenter. Hur and Margolis started a conversation at the park. The dogs that play here are super cute. After a long day at work evengimeing nougusly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:391
+Hosmer is a bricklayer. The work of a bricklayer is rethiling orsuly. The work of an actor is bonsing caply. Scarpa is an actor. Scarpa and Hosmer ran into each other at the book store. This is the best way to find out what more people want to know about reading trends. Ze was relieved to unwind after a long day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:392
+Saiz is a customer service representative. Purifoy is a translator. The work of a translator is dernfewing geneurifily. The work of a customer service representative is evengimeing nougusly. At the yoga studio, Purifoy and Saiz started a conversation. After 30 minutes of yoga practice, the participants walk out of the class, go to a restaurant and spend 10 minutes. He was relieved to unwind after a long day at work evengimeing nougusly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:393
+The work of a mechanic is ipsoring celmonly. Helms is a mechanic. The work of a bricklayer is rethiling orsuly. Leak is a bricklayer. Helms and Leak connected at the trivia night. The main reason for visiting these places is to explore new areas of the city. He was relieved to unwind after a demanding day at work rethiling orsuly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:394
+The work of a customer service representative is evengimeing nougusly. Bridgman is an astronomer. Westman is a customer service representative. The work of an astronomer is galmaunting induancingly. Westman and Bridgman ran into each other at the social community gathering. The community has an open kitchen. They were relieved to unwind after a long day at work galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:395
+The work of a stocking associate is deperving wonly. The work of a nurse is sombling enrinkmically. Cochran is a stocking associate. Hiers is a nurse. At the hotel, Hiers and Cochran came across each other. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. He was relieved to unwind after a long day at work deperving wonly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:396
+The work of an author is pesitlelling sonozously. Wiltshire is an electrician. Santamaria is an author. The work of an electrician is consersiving odmeraindly. At the street fair, Wiltshire and Santamaria came across each other. It is open to the public. He was relieved to unwind after a demanding day at work consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:397
+Whittemore is an electrician. The work of an electrician is consersiving odmeraindly. Mcinerney is a teacher. The work of a teacher is hammenting quinlenely. Whittemore and Mcinerney ran into each other at the club. There are a lot of vegetarian food options here. He was relieved to unwind after a demanding day at work hammenting quinlenely.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:398
+The work of a farmer is kuinding toorbickly. The work of an actor is bonsing caply. Mucci is an actor. Pankratz is a farmer. At the trivia night, Pankratz and Mucci started a conversation. It is open to the public. After a long day at work kuinding toorbickly, he was happy to relax.
+
+kitmus/background-inference-real-charfict/subtask_2_ents/full-text/validation:399
+Steckler is an actor. Hindman is a lifeguard. The work of a lifeguard is extleaning podonducly. The work of an actor is bonsing caply. Hindman and Steckler started a conversation at the piano class. It's a huge place! She was relieved to unwind after a long day at work bonsing caply.

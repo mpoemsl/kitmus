@@ -1,0 +1,1199 @@
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:0
+Bloch and Pawlak connected at the food co-op. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:1
+At the metro, Galeano and Denison came across each other. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:2
+Strahan and Renshaw started a conversation at the public park. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:3
+Kann and Bottomley connected at the design expo. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:4
+Bohl and Zell connected at the coffee shop. She was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:5
+Sletten and Whitmer connected at the gallery. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:6
+Miedema and Schmalz ran into each other at the grocery store. He was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:7
+Kittrell and Morocho connected at the comic book expo. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:8
+Hendren and Estevez ran into each other at the social community gathering. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:9
+At the restaurant, Bombard and Fang came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:10
+At the restaurant, Fettig and Heins came across each other. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:11
+At the power yoga class, Blakey and Manly started a conversation. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:12
+Kirkley and Dunigan ran into each other at the social community gathering. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:13
+Hotaling and Durante connected at the rideshare. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:14
+At the restaurant, Seery and Geter came across each other. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:15
+Parrilla and Willer started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:16
+Pelaez and Applegate started a conversation at the music festival. Ze was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:17
+At the improvisation class, Markiewicz and Pantaleon started a conversation. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:18
+Gowen and Rowe connected at the rideshare. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:19
+Mantooth and Burr started a conversation at the gallery opening event. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:20
+Hoffmeister and Luoma connected at the partner dancing classes. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:21
+At the winery tour, Figgins and Thurber came across each other. Ze was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:22
+At the gallery opening event, Starnes and Gallardo started a conversation. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:23
+Mundell and Barrows connected at the bar. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:24
+At the archery class, Baumgartner and Errico started a conversation. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:25
+At the music festival, Mcglothin and Bury came across each other. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:26
+Richert and Acklin ran into each other at the poolside event. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:27
+Bamford and Ranson started a conversation at the restaurant. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:28
+At the archery class, Tindal and Gower came across each other. He was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:29
+At the sports bar, Benoit and Acree came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:30
+Varnado and Enders ran into each other at the gallery. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:31
+Firth and Wehmeyer started a conversation at the rideshare. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:32
+Papineau and Mccaleb connected at the photography class. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:33
+Ruppel and Greenhill connected at the group vacation. Ze was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:34
+At the theme park, Desouza and Liechty started a conversation. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:35
+Bloch and Sanner started a conversation at the winery tour. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:36
+Holsinger and Streater started a conversation at the music festival. After a long day at work taking photos professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:37
+Jurgens and Engels ran into each other at the metro. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:38
+Lavalle and Sano connected at the bike tour. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:39
+At the halloweeen party, Hollingshead and Deters started a conversation. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:40
+At the birthday party, Suhr and Bolinger came across each other. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:41
+At the comic book expo, Breckenridge and Knobloch started a conversation. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:42
+Plancarte and Kobayashi started a conversation at the archery class. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:43
+Counts and Hughs started a conversation at the rideshare. She was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:44
+Brummett and Carrol connected at the book club. She was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:45
+At the sports bar, Scarboro and Villani started a conversation. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:46
+Duffield and Waggoner connected at the restaurant. He was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:47
+Albro and Mederos started a conversation at the flea market. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:48
+Byers and Franks connected at the fitness class. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:49
+At the religious and spiritual gathering, Lozier and Ebanks started a conversation. They were relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:50
+Varona and Sarkisian started a conversation at the coffee shop. She was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:51
+Trautman and Volker started a conversation at the grocery store. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:52
+Frisbie and Moskal started a conversation at the birthday party. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:53
+Jewett and Palladino connected at the museum. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:54
+Crandall and Helfrich ran into each other at the restaurant. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:55
+Stracener and Condon started a conversation at the gallery. After a long day at work organising and selling holidays and flights for others, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:56
+At the music festival, Hafner and Barth came across each other. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:57
+At the volunteer organization meet, Guerriero and Mccollum started a conversation. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:58
+Garber and Mcnab ran into each other at the comic book expo. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:59
+At the fitness class, Larosa and Amstutz came across each other. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:60
+Schuh and Mu started a conversation at the bike tour. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:61
+At the food co-op, Nichol and Smelser came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:62
+Mckee and Pohl ran into each other at the grocery store. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:63
+Eisenhart and Mcglynn ran into each other at the winery tour. Ze was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:64
+Scheerer and Fritch connected at the volunteer organization meet. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:65
+At the gallery, Bremer and Ancheta came across each other. They were relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:66
+At the bar, Hoffman and Brownlee came across each other. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:67
+Mosley and Saulnier started a conversation at the theme park. After a long day at work making things from wood including houses and furniture, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:68
+At the public park, Lipford and Gamache came across each other. He was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:69
+Parshall and Levesque ran into each other at the metro. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:70
+Hattaway and Soohoo ran into each other at the music festival. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:71
+Nutting and Adkison ran into each other at the coffee shop. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:72
+Ohearn and Leis started a conversation at the photography class. Ze was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:73
+At the fitness class, Leighty and Durfee started a conversation. He was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:74
+Wild and Danley ran into each other at the halloweeen party. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:75
+At the food co-op, Kirtley and Ordway came across each other. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:76
+Esquivel and Hoey started a conversation at the improvisation class. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:77
+At the rideshare, Covarrubias and Loney started a conversation. After a long day at work acting in a play or a movie, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:78
+At the archery class, Blazek and Curd started a conversation. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:79
+Skelley and Lahti ran into each other at the bike tour. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:80
+Lile and Weddle ran into each other at the metro. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:81
+Miraglia and Surette started a conversation at the volunteer organization meet. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:82
+Sieg and Rieman connected at the archery class. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:83
+Graney and Standish connected at the specialty retail market. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:84
+Theisen and Rickert started a conversation at the fitness class. Ey was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:85
+Lemmer and Schroder ran into each other at the volunteer organization meet. He was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:86
+Normandin and Weaver started a conversation at the design expo. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:87
+Halverson and Steinman connected at the winery tour. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:88
+Khatri and Mcguire ran into each other at the halloweeen party. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:89
+Hayward and Moretz connected at the improvisation class. After a long day at work translating from one language to another professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:90
+Lash and Shake started a conversation at the theme park. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:91
+At the photography class, Siddiqui and Whittle came across each other. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:92
+Mcgough and Gooden started a conversation at the birthday party. They were relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:93
+Peachey and Walcott connected at the partner dancing classes. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:94
+At the partner dancing classes, Philpott and Puerto came across each other. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:95
+At the sports bar, Mcwilliams and Pitman came across each other. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:96
+Scalzo and Delamora started a conversation at the poolside event. He was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:97
+Eckel and Means started a conversation at the comic book expo. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:98
+Deltoro and Rocheleau ran into each other at the rideshare. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:99
+At the public park, Latiolais and Kennelly started a conversation. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:100
+At the theme park, Flatt and Capehart came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:101
+Howes and Boyle ran into each other at the rideshare. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:102
+Welter and Sikes connected at the restaurant. She was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:103
+At the group vacation, Chacon and Cairns came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:104
+Hollowell and Landwehr connected at the food co-op. Ey was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:105
+Hullinger and Durfee ran into each other at the archery class. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:106
+Blatt and Moats ran into each other at the photography class. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:107
+Hauptman and Wible connected at the social community gathering. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:108
+Escalona and Moretz connected at the design expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:109
+At the food court, Lukasik and Hintze came across each other. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:110
+Sepe and Steck connected at the restaurant. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:111
+Alleman and Greig started a conversation at the fitness class. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:112
+Moos and Mcewan connected at the birthday party. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:113
+At the social community gathering, Kimbro and Colombo started a conversation. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:114
+Ricca and Falco connected at the theme park. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:115
+Shuman and Sarver started a conversation at the specialty retail market. She was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:116
+At the specialty retail market, Halton and Pascua came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:117
+Ang and Pardee connected at the gallery. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:118
+Poppe and Romans started a conversation at the birthday party. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:119
+At the winery tour, Leis and Yaeger started a conversation. They were relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:120
+Lieber and Ivers connected at the flea market. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:121
+Heiser and Socha started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:122
+Whelan and Schauer ran into each other at the specialty retail market. He was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:123
+Villicana and Zeringue started a conversation at the poolside event. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:124
+Puerto and Leedy started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:125
+Grimm and Drakeford ran into each other at the specialty retail market. After a long day at work talking to customers and providing them with information on their company's products and services, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:126
+Laskowski and Santucci started a conversation at the coffee shop. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:127
+Cave and Yoder started a conversation at the rideshare. They were relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:128
+At the music festival, Croce and Easterwood came across each other. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:129
+Alejos and Salley connected at the food court. She was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:130
+Gandara and Tart started a conversation at the photography class. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:131
+Ploof and Timm ran into each other at the bike tour. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:132
+Coble and Bono ran into each other at the bar. After a long day at work passing knowledge to students at school, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:133
+Domingues and Galbreath started a conversation at the specialty retail market. After a long day at work organising and selling holidays and flights for others, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:134
+At the group vacation, Felts and Lengyel came across each other. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:135
+Barrow and Gobert connected at the poolside event. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:136
+Munn and Gannaway connected at the fitness class. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:137
+Yount and Waxman connected at the volunteer organization meet. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:138
+Alamilla and Etheredge ran into each other at the public park. After a long day at work acting in a play or a movie, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:139
+Lotz and Gerling ran into each other at the sports bar. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:140
+At the food court, Patino and Ji started a conversation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:141
+At the partner dancing classes, Botta and Roa started a conversation. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:142
+Lapinski and Lingle connected at the fitness class. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:143
+Beecher and Lakes started a conversation at the grocery store. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:144
+Hann and Adames ran into each other at the birthday party. They were relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:145
+Oreilly and Buff started a conversation at the partner dancing classes. Ze was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:146
+Lopezlopez and Thoman started a conversation at the food co-op. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:147
+Gaskins and Ritenour ran into each other at the gallery. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:148
+Huckaby and Basurto ran into each other at the rideshare. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:149
+At the flea market, Cannady and Shiflett started a conversation. After a long day at work organising and selling holidays and flights for others, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:150
+Hoffmeister and Figaro started a conversation at the bike tour. He was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:151
+Kimura and Arispe ran into each other at the fitness class. After a long day at work managing a customer's or client's financial records, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:152
+At the comic book expo, Enderle and Bangert started a conversation. After a long day at work writing books or novels professionally, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:153
+Popa and Mulloy connected at the design expo. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:154
+Bruder and Ecklund started a conversation at the winery tour. She was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:155
+Hower and Beggs connected at the religious and spiritual gathering. Ze was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:156
+Pohl and Sroka started a conversation at the social community gathering. They were relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:157
+At the food court, Testerman and Berthiaume came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:158
+At the private club, Dwyer and Marmolejo came across each other. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:159
+Gamache and Bradbury started a conversation at the rideshare. She was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:160
+Ballentine and Chico started a conversation at the improvisation class. They were relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:161
+Gandara and Quist started a conversation at the archery class. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:162
+Lore and Antunes ran into each other at the birthday party. After a long day at work working with electric circuits, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:163
+Desantis and Kinkade connected at the gallery. They were relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:164
+Marsden and Kesner started a conversation at the group vacation. They were relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:165
+Richman and Kolesar started a conversation at the partner dancing classes. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:166
+At the group vacation, Abramson and Pera came across each other. They were relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:167
+Pouliot and Sudol connected at the gallery opening event. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:168
+At the design expo, Sorrels and Laviolette started a conversation. He was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:169
+Sines and Broder connected at the specialty retail market. She was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:170
+Ahl and Witherell started a conversation at the food co-op. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:171
+At the coffee shop, Deters and Gilmore started a conversation. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:172
+At the social community gathering, Heiser and Valero started a conversation. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:173
+Ferrel and Weidner started a conversation at the restaurant. He was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:174
+Degraw and Winters started a conversation at the volunteer organization meet. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:175
+Drummer and Touchstone connected at the halloweeen party. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:176
+At the power yoga class, Klingler and Reimann came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:177
+At the photography class, Winsett and Gale started a conversation. He was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:178
+Deramus and Chenevert connected at the museum. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:179
+Verde and Singley ran into each other at the food co-op. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:180
+Brister and Parmley started a conversation at the photography class. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:181
+At the coffee shop, Garwood and Bisson started a conversation. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:182
+Lepe and Higuera connected at the poolside event. She was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:183
+Normandin and Leiva ran into each other at the private club. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:184
+Mendiola and Deters started a conversation at the power yoga class. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:185
+Diosdado and Cram connected at the winery tour. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:186
+At the flea market, Natarajan and Rocheleau came across each other. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:187
+At the design expo, Pastrana and Reisner started a conversation. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:188
+Choudhary and Arispe connected at the religious and spiritual gathering. After a long day at work working with electric circuits, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:189
+Dysart and Lingo started a conversation at the volunteer organization meet. Ze was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:190
+Dippel and Perna ran into each other at the private club. He was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:191
+Whitehouse and Magruder started a conversation at the partner dancing classes. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:192
+Gunderson and Cronk ran into each other at the coffee shop. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:193
+At the flea market, Delrio and Furrow started a conversation. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:194
+Borland and Cusick connected at the volunteer organization meet. He was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:195
+Zamudio and Castellanos started a conversation at the bar. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:196
+Ebron and Donaldson started a conversation at the car show. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:197
+At the private club, Bucher and Veilleux came across each other. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:198
+Dooley and Dowd connected at the grocery store. They were relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:199
+Ketter and Hundt started a conversation at the religious and spiritual gathering. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:200
+At the fitness class, Monk and Felts started a conversation. After a long day at work helping to build houses using bricks, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:201
+At the group vacation, Mccraw and Fleury came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:202
+Roybal and Calleros connected at the sports bar. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:203
+At the grocery store, Brochu and Melone started a conversation. He was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:204
+At the food court, Mango and Rojo started a conversation. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:205
+At the winery tour, Spector and Derryberry started a conversation. After a long day at work seeking an elected seat in government, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:206
+Maradiaga and Arechiga started a conversation at the bar. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:207
+Umanzor and Hosler started a conversation at the birthday party. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:208
+Burley and Meinert started a conversation at the religious and spiritual gathering. After a long day at work managing a customer's or client's financial records, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:209
+At the fitness class, Johannsen and Scoville came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:210
+At the comic book expo, Macauley and Eastland came across each other. After a long day at work seeking an elected seat in government, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:211
+Ono and Gallimore connected at the food co-op. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:212
+Mauk and Vanderburg ran into each other at the public park. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:213
+Weddle and Wilhoite connected at the public park. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:214
+Zanders and Debellis started a conversation at the car show. He was relieved to unwind after a long day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:215
+Dougan and Cashman ran into each other at the theme park. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:216
+At the improvisation class, Boomer and Arrieta started a conversation. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:217
+Viviano and Twilley started a conversation at the book club. Ey was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:218
+At the specialty retail market, Mcqueen and Macauley came across each other. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:219
+Seng and Mass ran into each other at the birthday party. After a long day at work making things from wood including houses and furniture, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:220
+Belue and Hardt connected at the food court. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:221
+At the partner dancing classes, Jozwiak and Nau started a conversation. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:222
+Rosenberry and Okeke connected at the photography class. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:223
+Pickell and Swanberg connected at the group vacation. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:224
+Deems and Lunt started a conversation at the fitness class. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:225
+Purdom and Szymanski connected at the gallery opening event. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:226
+At the religious and spiritual gathering, Almendarez and Huffman came across each other. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:227
+Freshour and Glade connected at the halloweeen party. Ey was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:228
+Bury and Recker connected at the improvisation class. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:229
+At the halloweeen party, Haus and Birnbaum started a conversation. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:230
+Jiron and Rosier started a conversation at the birthday party. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:231
+At the group vacation, Pullum and Vanbrunt started a conversation. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:232
+At the volunteer organization meet, Villalpando and Bakken started a conversation. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:233
+At the car show, Vento and Davalos started a conversation. He was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:234
+Mansfield and Chambers connected at the public park. After a long day at work acting in a play or a movie, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:235
+Berube and Muirhead ran into each other at the coffee shop. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:236
+Lampe and Hovey connected at the grocery store. After a long day at work taking photos professionally, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:237
+Geist and Bosworth connected at the gallery. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:238
+Ausmus and Chilson connected at the bike tour. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:239
+Bergerson and Brunton started a conversation at the comic book expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:240
+Mecham and Nishimura connected at the book club. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:241
+At the coffee shop, Steeves and Bickers started a conversation. After a long day at work helping medical professionals look after the sick or injured, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:242
+Gottfried and Coffelt connected at the music festival. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:243
+Wrona and Felten started a conversation at the gallery. She was relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:244
+At the fitness class, Bolin and Mchargue started a conversation. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:245
+Alameda and Premo ran into each other at the coffee shop. After a long day at work translating from one language to another professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:246
+Harrold and Fulks connected at the fitness class. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:247
+Cloyd and Nehls ran into each other at the fitness class. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:248
+Soohoo and Woodford started a conversation at the winery tour. She was relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:249
+At the social community gathering, Henegar and Dutta came across each other. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:250
+At the gallery, Aburto and Herr came across each other. After a long day at work translating from one language to another professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:251
+At the improvisation class, Legaspi and Jeon started a conversation. After a long day at work preparing food for others in a restaurant, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:252
+Speights and Kinslow connected at the partner dancing classes. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:253
+Guaman and Petras started a conversation at the music festival. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:254
+At the religious and spiritual gathering, Dummer and Vanbuskirk started a conversation. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:255
+Lejeune and Mccaughey started a conversation at the design expo. They were relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:256
+Hiett and Whitner connected at the winery tour. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:257
+Scales and Black connected at the archery class. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:258
+At the partner dancing classes, Simonson and Huskey started a conversation. He was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:259
+Bunner and Hickerson connected at the metro. Ey was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:260
+Ehrhardt and Kavanaugh ran into each other at the private club. They were relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:261
+Rivero and Lejeune connected at the photography class. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:262
+Narayanan and Nilsen started a conversation at the volunteer organization meet. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:263
+Mendelsohn and Mcmurtrey started a conversation at the archery class. After a long day at work making things from wood including houses and furniture, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:264
+At the restaurant, Rando and Macdougall started a conversation. After a long day at work checking and correcting any problems with eyes and eye sight, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:265
+At the power yoga class, Siemens and Cappiello started a conversation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:266
+Kontos and Normandin connected at the book club. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:267
+Sotomayor and Rasberry started a conversation at the gallery opening event. She was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:268
+Biro and Pera connected at the photography class. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:269
+At the halloweeen party, Au and Prins started a conversation. He was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:270
+Whisnant and Wiedemann started a conversation at the birthday party. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:271
+Harness and Harrod ran into each other at the gallery opening event. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:272
+Dass and Ziemba started a conversation at the car show. He was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:273
+Trainer and Mccusker ran into each other at the comic book expo. He was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:274
+Kester and Mechling ran into each other at the food co-op. After a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:275
+At the flea market, Huskins and Bradbury came across each other. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:276
+At the halloweeen party, Sauter and Halligan came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:277
+Galeano and Roten connected at the specialty retail market. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:278
+Zamudio and Whisenant started a conversation at the food co-op. She was relieved to unwind after a demanding day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:279
+At the social community gathering, Roush and Mojica came across each other. She was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:280
+Burger and Griego started a conversation at the music festival. She was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:281
+At the bike tour, Basurto and Holiman came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:282
+Raulerson and Munn connected at the metro. He was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:283
+At the rideshare, Napolitano and Ladwig started a conversation. He was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:284
+Kimsey and Kershner ran into each other at the grocery store. She was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:285
+Sheehan and Fonda ran into each other at the coffee shop. After a long day at work making things from wood including houses and furniture, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:286
+At the rideshare, Bitter and Simcox started a conversation. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:287
+Mosby and Scanlan started a conversation at the book club. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:288
+Pesina and Howery connected at the social community gathering. He was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:289
+Prather and Ginder ran into each other at the museum. Ze was relieved to unwind after a demanding day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:290
+At the food co-op, Theiss and Braggs started a conversation. She was relieved to unwind after a demanding day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:291
+At the museum, Weddle and Kirkley came across each other. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:292
+Buchanan and Mashburn ran into each other at the music festival. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:293
+At the food court, Westby and Bolduc came across each other. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:294
+At the photography class, Fenstermaker and Huddleston came across each other. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:295
+At the museum, Gaskins and Loveall came across each other. After a long day at work unpacking merchandise when it arrives at the warehouse, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:296
+At the halloweeen party, Milstead and Banegas came across each other. They were relieved to unwind after a long day at work writing books or novels professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:297
+At the religious and spiritual gathering, Delay and Astle came across each other. She was relieved to unwind after a long day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:298
+At the winery tour, Grimshaw and Vielma started a conversation. He was relieved to unwind after a long day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:299
+Bergeron and Tubb ran into each other at the coffee shop. After a long day at work studying the stars and the universe, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:300
+At the private club, Ristau and Heidenreich came across each other. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:301
+Doe and Fruge ran into each other at the fitness class. He was relieved to unwind after a long day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:302
+At the specialty retail market, Chambers and Meyerson came across each other. After a long day at work helping to build houses using bricks, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:303
+Frier and Pugh started a conversation at the gallery opening event. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:304
+Segoviano and Forde ran into each other at the volunteer organization meet. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:305
+At the music festival, Whisnant and Matney came across each other. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:306
+Alameda and Knopp connected at the comic book expo. Ey was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:307
+At the photography class, Burgoyne and Wall came across each other. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:308
+Gayer and Sickles connected at the museum. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:309
+Maradiaga and Bruton ran into each other at the group vacation. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:310
+Drost and Cottle started a conversation at the winery tour. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:311
+Cusick and Worrall ran into each other at the archery class. After a long day at work working on a farm usually with animals, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:312
+Litke and Hornbeck started a conversation at the winery tour. They were relieved to unwind after a demanding day at work taking photos professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:313
+Younts and Crook started a conversation at the coffee shop. She was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:314
+At the food court, Botta and Cogburn started a conversation. After a long day at work preparing food for others in a restaurant, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:315
+Ohl and Santistevan connected at the gallery. She was relieved to unwind after a long day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:316
+Hott and Harriman started a conversation at the coffee shop. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:317
+Kassab and Atienza connected at the comic book expo. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:318
+Jeanfrancois and Villamil connected at the coffee shop. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:319
+Eberhart and Kimble started a conversation at the volunteer organization meet. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:320
+Wall and Morgenstern started a conversation at the power yoga class. After a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:321
+Tollett and Ocasio connected at the specialty retail market. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:322
+At the book club, Caperton and Ong came across each other. She was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:323
+At the social community gathering, Hund and Cheng came across each other. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:324
+At the design expo, Necaise and Tennis came across each other. After a long day at work preparing food for others in a restaurant, ey was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:325
+Lehner and Faller connected at the theme park. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:326
+At the theme park, Orduno and Kratzer came across each other. He was relieved to unwind after a demanding day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:327
+At the social community gathering, Bourn and Calleros started a conversation. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:328
+Camarena and Boysen connected at the coffee shop. Ey was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:329
+At the specialty retail market, Lambert and Acton started a conversation. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:330
+At the metro, Scruggs and Lieu came across each other. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:331
+At the fitness class, Sager and Gale came across each other. They were relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:332
+At the fitness class, Cullison and Fresquez started a conversation. He was relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:333
+Swinson and Mcnabb ran into each other at the halloweeen party. He was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:334
+Grisham and Falconer connected at the gallery opening event. She was relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:335
+Avent and Eich ran into each other at the gallery opening event. She was relieved to unwind after a long day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:336
+Soltis and Bedgood started a conversation at the improvisation class. After a long day at work working with electric circuits, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:337
+Ancona and Boller started a conversation at the religious and spiritual gathering. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:338
+Isbell and Laporta started a conversation at the book club. After a long day at work helping to build houses using bricks, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:339
+Mango and Fontenot connected at the restaurant. He was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:340
+Ells and Kovar started a conversation at the photography class. Ze was relieved to unwind after a demanding day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:341
+At the museum, Fagin and Held came across each other. Ze was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:342
+Herr and Sifuentes connected at the book club. After a long day at work working on a farm usually with animals, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:343
+At the halloweeen party, Mccloy and Mook started a conversation. He was relieved to unwind after a long day at work talking to customers and providing them with information on their company's products and services.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:344
+At the restaurant, Rizzuto and Burbank came across each other. He was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:345
+Villeda and Kuhns started a conversation at the bike tour. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:346
+At the gallery, Money and Schuessler started a conversation. After a long day at work unpacking merchandise when it arrives at the warehouse, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:347
+At the bike tour, Bourn and Hepburn came across each other. After a long day at work managing a customer's or client's financial records, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:348
+Lonergan and Mandell connected at the rideshare. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:349
+Tibbs and Wallin connected at the rideshare. She was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:350
+Deras and Ladwig connected at the music festival. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:351
+Hansley and Neugebauer ran into each other at the museum. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:352
+Choice and Portilla connected at the specialty retail market. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:353
+Sandquist and Melanson started a conversation at the sports bar. He was relieved to unwind after a demanding day at work studying the stars and the universe.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:354
+Durkin and Zeringue connected at the food court. He was relieved to unwind after a demanding day at work managing a customer's or client's financial records.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:355
+Krouse and Behnke ran into each other at the religious and spiritual gathering. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:356
+Brizuela and Medford connected at the photography class. He was relieved to unwind after a long day at work working with electric circuits.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:357
+Forrester and Schantz ran into each other at the music festival. She was relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:358
+Evanoff and Birmingham connected at the photography class. Ey was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:359
+Blaney and Deems ran into each other at the power yoga class. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:360
+At the volunteer organization meet, Ludwick and Greenfield started a conversation. After a long day at work working with electric circuits, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:361
+Pandya and Orchard connected at the birthday party. Ey was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:362
+At the poolside event, Plouffe and Bologna came across each other. He was relieved to unwind after a long day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:363
+Dunson and Stenger started a conversation at the grocery store. She was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:364
+Asbell and Womack started a conversation at the specialty retail market. They were relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:365
+At the grocery store, Bontrager and Maloney started a conversation. After a long day at work helping to build houses using bricks, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:366
+Begay and Rasberry connected at the birthday party. She was relieved to unwind after a demanding day at work helping to build houses using bricks.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:367
+At the metro, Poulos and Mcpeek started a conversation. He was relieved to unwind after a demanding day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:368
+Auer and Hitchcock ran into each other at the winery tour. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:369
+At the metro, Severson and Carrillo came across each other. After a long day at work helping medical professionals look after the sick or injured, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:370
+Chevez and Depaz connected at the bike tour. She was relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:371
+Macdowell and Barreto ran into each other at the religious and spiritual gathering. After a long day at work passing knowledge to students at school, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:372
+At the theme park, Boysen and Wall started a conversation. After a long day at work translating from one language to another professionally, ze was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:373
+At the religious and spiritual gathering, Trillo and Depaz came across each other. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the warehouse.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:374
+Brocato and Alamilla ran into each other at the grocery store. She was relieved to unwind after a demanding day at work acting in a play or a movie.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:375
+Skillman and Schauer connected at the bike tour. They were relieved to unwind after a long day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:376
+At the sports bar, Derose and Hearn started a conversation. They were relieved to unwind after a long day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:377
+Cadenas and Hammon connected at the winery tour. She was relieved to unwind after a demanding day at work seeking an elected seat in government.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:378
+At the grocery store, Eckel and Romo came across each other. After a long day at work working with electric circuits, they were happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:379
+At the sports bar, Enfinger and Alday started a conversation. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:380
+At the design expo, Bark and Patt started a conversation. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:381
+At the music festival, Hamer and Zellner came across each other. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:382
+Stubbs and Sundquist started a conversation at the public park. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:383
+Potvin and Levis connected at the restaurant. After a long day at work taking photos professionally, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:384
+Emig and Gauvin connected at the social community gathering. After a long day at work making things from wood including houses and furniture, she was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:385
+Cavins and Gehringer started a conversation at the birthday party. He was relieved to unwind after a demanding day at work making things from wood including houses and furniture.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:386
+At the photography class, Blundell and Swaim came across each other. After a long day at work studying the stars and the universe, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:387
+Richert and Lai ran into each other at the theme park. After a long day at work talking to customers and providing them with information on their company's products and services, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:388
+Turcotte and Glazier started a conversation at the sports bar. She was relieved to unwind after a demanding day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:389
+Peltier and Spurrier ran into each other at the partner dancing classes. She was relieved to unwind after a long day at work translating from one language to another professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:390
+Stmartin and Caples ran into each other at the birthday party. He was relieved to unwind after a long day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:391
+Calzada and Harter connected at the group vacation. He was relieved to unwind after a demanding day at work organising and selling holidays and flights for others.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:392
+Bentz and Delaluz connected at the birthday party. They were relieved to unwind after a long day at work troubleshooting and identifying problems with vehicles including cars and trucks professionally.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:393
+Trivedi and Peavler ran into each other at the museum. He was relieved to unwind after a demanding day at work checking and correcting any problems with eyes and eye sight.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:394
+At the car show, Matuszak and Bosworth started a conversation. After a long day at work working on a farm usually with animals, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:395
+Bushnell and Mcgrew ran into each other at the group vacation. She was relieved to unwind after a demanding day at work preparing food for others in a restaurant.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:396
+Arriaza and Godines ran into each other at the volunteer organization meet. After a long day at work working with electric circuits, he was happy to relax.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:397
+Junker and Biehl started a conversation at the partner dancing classes. She was relieved to unwind after a demanding day at work working on a farm usually with animals.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:398
+Qu and Kravitz started a conversation at the bar. He was relieved to unwind after a demanding day at work passing knowledge to students at school.
+
+kitmus/background-train-no-noise/subtask_2_ents/task-text-only/validation:399
+At the rideshare, Dorr and Muszynski started a conversation. After a long day at work passing knowledge to students at school, they were happy to relax.

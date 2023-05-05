@@ -1,0 +1,1199 @@
+kitmus/background-train/subtask_4_ents/task-text-only/validation:0
+Witte, Rosenbaum, Hanlon, and Pettit ran into each other at the rock climbing gym. The gym is designed to cater to the high end needs of the person. They pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:1
+At the rideshare, Bellard, Giffin, Therrien, and Mannion encountered each other. Each public bus will have street lights, but some buses will be powered on by electric lights for short periods. He pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:2
+At the school sports event, Xue, Haar, Reavis, and Pineiro met. It has been said that all the different cultural events can be fun! She was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:3
+Arriaga, Goldston, Starcher, and Kozlowski started a conversation at the volunteer organization meet. The service offers a variety of community events and volunteer opportunities. She reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:4
+At the piano class, Prendergast, Suarez, Polanco, and Eddington met. The classes sometimes have "class" games. Ey was relieved to unwind after a long day at work fixing and treating problems with teeth.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:5
+Tubbs, Matula, Dunfee, and Sapienza ran into each other at the public transport. Public transports are easy to find. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:6
+Bruni, Blumberg, Kettle, and Lamotte ran into each other at the design expo. The event is being held on Friday, July 8, 2018 at Mott Center. He was relieved to unwind after a long day at work putting out fires.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:7
+Bozeman, Lueders, Jaynes, and Viviano started a conversation at the animal shelter. Volunteering is a great way to learn to help people in need. She pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:8
+Figgins, Griner, Odle, and Poplawski ran into each other at the design expo. It takes time to develop the cultural component of a event, particularly in an already huge city. He reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:9
+Suarez, Pettus, Yount, and Pullman came across each other at the rock climbing gym. After doing some exercise, it is recommended to go home, take a hot shower and give the body some rest. She was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:10
+Munford, Ince, Carcamo, and Horstmann started a conversation at the bar. A great, comfortable location for a relaxed bar. Ey was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:11
+At the dog park, Brandes, Biggs, Hackney, and Blume encountered each other. The park is very peaceful. They pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:12
+At the volunteer organization meet, Vanegas, Villalon, Kriebel, and Tower met. Volunteering is fun, especially when one is part of a nice group. She pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:13
+Huitt, Cundiff, Fan, and Simonds came across each other at the rideshare. Public transportation also includes safe - weather service. He pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:14
+At the new year party, Jiron, Honea, Gear, and Cornwell encountered each other. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". Ey was relieved to unwind after a long day at work creating and serving alcoholic drinks to patrons at a bar or a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:15
+Denker, Ropp, Sumlin, and Ramm started a conversation at the cooking class. Classes use tasks which are very common and have multiple modules. He pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:16
+At the networking event, Cassella, Spero, Chmielewski, and Callison encountered each other. It is being held to commemorate the 70's and 80's people. Ze pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:17
+Fan, Reliford, Veilleux, and Sneddon came across each other at the alumni event. A lot of people are always talking and eating together. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:18
+Whittle, Capasso, Luster, and Bertsch ran into each other at the cooking class. The class tries to make the course enjoyable. She pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:19
+At the dog park, Coryell, Euler, Villar, and Compean met. The picnic area includes a great picnic table, as well as several picnic areas for more relaxing activities. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:20
+Plowman, Westrick, Hymel, and Renick started a conversation at the coffee shop. The spot is located just a short walk away from the main park. She reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:21
+At the networking event, Fulgham, Schweigert, Vanfleet, and Mangus met. Many of the events are very popular in the city. She reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:22
+Michaelson, Mangan, Hildebrand, and Insley started a conversation at the dog park. The park site for more information about the location. They were relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:23
+Telford, Mccusker, Hafner, and Eaglin started a conversation at the alumni event. The event is being held on Friday, July 8, 2018 at Mott Center. He reflected on whether working with the money and accounts of a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:24
+Kangas, Sell, Redman, and Castelo came across each other at the rock climbing gym. It's a perfect place to get a new look. He was relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:25
+At the garden, Gerstner, Pollock, Villafane, and Cota encountered each other. The trees are very nice for watching birds. He pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:26
+Hipple, Treanor, Gorham, and Defreitas came across each other at the party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. She pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:27
+At the school sports event, Wingler, Pung, Hagstrom, and Dansby encountered each other. The festival is run by the United Methodist Church. Ey reflected on whether designing building and houses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:28
+At the food court, Partridge, Diehl, Carillo, and Fitzpatrick encountered each other. The spot is located just a short walk away from the main park. He was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:29
+Swick, Dorantes, Felan, and Cousins started a conversation at the specialty retail market. People from across the country are encouraged to join. Ey was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:30
+Hosking, Villafuerte, Bortz, and Kincheloe started a conversation at the design expo. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:31
+Poulson, Meissner, Geis, and Looper came across each other at the park. The picnic line is very short in this park. She was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:32
+Roberge, Schreiber, Labelle, and Carpenter came across each other at the evening language class. The class is fun! They were relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:33
+Collado, Pung, Bahena, and Vosburgh came across each other at the public transport. Please note that the bus routes for each vehicle are subject to change while they are in operation. She reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:34
+At the car show, Hofer, Pecora, Castilleja, and Shimizu met. The event is free and open to all people. She pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:35
+At the food co-op, Kowalczyk, Finck, Dominy, and Gragg met. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. They were relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:36
+At the cooking class, Vanfleet, Goyette, Guerrier, and Fan met. Every class takes 7 to 13 minutes or more to become complete. He pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:37
+Lizama, Runner, Debolt, and Najera ran into each other at the piano class. Each session teaches a different theme. He was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:38
+At the alumni event, Gingrich, Salerno, Lind, and Villafuerte met. It takes time to develop the cultural component of a event, particularly in an already huge city. She pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:39
+Ristau, Seda, Castiglione, and Varghese ran into each other at the wine tasting. The coffee cake is quite good. She pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:40
+At the food court, Blandford, Propst, Render, and Segoviano met. The beer is excellent. She reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:41
+At the park, Fine, Lerner, Verde, and Ballou met. There is a lot of green. It really does n't matter where one looks! They were relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:42
+Swank, Ardis, Malagon, and Giusti ran into each other at the cafe. The beer is excellent. He reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:43
+At the dog park, Tollett, Runge, Sprenger, and Due encountered each other. In the middle of things, the park has a fountain. He pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:44
+At the volunteer work, Fonseca, Runner, Middlebrooks, and Vosburg met. People may not be able to spend time volunteering all the time. They reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:45
+Paek, Finkbeiner, Cannizzaro, and Runge started a conversation at the animal shelter. A hurricane or other natural calamity can be a good reason to volunteer at a charity center. He reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:46
+At the volunteer organization meet, Volk, Hankinson, Cammack, and Sonntag met. People may not be able to spend time volunteering all the time. She reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:47
+Cahill, Grunewald, Stell, and Bovee started a conversation at the restaurant. The other beverages served here are ok. She reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:48
+Simko, Mannion, Rohr, and Fuselier came across each other at the public transport. Public transport is environmentally sustainable. She pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:49
+Palacio, Molden, Spath, and Bowersox came across each other at the crossfit class. The classes usually begin before work. She reflected on whether supervising the safety and rescue of swimmers at a beach or swimming pool for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:50
+Monarrez, Loja, Oberg, and Mccarron came across each other at the coffee shop. The drinks are served on time. He reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:51
+Solari, Poarch, Markle, and Durkin started a conversation at the volunteer organization meet. Volunteers can come to the city, visit a homeless center, have lunch, take a bite or watch a wildlife rescue in other city areas. He reflected on whether assisting organizations by performing a variety of clerical functions for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:52
+At the piano class, Arledge, Belden, Okamoto, and Farrer encountered each other. The class tries to make the course enjoyable. He pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:53
+Stanfill, Hewett, Walley, and Profitt started a conversation at the garden. There are also some wonderful flowers. They are amazing. She was relieved to unwind after a long day at work creating and serving alcoholic drinks to patrons at a bar or a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:54
+Urena, Golub, Gagliano, and Geiger started a conversation at the coffee shop. Here, people can find someone to become friends with. He pondered whether choosing working in a retail environment and processing transactions for a customer's purchase as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:55
+Verde, Goodin, Nutter, and Schurr came across each other at the yoga studio. After the class, the participants may get a video lecture. He reflected on whether organising and selling holidays and flights for others for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:56
+Kruse, Simonian, Padua, and Harton came across each other at the animal shelter. For volunteers, the benefits, by any common - sense definition, do n't always equal the cost of a day of food support. She pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:57
+Yuen, Wohl, Koski, and Gaye came across each other at the food court. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. He was relieved to unwind after a long day at work creating and serving alcoholic drinks to patrons at a bar or a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:58
+At the rideshare, Paiz, Carrier, Sackett, and Witham encountered each other. With no trains or subway service, buses are not public. They were relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:59
+Prater, Correll, Hattaway, and Formica ran into each other at the rideshare. Public transports are easy to find. Ze was relieved to unwind after a long day at work assisting organizations by performing a variety of clerical functions.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:60
+Everhart, Wendt, Barco, and Tennison started a conversation at the new year party. The party is filled with local and national celebrities and entertainers. He pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:61
+Pew, Pomerantz, Hankinson, and Hockaday came across each other at the party. The party is going to be full. She pondered whether choosing working in a retail environment and processing transactions for a customer's purchase as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:62
+Vidrine, Shinkle, Hickerson, and Ou ran into each other at the dog park. The birds are wild and hungry! He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:63
+Auten, Gallaher, Borba, and Lozier ran into each other at the restaurant. The other items that are great here are the coffee creamer. He was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:64
+Rybicki, Poulos, Begin, and Cave started a conversation at the volunteer work. Volunteers can come to the city, visit a homeless center, have lunch, take a bite or watch a wildlife rescue in other city areas. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:65
+Post, Borum, Donlon, and Goode came across each other at the dance class. Every class takes 7 to 13 minutes or more to become complete. He pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:66
+Encarnacion, Barlow, Kettler, and Darst started a conversation at the rock climbing gym. The gym is a great place to exercise in the winter. He reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:67
+At the food co-op, Campana, Armas, Swenson, and Vandusen met. The other items that are great here are the coffee creamer. She reflected on whether working with the money and accounts of a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:68
+Wittman, Ohagan, Dominy, and Ewert ran into each other at the bar. The service was great - it was only 90 $ for the coffee. They pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:69
+At the coffee shop, Cerda, Running, Meisel, and Falconer met. The other beverages served here are ok. He pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:70
+At the brewery tour, Vogt, Woelfel, Jasinski, and Mccord encountered each other. The tour is also the longest walk on the tour. She was relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:71
+At the book club, Byard, Clinger, Afzal, and Aldrete met. If there are a lot of books then one does n't need to go to a book club. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:72
+Reser, Marchbanks, Leister, and Benard started a conversation at the bar. The food here has some of the best food in the city. He reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:73
+At the cafe, Smithers, Hsu, Millman, and Wittenberg encountered each other. A great, comfortable location for a relaxed bar. They pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:74
+At the animal shelter, Eggers, Ahlers, Hass, and Hartman met. Volunteering will bring confidence. He was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:75
+Kiker, Padgett, Yeboah, and Hylton started a conversation at the food court. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:76
+At the yoga class, Harton, Vandemark, Desalvo, and Blais met. Yoga teaches people to be quiet, so that they relax and get out of their mental barriers. She pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:77
+Mandeville, Crompton, Vosburgh, and Bardin ran into each other at the design expo. The event is still underway. He reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:78
+Haas, Ku, Costin, and Dames started a conversation at the yoga class. The class will be taking a lot of stress off. She reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:79
+At the rideshare, Reising, Sparling, Burstein, and Herron met. Public transports are easy to find. They reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:80
+At the party, Schreier, Goldstein, Adelman, and Basso encountered each other. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. She reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:81
+Arteaga, Palazzo, Deel, and Hilley started a conversation at the book club. Just show up, book on the night, talk or do the next talk. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:82
+At the piano class, Lamontagne, Hosler, Brackett, and Reader met. Classes take place every Friday at 8:00 pm. She pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:83
+At the wine tasting, Prim, Mui, Kuntz, and Molino met. The staff is attentive and friendly. It's nice that they had a nice view of the area. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:84
+Munk, Vetter, Grissett, and Lumley ran into each other at the dog park. All the flowers in the park are so nice. She was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:85
+Cales, Ramer, Bussell, and Casimiro ran into each other at the car show. A large number of people attend these events. He reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:86
+Yeater, Overall, Therrien, and Weil started a conversation at the dog park. The park is very green and refreshing. She reflected on whether working with the money and accounts of a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:87
+At the animal shelter, Whitacre, Petty, Swoboda, and Lehman met. There are many jobs that involve good volunteering service. She reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:88
+At the coffee shop, Lafferty, Hegarty, Ontiveros, and Middlebrooks met. People ca n't be too disappointed at the spot for cheap coffee. He was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:89
+At the brewery tour, Bower, Mcdougal, Madrid, and Goble encountered each other. Tours show all the important places in a city. They reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:90
+At the yoga studio, Um, Motta, Currie, and Cann encountered each other. A yoga class helps live a happier life. Ze was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:91
+At the job fair, Ponton, Gottschalk, Shavers, and Roybal encountered each other. A lot of people are always talking and eating together. She was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:92
+At the wine tasting, Hartz, Harber, Fulkerson, and Dominy encountered each other. The staff is attentive and friendly. It's nice that they had a nice view of the area. He was relieved to unwind after a long day at work assisting organizations by performing a variety of clerical functions.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:93
+Gathers, Viloria, Traxler, and Zastrow started a conversation at the dance class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. She reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:94
+At the dog park, Mateos, Polak, Moffett, and Sykes met. There are also some wonderful flowers. They are amazing. They pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:95
+Hembree, Fogarty, Trammel, and Bayer came across each other at the design expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:96
+Copp, Moura, Casillas, and Geis came across each other at the garden. All the flowers in the park are so nice. She was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:97
+At the local reading, Driskill, Pippen, Olah, and Mcglone met. One can get started with reading here in many ways! She was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:98
+At the yoga studio, Morfin, Albaugh, Ogilvie, and Witte met. During a yoga session, sometimes, people feel that the breathing is becoming more relaxed, and the movement a bit easier to perform. They pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:99
+Bartz, Fairley, Lupton, and Locklin ran into each other at the rock climbing gym. The gym is also a haven for fitness enthusiasts. She reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:100
+Hoeft, Scranton, Oates, and Ulloa started a conversation at the cooking class. All the group members have the freedom to get together. They were relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:101
+Bortz, Risner, Romo, and Janssen came across each other at the food court. The other beverages served here are ok. They were relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:102
+Meinert, Yohe, Falco, and Charney started a conversation at the dance class. It's a huge place! She reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:103
+Settles, Lipka, Mccullar, and Bayes started a conversation at the dance class. People should check out the classes online, it wo n't be boring! She reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:104
+Corella, Verde, Beranek, and Morones came across each other at the volunteer organization meet. Charity organizations invite people from different backgrounds to come together and work for a common cause. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:105
+Raye, Dann, Burdette, and Santamaria started a conversation at the party. The party is free entry for everyone. He was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:106
+Sharma, Palmisano, Wee, and Poulos ran into each other at the rideshare. Public transport is environmentally sensitive. Ze reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:107
+Sheen, Pingel, Higley, and Heilman started a conversation at the boardwalk arcade. There is a lot of other play places on the map. He reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:108
+Suazo, Jankowski, Nelsen, and Rudisill started a conversation at the food court. The service was great - it was only 90 $ for the coffee. He reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:109
+Frakes, Hasler, Loiselle, and Insley came across each other at the dance class. The class has interesting sessions. She reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:110
+At the piano class, Holst, Bermeo, Goble, and Spearman met. People should check out the classes online, it wo n't be boring! She reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:111
+Naugle, Hardiman, Buehler, and Brindley came across each other at the volunteer organization meet. We want to expand our community to make sure we will be able to offer the best in town service. He was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:112
+At the design expo, Sartori, Sims, Chatelain, and Arnette encountered each other. It is a very informal and there is no money to spend on these events. She pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:113
+Branscum, Baskett, Lawhorn, and Bradt started a conversation at the park. There are also some wonderful flowers. They are amazing. He was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:114
+Bellino, Trevizo, Cutrer, and Schweiger came across each other at the brewery tour. The tour is limited to ten spots a day. He reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:115
+Henriksen, Chino, Poss, and Cheeseman ran into each other at the specialty retail market. The market is taking shape in Delhi's south to protect food crops from drought and drought - related diseases as the nation is fighting a deadly drought. She was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:116
+At the volunteer organization meet, Vanwinkle, Festa, Womble, and Vandergrift encountered each other. The best part is that the opportunities for fun and fun are always there in volunteering. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:117
+Staab, Sweeney, Driskill, and Lajeunesse started a conversation at the networking event. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:118
+Delfin, Bloom, Putz, and Maass ran into each other at the hotel. The beer is excellent. They were relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:119
+Marcotte, Hovey, Lafferty, and Brightman came across each other at the local reading. This is the best way to find out what more people want to know about reading trends. She pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:120
+At the school sports event, Spruill, Segoviano, Scarpelli, and Goldblatt encountered each other. It is a very informal and there is no money to spend on these events. He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:121
+At the garden, Failla, Meader, Brzezinski, and Mauch encountered each other. The park has many plants and flowers. He was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:122
+Converse, Palmisano, Urbina, and Ahumada came across each other at the rideshare. The map shows the transportation by road; this version indicates that if people travel by road, public transport is free. He reflected on whether assisting organizations by performing a variety of clerical functions for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:123
+Villano, Betancourt, Novick, and Nemitz started a conversation at the park. The birds are wild and hungry! She was relieved to unwind after a long day at work assisting organizations by performing a variety of clerical functions.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:124
+At the dog park, Behringer, Yockey, Bogner, and Burt met. The park is good. He reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:125
+At the coffee shop, Hollander, Dowden, Lehman, and Garlick met. The place was crowded. He reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:126
+Madrid, Mcandrew, Wetherell, and Athey came across each other at the bar. The other items that are great here are the coffee creamer. He pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:127
+Kittle, Kuhlman, Mchargue, and Schiffman ran into each other at the animal shelter. Volunteering is fun, especially when one is part of a nice group. He pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:128
+Kerney, Chatmon, Maney, and Aispuro started a conversation at the cooking class. A new class starts with a fun and unique theme! She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:129
+At the yoga class, Soucy, Goodfellow, Cockrell, and Coldiron encountered each other. The yoga class lasts around 24 - 27 minutes. They were relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:130
+At the evening language class, Galan, Pooler, Stanfill, and Shorter met. Each session teaches a different theme. They pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:131
+Schaller, Dupont, Schnur, and Glasser started a conversation at the cooking class. The class is extremely motivating. She pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:132
+Curto, Ranson, Moriarty, and Wozniak ran into each other at the animal shelter. We want to expand our community to make sure we will be able to offer the best in town service. She pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:133
+At the school sports event, Weese, Busby, Lamontagne, and Vanatta encountered each other. The festival is run by the United Methodist Church. He pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:134
+At the volunteer work, Horstman, Bohannon, Guevarra, and Duquette met. With just a little help, people can create lasting relationships and get the most out of the time. She pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:135
+Osteen, Hoeppner, Heacock, and Bigham came across each other at the public transport. With no trains or subway service, buses are not public. He reflected on whether designing building and houses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:136
+At the party, Hedstrom, Renninger, Wilkie, and Maniscalco met. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:137
+At the hotel, Hawkes, Lowry, Olaughlin, and Eastman met. There are a lot of vegetarian food options here. She reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:138
+At the local reading, Burse, Busby, Hamann, and Ohagan met. If there are a lot of books then one does n't need to go to a book club. She reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:139
+At the rock climbing gym, Fekete, Doering, Veney, and Bedard met. The gym is also a haven for fitness enthusiasts. She pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:140
+Clabaugh, Klingler, Palomar, and Furrow ran into each other at the school sports event. A lot of people participate in these events! They were relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:141
+Delay, Nall, Stephenson, and Nee ran into each other at the alumni event. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:142
+At the park, Billington, Vandergrift, Spruill, and Tiner met. The park is beautiful. She pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:143
+Teter, Upson, Legler, and Zukowski came across each other at the coffee shop. The coffee tea is great. Ey pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:144
+Markle, Rines, Inniss, and Buchan came across each other at the rideshare. Public transportation also includes safe - weather service. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:145
+Trevizo, Ardis, Recinos, and Smyth started a conversation at the crossfit class. Each session teaches a different theme. Ze pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:146
+At the networking event, Rude, Norby, Hoeft, and Dames met. The event is being held on Friday, July 8, 2018 at Mott Center. She reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:147
+At the dog park, Fitzpatrick, Terhune, Rothman, and Triolo met. The trees are very nice for watching birds. He pondered whether choosing preparing food for others in a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:148
+At the bar, Partin, Hartle, Zirkle, and Blanks encountered each other. The coffee cake is quite good. She reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:149
+Crownover, Giddens, Saner, and Shurtz came across each other at the wine tasting. One of the few spots for everyone. He was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:150
+Romer, Innes, Nale, and Rieman ran into each other at the park. There are also some wonderful flowers. They are amazing. He reflected on whether fixing and treating problems with teeth for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:151
+At the piano class, Hemmer, Grim, Ogara, and Glasper met. The class has interesting sessions. They pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:152
+Stickles, Yanes, Mast, and Erskine came across each other at the food co-op. A great, comfortable location for a relaxed bar. She pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:153
+At the wine tasting, Easley, Esslinger, Gentner, and Cales encountered each other. The other items that are great here are the coffee creamer. Ey reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:154
+At the volunteer work, Mireles, Newbury, Kwak, and Nivens met. There are many jobs that involve good volunteering service. They pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:155
+Check, Worsham, Bona, and Feemster came across each other at the brewery tour. The tour is an essential part of a growing number of South African children entering the profession. She was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:156
+Nau, Mazzone, Treece, and Spicer came across each other at the volunteer work. With just a little help, people can create lasting relationships and get the most out of the time. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:157
+At the school sports event, Knapik, Fabela, Galicia, and Privette met. Participation is the best way is to get the most out of these festivals! They reflected on whether assisting organizations by performing a variety of clerical functions for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:158
+At the volunteer organization meet, Compton, Pedrosa, Heise, and Yawn encountered each other. Volunteering also takes energy to work together to improve the health, environment, and economic well - being of our country. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:159
+Winters, Yetter, Aylward, and Crossley came across each other at the party. The party is sponsored by the Patriots. She pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:160
+Aylward, Nicholson, Elmore, and Darwish started a conversation at the networking event. Participation is the best way is to get the most out of these festivals! He pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:161
+Magoon, Senecal, Rivero, and Cavitt ran into each other at the volunteer work. The volunteering organization works on various issues related to the mission and helps out with fundraising and tourism. Ze reflected on whether fixing and treating problems with teeth for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:162
+At the animal shelter, Croston, Wieczorek, Legendre, and Amundson met. Volunteers can come to the city, visit a homeless center, have lunch, take a bite or watch a wildlife rescue in other city areas. She was relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:163
+At the garden, Hardwick, Corl, Pozo, and Giraldo encountered each other. The park is a closed parking lot and a playground. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:164
+At the food court, Lemieux, Hammers, Jansson, and Shawver met. There are a lot of vegetarian food options here. She was relieved to unwind after a long day at work fixing and treating problems with teeth.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:165
+Mcafee, Reiser, Chopra, and Porcelli came across each other at the food co-op. The place is the first stop on the way to the park. He pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:166
+At the brewery tour, Serpas, Custis, Schneck, and Stonecipher encountered each other. The tour is an annual event held in Phoenix, Arizona in which nearly 2,000 members of more than 250 religious traditions, from the Roman Catholic Church to Mormons and even some Christian denominations, march in celebration of Sunday's mass. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:167
+Rummel, Sumlin, Lietz, and Abernethy ran into each other at the public transport. Public transportation is good for daily commutes. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:168
+Fossett, Bynum, Dupont, and Obanion came across each other at the coffee shop. The other items that are great here are the coffee creamer. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:169
+At the brewery tour, Fulkerson, Suber, Heal, and Lassen met. The tour is slated to be held in Austin, Texas on May 2, where a new venue, The Art of Improvisation, will be announced. They pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:170
+At the food court, Shipman, Humes, Noggle, and Goel met. One of the few spots for everyone. He reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:171
+At the animal shelter, Custodio, Scheid, Huie, and Allman met. Charity organizations invite people from different backgrounds to come together and work for a common cause. She pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:172
+Harding, Last, Marcotte, and Partridge came across each other at the party. The party is free entry for everyone. She pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:173
+At the animal shelter, Hirsh, Deschamps, Echavarria, and Corpus met. With the time and resources available to volunteers, it may be easier to get started right away! They pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:174
+At the alumni event, Enamorado, Beamer, Hymes, and Desalvo encountered each other. This event is to help make the community a better place. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:175
+At the job fair, Driskill, Safford, Mccardle, and Beemer met. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She pondered whether choosing preparing food for others in a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:176
+Striegel, Adelson, Belz, and Cartagena ran into each other at the new year party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:177
+At the local reading, Golub, Nakamoto, Frierson, and Rothe met. Book clubs organize discussions on specific books. They reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:178
+At the local reading, Bento, Culwell, Raye, and Wakefield encountered each other. Book clubs organize monthly meetings. He reflected on whether fixing and treating problems with teeth for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:179
+At the book club, Deharo, Cavaliere, Koza, and Hooten encountered each other. Book clubs help expand social circles. They reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:180
+Heitmann, Westhoff, Jovel, and Quinonez came across each other at the networking event. It is being held to commemorate the 70's and 80's people. He pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:181
+Loftis, Badgley, Zehner, and Recinos came across each other at the party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. Ze pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:182
+At the restaurant, Shores, Hymes, Drummond, and Callanan encountered each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:183
+Fye, Swain, Sills, and Cagle came across each other at the volunteer organization meet. In times of tragedy, volunteering helps communities. He was relieved to unwind after a long day at work putting out fires.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:184
+Mcquaid, Wendorf, Toohey, and Legler ran into each other at the animal shelter. Volunteering options will give a chance to relax and enjoy. He pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:185
+At the book club, Stefanski, Heacock, Dizon, and Book met. Going to a book club meeting is a good way to learn about a specific book. He was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:186
+At the restaurant, Fiorillo, Cordeiro, Chain, and Schaal met. On weekend nights, this place is crowded. He was relieved to unwind after a long day at work assisting organizations by performing a variety of clerical functions.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:187
+At the design expo, Mcmiller, Goble, Moorman, and Callison encountered each other. It is open to the public. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:188
+Hosking, Beagle, Lueders, and Lantigua started a conversation at the wine tasting. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:189
+Stepney, Chun, Hallman, and Buchan ran into each other at the wine tasting. Here, people can find someone to become friends with. He pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:190
+At the alumni event, Cherney, Mcgough, Bruch, and Neitzel encountered each other. The event is still scheduled at the end of May for a crowd of around 200. She was relieved to unwind after a long day at work putting out fires.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:191
+At the yoga studio, Hendrickson, Birt, Gerber, and Horne met. It is helpful to break the ice and bring more calm back. Ze was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:192
+Conboy, Kemmer, Pena, and Glasser came across each other at the yoga class. Yoga teaches people to be quiet, so that they relax and get out of their mental barriers. He pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:193
+Galloway, Perezlopez, Bolin, and Pingel came across each other at the brewery tour. The tour is limited to ten spots a day. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:194
+At the design expo, Rote, Barragan, Um, and Vogl encountered each other. A lot of people participate in these events! He reflected on whether assisting organizations by performing a variety of clerical functions for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:195
+At the bar, Goins, Kimbrell, Lockard, and Heckel encountered each other. The staff is attentive and friendly. It's nice that they had a nice view of the area. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:196
+At the party, Wight, Pickering, Glasper, and Messersmith encountered each other. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. She reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:197
+At the volunteer work, Stoughton, Dimaio, Insley, and Newlin met. Volunteers can come to the city, visit a homeless center, have lunch, take a bite or watch a wildlife rescue in other city areas. She pondered whether choosing preparing food for others in a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:198
+Maynes, Doster, Deeds, and Bickers came across each other at the piano class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:199
+Funkhouser, Erbe, Rouse, and Andress ran into each other at the food court. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She pondered whether choosing working in a retail environment and processing transactions for a customer's purchase as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:200
+Fetty, Hallman, Crossley, and Mancuso started a conversation at the book club. This is the best way to find out what more people want to know about reading trends. Ze was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:201
+At the volunteer organization meet, Swanberg, Gibney, Schisler, and Arroyo met. A hurricane or other natural calamity can be a good reason to volunteer at a charity center. She reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:202
+Fine, Tomaszewski, Estep, and Casias started a conversation at the party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. She pondered whether choosing working in a retail environment and processing transactions for a customer's purchase as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:203
+At the rock climbing gym, Gash, Capp, Harpole, and Lamson met. The gym is located in Yap in Taipei, China and is the world's biggest gymnasium of its kind. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:204
+At the crossfit class, Riddle, Last, Deer, and Tallant met. The class is extremely motivating. She reflected on whether organising and selling holidays and flights for others for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:205
+At the school sports event, Fitzpatrick, Melcher, Kime, and Argo met. It is being held to commemorate the 70's and 80's people. They were relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:206
+Pirtle, Bhuiyan, Behling, and Riffel came across each other at the job fair. It is a very informal and there is no money to spend on these events. She reflected on whether working with the money and accounts of a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:207
+Rupe, Oaks, Rosenow, and Manzella came across each other at the dance class. Classes use tasks which are very common and have multiple modules. He pondered whether choosing working in a retail environment and processing transactions for a customer's purchase as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:208
+Farwell, Goff, Tiede, and Fonda started a conversation at the school sports event. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. They pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:209
+Goode, Hinnant, Cupples, and Sweatman started a conversation at the cafe. It is a quiet spot to hang out, it would definitely leave people satisfied. She was relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:210
+At the food court, Willison, Bajaj, Bosma, and Kirkendoll encountered each other. One of the few spots for everyone. He pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:211
+Theriot, Ranson, Saintil, and Sciacca ran into each other at the design expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:212
+At the specialty retail market, Lynch, Vila, Ogrady, and Forgey encountered each other. The market helps people pay bills and deliver goods. She was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:213
+Goree, Bath, Suits, and Homan came across each other at the brewery tour. In a foreign land, the first stop should always be a tour. She pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:214
+Wolbert, Luker, Pauling, and Parham came across each other at the bar. The coffee tea is great. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:215
+At the food court, Badgley, Shuey, Whitmore, and Dillman encountered each other. One of the few spots for everyone. They were relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:216
+Fulgham, Rahe, Mauck, and Quirk ran into each other at the animal shelter. Volunteering is fun, especially when one is part of a nice group. She was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:217
+Alles, Jeancharles, Stanhope, and Kinsella came across each other at the cafe. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:218
+Mineo, Ayers, Jeansonne, and Ells ran into each other at the bar. A great, comfortable location for a relaxed bar. She pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:219
+Decastro, Campoverde, Jaimes, and Eastland came across each other at the rock climbing gym. The gym is also a haven for fitness enthusiasts. She pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:220
+At the piano class, Tsui, Szewczyk, Langlais, and Ridings encountered each other. A new class starts with a fun and unique theme! He pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:221
+Ney, Fuhrman, Peay, and Zaman ran into each other at the car show. It takes time to develop the cultural component of a event, particularly in an already huge city. They pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:222
+At the yoga class, Beamer, Oaks, Ratner, and Enfinger met. At the end of the yoga class, we discuss the issues and how yoga can help us cope. They pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:223
+At the local reading, Cartee, Davenport, Villafane, and Gillispie encountered each other. This is the best way to find out what more people want to know about reading trends. He pondered whether choosing assisting organizations by performing a variety of clerical functions as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:224
+Crean, Blanford, Feldman, and Arrowood ran into each other at the party. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. She pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:225
+Omalley, Leventhal, Wirick, and Macdonald ran into each other at the restaurant. On weekend nights, this place is crowded. He reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:226
+Lamp, Sorenson, Saintil, and Horsley started a conversation at the garden. On the south side, in the woods along the corner of St. Rose and West Broadway, a long wooden fence runs along a line of woods over a raised road. He reflected on whether supervising the safety and rescue of swimmers at a beach or swimming pool for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:227
+Marlatt, Mata, Schaper, and Leftwich ran into each other at the networking event. These events and events help the local community become more active, and the whole community grows through these programs. He reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:228
+Vu, Tinker, Cogdill, and Mitten started a conversation at the dog park. The park is super crowded. He was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:229
+At the design expo, Caulfield, Pirtle, Lamarca, and Paugh met. It is open to the public. She reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:230
+At the crossfit class, Demko, Mandeville, Ohler, and Gaydos encountered each other. The class requires the students to read and comprehend the course material and understand the various topics. She reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:231
+Enyart, Eiland, Rymer, and Bruckner started a conversation at the rideshare. Public transportation is good for daily commutes. They reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:232
+At the animal shelter, Crosson, Taube, Galindo, and Dolin encountered each other. Volunteering brings peace and happiness. Ze was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:233
+Baysinger, Shumaker, Wightman, and Litton started a conversation at the public transport. With no trains or subway service, buses are not public. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:234
+Boisvert, Sisson, Leedy, and Negrete ran into each other at the animal shelter. Charity organizations invite people from different backgrounds to come together and work for a common cause. He pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:235
+At the book club, Cutts, Schmalz, Cendejas, and Mooneyham encountered each other. It is a great way to stay organized for the first time! Ey pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:236
+Hemingway, Harness, Foshee, and Kiger ran into each other at the wine tasting. It is a quiet spot to hang out, it would definitely leave people satisfied. He was relieved to unwind after a long day at work doing research in a research lab.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:237
+Ammann, Arcos, Patlan, and Romans came across each other at the park. The park has a lot of gardens. She was relieved to unwind after a long day at work fixing and treating problems with teeth.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:238
+At the party, Toms, Weise, Wherry, and Poss met. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. He was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:239
+Feldman, Fromm, Kriss, and Wulff started a conversation at the volunteer work. Charity organizations invite people from different backgrounds to come together and work for a common cause. She was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:240
+At the bar, Borquez, Santillanes, Hyden, and Bardales met. A great, comfortable location for a relaxed bar. Ze reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:241
+At the book club, Patchen, Vosburg, Pillsbury, and Emig encountered each other. There are ways to find the great websites out there. He reflected on whether fixing and treating problems with teeth for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:242
+Helwig, Shockey, Mix, and Watanabe came across each other at the yoga class. The class instructs to practice an exercise for 1 - 3 seconds followed by a video. She reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:243
+At the cafe, Bergeron, Dunmire, Staudt, and Go encountered each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:244
+Crissman, Mullin, Sood, and Fye started a conversation at the job fair. It is open to the public. He pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:245
+Helsley, Lent, Esparza, and Gau ran into each other at the crossfit class. Classes teach new things every week. Ey was relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:246
+At the car show, Melo, Chairez, Goree, and Leahy met. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:247
+At the dog park, Ericksen, Fizer, Trammel, and Mcgrane met. In the middle of things, the park has a fountain. She reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:248
+Pettus, Nazarian, Berthelot, and Benningfield ran into each other at the design expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:249
+At the park, Beaty, Bixler, Cerda, and Forster met. There is a lot of green. It really does n't matter where one looks! He pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:250
+Creel, Duan, Wegman, and Stenson ran into each other at the restaurant. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:251
+Rogerson, Sugar, Sereno, and Vandehey ran into each other at the brewery tour. The tour is an annual event held in Phoenix, Arizona in which nearly 2,000 members of more than 250 religious traditions, from the Roman Catholic Church to Mormons and even some Christian denominations, march in celebration of Sunday's mass. He reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:252
+At the crossfit class, Bruch, Kirton, Stackhouse, and Woolwine encountered each other. The class has interesting sessions. She was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:253
+Suda, Rolen, Hoskinson, and Blanks came across each other at the networking event. Participation is the best way is to get the most out of these festivals! He was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:254
+At the boardwalk arcade, Whitis, Lazcano, Scoles, and Buie encountered each other. Sports are great but they have been overshadowed by other games. She was relieved to unwind after a long day at work creating and serving alcoholic drinks to patrons at a bar or a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:255
+At the park, Bobadilla, Ramm, Douthit, and Wing met. The birds are wild and hungry! He was relieved to unwind after a long day at work supervising the safety and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:256
+At the wine tasting, Ta, Lowe, Hatchell, and Shrout encountered each other. The food here has some of the best food in the city. He reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:257
+Breuer, Greenhalgh, Buss, and Arauz came across each other at the park. The picnic area includes a great picnic table, as well as several picnic areas for more relaxing activities. They pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:258
+At the evening language class, Quiles, Antunes, Lashbrook, and Swinson encountered each other. Classes take place every Friday at 8:00 pm. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:259
+Stgeorge, Theriot, Maag, and Fleishman started a conversation at the yoga studio. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. He pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:260
+Clayborne, Gu, Loftus, and Clouse started a conversation at the rock climbing gym. People can really make a lasting impression off each other at the gym! They reflected on whether fixing and treating problems with teeth for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:261
+Hedgepeth, Zaidi, Crownover, and Nair started a conversation at the design expo. A lot of people participate in these events! He reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:262
+Formica, Vecchio, Paugh, and Hoagland came across each other at the crossfit class. The class requires the students to read and comprehend the course material and understand the various topics. She reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:263
+Studebaker, Crabbe, Loredo, and Meinke ran into each other at the networking event. The event is being held on Friday, July 8, 2018 at Mott Center. He was relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:264
+Printz, Herrman, Basso, and Melgar ran into each other at the dog park. The park is a closed parking lot and a playground. She was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:265
+Mcclusky, Mix, Hux, and Hooks started a conversation at the yoga class. The practice takes about twenty minutes, and it is also very active. She pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:266
+Markovic, Hankinson, Marro, and Espiritu ran into each other at the garden. The park site for more information about the location. He pondered whether choosing assisting organizations by performing a variety of clerical functions as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:267
+Deherrera, Scalzo, Weidman, and Bugarin ran into each other at the cooking class. The classes sometimes have "class" games. He was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:268
+Bardwell, Mccord, Couto, and Ayers ran into each other at the rock climbing gym. The gym is open until 10:00 pm. Ze pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:269
+Cummings, Capetillo, Tilson, and Leibowitz started a conversation at the car show. Many of the events are very popular in the city. She reflected on whether transporting goods and materials from one location to another by driving trucks for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:270
+At the brewery tour, Burkhart, Porche, Abbasi, and Detwiler encountered each other. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. He reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:271
+At the boardwalk arcade, Clayborne, Pasco, Weidman, and Taub encountered each other. They have a lot of players on the team for the games here. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:272
+At the party, Esteves, Lozier, Hobby, and Varga met. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. Ey pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:273
+At the animal shelter, Leday, Galbraith, Cummings, and Baccus met. The service offers a variety of community events and volunteer opportunities. She reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:274
+Westlake, Markovic, Shingleton, and Alsip came across each other at the yoga studio. The yoga class lasts for as long as the participants like. He was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:275
+Almanza, Guymon, Her, and Bowser ran into each other at the public transport. Public transport is environmentally sensitive. She pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:276
+Banta, Bury, Escarcega, and Villalba ran into each other at the book club. This is the best way to find out what more people want to know about reading trends. She was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:277
+Hosley, Cassella, Hampshire, and Roden ran into each other at the dance class. Classes provide fun and challenge. Ze was relieved to unwind after a long day at work fixing and treating problems with teeth.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:278
+Rother, Berthelot, Everhart, and Billings started a conversation at the new year party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He was relieved to unwind after a long day at work painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:279
+Rebolledo, Hauser, Lemasters, and Carrico came across each other at the brewery tour. The tour is limited to ten spots a day. Ze pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:280
+Feher, Ponton, Balas, and Yuen started a conversation at the specialty retail market. Markets exhibit antiques, collectors' items or anything else of value and interest. She reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:281
+At the garden, Fentress, Himes, Tadesse, and Dees encountered each other. There are also some wonderful flowers. They are amazing. She was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:282
+Tague, Stocking, Bellis, and Molino came across each other at the brewery tour. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. She reflected on whether supervising the safety and rescue of swimmers at a beach or swimming pool for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:283
+Luse, Mccarty, Horan, and Sproles came across each other at the alumni event. The festival is run by the United Methodist Church. They were relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:284
+At the restaurant, Mullikin, Cornwell, Pawlik, and Hunsucker met. On weekend nights, this place is crowded. She was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:285
+At the yoga class, Wieland, Stagg, Soukup, and Mcgehee encountered each other. Yoga is best done in silence. She pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:286
+Kirven, Shifflett, Burmeister, and Kyles came across each other at the school sports event. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. They pondered whether choosing taking photos professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:287
+At the party, Mauck, Look, Deitch, and Huizenga met. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! They were relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:288
+Wadkins, Mccarley, Longstreet, and Dejesus came across each other at the food co-op. The drinks are served on time. She reflected on whether designing building and houses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:289
+Summerford, Swanberg, Kurowski, and Whorton ran into each other at the design expo. It has been said that all the different cultural events can be fun! He pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:290
+Sullens, Beaupre, Loney, and Neubert came across each other at the specialty retail market. Markets exhibit antiques, collectors' items or anything else of value and interest. She reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:291
+Omalley, Hunsucker, Galan, and Waiters came across each other at the networking event. There is also a very high rate of volunteerism in the events. They were relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:292
+Amstutz, Horstman, Aday, and Sass started a conversation at the dog park. The park is good. Ey pondered whether choosing doing research in a research lab as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:293
+Dawe, Sorenson, Ponce, and Estep started a conversation at the brewery tour. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. She reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:294
+Kutz, Baires, Hyder, and Lamb came across each other at the networking event. This event is to help make the community a better place. She pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:295
+Gardea, Aucoin, Mccully, and Kittle started a conversation at the restaurant. Here, people can find someone to become friends with. He reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:296
+Grondin, Stolle, Causey, and Pozo came across each other at the animal shelter. The service offers a variety of community events and volunteer opportunities. Ey pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:297
+At the dog park, Falvey, Wilmore, Sing, and Harding encountered each other. The park is a closed parking lot and a playground. They were relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:298
+Galati, Ontiveros, Alsip, and Severt ran into each other at the car show. It takes time to develop the cultural component of a event, particularly in an already huge city. He was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:299
+At the rock climbing gym, Vavra, Bozeman, Gaydos, and Shawver met. The gym is located in Yap in Taipei, China and is the world's biggest gymnasium of its kind. They pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:300
+Jaynes, Looney, Palomar, and Teeters ran into each other at the local reading. One can get started with reading here in many ways! He was relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:301
+Devore, Choo, Collado, and Innes started a conversation at the book club. There are ways to find the great websites out there. He reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:302
+At the coffee shop, Overstreet, Parmar, Cundiff, and Cowles encountered each other. The beer is excellent. He reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:303
+At the dog park, Wasik, Edinger, Montes, and Newhouse met. The park is a closed parking lot and a playground. She pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:304
+At the specialty retail market, Reinhart, Crittenden, Marotta, and Kuntz met. The market helps people pay bills and deliver goods. He reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:305
+At the volunteer organization meet, Pettway, Ferrer, Deters, and Lopiccolo encountered each other. We all want to participate in healing, and those volunteering to help others. She was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:306
+Carias, Hamman, Iacono, and Shrewsbury started a conversation at the local reading. It is a great way to stay organized for the first time! He reflected on whether managing people in a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:307
+Stuckey, Pavia, Blinn, and Secrest started a conversation at the local reading. There, one can read at least three books before, or one book in between to find out what's going on together. They reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:308
+At the cafe, Berens, Higgins, Rebelo, and Blakemore met. The food here has some of the best food in the city. She pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:309
+Spilman, Weatherby, Fortin, and Felan came across each other at the boardwalk arcade. They have a lot of players on the team for the games here. He was relieved to unwind after a long day at work transporting goods and materials from one location to another by driving trucks.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:310
+Kensinger, Favela, Gouge, and Buker came across each other at the coffee shop. The place is nice. They pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:311
+At the garden, Krejci, Gravelle, Voyles, and Kepley met. The park site for more information about the location. Ey pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:312
+Mcguinness, Ahrens, Bergquist, and Zertuche came across each other at the coffee shop. The staff is attentive and friendly. It's nice that they had a nice view of the area. They pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:313
+Leak, Ji, Dearborn, and Heise came across each other at the public transport. Public transports are eco-friendly. She reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:314
+At the new year party, Yount, Hillyard, Miner, and Lachance met. The party is free entry for everyone. He pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:315
+At the new year party, Bridgeforth, Singer, Ang, and Goh encountered each other. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He was relieved to unwind after a long day at work putting out fires.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:316
+Akin, Lieberman, Moynihan, and Palomar came across each other at the bar. The food here is very tasty. He was relieved to unwind after a long day at work creating and serving alcoholic drinks to patrons at a bar or a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:317
+At the volunteer organization meet, Maass, Buckler, Hague, and Chong met. Volunteering is a great way to learn to help people in need. She was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:318
+Brinker, Applegate, Jackowski, and Matz ran into each other at the yoga class. The class instructs to practice an exercise for 1 - 3 seconds followed by a video. She reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:319
+At the rock climbing gym, Dames, Sunderman, Rezac, and Rubenstein encountered each other. The gym is designed to cater to the high end needs of the person. She pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:320
+At the volunteer work, Digiorgio, Begin, Ballinger, and Warne met. Volunteering also takes energy to work together to improve the health, environment, and economic well - being of our country. He reflected on whether assisting organizations by performing a variety of clerical functions for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:321
+At the school sports event, Wicker, Binion, Tower, and Renfrow encountered each other. The event is being held on Friday, July 8, 2018 at Mott Center. She pondered whether choosing preparing food for others in a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:322
+Lemley, Strobel, Wagar, and Karimi came across each other at the park. The picnic area includes a great picnic table, as well as several picnic areas for more relaxing activities. She pondered whether choosing working with the money and accounts of a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:323
+Pound, Kuntz, Towers, and Wadkins started a conversation at the hotel. A great, comfortable location for a relaxed bar. She reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:324
+At the dog park, Sellars, Beagle, Ficklin, and Halvorson met. Most of the time people just sit here watching the birds or the dogs. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:325
+Vanek, Noggle, Culbreath, and Maes ran into each other at the coffee shop. The spot is located just a short walk away from the main park. She was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:326
+Crittenden, Pecora, Loken, and Ragland came across each other at the dance class. Classes take place every Friday at 8:00 pm. He reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:327
+At the networking event, Handy, Garabedian, Barbera, and Lind met. The festival is run by the United Methodist Church. She was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:328
+At the public transport, Avis, Haynes, Tapscott, and Trujillo met. Please note that some buses in the park are only available to people who are at least 18 years. He reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:329
+Aldaco, Hsiao, Coakley, and Guereca ran into each other at the evening language class. The class requires the students to read and comprehend the course material and understand the various topics. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:330
+At the volunteer work, Phares, Mosquera, Delgadillo, and Qi encountered each other. People volunteer in areas that are close to heart. Ey reflected on whether preparing food for others in a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:331
+Bilderback, Winsett, Rader, and Quillin ran into each other at the yoga class. Meditation is very important to reduce the stress levels. Ze pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:332
+At the garden, Mazzei, Pass, Millington, and Bartolome met. The park site for more information about the location. He pondered whether choosing writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:333
+Bynum, Kimura, Auer, and Abbate started a conversation at the brewery tour. The tour is coming along in several interesting ways. She reflected on whether taking photos professionally for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:334
+At the brewery tour, Morones, Boomer, Maass, and Zeng met. The tour is not in its 20th year, unfortunately. Ey pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:335
+Macko, Whiteside, Ewald, and Lanoue came across each other at the car show. It has been said that all the different cultural events can be fun! He pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:336
+At the volunteer organization meet, Tibbits, Hovey, Hillyer, and Chicas encountered each other. Please contact the organization during working hours to discuss the volunteering options. He pondered whether choosing making money from selling land for development as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:337
+Ospina, Filkins, Vivanco, and Fabela came across each other at the garden. The park is a closed parking lot and a playground. He reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:338
+At the dance class, Hayslett, Horvath, Curd, and Mitton encountered each other. It is easy to find and enjoy the classes. She was relieved to unwind after a long day at work working in a retail environment and processing transactions for a customer's purchase.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:339
+Laliberte, Thill, Andrada, and Dimond ran into each other at the local reading. Book clubs help expand social circles. She pondered whether choosing driving buses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:340
+Shutts, Cadogan, Klingensmith, and Astorga started a conversation at the cooking class. The classes usually begin before work. He pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:341
+At the dance class, Vancil, Cambridge, Straughn, and Gunderson encountered each other. It's a huge place! She was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:342
+At the rideshare, Corder, Duquette, Schurr, and Steere encountered each other. The public transport can move at all times without interruption. They reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:343
+Callison, Baldridge, Sedgwick, and Capote ran into each other at the dance class. Classes teach new things every week. Ey pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:344
+At the food co-op, Normand, Striegel, Ragin, and Bourg met. Here, people can find someone to become friends with. He pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:345
+Lucido, Waterbury, Kutz, and Billington ran into each other at the cafe. The place was crowded. She was relieved to unwind after a long day at work growing and selling flowers.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:346
+At the food co-op, Reichenbach, Dansby, Condon, and Grimshaw encountered each other. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:347
+Mata, Ojo, Burkes, and Hyer ran into each other at the local reading. Book clubs have like - minded people talking about all kinds of books. They reflected on whether working with the money and accounts of a company for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:348
+Rude, Urbina, Whitacre, and Hazelton came across each other at the local reading. It is a great way to stay organized for the first time! They pondered whether choosing transporting goods and materials from one location to another by driving trucks as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:349
+Valles, Escarcega, Beedle, and Beamer ran into each other at the food court. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:350
+Kirton, Beemer, Esqueda, and Westlake ran into each other at the book club. If there are a lot of books then one does n't need to go to a book club. She was relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:351
+At the evening language class, Wooster, Goldblatt, Putnam, and Horvath encountered each other. Classes take place every Friday at 8:00 pm. She was relieved to unwind after a long day at work managing people in a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:352
+Sanon, Peirce, Holst, and Pipkins ran into each other at the animal shelter. Volunteering is a great way to learn to help people in need. They were relieved to unwind after a long day at work designing building and houses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:353
+At the school sports event, Vivanco, Terhune, Groover, and Rahm encountered each other. The event is still underway. He was relieved to unwind after a long day at work preparing food for others in a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:354
+Atilano, Baysinger, Shortridge, and Arnone started a conversation at the yoga class. After 30 minutes of yoga practice, the participants walk out of the class, go to a restaurant and spend 10 minutes. Ey was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:355
+Deharo, Lamarca, Boren, and Clabaugh started a conversation at the animal shelter. Volunteering brings peace and happiness. She pondered whether choosing helping medical professionals look after the sick or injured as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:356
+At the evening language class, Opperman, Weese, Tiede, and Soroka met. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:357
+Caffey, Donelson, Causey, and Knisely started a conversation at the food co-op. The drinks are served on time. He pondered whether choosing creating and serving alcoholic drinks to patrons at a bar or a restaurant as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:358
+Seiler, Scarpelli, Goldblatt, and Pedersen ran into each other at the networking event. Participation is the best way is to get the most out of these festivals! He reflected on whether transporting goods and materials from one location to another by driving trucks for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:359
+Woodfin, Pavao, Mangrum, and Patchen came across each other at the dance class. Every class takes 7 to 13 minutes or more to become complete. She pondered whether choosing putting out fires as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:360
+At the food co-op, Culwell, Mcdougal, Corby, and Ohler encountered each other. There are a lot of vegetarian food options here. She pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:361
+At the park, Bouvier, Eveland, Hamill, and Bartow met. The dogs here are lovely. They were relieved to unwind after a long day at work working with the money and accounts of a company.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:362
+At the animal shelter, Malveaux, Kirton, Shires, and Bal met. The service offers a variety of community events and volunteer opportunities. They reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:363
+Ramirez, Bermea, Langlais, and Fast started a conversation at the hotel. The beer is excellent. She was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:364
+At the volunteer work, Ponder, Wohlgemuth, Munford, and Herron met. We want to expand our community to make sure we will be able to offer the best in town service. He pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:365
+At the rock climbing gym, Plemons, Boren, Ptak, and Lamy met. The gym is located on the southeast side of the campus, which runs from 10 a.m. to 5 p.m. daily at Lenny's Club. She reflected on whether organising and selling holidays and flights for others for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:366
+At the alumni event, Boynton, Mccay, Erb, and Mcmaster encountered each other. Festivals are normally conducted as cultural events. They were relieved to unwind after a long day at work designing building and houses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:367
+Selden, Kolesar, Bomberger, and Monteith came across each other at the hotel. On weekend nights, this place is crowded. They reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:368
+Pinheiro, Southern, Gilcrease, and Reising came across each other at the bar. On weekend nights, this place is crowded. He reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:369
+At the crossfit class, Farrier, Janney, Thong, and Simoneaux met. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He was relieved to unwind after a long day at work taking photos professionally.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:370
+At the job fair, Poulson, Matheney, Loredo, and Plowman met. It has been said that all the different cultural events can be fun! He pondered whether choosing organising and selling holidays and flights for others as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:371
+Stoughton, Shires, Tilford, and Diemer ran into each other at the food court. The atmosphere was nice. He was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:372
+Helfer, Mantle, Yoshida, and Coldiron came across each other at the cooking class. The class is fun! They were relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:373
+At the coffee shop, Friedrichs, Ake, Coffey, and Litton encountered each other. The staff is attentive and friendly. It's nice that they had a nice view of the area. She was relieved to unwind after a long day at work driving buses.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:374
+At the new year party, Collar, Mcnamara, Canning, and Langlois encountered each other. The party is also filled by the band. He was relieved to unwind after a long day at work writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:375
+At the park, Olivar, Motter, Slone, and Dinatale encountered each other. The park has a running track. He reflected on whether making money from selling land for development for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:376
+Situ, Gerber, Mcandrew, and Orellana started a conversation at the piano class. Every class takes 7 to 13 minutes or more to become complete. She pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:377
+At the public transport, Rosado, Caulder, Gerke, and Howley encountered each other. The public buses are comfortable to ride. Ey reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:378
+Mueller, Mauney, Galan, and Hemminger started a conversation at the wine tasting. The coffee cake is quite good. Ze reflected on whether writing down guests' food and drink orders and communicating to the kitchen staff at a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:379
+At the design expo, Cress, Dunigan, Laliberte, and Silvera met. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:380
+Milam, Ashburn, Eno, and Woo started a conversation at the dog park. The trees are very nice for watching birds. She pondered whether choosing managing people in a company as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:381
+Arehart, Stover, Kensinger, and Eccleston came across each other at the dog park. In the middle of things, the park has a fountain. He reflected on whether putting out fires for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:382
+At the dog park, Landaverde, Tello, Falcone, and Mendosa met. Most of the time people just sit here watching the birds or the dogs. He pondered whether choosing designing building and houses as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:383
+Liechty, Lentz, Crittenden, and Melson came across each other at the bar. The place was crowded. They pondered whether choosing growing and selling flowers as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:384
+Boren, Campana, Broadway, and Nakata ran into each other at the cafe. It is a quiet spot to hang out, it would definitely leave people satisfied. They were relieved to unwind after a long day at work organising and selling holidays and flights for others.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:385
+At the alumni event, Buterbaugh, Barnhill, Towell, and Facio encountered each other. It is being held to commemorate the 70's and 80's people. He was relieved to unwind after a long day at work helping medical professionals look after the sick or injured.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:386
+Mcguffey, Gruver, Poss, and Wetherington started a conversation at the animal shelter. In times of tragedy, volunteering helps communities. He reflected on whether growing and selling flowers for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:387
+At the new year party, Brinker, Engels, Mast, and Hershberger met. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. She reflected on whether doing research in a research lab for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:388
+Goforth, Dansby, Tower, and Waddell came across each other at the park. The park is super crowded. He reflected on whether driving buses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:389
+Gargano, Belknap, Deppe, and Boykins started a conversation at the food co-op. A great, comfortable location for a relaxed bar. He reflected on whether creating and serving alcoholic drinks to patrons at a bar or a restaurant for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:390
+Pfeifer, Albertson, Botelho, and Grimshaw ran into each other at the dance class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He reflected on whether working in a retail environment and processing transactions for a customer's purchase for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:391
+Sievers, Faria, Uddin, and Mosca started a conversation at the animal shelter. Charity organizations invite people from different backgrounds to come together and work for a common cause. He was relieved to unwind after a long day at work making money from selling land for development.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:392
+At the bar, Tapscott, Boyle, Staab, and Prendergast encountered each other. A great, comfortable location for a relaxed bar. She reflected on whether designing building and houses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:393
+Harshbarger, Siciliano, Hipple, and Horne came across each other at the coffee shop. The staff is attentive and friendly. It's nice that they had a nice view of the area. He pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:394
+At the alumni event, Matthies, Messersmith, Mcvicker, and Hildebrandt met. These events and events help the local community become more active, and the whole community grows through these programs. She pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:395
+At the volunteer work, Conboy, Dyck, Naugle, and Carreno encountered each other. Volunteering also takes energy to work together to improve the health, environment, and economic well - being of our country. He pondered whether choosing supervising the safety and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:396
+Quillin, Ensign, Orndorff, and Warnock came across each other at the cafe. It is a cool place to hang out. He pondered whether choosing assisting organizations by performing a variety of clerical functions as a career was a wise decision.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:397
+At the job fair, Shrout, Keitt, Vandiver, and Fulkerson encountered each other. The event is being held on Friday, July 8, 2018 at Mott Center. He reflected on whether designing building and houses for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:398
+Diggins, Wimbish, Finlayson, and Arant started a conversation at the new year party. The party is at noon in the main hall of the building. He reflected on whether helping medical professionals look after the sick or injured for a living was a good career choice.
+
+kitmus/background-train/subtask_4_ents/task-text-only/validation:399
+At the coffee shop, Wooden, Linares, Ing, and Loop encountered each other. It is a cool place to hang out. He pondered whether choosing fixing and treating problems with teeth as a career was a wise decision.

@@ -1,0 +1,1199 @@
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:0
+Yearwood is a hairdresser. The work of a sofware engineer is gholicoring intairly. The work of a hairdresser is axtactifying sethourdorly. Tupper is a dentist. The work of a dentist is sadliging hezly. Enciso is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:1
+The work of a model is juthjodding voarly. Lineberry is a model. Hadfield is a hairdresser. The work of a hairdresser is axtactifying sethourdorly. Leiva is a politician. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:2
+The work of a fisher is tractering quitprilly. Card is an accountant. The work of a model is juthjodding voarly. Rosier is a fisher. The work of an accountant is sparluing gobewly. Sung is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:3
+Juhl is a janitor. The work of a model is juthjodding voarly. The work of a nurse is sombling enrinkmically. Dietrick is a nurse. Gomes is a model. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:4
+The work of a truck driver is andonging cartroly. Hopp is an electrician. Chenoweth is a sofware engineer. Cornett is a truck driver. The work of an electrician is consersiving odmeraindly. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:5
+The work of a truck driver is andonging cartroly. Staggers is a travel agent. Sayers is a truck driver. The work of a hairdresser is axtactifying sethourdorly. The work of a travel agent is momdresining namisly. Oloughlin is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:6
+Torbert is a nurse. The work of a model is juthjodding voarly. The work of a sofware engineer is gholicoring intairly. Hamel is a sofware engineer. Arita is a model. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:7
+Washam is an astronomer. The work of a food preparation worker is glidetting cobaly. The work of a bus driver is heuting riuly. Tinkham is a bus driver. The work of an astronomer is galmaunting induancingly. Osullivan is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:8
+The work of an accountant is sparluing gobewly. Villines is an accountant. The work of an optician is barraking amolly. The work of a food preparation worker is glidetting cobaly. Devos is a food preparation worker. Fugate is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:9
+The work of a travel agent is momdresining namisly. The work of a waiter is dunounding sacanothely. Shive is a waiter. The work of a nurse is sombling enrinkmically. Huneycutt is a nurse. Svendsen is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:10
+Roloff is a travel agent. The work of a travel agent is momdresining namisly. The work of an actor is bonsing caply. Hanrahan is an actor. The work of a food preparation worker is glidetting cobaly. Brimer is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:11
+Lirette is a nurse. The work of a nurse is sombling enrinkmically. Ambler is a truck driver. The work of a truck driver is andonging cartroly. The work of a sofware engineer is gholicoring intairly. Doner is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:12
+The work of an electrician is consersiving odmeraindly. Rivenbark is a pilot. Redondo is a nurse. The work of a nurse is sombling enrinkmically. The work of a pilot is mepuing cevely. Gonsalves is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:13
+Biehl is an optician. The work of a travel agent is momdresining namisly. The work of an optician is barraking amolly. Hord is a model. Deramus is a travel agent. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:14
+Laureano is a politician. The work of a model is juthjodding voarly. Croteau is a model. The work of a politician is backminguing tourderly. Filson is a truck driver. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:15
+The work of a travel agent is momdresining namisly. Balk is a travel agent. The work of an optician is barraking amolly. Graybeal is an optician. The work of a politician is backminguing tourderly. Willner is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:16
+Amundson is a model. Northrup is a fisher. Shortt is an electrician. The work of a model is juthjodding voarly. The work of an electrician is consersiving odmeraindly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:17
+The work of a fisher is tractering quitprilly. The work of a model is juthjodding voarly. Burman is a dentist. Flemings is a fisher. Spearman is a model. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:18
+Hayek is an accountant. Moos is an astronomer. Markland is a travel agent. The work of an astronomer is galmaunting induancingly. The work of an accountant is sparluing gobewly. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:19
+Nassar is a waiter. The work of a sofware engineer is gholicoring intairly. Freeborn is a politician. Weissman is a sofware engineer. The work of a politician is backminguing tourderly. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:20
+The work of a firefighter is ehemting smorbtly. The work of a food preparation worker is glidetting cobaly. The work of an actor is bonsing caply. Shand is an actor. Milford is a food preparation worker. Mathur is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:21
+Speidel is an actor. The work of an optician is barraking amolly. The work of a model is juthjodding voarly. The work of an actor is bonsing caply. Leanos is an optician. Toft is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:22
+The work of a politician is backminguing tourderly. Garton is a politician. The work of a fisher is tractering quitprilly. The work of a waiter is dunounding sacanothely. Sepulveda is a fisher. Veenstra is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:23
+The work of a truck driver is andonging cartroly. The work of a dentist is sadliging hezly. Burket is a truck driver. Current is an astronomer. The work of an astronomer is galmaunting induancingly. Nalls is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:24
+The work of a firefighter is ehemting smorbtly. The work of a pilot is mepuing cevely. Umstead is a pilot. Kraus is a firefighter. The work of an actor is bonsing caply. Booher is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:25
+Fogarty is an accountant. Cleary is a politician. Carballo is an actor. The work of a politician is backminguing tourderly. The work of an actor is bonsing caply. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:26
+The work of an electrician is consersiving odmeraindly. The work of a model is juthjodding voarly. Bracamontes is a model. Tabora is a fisher. Sifford is an electrician. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:27
+Babb is a hairdresser. Kuster is a travel agent. The work of an astronomer is galmaunting induancingly. The work of a travel agent is momdresining namisly. The work of a hairdresser is axtactifying sethourdorly. Fager is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:28
+Wine is a fisher. The work of a fisher is tractering quitprilly. The work of an electrician is consersiving odmeraindly. The work of a food preparation worker is glidetting cobaly. Laguerre is an electrician. Loew is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:29
+The work of a firefighter is ehemting smorbtly. Helton is an optician. The work of an optician is barraking amolly. Dy is a sofware engineer. Herzog is a firefighter. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:30
+The work of a dentist is sadliging hezly. The work of a bus driver is heuting riuly. Farhat is a truck driver. The work of a truck driver is andonging cartroly. Lightsey is a bus driver. Lipe is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:31
+The work of a food preparation worker is glidetting cobaly. The work of an astronomer is galmaunting induancingly. The work of a waiter is dunounding sacanothely. Aker is an astronomer. Fee is a food preparation worker. Cripps is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:32
+The work of an actor is bonsing caply. Colwell is a hairdresser. The work of a hairdresser is axtactifying sethourdorly. The work of a truck driver is andonging cartroly. Maag is a truck driver. Dogan is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:33
+The work of a dentist is sadliging hezly. Way is a firefighter. Sharkey is a travel agent. Thorn is a dentist. The work of a travel agent is momdresining namisly. The work of a firefighter is ehemting smorbtly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:34
+Kight is a bus driver. Hoggatt is a travel agent. The work of a fisher is tractering quitprilly. The work of a bus driver is heuting riuly. Langlois is a fisher. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:35
+The work of an optician is barraking amolly. The work of a bus driver is heuting riuly. The work of a waiter is dunounding sacanothely. Lease is a waiter. Haye is an optician. Petrov is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:36
+Widmer is an actor. Allende is a nurse. The work of a nurse is sombling enrinkmically. The work of an astronomer is galmaunting induancingly. Fulmer is an astronomer. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:37
+Kinchen is a bus driver. The work of a bus driver is heuting riuly. Kahler is a janitor. Cavender is a truck driver. The work of a janitor is acmastatting rigeorly. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:38
+Tillery is an electrician. The work of a food preparation worker is glidetting cobaly. The work of a nurse is sombling enrinkmically. The work of an electrician is consersiving odmeraindly. Mundo is a food preparation worker. Pizana is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:39
+The work of a truck driver is andonging cartroly. Koster is a truck driver. The work of a waiter is dunounding sacanothely. The work of an accountant is sparluing gobewly. Tellier is a waiter. Rossman is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:40
+Spohn is a dentist. Toler is an astronomer. The work of a firefighter is ehemting smorbtly. Couey is a firefighter. The work of an astronomer is galmaunting induancingly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:41
+The work of a fisher is tractering quitprilly. The work of a politician is backminguing tourderly. Pinard is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Yonker is a politician. Daigneault is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:42
+The work of a food preparation worker is glidetting cobaly. Caples is a food preparation worker. Eddings is a fisher. Wickman is a model. The work of a model is juthjodding voarly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:43
+Gastelum is a janitor. Garciamartinez is an accountant. Miner is a food preparation worker. The work of a janitor is acmastatting rigeorly. The work of an accountant is sparluing gobewly. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:44
+Farfan is a truck driver. The work of a waiter is dunounding sacanothely. The work of a janitor is acmastatting rigeorly. Sills is a waiter. Alleman is a janitor. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:45
+Rakestraw is an electrician. The work of a politician is backminguing tourderly. Molano is a truck driver. Ebeling is a politician. The work of a truck driver is andonging cartroly. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:46
+The work of a model is juthjodding voarly. Reddin is a model. The work of a firefighter is ehemting smorbtly. Bruder is a truck driver. The work of a truck driver is andonging cartroly. Baltz is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:47
+Risk is a waiter. Winkler is a hairdresser. The work of a politician is backminguing tourderly. The work of a hairdresser is axtactifying sethourdorly. Valiente is a politician. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:48
+Summerford is an optician. The work of an optician is barraking amolly. The work of a hairdresser is axtactifying sethourdorly. Dietrick is a hairdresser. Gerrity is an astronomer. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:49
+The work of a pilot is mepuing cevely. The work of an electrician is consersiving odmeraindly. Rhode is a pilot. The work of a travel agent is momdresining namisly. Sunderman is a travel agent. Garciaperez is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:50
+The work of a truck driver is andonging cartroly. Dearmond is a truck driver. The work of a fisher is tractering quitprilly. The work of a politician is backminguing tourderly. Brake is a politician. Lundstrom is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:51
+Ruhl is a nurse. Pratt is a truck driver. The work of a truck driver is andonging cartroly. The work of a hairdresser is axtactifying sethourdorly. Lafave is a hairdresser. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:52
+Vos is an astronomer. The work of an accountant is sparluing gobewly. The work of an astronomer is galmaunting induancingly. The work of a food preparation worker is glidetting cobaly. Mcginty is a food preparation worker. Vowell is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:53
+The work of an accountant is sparluing gobewly. The work of an actor is bonsing caply. Tieu is an actor. The work of a firefighter is ehemting smorbtly. Newbern is an accountant. Voll is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:54
+The work of a dentist is sadliging hezly. Hail is an astronomer. The work of an electrician is consersiving odmeraindly. Focht is a dentist. Lewellen is an electrician. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:55
+More is a hairdresser. The work of a bus driver is heuting riuly. The work of an astronomer is galmaunting induancingly. Sotelo is a bus driver. Bucklin is an astronomer. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:56
+The work of a nurse is sombling enrinkmically. Rodas is a bus driver. Umberger is a nurse. The work of a bus driver is heuting riuly. The work of an electrician is consersiving odmeraindly. Brose is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:57
+The work of a sofware engineer is gholicoring intairly. Kawamoto is a pilot. The work of a food preparation worker is glidetting cobaly. The work of a pilot is mepuing cevely. Villasenor is a food preparation worker. Nieto is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:58
+The work of a food preparation worker is glidetting cobaly. The work of an actor is bonsing caply. The work of a janitor is acmastatting rigeorly. Gerhardt is an actor. Xiong is a food preparation worker. Whitehouse is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:59
+The work of an optician is barraking amolly. The work of a politician is backminguing tourderly. The work of a dentist is sadliging hezly. Moctezuma is a dentist. Mole is a politician. Patron is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:60
+Darr is a bus driver. The work of an astronomer is galmaunting induancingly. Eckenrode is an astronomer. Littlefield is a pilot. The work of a pilot is mepuing cevely. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:61
+The work of an optician is barraking amolly. Tafoya is a pilot. The work of a politician is backminguing tourderly. The work of a pilot is mepuing cevely. Monteith is an optician. Abreu is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:62
+Theiss is a hairdresser. Como is a sofware engineer. Thong is a model. The work of a sofware engineer is gholicoring intairly. The work of a hairdresser is axtactifying sethourdorly. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:63
+Grimes is an astronomer. The work of a bus driver is heuting riuly. Klos is a bus driver. Arizmendi is a nurse. The work of an astronomer is galmaunting induancingly. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:64
+Schell is an accountant. The work of an astronomer is galmaunting induancingly. Heald is an optician. The work of an optician is barraking amolly. The work of an accountant is sparluing gobewly. Molano is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:65
+Byerley is a fisher. Polanco is a politician. The work of a fisher is tractering quitprilly. The work of a pilot is mepuing cevely. The work of a politician is backminguing tourderly. Esteves is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:66
+The work of a fisher is tractering quitprilly. The work of a firefighter is ehemting smorbtly. Abernethy is a pilot. Clendenin is a firefighter. Villalva is a fisher. The work of a pilot is mepuing cevely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:67
+The work of a fisher is tractering quitprilly. Hiett is a fisher. Rayburn is a pilot. The work of a janitor is acmastatting rigeorly. Hackworth is a janitor. The work of a pilot is mepuing cevely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:68
+The work of a model is juthjodding voarly. Carcamo is a travel agent. Caro is a food preparation worker. The work of a food preparation worker is glidetting cobaly. Giddens is a model. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:69
+The work of an astronomer is galmaunting induancingly. Oboyle is an astronomer. The work of a dentist is sadliging hezly. Barbera is an optician. Hsu is a dentist. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:70
+Hanlon is a waiter. The work of a travel agent is momdresining namisly. The work of a waiter is dunounding sacanothely. Bussard is a travel agent. The work of a janitor is acmastatting rigeorly. Killinger is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:71
+The work of a janitor is acmastatting rigeorly. Farrior is an astronomer. The work of an astronomer is galmaunting induancingly. The work of a politician is backminguing tourderly. Freeborn is a janitor. Einhorn is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:72
+The work of a travel agent is momdresining namisly. Edmonds is a travel agent. The work of a politician is backminguing tourderly. The work of a bus driver is heuting riuly. Bednarz is a bus driver. Kukla is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:73
+The work of a bus driver is heuting riuly. Patin is a bus driver. Faulk is a pilot. The work of a model is juthjodding voarly. Chalmers is a model. The work of a pilot is mepuing cevely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:74
+Hern is a travel agent. The work of a travel agent is momdresining namisly. Vandiver is a model. The work of a waiter is dunounding sacanothely. The work of a model is juthjodding voarly. Seiden is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:75
+The work of an actor is bonsing caply. The work of a bus driver is heuting riuly. Cabanas is a bus driver. Spellman is a waiter. The work of a waiter is dunounding sacanothely. Snively is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:76
+Scholten is a truck driver. Duval is a sofware engineer. Mandell is a fisher. The work of a truck driver is andonging cartroly. The work of a sofware engineer is gholicoring intairly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:77
+The work of a politician is backminguing tourderly. The work of a sofware engineer is gholicoring intairly. Tindle is a sofware engineer. Yoakum is a bus driver. The work of a bus driver is heuting riuly. Rubio is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:78
+Mclaughlin is a firefighter. The work of a firefighter is ehemting smorbtly. The work of a fisher is tractering quitprilly. Mimms is an accountant. The work of an accountant is sparluing gobewly. Arena is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:79
+The work of an electrician is consersiving odmeraindly. Dahm is a truck driver. The work of a truck driver is andonging cartroly. The work of a hairdresser is axtactifying sethourdorly. Defrancisco is an electrician. Lavoie is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:80
+The work of a janitor is acmastatting rigeorly. Brimer is a model. Meyers is a janitor. The work of a pilot is mepuing cevely. The work of a model is juthjodding voarly. Trost is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:81
+The work of a travel agent is momdresining namisly. Colvard is an accountant. The work of an accountant is sparluing gobewly. Laubach is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Hammack is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:82
+The work of a nurse is sombling enrinkmically. The work of a janitor is acmastatting rigeorly. Bunnell is a nurse. Yin is a janitor. The work of a fisher is tractering quitprilly. Bragdon is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:83
+Messenger is a model. The work of a pilot is mepuing cevely. The work of a model is juthjodding voarly. Dock is a pilot. Autrey is an actor. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:84
+Solorzano is a waiter. Roche is a nurse. The work of a nurse is sombling enrinkmically. Banos is a dentist. The work of a waiter is dunounding sacanothely. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:85
+The work of a bus driver is heuting riuly. The work of a waiter is dunounding sacanothely. The work of a politician is backminguing tourderly. Cavallaro is a bus driver. Ledoux is a waiter. Near is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:86
+The work of a food preparation worker is glidetting cobaly. Hinkson is a food preparation worker. The work of a firefighter is ehemting smorbtly. Souza is a firefighter. The work of a janitor is acmastatting rigeorly. Cisneros is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:87
+Hipple is a fisher. The work of a bus driver is heuting riuly. The work of a pilot is mepuing cevely. Basile is a pilot. The work of a fisher is tractering quitprilly. Belford is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:88
+Pastor is a pilot. The work of a firefighter is ehemting smorbtly. The work of a pilot is mepuing cevely. The work of a travel agent is momdresining namisly. Hackbarth is a travel agent. Couch is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:89
+Middendorf is an astronomer. Aguas is a hairdresser. Radtke is a politician. The work of a politician is backminguing tourderly. The work of a hairdresser is axtactifying sethourdorly. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:90
+The work of a dentist is sadliging hezly. The work of a truck driver is andonging cartroly. Barksdale is a sofware engineer. Noriega is a dentist. The work of a sofware engineer is gholicoring intairly. Dallman is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:91
+Argueta is an accountant. Rezac is a hairdresser. The work of a hairdresser is axtactifying sethourdorly. The work of an accountant is sparluing gobewly. The work of a model is juthjodding voarly. Cookson is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:92
+The work of a nurse is sombling enrinkmically. The work of an electrician is consersiving odmeraindly. Luque is a nurse. Hinkley is an electrician. The work of a pilot is mepuing cevely. Borum is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:93
+The work of a dentist is sadliging hezly. Sabourin is a dentist. The work of an astronomer is galmaunting induancingly. The work of a model is juthjodding voarly. Dula is an astronomer. Rosner is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:94
+The work of a pilot is mepuing cevely. Fortuna is an actor. Mccool is a pilot. The work of an optician is barraking amolly. The work of an actor is bonsing caply. Bonetti is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:95
+The work of an astronomer is galmaunting induancingly. Pariseau is an astronomer. Wulf is a politician. The work of a model is juthjodding voarly. The work of a politician is backminguing tourderly. Wark is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:96
+Feldmann is a janitor. The work of a travel agent is momdresining namisly. Wiebe is an accountant. The work of a janitor is acmastatting rigeorly. The work of an accountant is sparluing gobewly. Brashear is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:97
+Beller is a hairdresser. The work of a dentist is sadliging hezly. Dobbs is a model. The work of a hairdresser is axtactifying sethourdorly. The work of a model is juthjodding voarly. Gerke is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:98
+Frink is an optician. Seagle is a model. The work of an optician is barraking amolly. The work of a model is juthjodding voarly. The work of a fisher is tractering quitprilly. Giambrone is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:99
+Pegues is an electrician. The work of a firefighter is ehemting smorbtly. The work of an electrician is consersiving odmeraindly. Edmonds is a firefighter. The work of a sofware engineer is gholicoring intairly. Milliken is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:100
+The work of a nurse is sombling enrinkmically. The work of a janitor is acmastatting rigeorly. The work of a pilot is mepuing cevely. Pauley is a pilot. Fry is a janitor. Decaro is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:101
+Rubenstein is a food preparation worker. Betts is a model. The work of a food preparation worker is glidetting cobaly. Greenway is a sofware engineer. The work of a model is juthjodding voarly. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:102
+Mealy is a politician. The work of a politician is backminguing tourderly. Yearwood is a hairdresser. The work of a hairdresser is axtactifying sethourdorly. Villanueva is a nurse. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:103
+The work of an optician is barraking amolly. Cribb is a janitor. The work of a food preparation worker is glidetting cobaly. Lund is an optician. Kangas is a food preparation worker. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:104
+Zaman is an optician. The work of a nurse is sombling enrinkmically. The work of an electrician is consersiving odmeraindly. Watt is a nurse. Gandarilla is an electrician. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:105
+Graybeal is a fisher. The work of a firefighter is ehemting smorbtly. The work of a travel agent is momdresining namisly. Stormer is a travel agent. The work of a fisher is tractering quitprilly. Duffin is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:106
+Batra is a politician. Ambrosio is an actor. The work of an actor is bonsing caply. The work of a politician is backminguing tourderly. The work of an accountant is sparluing gobewly. Shorts is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:107
+The work of a dentist is sadliging hezly. The work of a hairdresser is axtactifying sethourdorly. Kalinowski is a janitor. Bennette is a dentist. Henslee is a hairdresser. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:108
+The work of a sofware engineer is gholicoring intairly. The work of a waiter is dunounding sacanothely. Murnane is a waiter. Hiett is a sofware engineer. Yarbrough is an electrician. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:109
+Vanatta is a travel agent. Smalls is an astronomer. The work of a waiter is dunounding sacanothely. The work of a travel agent is momdresining namisly. Stringfield is a waiter. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:110
+Vanvalkenburg is a hairdresser. Sletten is a fisher. The work of a hairdresser is axtactifying sethourdorly. Siegrist is an electrician. The work of an electrician is consersiving odmeraindly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:111
+Torok is an optician. The work of a firefighter is ehemting smorbtly. The work of a truck driver is andonging cartroly. Wallner is a truck driver. The work of an optician is barraking amolly. Skipworth is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:112
+Messina is an actor. Rubenstein is an astronomer. The work of an actor is bonsing caply. Jenkinson is a dentist. The work of an astronomer is galmaunting induancingly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:113
+Guyette is an accountant. Swinton is a janitor. Prettyman is a food preparation worker. The work of an accountant is sparluing gobewly. The work of a food preparation worker is glidetting cobaly. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:114
+Lutz is a sofware engineer. The work of a nurse is sombling enrinkmically. Witte is a nurse. The work of a truck driver is andonging cartroly. Cofer is a truck driver. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:115
+Friend is a food preparation worker. Pelley is a janitor. The work of an actor is bonsing caply. The work of a janitor is acmastatting rigeorly. The work of a food preparation worker is glidetting cobaly. Baskerville is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:116
+The work of a fisher is tractering quitprilly. The work of an astronomer is galmaunting induancingly. The work of a politician is backminguing tourderly. Whitsett is an astronomer. Paine is a fisher. Lobos is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:117
+Southerland is an electrician. Earhart is a model. Scheib is a pilot. The work of an electrician is consersiving odmeraindly. The work of a pilot is mepuing cevely. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:118
+Hufnagel is a janitor. Ohlson is a model. The work of a model is juthjodding voarly. The work of a janitor is acmastatting rigeorly. Fetters is an accountant. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:119
+Belvin is a sofware engineer. The work of a model is juthjodding voarly. The work of a pilot is mepuing cevely. Hyun is a model. The work of a sofware engineer is gholicoring intairly. Holbrook is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:120
+The work of a janitor is acmastatting rigeorly. Montalvo is an electrician. The work of an accountant is sparluing gobewly. Oakes is a janitor. Owensby is an accountant. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:121
+The work of a politician is backminguing tourderly. Salters is a firefighter. Barker is a politician. The work of a model is juthjodding voarly. The work of a firefighter is ehemting smorbtly. Kirkpatrick is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:122
+The work of a politician is backminguing tourderly. The work of a sofware engineer is gholicoring intairly. Bunn is a janitor. The work of a janitor is acmastatting rigeorly. Rumble is a politician. Rolf is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:123
+The work of a travel agent is momdresining namisly. Gillman is a travel agent. The work of a truck driver is andonging cartroly. The work of a politician is backminguing tourderly. Cadet is a truck driver. Gassman is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:124
+Cortright is a sofware engineer. Luttrell is a hairdresser. Fear is a nurse. The work of a sofware engineer is gholicoring intairly. The work of a nurse is sombling enrinkmically. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:125
+The work of a pilot is mepuing cevely. Plaster is a politician. The work of a politician is backminguing tourderly. The work of a nurse is sombling enrinkmically. Trainer is a pilot. Eid is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:126
+The work of an accountant is sparluing gobewly. The work of a sofware engineer is gholicoring intairly. The work of a firefighter is ehemting smorbtly. Slane is a sofware engineer. Ingles is a firefighter. Spillman is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:127
+The work of a model is juthjodding voarly. The work of a janitor is acmastatting rigeorly. Cerrone is a model. The work of a dentist is sadliging hezly. Loh is a janitor. Summers is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:128
+Kinchen is a model. The work of a travel agent is momdresining namisly. The work of an actor is bonsing caply. The work of a model is juthjodding voarly. Chapin is an actor. Calo is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:129
+The work of a model is juthjodding voarly. Boner is an accountant. The work of an accountant is sparluing gobewly. Hatter is a model. Mcguffey is a travel agent. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:130
+Folks is a politician. Amstutz is a firefighter. The work of a travel agent is momdresining namisly. Lieberman is a travel agent. The work of a politician is backminguing tourderly. The work of a firefighter is ehemting smorbtly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:131
+The work of a pilot is mepuing cevely. Moreno is a food preparation worker. Willing is a nurse. The work of a food preparation worker is glidetting cobaly. The work of a nurse is sombling enrinkmically. Luckett is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:132
+The work of an electrician is consersiving odmeraindly. Gabbard is a nurse. The work of a hairdresser is axtactifying sethourdorly. Applegate is a hairdresser. The work of a nurse is sombling enrinkmically. Warden is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:133
+The work of a food preparation worker is glidetting cobaly. Clem is a travel agent. Barge is a pilot. Avelar is a food preparation worker. The work of a pilot is mepuing cevely. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:134
+The work of an astronomer is galmaunting induancingly. The work of a politician is backminguing tourderly. The work of a bus driver is heuting riuly. Proulx is a bus driver. Adamski is an astronomer. Monaco is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:135
+Reynoso is an astronomer. Blanchard is a firefighter. Hallowell is a bus driver. The work of an astronomer is galmaunting induancingly. The work of a bus driver is heuting riuly. The work of a firefighter is ehemting smorbtly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:136
+The work of a travel agent is momdresining namisly. Pellegrin is a travel agent. Hipps is a dentist. The work of a model is juthjodding voarly. Cappello is a model. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:137
+The work of a fisher is tractering quitprilly. Sequeira is an electrician. The work of an electrician is consersiving odmeraindly. Profit is a fisher. The work of a hairdresser is axtactifying sethourdorly. Polanco is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:138
+Espy is a hairdresser. The work of a firefighter is ehemting smorbtly. Schreck is a firefighter. The work of a food preparation worker is glidetting cobaly. The work of a hairdresser is axtactifying sethourdorly. Hultman is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:139
+The work of an astronomer is galmaunting induancingly. The work of a model is juthjodding voarly. Herlihy is a model. The work of a dentist is sadliging hezly. Lively is an astronomer. Delariva is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:140
+The work of a nurse is sombling enrinkmically. Eastep is a nurse. Hiers is an astronomer. The work of an astronomer is galmaunting induancingly. Suh is an actor. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:141
+The work of a bus driver is heuting riuly. Felt is an actor. Hui is a bus driver. The work of an actor is bonsing caply. The work of a hairdresser is axtactifying sethourdorly. Covert is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:142
+The work of a politician is backminguing tourderly. The work of a hairdresser is axtactifying sethourdorly. The work of a waiter is dunounding sacanothely. Jiminez is a waiter. Marlatt is a politician. Runner is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:143
+The work of a janitor is acmastatting rigeorly. The work of a dentist is sadliging hezly. Vroman is an electrician. Nisbet is a dentist. The work of an electrician is consersiving odmeraindly. Nakamoto is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:144
+Vrooman is an astronomer. The work of a pilot is mepuing cevely. The work of a travel agent is momdresining namisly. The work of an astronomer is galmaunting induancingly. Samaroo is a pilot. Pritchett is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:145
+Wilbanks is a fisher. Stearns is a sofware engineer. The work of a fisher is tractering quitprilly. Vanatta is a dentist. The work of a sofware engineer is gholicoring intairly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:146
+Cahoon is an accountant. The work of a waiter is dunounding sacanothely. Wenz is a model. Cleek is a waiter. The work of a model is juthjodding voarly. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:147
+The work of a model is juthjodding voarly. The work of a bus driver is heuting riuly. Blaney is a bus driver. Vallejo is a model. Ice is an optician. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:148
+The work of a truck driver is andonging cartroly. The work of a food preparation worker is glidetting cobaly. The work of an electrician is consersiving odmeraindly. Chino is an electrician. Rountree is a food preparation worker. Fontanilla is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:149
+The work of a politician is backminguing tourderly. The work of an accountant is sparluing gobewly. Leflore is a politician. Moniz is an accountant. The work of a pilot is mepuing cevely. Boice is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:150
+The work of a bus driver is heuting riuly. Paddock is a bus driver. Begum is a janitor. Engleman is a dentist. The work of a janitor is acmastatting rigeorly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:151
+Chagoya is an electrician. The work of an astronomer is galmaunting induancingly. The work of a firefighter is ehemting smorbtly. Richins is an astronomer. Palm is a firefighter. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:152
+Hoggard is an actor. The work of a bus driver is heuting riuly. The work of a waiter is dunounding sacanothely. The work of an actor is bonsing caply. Getchell is a bus driver. Dimatteo is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:153
+The work of a politician is backminguing tourderly. The work of an actor is bonsing caply. Kocher is a politician. The work of a food preparation worker is glidetting cobaly. Tangen is a food preparation worker. Janowski is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:154
+The work of a dentist is sadliging hezly. Stefanik is an astronomer. Sher is a fisher. Hentz is a dentist. The work of an astronomer is galmaunting induancingly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:155
+The work of an electrician is consersiving odmeraindly. Beaman is a travel agent. Vawter is an electrician. The work of a travel agent is momdresining namisly. Buzzell is a hairdresser. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:156
+Rizzi is an astronomer. The work of an actor is bonsing caply. The work of a pilot is mepuing cevely. Troyer is an actor. Spina is a pilot. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:157
+The work of a sofware engineer is gholicoring intairly. Overbeck is an astronomer. The work of an astronomer is galmaunting induancingly. Bennette is a sofware engineer. Bushong is a waiter. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:158
+The work of a nurse is sombling enrinkmically. The work of a bus driver is heuting riuly. The work of an electrician is consersiving odmeraindly. Wurster is a nurse. Sartin is an electrician. Lagasse is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:159
+Jiminez is a pilot. The work of an actor is bonsing caply. Bamford is an actor. Dibble is a janitor. The work of a pilot is mepuing cevely. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:160
+The work of a bus driver is heuting riuly. The work of a janitor is acmastatting rigeorly. Burgett is a bus driver. Leiser is a janitor. The work of a pilot is mepuing cevely. Sande is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:161
+The work of an optician is barraking amolly. The work of a travel agent is momdresining namisly. Choi is an optician. Livingstone is an astronomer. Levan is a travel agent. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:162
+Haan is an actor. The work of an actor is bonsing caply. Prioleau is a nurse. The work of a bus driver is heuting riuly. Cardillo is a bus driver. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:163
+The work of an actor is bonsing caply. The work of a nurse is sombling enrinkmically. The work of a janitor is acmastatting rigeorly. Sherrer is a nurse. Dorazio is a janitor. Weekley is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:164
+Irby is an electrician. Sapp is a model. Parrilla is a dentist. The work of an electrician is consersiving odmeraindly. The work of a dentist is sadliging hezly. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:165
+Papke is a bus driver. The work of a politician is backminguing tourderly. Cantor is an accountant. The work of a bus driver is heuting riuly. Junge is a politician. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:166
+Lueck is an accountant. The work of a nurse is sombling enrinkmically. The work of an accountant is sparluing gobewly. The work of a hairdresser is axtactifying sethourdorly. Nevarez is a nurse. Cobbins is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:167
+Chia is a travel agent. The work of a sofware engineer is gholicoring intairly. Pauly is a sofware engineer. The work of a waiter is dunounding sacanothely. The work of a travel agent is momdresining namisly. Curley is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:168
+The work of a food preparation worker is glidetting cobaly. The work of a fisher is tractering quitprilly. The work of a sofware engineer is gholicoring intairly. Guidroz is a sofware engineer. Konopka is a fisher. Xiong is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:169
+Lamas is a politician. The work of a politician is backminguing tourderly. The work of a pilot is mepuing cevely. The work of a model is juthjodding voarly. Janicki is a model. Mcneeley is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:170
+The work of an actor is bonsing caply. The work of a janitor is acmastatting rigeorly. The work of an astronomer is galmaunting induancingly. Criner is a janitor. Ferrer is an astronomer. Kos is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:171
+The work of a hairdresser is axtactifying sethourdorly. Farrior is a hairdresser. The work of a pilot is mepuing cevely. Giambrone is a pilot. The work of a travel agent is momdresining namisly. Caffey is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:172
+The work of a fisher is tractering quitprilly. Corso is an optician. Stanberry is a fisher. Renwick is an accountant. The work of an accountant is sparluing gobewly. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:173
+The work of a dentist is sadliging hezly. Hedges is a dentist. Naidu is an astronomer. Lauck is a sofware engineer. The work of a sofware engineer is gholicoring intairly. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:174
+The work of a pilot is mepuing cevely. Mcmanus is a pilot. The work of a travel agent is momdresining namisly. The work of a model is juthjodding voarly. Kuster is a model. Courtemanche is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:175
+Overby is a food preparation worker. The work of a pilot is mepuing cevely. The work of a food preparation worker is glidetting cobaly. Mestas is a pilot. The work of a politician is backminguing tourderly. Vanderlaan is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:176
+The work of an actor is bonsing caply. Milliken is an actor. Rink is an accountant. The work of an accountant is sparluing gobewly. Lacefield is an electrician. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:177
+The work of a bus driver is heuting riuly. The work of an electrician is consersiving odmeraindly. Wahl is an electrician. The work of a food preparation worker is glidetting cobaly. Whittenburg is a bus driver. Lobos is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:178
+Maffei is an actor. Mallon is a truck driver. Parvin is a nurse. The work of a truck driver is andonging cartroly. The work of a nurse is sombling enrinkmically. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:179
+Garten is an actor. Dyess is a dentist. Govea is a truck driver. The work of an actor is bonsing caply. The work of a truck driver is andonging cartroly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:180
+The work of an optician is barraking amolly. Mcqueary is a hairdresser. The work of a politician is backminguing tourderly. The work of a hairdresser is axtactifying sethourdorly. Taff is an optician. Prue is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:181
+The work of a pilot is mepuing cevely. The work of a truck driver is andonging cartroly. Lucido is a pilot. Hidalgo is a hairdresser. The work of a hairdresser is axtactifying sethourdorly. Schank is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:182
+The work of a firefighter is ehemting smorbtly. The work of a bus driver is heuting riuly. Mulhern is a firefighter. Graziano is a politician. The work of a politician is backminguing tourderly. Hyman is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:183
+The work of a dentist is sadliging hezly. Latson is a dentist. The work of a food preparation worker is glidetting cobaly. Booher is a truck driver. Dutcher is a food preparation worker. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:184
+Klar is a hairdresser. Huizar is a fisher. The work of a bus driver is heuting riuly. The work of a hairdresser is axtactifying sethourdorly. Jaynes is a bus driver. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:185
+The work of a travel agent is momdresining namisly. Colunga is a travel agent. The work of an actor is bonsing caply. The work of a pilot is mepuing cevely. Ackermann is an actor. Hopson is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:186
+The work of a bus driver is heuting riuly. The work of a waiter is dunounding sacanothely. The work of an optician is barraking amolly. Mayhugh is a bus driver. Cardoso is a waiter. Goheen is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:187
+The work of a travel agent is momdresining namisly. Cepeda is a travel agent. Crume is an actor. The work of a waiter is dunounding sacanothely. Gullett is a waiter. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:188
+Cirillo is a pilot. Billingsley is a fisher. The work of a waiter is dunounding sacanothely. The work of a fisher is tractering quitprilly. The work of a pilot is mepuing cevely. Stricklin is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:189
+Padula is a fisher. Odle is a food preparation worker. The work of an optician is barraking amolly. Tullis is an optician. The work of a food preparation worker is glidetting cobaly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:190
+The work of a firefighter is ehemting smorbtly. Kone is a waiter. Deschamps is a firefighter. Maisonet is a pilot. The work of a pilot is mepuing cevely. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:191
+The work of a janitor is acmastatting rigeorly. Woodburn is a pilot. The work of a food preparation worker is glidetting cobaly. Goulet is a food preparation worker. The work of a pilot is mepuing cevely. Person is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:192
+The work of a firefighter is ehemting smorbtly. Rolph is a sofware engineer. Oo is a bus driver. The work of a bus driver is heuting riuly. The work of a sofware engineer is gholicoring intairly. Bellew is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:193
+The work of a janitor is acmastatting rigeorly. The work of a truck driver is andonging cartroly. Turano is a janitor. Kuiper is a model. The work of a model is juthjodding voarly. Montano is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:194
+Stjohn is an actor. The work of a dentist is sadliging hezly. The work of an actor is bonsing caply. The work of a janitor is acmastatting rigeorly. Neilsen is a janitor. Deeter is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:195
+The work of a travel agent is momdresining namisly. Wedge is an accountant. Klosterman is a travel agent. The work of an accountant is sparluing gobewly. The work of a model is juthjodding voarly. Stripling is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:196
+The work of a pilot is mepuing cevely. Garlock is a pilot. The work of an astronomer is galmaunting induancingly. Digiorgio is an astronomer. Villar is a bus driver. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:197
+The work of an astronomer is galmaunting induancingly. Hashmi is a politician. The work of a politician is backminguing tourderly. The work of a waiter is dunounding sacanothely. Griner is an astronomer. Slavik is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:198
+The work of a model is juthjodding voarly. Broad is an accountant. Mazzola is a model. The work of an accountant is sparluing gobewly. Rettig is a janitor. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:199
+Northup is a nurse. The work of a food preparation worker is glidetting cobaly. The work of a nurse is sombling enrinkmically. Frausto is a food preparation worker. The work of a model is juthjodding voarly. Hambright is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:200
+The work of a janitor is acmastatting rigeorly. The work of a dentist is sadliging hezly. The work of an optician is barraking amolly. Hail is an optician. Tomes is a janitor. Totten is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:201
+Lent is a pilot. The work of a pilot is mepuing cevely. Kassa is a fisher. The work of a waiter is dunounding sacanothely. The work of a fisher is tractering quitprilly. Layfield is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:202
+The work of a hairdresser is axtactifying sethourdorly. Tackett is a hairdresser. Althoff is a food preparation worker. Deckert is a bus driver. The work of a bus driver is heuting riuly. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:203
+Goheen is an actor. The work of a firefighter is ehemting smorbtly. The work of a travel agent is momdresining namisly. Collis is a travel agent. The work of an actor is bonsing caply. Mast is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:204
+The work of a nurse is sombling enrinkmically. Seagle is a dentist. Gower is a nurse. The work of a dentist is sadliging hezly. The work of an optician is barraking amolly. Mccalister is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:205
+The work of an accountant is sparluing gobewly. Lind is a fisher. Alvord is an accountant. The work of a fisher is tractering quitprilly. The work of an optician is barraking amolly. Jenkinson is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:206
+Spanos is an accountant. The work of a waiter is dunounding sacanothely. The work of an optician is barraking amolly. The work of an accountant is sparluing gobewly. Yanes is a waiter. Coscia is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:207
+Burcham is a janitor. The work of an actor is bonsing caply. Bickett is a hairdresser. The work of a janitor is acmastatting rigeorly. The work of a hairdresser is axtactifying sethourdorly. Deloach is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:208
+The work of a pilot is mepuing cevely. Scull is a truck driver. The work of a truck driver is andonging cartroly. Miedema is a janitor. Haston is a pilot. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:209
+The work of a food preparation worker is glidetting cobaly. The work of a fisher is tractering quitprilly. Timmins is a food preparation worker. Marx is a nurse. Coover is a fisher. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:210
+Deemer is a food preparation worker. The work of an actor is bonsing caply. Mole is an actor. The work of a travel agent is momdresining namisly. The work of a food preparation worker is glidetting cobaly. File is a travel agent.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:211
+Stgeorge is an electrician. The work of an astronomer is galmaunting induancingly. Lewellen is a food preparation worker. The work of a food preparation worker is glidetting cobaly. The work of an electrician is consersiving odmeraindly. Oshaughnessy is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:212
+The work of a truck driver is andonging cartroly. The work of a dentist is sadliging hezly. Kuhl is a dentist. The work of an astronomer is galmaunting induancingly. Dargan is an astronomer. Buenrostro is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:213
+Padilla is a waiter. Brayboy is a nurse. Parenti is a dentist. The work of a dentist is sadliging hezly. The work of a nurse is sombling enrinkmically. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:214
+Soni is an electrician. Zehr is a travel agent. The work of a travel agent is momdresining namisly. Uy is an accountant. The work of an accountant is sparluing gobewly. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:215
+Boulay is a travel agent. The work of a sofware engineer is gholicoring intairly. The work of a travel agent is momdresining namisly. Kring is a sofware engineer. The work of a firefighter is ehemting smorbtly. Cavanaugh is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:216
+The work of an accountant is sparluing gobewly. The work of a waiter is dunounding sacanothely. Flanagan is a firefighter. Morocho is an accountant. Verret is a waiter. The work of a firefighter is ehemting smorbtly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:217
+The work of a food preparation worker is glidetting cobaly. The work of a bus driver is heuting riuly. Farabaugh is a travel agent. Malkin is a food preparation worker. The work of a travel agent is momdresining namisly. Falgout is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:218
+Zielke is a bus driver. The work of an accountant is sparluing gobewly. The work of a janitor is acmastatting rigeorly. The work of a bus driver is heuting riuly. Ratchford is an accountant. Johanson is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:219
+Svendsen is a dentist. Hern is an optician. Wisner is an actor. The work of an actor is bonsing caply. The work of an optician is barraking amolly. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:220
+The work of a nurse is sombling enrinkmically. Llerena is an optician. The work of an electrician is consersiving odmeraindly. The work of an optician is barraking amolly. Peacock is a nurse. Plunk is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:221
+Contreras is a nurse. The work of a travel agent is momdresining namisly. Dalzell is a travel agent. The work of a truck driver is andonging cartroly. Puleo is a truck driver. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:222
+The work of a travel agent is momdresining namisly. Cuccia is a travel agent. The work of a fisher is tractering quitprilly. The work of a waiter is dunounding sacanothely. Choice is a waiter. Fauver is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:223
+The work of an astronomer is galmaunting induancingly. Rickard is an astronomer. The work of a model is juthjodding voarly. The work of a pilot is mepuing cevely. Boggan is a pilot. Frederiksen is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:224
+The work of a bus driver is heuting riuly. Bickett is a bus driver. The work of a nurse is sombling enrinkmically. The work of a travel agent is momdresining namisly. Valtierra is a travel agent. Macintyre is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:225
+The work of a nurse is sombling enrinkmically. Dabney is a nurse. Weymouth is a janitor. Coomes is a sofware engineer. The work of a janitor is acmastatting rigeorly. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:226
+The work of a waiter is dunounding sacanothely. The work of a politician is backminguing tourderly. Lopezmartinez is a politician. Iles is an accountant. The work of an accountant is sparluing gobewly. Shrum is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:227
+Eisenhart is a dentist. Manzanares is a model. The work of a model is juthjodding voarly. The work of a dentist is sadliging hezly. Binns is a janitor. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:228
+Siqueiros is a waiter. The work of a sofware engineer is gholicoring intairly. The work of a waiter is dunounding sacanothely. Hann is a fisher. The work of a fisher is tractering quitprilly. Nassar is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:229
+The work of an astronomer is galmaunting induancingly. Haack is a bus driver. The work of a pilot is mepuing cevely. Cuccia is a pilot. Kress is an astronomer. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:230
+The work of a politician is backminguing tourderly. Acero is a waiter. The work of a waiter is dunounding sacanothely. The work of a bus driver is heuting riuly. Taff is a politician. Bolin is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:231
+The work of an astronomer is galmaunting induancingly. Mangual is an accountant. Pavlick is an astronomer. The work of an accountant is sparluing gobewly. Rosenzweig is a dentist. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:232
+The work of a janitor is acmastatting rigeorly. Tollett is a hairdresser. The work of a firefighter is ehemting smorbtly. Bouck is a firefighter. The work of a hairdresser is axtactifying sethourdorly. Eichner is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:233
+Heimann is a hairdresser. The work of a food preparation worker is glidetting cobaly. Cottle is a food preparation worker. The work of a nurse is sombling enrinkmically. The work of a hairdresser is axtactifying sethourdorly. Akins is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:234
+Guyette is a food preparation worker. Tadesse is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Naughton is a bus driver. The work of a food preparation worker is glidetting cobaly. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:235
+The work of a travel agent is momdresining namisly. Chenevert is an electrician. Hills is a food preparation worker. Shores is a travel agent. The work of an electrician is consersiving odmeraindly. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:236
+The work of a hairdresser is axtactifying sethourdorly. Richert is a travel agent. The work of a travel agent is momdresining namisly. The work of a firefighter is ehemting smorbtly. Wingert is a firefighter. Thakur is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:237
+The work of a pilot is mepuing cevely. The work of a janitor is acmastatting rigeorly. Lagos is a janitor. The work of a bus driver is heuting riuly. Bealer is a bus driver. Mcguire is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:238
+The work of an optician is barraking amolly. Tarrant is a sofware engineer. The work of a pilot is mepuing cevely. Cripps is a pilot. The work of a sofware engineer is gholicoring intairly. Holdsworth is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:239
+Maine is a sofware engineer. Enright is a firefighter. The work of a sofware engineer is gholicoring intairly. The work of a firefighter is ehemting smorbtly. Yarber is a food preparation worker. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:240
+The work of a janitor is acmastatting rigeorly. Broome is a janitor. Naples is a nurse. The work of a model is juthjodding voarly. Kahn is a model. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:241
+Goldsberry is a travel agent. Palermo is an astronomer. Maberry is a waiter. The work of an astronomer is galmaunting induancingly. The work of a travel agent is momdresining namisly. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:242
+Carreras is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Vanatta is an accountant. The work of an accountant is sparluing gobewly. Skeens is a truck driver. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:243
+Cartagena is a travel agent. The work of a food preparation worker is glidetting cobaly. The work of a pilot is mepuing cevely. Hardman is a food preparation worker. The work of a travel agent is momdresining namisly. Dandridge is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:244
+The work of a hairdresser is axtactifying sethourdorly. Hultman is a hairdresser. The work of a sofware engineer is gholicoring intairly. Alt is an astronomer. Pires is a sofware engineer. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:245
+The work of an actor is bonsing caply. The work of a hairdresser is axtactifying sethourdorly. Dhillon is an actor. Lawlor is a hairdresser. The work of a sofware engineer is gholicoring intairly. Sherburne is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:246
+The work of a dentist is sadliging hezly. The work of a firefighter is ehemting smorbtly. The work of a nurse is sombling enrinkmically. Custodio is a firefighter. Tieman is a nurse. Totten is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:247
+The work of a travel agent is momdresining namisly. Cashin is a fisher. Bragg is a firefighter. The work of a firefighter is ehemting smorbtly. Sopko is a travel agent. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:248
+The work of a model is juthjodding voarly. The work of a waiter is dunounding sacanothely. Swiderski is a model. The work of a janitor is acmastatting rigeorly. Poplawski is a waiter. Ambrocio is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:249
+Sugarman is a politician. The work of a dentist is sadliging hezly. The work of a politician is backminguing tourderly. The work of an astronomer is galmaunting induancingly. Geraci is a dentist. Antunez is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:250
+The work of an accountant is sparluing gobewly. Henshaw is an accountant. The work of a dentist is sadliging hezly. The work of a hairdresser is axtactifying sethourdorly. Lauderdale is a dentist. Crotty is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:251
+Hostetter is an actor. Orr is a hairdresser. Mans is a dentist. The work of an actor is bonsing caply. The work of a dentist is sadliging hezly. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:252
+Burchfield is a food preparation worker. The work of a food preparation worker is glidetting cobaly. The work of a fisher is tractering quitprilly. The work of a politician is backminguing tourderly. Reuther is a fisher. Volkert is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:253
+The work of an electrician is consersiving odmeraindly. The work of a firefighter is ehemting smorbtly. The work of a nurse is sombling enrinkmically. Ybarra is a nurse. Innes is a firefighter. Brinkmann is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:254
+Emmons is a bus driver. The work of a bus driver is heuting riuly. The work of a nurse is sombling enrinkmically. The work of an actor is bonsing caply. Florio is a nurse. Jorgenson is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:255
+Loera is a bus driver. The work of a nurse is sombling enrinkmically. The work of an astronomer is galmaunting induancingly. Sheeran is an astronomer. Barreiro is a nurse. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:256
+The work of a waiter is dunounding sacanothely. The work of an accountant is sparluing gobewly. The work of an optician is barraking amolly. Groom is an optician. Marchetti is an accountant. Grimsley is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:257
+Kuhl is an accountant. Gandara is an astronomer. The work of a politician is backminguing tourderly. The work of an astronomer is galmaunting induancingly. Hilts is a politician. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:258
+Galyon is a janitor. The work of a fisher is tractering quitprilly. The work of a janitor is acmastatting rigeorly. Stokes is a fisher. The work of a politician is backminguing tourderly. Robey is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:259
+The work of a truck driver is andonging cartroly. The work of a model is juthjodding voarly. The work of a food preparation worker is glidetting cobaly. Bouknight is a food preparation worker. Gangi is a model. Dunagan is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:260
+Bardales is an optician. The work of an actor is bonsing caply. The work of an optician is barraking amolly. The work of a fisher is tractering quitprilly. Than is an actor. Devera is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:261
+Cedillo is an optician. Shiflet is a bus driver. The work of an actor is bonsing caply. The work of a bus driver is heuting riuly. Godbout is an actor. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:262
+Brightman is an astronomer. Titsworth is a dentist. The work of an astronomer is galmaunting induancingly. The work of a pilot is mepuing cevely. Bolin is a pilot. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:263
+Rein is an actor. The work of a sofware engineer is gholicoring intairly. Dandridge is a janitor. Krell is a sofware engineer. The work of an actor is bonsing caply. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:264
+Pita is a model. The work of a model is juthjodding voarly. The work of a truck driver is andonging cartroly. Greek is a truck driver. Sapienza is a fisher. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:265
+The work of a model is juthjodding voarly. Burris is a model. The work of a pilot is mepuing cevely. Armstead is a pilot. Stringfield is a fisher. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:266
+Eves is an accountant. Poche is a model. The work of an accountant is sparluing gobewly. The work of a fisher is tractering quitprilly. The work of a model is juthjodding voarly. Bohlen is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:267
+Leiva is an accountant. The work of an accountant is sparluing gobewly. Cail is a travel agent. Hutchens is a bus driver. The work of a travel agent is momdresining namisly. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:268
+The work of a firefighter is ehemting smorbtly. Mosqueda is a waiter. The work of a food preparation worker is glidetting cobaly. Bunton is a firefighter. The work of a waiter is dunounding sacanothely. Drouin is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:269
+Sweeting is a food preparation worker. Lattin is a fisher. The work of a food preparation worker is glidetting cobaly. The work of an optician is barraking amolly. The work of a fisher is tractering quitprilly. Windom is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:270
+The work of a sofware engineer is gholicoring intairly. The work of an astronomer is galmaunting induancingly. The work of a firefighter is ehemting smorbtly. Vassallo is a firefighter. Alvey is an astronomer. Buzzell is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:271
+Espada is an optician. The work of an optician is barraking amolly. Blandford is an astronomer. Weathers is a nurse. The work of an astronomer is galmaunting induancingly. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:272
+The work of a sofware engineer is gholicoring intairly. The work of a truck driver is andonging cartroly. The work of a model is juthjodding voarly. Leveille is a sofware engineer. Overby is a model. Counts is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:273
+The work of a firefighter is ehemting smorbtly. Gelman is a firefighter. Bertsch is a sofware engineer. The work of a model is juthjodding voarly. The work of a sofware engineer is gholicoring intairly. Beedle is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:274
+Mardis is an accountant. Bousquet is an actor. The work of an accountant is sparluing gobewly. Lodge is a sofware engineer. The work of a sofware engineer is gholicoring intairly. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:275
+Dalley is a bus driver. The work of a food preparation worker is glidetting cobaly. The work of a janitor is acmastatting rigeorly. Huang is a food preparation worker. The work of a bus driver is heuting riuly. Ashbrook is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:276
+Daigle is a nurse. Delao is a janitor. The work of a janitor is acmastatting rigeorly. The work of a nurse is sombling enrinkmically. Rayo is an optician. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:277
+The work of an actor is bonsing caply. The work of a travel agent is momdresining namisly. The work of a bus driver is heuting riuly. Dodd is an actor. Reddin is a travel agent. Noack is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:278
+Evangelista is a truck driver. The work of a truck driver is andonging cartroly. Gillies is a sofware engineer. Rosenow is a food preparation worker. The work of a sofware engineer is gholicoring intairly. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:279
+The work of a nurse is sombling enrinkmically. Baum is a nurse. The work of a hairdresser is axtactifying sethourdorly. Pawlowski is a hairdresser. Clendenin is a waiter. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:280
+Vandermolen is an accountant. Hovey is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Blanchette is an astronomer. The work of an accountant is sparluing gobewly. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:281
+The work of a fisher is tractering quitprilly. Fowles is an optician. The work of a waiter is dunounding sacanothely. Searles is a fisher. Citizen is a waiter. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:282
+Cobian is a truck driver. The work of an optician is barraking amolly. The work of a truck driver is andonging cartroly. Trexler is an optician. The work of a food preparation worker is glidetting cobaly. Makin is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:283
+The work of an accountant is sparluing gobewly. The work of an optician is barraking amolly. Bruss is a janitor. Swink is an accountant. Drayer is an optician. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:284
+Morrell is a fisher. Folger is a truck driver. Couey is a politician. The work of a truck driver is andonging cartroly. The work of a fisher is tractering quitprilly. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:285
+The work of a hairdresser is axtactifying sethourdorly. Piekarski is a nurse. The work of a model is juthjodding voarly. Nath is a hairdresser. Soni is a model. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:286
+The work of an accountant is sparluing gobewly. Jalloh is an accountant. The work of a waiter is dunounding sacanothely. The work of a janitor is acmastatting rigeorly. Rohrer is a waiter. Hanger is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:287
+Rust is a food preparation worker. The work of a food preparation worker is glidetting cobaly. Hubbell is a dentist. The work of a bus driver is heuting riuly. The work of a dentist is sadliging hezly. Thornhill is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:288
+Dimeo is a sofware engineer. Janowski is a pilot. Redfearn is a dentist. The work of a dentist is sadliging hezly. The work of a sofware engineer is gholicoring intairly. The work of a pilot is mepuing cevely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:289
+Dhaliwal is a firefighter. The work of a firefighter is ehemting smorbtly. Richert is a dentist. The work of a hairdresser is axtactifying sethourdorly. Guay is a hairdresser. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:290
+The work of a dentist is sadliging hezly. The work of a sofware engineer is gholicoring intairly. Firth is an accountant. Bingham is a dentist. Murawski is a sofware engineer. The work of an accountant is sparluing gobewly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:291
+The work of an astronomer is galmaunting induancingly. Spellman is an astronomer. Lovin is a nurse. Curtin is a fisher. The work of a nurse is sombling enrinkmically. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:292
+The work of an optician is barraking amolly. Manchester is an optician. Dubey is a travel agent. Fifield is an actor. The work of an actor is bonsing caply. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:293
+Leasure is an optician. The work of a fisher is tractering quitprilly. Sydnor is a fisher. The work of an optician is barraking amolly. Klosterman is a model. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:294
+The work of a firefighter is ehemting smorbtly. The work of a dentist is sadliging hezly. Ridgley is an astronomer. Scheib is a dentist. The work of an astronomer is galmaunting induancingly. Dalley is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:295
+The work of a nurse is sombling enrinkmically. The work of a truck driver is andonging cartroly. Petrosyan is a truck driver. Hetherington is a nurse. Istre is a fisher. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:296
+The work of a food preparation worker is glidetting cobaly. The work of a nurse is sombling enrinkmically. Morant is a nurse. Kocher is a food preparation worker. The work of a sofware engineer is gholicoring intairly. Marcano is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:297
+Chafin is a dentist. Krell is an accountant. The work of a bus driver is heuting riuly. The work of a dentist is sadliging hezly. The work of an accountant is sparluing gobewly. Knebel is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:298
+The work of a truck driver is andonging cartroly. The work of an astronomer is galmaunting induancingly. The work of a fisher is tractering quitprilly. Yoo is a fisher. Ostler is a truck driver. Moretz is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:299
+Hutto is a nurse. Parvin is a waiter. Breese is a fisher. The work of a waiter is dunounding sacanothely. The work of a nurse is sombling enrinkmically. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:300
+Marson is a pilot. The work of a model is juthjodding voarly. The work of a politician is backminguing tourderly. The work of a pilot is mepuing cevely. Essary is a politician. Blackmon is a model.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:301
+Lassen is a travel agent. The work of a travel agent is momdresining namisly. The work of an electrician is consersiving odmeraindly. Cornett is an electrician. Noriega is an astronomer. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:302
+The work of a firefighter is ehemting smorbtly. Barone is a firefighter. Leavy is an actor. The work of an actor is bonsing caply. The work of a food preparation worker is glidetting cobaly. Patti is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:303
+The work of a model is juthjodding voarly. The work of an optician is barraking amolly. Hills is a model. Wilhoit is an optician. The work of a dentist is sadliging hezly. Wolford is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:304
+Cone is a travel agent. Dvorak is an accountant. The work of an accountant is sparluing gobewly. The work of a firefighter is ehemting smorbtly. Mccaw is a firefighter. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:305
+The work of an optician is barraking amolly. The work of a travel agent is momdresining namisly. Putney is a travel agent. Whitlock is an optician. The work of an accountant is sparluing gobewly. Hidalgo is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:306
+The work of an optician is barraking amolly. The work of a model is juthjodding voarly. Foerster is a truck driver. The work of a truck driver is andonging cartroly. Nowicki is a model. Villalba is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:307
+The work of a hairdresser is axtactifying sethourdorly. Finegan is a hairdresser. The work of a travel agent is momdresining namisly. Matz is a dentist. Dimaio is a travel agent. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:308
+Treadway is an electrician. Darnall is a travel agent. The work of a waiter is dunounding sacanothely. The work of an electrician is consersiving odmeraindly. The work of a travel agent is momdresining namisly. Troyer is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:309
+The work of a waiter is dunounding sacanothely. The work of a firefighter is ehemting smorbtly. The work of an accountant is sparluing gobewly. Smalley is an accountant. Humphries is a waiter. Sova is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:310
+The work of a waiter is dunounding sacanothely. Tutt is a waiter. The work of an actor is bonsing caply. Blakeney is a bus driver. Fifield is an actor. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:311
+Amstutz is a hairdresser. Nath is an accountant. The work of an accountant is sparluing gobewly. The work of a fisher is tractering quitprilly. Leggett is a fisher. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:312
+The work of an astronomer is galmaunting induancingly. Belford is a model. The work of a model is juthjodding voarly. The work of a pilot is mepuing cevely. Salais is a pilot. Leiser is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:313
+The work of an accountant is sparluing gobewly. Holub is an accountant. Griswold is a truck driver. Fairfax is a food preparation worker. The work of a food preparation worker is glidetting cobaly. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:314
+The work of a fisher is tractering quitprilly. Grimmett is a politician. The work of a truck driver is andonging cartroly. The work of a politician is backminguing tourderly. Wooley is a fisher. Oberlander is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:315
+The work of a fisher is tractering quitprilly. Vanetten is a fisher. Mcnees is an optician. Stalnaker is a nurse. The work of an optician is barraking amolly. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:316
+Conti is a pilot. The work of a pilot is mepuing cevely. Tollett is a firefighter. The work of a sofware engineer is gholicoring intairly. The work of a firefighter is ehemting smorbtly. Honda is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:317
+The work of an optician is barraking amolly. Bellis is a fisher. The work of a fisher is tractering quitprilly. Walley is an optician. The work of a bus driver is heuting riuly. Diller is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:318
+Covert is a nurse. Rager is an electrician. The work of an actor is bonsing caply. The work of an electrician is consersiving odmeraindly. The work of a nurse is sombling enrinkmically. Liptak is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:319
+The work of a nurse is sombling enrinkmically. Dearing is an optician. Okada is a nurse. The work of a hairdresser is axtactifying sethourdorly. The work of an optician is barraking amolly. Budge is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:320
+Spinks is a waiter. Clingan is a travel agent. The work of an actor is bonsing caply. Bunce is an actor. The work of a waiter is dunounding sacanothely. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:321
+The work of a nurse is sombling enrinkmically. The work of a waiter is dunounding sacanothely. Trollinger is a nurse. Housman is a hairdresser. Sauls is a waiter. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:322
+The work of a bus driver is heuting riuly. Rushin is a bus driver. Coberly is a waiter. The work of a waiter is dunounding sacanothely. Govea is a fisher. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:323
+Brandl is an astronomer. The work of a bus driver is heuting riuly. Witek is a bus driver. The work of a truck driver is andonging cartroly. The work of an astronomer is galmaunting induancingly. Shank is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:324
+The work of an electrician is consersiving odmeraindly. Roll is an electrician. The work of an actor is bonsing caply. The work of a fisher is tractering quitprilly. Burchfield is a fisher. Zorn is an actor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:325
+The work of a waiter is dunounding sacanothely. Utt is a waiter. The work of an astronomer is galmaunting induancingly. Canlas is an astronomer. The work of a hairdresser is axtactifying sethourdorly. Herdman is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:326
+The work of an astronomer is galmaunting induancingly. The work of a fisher is tractering quitprilly. Desantis is a nurse. The work of a nurse is sombling enrinkmically. Tafolla is a fisher. Beckwith is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:327
+Mcreynolds is a travel agent. The work of an electrician is consersiving odmeraindly. Maltby is a pilot. The work of a pilot is mepuing cevely. The work of a travel agent is momdresining namisly. Chafin is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:328
+Grimm is a firefighter. The work of a hairdresser is axtactifying sethourdorly. Kassab is a hairdresser. Gosser is a janitor. The work of a firefighter is ehemting smorbtly. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:329
+Matamoros is an actor. The work of an actor is bonsing caply. The work of a politician is backminguing tourderly. The work of an optician is barraking amolly. Claussen is an optician. Dube is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:330
+The work of an optician is barraking amolly. The work of a truck driver is andonging cartroly. Chesnut is a truck driver. The work of a fisher is tractering quitprilly. Sine is a fisher. Platero is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:331
+The work of a dentist is sadliging hezly. Brunk is a politician. The work of a politician is backminguing tourderly. The work of a firefighter is ehemting smorbtly. Winsor is a firefighter. Gould is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:332
+The work of a truck driver is andonging cartroly. Macgregor is a janitor. The work of a janitor is acmastatting rigeorly. The work of a firefighter is ehemting smorbtly. Ridgeway is a truck driver. Beard is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:333
+The work of an astronomer is galmaunting induancingly. Riser is a truck driver. The work of a janitor is acmastatting rigeorly. Balser is a janitor. The work of a truck driver is andonging cartroly. Hammons is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:334
+The work of a bus driver is heuting riuly. Worley is a firefighter. The work of a firefighter is ehemting smorbtly. The work of a janitor is acmastatting rigeorly. Novack is a bus driver. Dempster is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:335
+The work of a janitor is acmastatting rigeorly. Bogan is an electrician. The work of a sofware engineer is gholicoring intairly. Blizzard is a sofware engineer. Lareau is a janitor. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:336
+The work of a pilot is mepuing cevely. Barfield is a pilot. The work of a politician is backminguing tourderly. Hintze is a politician. The work of a sofware engineer is gholicoring intairly. Lopezmartinez is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:337
+The work of a sofware engineer is gholicoring intairly. Ostlund is a travel agent. Spellman is an electrician. The work of an electrician is consersiving odmeraindly. The work of a travel agent is momdresining namisly. Pattillo is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:338
+Cobos is a pilot. The work of a pilot is mepuing cevely. The work of a waiter is dunounding sacanothely. Ditto is a travel agent. Hudock is a waiter. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:339
+The work of a janitor is acmastatting rigeorly. The work of a travel agent is momdresining namisly. Olivas is a janitor. Lim is an optician. Freeborn is a travel agent. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:340
+Hice is an electrician. Trovato is an accountant. The work of an accountant is sparluing gobewly. Villarruel is a firefighter. The work of a firefighter is ehemting smorbtly. The work of an electrician is consersiving odmeraindly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:341
+The work of a politician is backminguing tourderly. The work of a sofware engineer is gholicoring intairly. The work of a food preparation worker is glidetting cobaly. Goldsberry is a food preparation worker. Patti is a sofware engineer. Carmichael is a politician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:342
+The work of a model is juthjodding voarly. Ping is a hairdresser. The work of an accountant is sparluing gobewly. Hoffman is an accountant. Whitmire is a model. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:343
+The work of a dentist is sadliging hezly. The work of a travel agent is momdresining namisly. Groom is a dentist. Gan is a travel agent. The work of a nurse is sombling enrinkmically. Pipkins is a nurse.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:344
+The work of a hairdresser is axtactifying sethourdorly. The work of a dentist is sadliging hezly. Leiser is a dentist. Chapin is a food preparation worker. The work of a food preparation worker is glidetting cobaly. Miner is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:345
+The work of an accountant is sparluing gobewly. Huizar is a dentist. The work of an electrician is consersiving odmeraindly. The work of a dentist is sadliging hezly. Gaiser is an accountant. Stork is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:346
+Guzik is an astronomer. Whitby is a model. Dehoyos is a hairdresser. The work of a model is juthjodding voarly. The work of a hairdresser is axtactifying sethourdorly. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:347
+Seguin is a fisher. The work of a janitor is acmastatting rigeorly. Foraker is a janitor. Eggers is a truck driver. The work of a truck driver is andonging cartroly. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:348
+The work of a politician is backminguing tourderly. The work of a firefighter is ehemting smorbtly. The work of a truck driver is andonging cartroly. Kukla is a truck driver. Shedd is a politician. Signorelli is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:349
+The work of a dentist is sadliging hezly. Ackerman is a politician. The work of a politician is backminguing tourderly. The work of a waiter is dunounding sacanothely. Vizcaino is a dentist. Mcdade is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:350
+Welty is a nurse. The work of a nurse is sombling enrinkmically. The work of a politician is backminguing tourderly. Kells is a politician. The work of a hairdresser is axtactifying sethourdorly. Schad is a hairdresser.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:351
+Farrand is a pilot. The work of a hairdresser is axtactifying sethourdorly. The work of a pilot is mepuing cevely. Swinford is a hairdresser. Sizemore is a politician. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:352
+The work of an astronomer is galmaunting induancingly. The work of a dentist is sadliging hezly. Zawacki is a waiter. The work of a waiter is dunounding sacanothely. Pauley is an astronomer. Voth is a dentist.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:353
+Hartle is an astronomer. The work of a model is juthjodding voarly. Peach is a model. The work of an astronomer is galmaunting induancingly. Ochs is a nurse. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:354
+Trombetta is a model. The work of a model is juthjodding voarly. Schiltz is a firefighter. The work of a nurse is sombling enrinkmically. Troncoso is a nurse. The work of a firefighter is ehemting smorbtly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:355
+The work of a food preparation worker is glidetting cobaly. Buse is a waiter. Hamil is a nurse. The work of a waiter is dunounding sacanothely. Weishaar is a food preparation worker. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:356
+Difiore is a waiter. The work of an accountant is sparluing gobewly. Howery is a politician. The work of a waiter is dunounding sacanothely. Oddo is an accountant. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:357
+Dealba is a bus driver. The work of an optician is barraking amolly. Amend is an optician. The work of a politician is backminguing tourderly. Belliveau is a politician. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:358
+Reder is a fisher. Noriega is an optician. The work of a model is juthjodding voarly. Ehrman is a model. The work of a fisher is tractering quitprilly. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:359
+The work of a fisher is tractering quitprilly. The work of a truck driver is andonging cartroly. Broome is a fisher. Kenney is a janitor. Thibault is a truck driver. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:360
+The work of an actor is bonsing caply. Draves is an actor. Won is a travel agent. The work of a travel agent is momdresining namisly. Meisel is a hairdresser. The work of a hairdresser is axtactifying sethourdorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:361
+Shuster is an accountant. The work of an accountant is sparluing gobewly. The work of an optician is barraking amolly. Hubbell is a sofware engineer. Terpstra is an optician. The work of a sofware engineer is gholicoring intairly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:362
+Klink is a waiter. The work of a bus driver is heuting riuly. The work of a waiter is dunounding sacanothely. The work of a model is juthjodding voarly. Jaynes is a model. Sisto is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:363
+The work of a firefighter is ehemting smorbtly. Kot is a firefighter. Schenck is a politician. Etchison is an electrician. The work of an electrician is consersiving odmeraindly. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:364
+The work of a hairdresser is axtactifying sethourdorly. The work of a nurse is sombling enrinkmically. Quinones is a nurse. Schenck is a janitor. Timmins is a hairdresser. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:365
+The work of a food preparation worker is glidetting cobaly. Santilli is a travel agent. Trollinger is an accountant. The work of an accountant is sparluing gobewly. The work of a travel agent is momdresining namisly. Soohoo is a food preparation worker.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:366
+Diederich is an optician. Soni is a bus driver. Willey is a truck driver. The work of an optician is barraking amolly. The work of a truck driver is andonging cartroly. The work of a bus driver is heuting riuly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:367
+Meaney is a truck driver. The work of a hairdresser is axtactifying sethourdorly. Sher is a hairdresser. Oleary is a fisher. The work of a fisher is tractering quitprilly. The work of a truck driver is andonging cartroly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:368
+Rego is a travel agent. The work of a pilot is mepuing cevely. Banta is a pilot. The work of a dentist is sadliging hezly. Rodriges is a dentist. The work of a travel agent is momdresining namisly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:369
+Loya is a sofware engineer. The work of a sofware engineer is gholicoring intairly. Peel is a nurse. The work of a nurse is sombling enrinkmically. The work of an optician is barraking amolly. Frasca is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:370
+The work of a nurse is sombling enrinkmically. The work of a politician is backminguing tourderly. Melville is a nurse. Grimsley is a politician. Gobel is a food preparation worker. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:371
+Kopp is a pilot. The work of a pilot is mepuing cevely. Schrock is a truck driver. Dahlgren is a nurse. The work of a truck driver is andonging cartroly. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:372
+The work of a sofware engineer is gholicoring intairly. Laborde is a food preparation worker. The work of a bus driver is heuting riuly. The work of a food preparation worker is glidetting cobaly. Farlow is a bus driver. Frick is a sofware engineer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:373
+Conaway is a sofware engineer. The work of a firefighter is ehemting smorbtly. The work of a sofware engineer is gholicoring intairly. The work of an optician is barraking amolly. Guereca is an optician. Eichner is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:374
+The work of a food preparation worker is glidetting cobaly. Gerling is a politician. Nealey is a food preparation worker. The work of an accountant is sparluing gobewly. The work of a politician is backminguing tourderly. Chenoweth is an accountant.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:375
+Huot is a food preparation worker. Holen is a politician. The work of a travel agent is momdresining namisly. The work of a politician is backminguing tourderly. Cardozo is a travel agent. The work of a food preparation worker is glidetting cobaly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:376
+The work of a waiter is dunounding sacanothely. The work of a travel agent is momdresining namisly. Conlon is a travel agent. Cambron is a model. The work of a model is juthjodding voarly. Applebaum is a waiter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:377
+Montiel is an electrician. The work of a firefighter is ehemting smorbtly. The work of an electrician is consersiving odmeraindly. The work of an actor is bonsing caply. Gladney is an actor. Sood is a firefighter.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:378
+Seybold is a hairdresser. Rondon is a travel agent. The work of a truck driver is andonging cartroly. The work of a hairdresser is axtactifying sethourdorly. The work of a travel agent is momdresining namisly. Phung is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:379
+Carmichael is a model. Zabala is a waiter. The work of a model is juthjodding voarly. The work of a waiter is dunounding sacanothely. The work of an electrician is consersiving odmeraindly. Kiker is an electrician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:380
+Hartin is a travel agent. The work of a janitor is acmastatting rigeorly. The work of a fisher is tractering quitprilly. Burr is a janitor. The work of a travel agent is momdresining namisly. Summerford is a fisher.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:381
+Whitehouse is an actor. The work of an actor is bonsing caply. Schaub is a model. The work of an astronomer is galmaunting induancingly. The work of a model is juthjodding voarly. Garretson is an astronomer.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:382
+Rosner is an accountant. The work of a hairdresser is axtactifying sethourdorly. The work of an accountant is sparluing gobewly. Rayo is a hairdresser. Dunton is a dentist. The work of a dentist is sadliging hezly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:383
+The work of a hairdresser is axtactifying sethourdorly. The work of an actor is bonsing caply. Wyse is an actor. Mccord is a hairdresser. Blocher is a janitor. The work of a janitor is acmastatting rigeorly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:384
+The work of a firefighter is ehemting smorbtly. Ranck is a model. Mcgonigal is a firefighter. The work of an actor is bonsing caply. Cumberbatch is an actor. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:385
+The work of a dentist is sadliging hezly. Bourgeois is a dentist. The work of a pilot is mepuing cevely. The work of a nurse is sombling enrinkmically. Gathers is a nurse. Humphries is a pilot.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:386
+Ake is a dentist. Durkin is a nurse. The work of an electrician is consersiving odmeraindly. The work of a dentist is sadliging hezly. Driggers is an electrician. The work of a nurse is sombling enrinkmically.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:387
+Monteith is a travel agent. The work of a firefighter is ehemting smorbtly. The work of a travel agent is momdresining namisly. The work of a janitor is acmastatting rigeorly. Remer is a firefighter. Hawley is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:388
+Ducote is a nurse. The work of a dentist is sadliging hezly. Boerger is an actor. The work of a nurse is sombling enrinkmically. Biondi is a dentist. The work of an actor is bonsing caply.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:389
+The work of a firefighter is ehemting smorbtly. The work of a politician is backminguing tourderly. The work of a bus driver is heuting riuly. Arnott is a firefighter. Gerber is a politician. Mountain is a bus driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:390
+The work of a janitor is acmastatting rigeorly. Goel is a janitor. The work of a politician is backminguing tourderly. Nielson is an optician. Villar is a politician. The work of an optician is barraking amolly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:391
+The work of a firefighter is ehemting smorbtly. The work of a politician is backminguing tourderly. Chaffin is an astronomer. Barley is a firefighter. Isaacson is a politician. The work of an astronomer is galmaunting induancingly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:392
+Huang is a travel agent. The work of an optician is barraking amolly. The work of a politician is backminguing tourderly. The work of a travel agent is momdresining namisly. Washer is a politician. Fauver is an optician.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:393
+Diblasi is a waiter. Knauf is a pilot. The work of a fisher is tractering quitprilly. The work of a pilot is mepuing cevely. Meraz is a fisher. The work of a waiter is dunounding sacanothely.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:394
+The work of a travel agent is momdresining namisly. Luviano is an electrician. Belanger is a politician. The work of an electrician is consersiving odmeraindly. Ruble is a travel agent. The work of a politician is backminguing tourderly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:395
+Dubey is a dentist. The work of a food preparation worker is glidetting cobaly. Deschamps is a food preparation worker. The work of a dentist is sadliging hezly. Horning is a fisher. The work of a fisher is tractering quitprilly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:396
+Keough is an actor. The work of an actor is bonsing caply. The work of a truck driver is andonging cartroly. Lasley is an optician. The work of an optician is barraking amolly. Rozier is a truck driver.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:397
+Schiltz is a model. The work of an actor is bonsing caply. The work of a hairdresser is axtactifying sethourdorly. Schwandt is a hairdresser. Wada is an actor. The work of a model is juthjodding voarly.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:398
+The work of a janitor is acmastatting rigeorly. The work of a waiter is dunounding sacanothely. Griffey is a firefighter. Carrell is a waiter. The work of a firefighter is ehemting smorbtly. Brissette is a janitor.
+
+kitmus/background-inference-real-charfict/subtask_3_ents/knowledge-text-only/validation:399
+Gans is a bus driver. The work of a model is juthjodding voarly. Broad is a model. The work of a bus driver is heuting riuly. The work of a firefighter is ehemting smorbtly. Cothren is a firefighter.

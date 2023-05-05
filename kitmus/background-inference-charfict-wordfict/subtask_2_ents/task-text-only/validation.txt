@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:0
+At the boardwalk arcade, Hinman and Nantz started a conversation. There are some good options for food too. After a long day at work keeping organizations in a bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:1
+At the wine tasting, Yarnell and Creasy came across each other. There are a lot of vegetarian food options here. After a long day at work unpacking merchandise when it arrives at the bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:2
+Zarazua and Zepp ran into each other at the music and art festival. The event is free and open to all people. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:3
+Serrano and Wagler started a conversation at the wine tasting. The place is nice. She was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:4
+At the street fair, Orellana and Marcum started a conversation. Participation is the best way is to get the most out of these festivals! Ey was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:5
+At the community garden, Heaps and Devall came across each other. The birds are wild and hungry! She was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:6
+At the french class, Wiseman and Alpizar came across each other. The class is fun! He was relieved to unwind after a demanding day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:7
+At the carpool, Teel and Kreis started a conversation. Public transports are easy to find. She was relieved to unwind after a long day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:8
+Breault and Willbanks ran into each other at the open mic night. It is a very informal and there is no money to spend on these events. He was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:9
+At the open mic night, Dove and Roles started a conversation. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. Ey was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:10
+At the fundraiser, Deloera and Ogletree came across each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:11
+Fuhrmann and Woessner ran into each other at the wine tasting. The food here is very tasty. He was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:12
+At the public transport, Eves and Lovelace started a conversation. Public transportation also includes safe - weather service. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:13
+At the french class, Beattie and Baber started a conversation. The class is extremely motivating. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:14
+Mclane and Rinker connected at the religious and spiritual gathering. The community is moving through a number of options that would provide greater support to the community in future. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:15
+Mckim and Maples connected at the hotel. The beer is excellent. He was relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:16
+Dews and Meador ran into each other at the house party. The party is free entry for everyone. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:17
+At the public park, Swofford and Wortham came across each other. The park is good. After a long day at work acting in a seat or a location, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:18
+At the rock climbing gym, Fontes and Mossman came across each other. It's a small and fun place. They were relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:19
+Flock and Tansey connected at the music and art festival. The main reason for visiting these places is to explore new areas of the city. After a long day at work troubleshooting a customer's or court's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:20
+At the hotel, Caceres and Barrs came across each other. There are a lot of vegetarian food options here. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:21
+At the holiday party, Garrigan and Altamirano started a conversation. The party is going to be full. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:22
+At the improvisation class, Michaud and Moyle came across each other. People should check out the classes online, it wo n't be boring! After a long day at work repairing the water buses or pipes, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:23
+Vicari and Friar started a conversation at the boardwalk arcade. In the past year the whole city has been excited about this place. He was relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:24
+Grate and Altman started a conversation at the communal dining restaurant. It is a quiet spot to hang out, it would definitely leave people satisfied. Ey was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:25
+Breedlove and Peasley ran into each other at the music and art festival. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. Ey was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:26
+At the museum tour, Crossman and Dews started a conversation. People can enter for free to take a look at some items from the museum. They were relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:27
+Fouch and Propst connected at the social community gathering. We have to work together through different platforms. After a long day at work working for the management, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:28
+At the boardwalk arcade, Jimerson and Edsall came across each other. A lot of cool stuff and places to look for interesting artifacts and stuff nearby. After a long day at work studying the products and the restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:29
+At the flea market, Ferri and Fager came across each other. The market is divided into sub-markets. She was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:30
+Gaudreau and Lumley started a conversation at the public transport. Many routes and public lanes will see changes and closures within the next year. After a long day at work cutting photos professionally, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:31
+Hipps and Suzuki connected at the religious and spiritual gathering. We have to work together through different platforms. She was relieved to unwind after a demanding day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:32
+Tabler and Fitzsimons started a conversation at the holiday party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:33
+Adamski and Vong connected at the improvisation class. Classes use tasks which are very common and have multiple modules. Ey was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:34
+Bastida and Labrada ran into each other at the communal dining restaurant. The place is nice. After a long day at work unpacking merchandise when it arrives at the bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:35
+Jaworski and Ladue started a conversation at the street fair. The event is being held on Friday, July 8, 2018 at Mott Center. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:36
+Mazzella and Stephens connected at the group vacation. In a foreign land, the first stop should always be a tour. After a long day at work selling buses, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:37
+Seay and Zeringue connected at the flea market. Markets are usually crowded. After a long day at work treating the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:38
+At the fundraiser, Kemmer and Arledge started a conversation. This event is to help make the community a better place. After a long day at work cutting photos professionally, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:39
+Gaylord and Crites started a conversation at the food co-op. The food here has some of the best food in the city. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:40
+At the community garden, Bohannan and Ripple started a conversation. We have some nice white rabbits here too. After a long day at work studying the products and the restaurant, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:41
+Hilley and Riddle connected at the social community gathering. The community is a small group that engages at the community level to achieve great social and cultural well - being. He was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:42
+Pfeifer and Gartman ran into each other at the street fair. The festival is run by the United Methodist Church. After a long day at work studying management for others in a area, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:43
+Seabolt and Just connected at the religious and spiritual gathering. The community has an open kitchen. He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:44
+Kuehne and Geier ran into each other at the public transport. Please note that some buses in the park are only available to people who are at least 18 years. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:45
+At the commuter bus, Hayslip and Rimmer started a conversation. People have different schedules. After a long day at work managing and reporting the news on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:46
+Kral and Bruni started a conversation at the wine tasting. On weekend nights, this place is crowded. She was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:47
+Klatt and Hemming ran into each other at the public park. There are also some wonderful flowers. They are amazing. He was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:48
+At the music and art festival, Lovejoy and Luby started a conversation. Many of the events are very popular in the city. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:49
+Scribner and Arrigo ran into each other at the new year party. The party is filled with local and national celebrities and entertainers. They were relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:50
+Pride and Parr started a conversation at the french class. The class requires the students to read and comprehend the course material and understand the various topics. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:51
+Church and Canning started a conversation at the holiday party. The party is designed to be an enjoyable party, but not all will enjoy the view. He was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:52
+Aurand and Bonaparte connected at the ski resort party. The party is sponsored by the Patriots. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:53
+At the job fair, Henriques and Duet started a conversation. The event is still underway. He was relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:54
+Abercrombie and Brashears ran into each other at the new year party. The party is free entry for everyone. After a long day at work working for the management, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:55
+Sabala and Levine ran into each other at the archery class. Classes teach new things every week. She was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:56
+Pentecost and Ouyang connected at the design expo. This event is to help make the community a better place. They were relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:57
+Crites and Hemingway started a conversation at the hotel. There are a lot of vegetarian food options here. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:58
+Mcmillin and Bober connected at the yoga class. Yoga is best done in silence. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:59
+At the archery class, Stauffer and Heist came across each other. Every class takes 7 to 13 minutes or more to become complete. They were relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:60
+Casiano and Costales started a conversation at the commuter bus. Public transports are safe and comfortable and provide transportation for all. He was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:61
+At the social community gathering, Sutterfield and Creamer started a conversation. The community's support is essential if a community exists to provide for each other. After a long day at work cleaning and fixing any organizations with eyes and eye sight, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:62
+At the house party, Nale and Heffron came across each other. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. After a long day at work unpacking merchandise when it arrives at the bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:63
+At the street fair, Almanza and Rimmer came across each other. There is also a very high rate of volunteerism in the events. She was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:64
+Kamps and Fentress connected at the community service day event. The community is moving through a number of options that would provide greater support to the community in future. He was relieved to unwind after a demanding day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:65
+Callas and Sirianni started a conversation at the french class. The classes sometimes have "class" games. She was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:66
+At the public park, Limbaugh and Hipple started a conversation. The dogs here are lovely. He was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:67
+Slack and Chiodo started a conversation at the hotel. A great, comfortable location for a relaxed bar. After a long day at work selling buses, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:68
+Polansky and Touch ran into each other at the design expo. The event is still underway. He was relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:69
+Salazar and Mckean started a conversation at the new year party. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. Ze was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:70
+Harnden and Hartmann ran into each other at the ski resort party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. After a long day at work studying the products and the restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:71
+Sperber and Suchy connected at the evening language class. The class is fun! After a long day at work managing and reporting the news on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:72
+At the design expo, Fann and Baumgartner came across each other. These events and events help the local community become more active, and the whole community grows through these programs. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:73
+At the book store, Barrs and Mcquillan started a conversation. If there are a lot of books then one does n't need to go to a book club. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:74
+Akey and Jovel started a conversation at the boardwalk arcade. It is a very relaxed atmosphere. He was relieved to unwind after a long day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:75
+Brew and Kear ran into each other at the design expo. The main reason for visiting these places is to explore new areas of the city. After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:76
+Snavely and Mckim started a conversation at the hotel. The atmosphere was nice. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:77
+At the boardwalk arcade, Rule and Izaguirre came across each other. The game can be interesting. Ey was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:78
+Goucher and Factor connected at the library. In one case, some people would like to have friends with a friend or find them on a different social media. After a long day at work repairing the water buses or pipes, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:79
+At the improvisation class, Heintzelman and Almaraz started a conversation. Classes take place every Friday at 8:00 pm. He was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:80
+At the music and art festival, Dippel and Blauvelt came across each other. It is open to the public. After a long day at work reading and treating patrons with pool flowers, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:81
+Conwell and Blais ran into each other at the food festival. The festival is run by the United Methodist Church. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:82
+Biswas and Clodfelter ran into each other at the public park. The water is very good and clean. After a long day at work fixing and translating problems with accessories, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:83
+At the public transport, Regalado and Boudreau started a conversation. Public transportation is good for daily commutes. After a long day at work cleaning and correcting any problems with eyes and eye sight, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:84
+Eoff and Brumm ran into each other at the social community gathering. Community service is wonderful. After a long day at work treating the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:85
+Canterbury and Meares ran into each other at the yoga class. The class will be taking a lot of stress off. He was relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:86
+Delreal and Digby connected at the community service day event. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. After a long day at work acting in a seat or a location, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:87
+Munson and Setser ran into each other at the flea market. Markets exhibit antiques, collectors' items or anything else of value and interest. He was relieved to unwind after a demanding day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:88
+Boateng and Redwine ran into each other at the book store. Book clubs are one of the coolest groups to be a part of. Ze was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:89
+At the community garden, Bitting and Haake started a conversation. The park is super crowded. He was relieved to unwind after a long day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:90
+At the social community gathering, Greve and Jolley came across each other. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:91
+At the hotel, Aurand and Polk started a conversation. It is a cool place to hang out. They were relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:92
+Southerland and Moncrief started a conversation at the street fair. The event is being held on Friday, July 8, 2018 at Mott Center. He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:93
+At the community service day event, Ulman and Behnke started a conversation. The community is a small group that engages at the community level to achieve great social and cultural well - being. After a long day at work studying the products and the restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:94
+At the archery class, Perillo and Turgeon came across each other. Classes take place every week at the downtown campus. She was relieved to unwind after a long day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:95
+Swim and Batie ran into each other at the design expo. These events and events help the local community become more active, and the whole community grows through these programs. She was relieved to unwind after a long day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:96
+Prestridge and Chaudhary ran into each other at the boardwalk arcade. Nearly everyone loves sports and games. He was relieved to unwind after a demanding day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:97
+Bent and Pak connected at the library. In one case, some people would like to have friends with a friend or find them on a different social media. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:98
+At the boardwalk arcade, Pecora and Boos started a conversation. The weather is nice for games today. After a long day at work fixing and translating problems with accessories, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:99
+Wheat and Bozarth connected at the yoga class. The yoga class lasts around 24 - 27 minutes. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:100
+At the carpool, Bainter and Howton came across each other. The public transports are public. He was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:101
+At the fundraiser, Prabhu and Butler started a conversation. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She was relieved to unwind after a long day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:102
+At the public transport, Feemster and Gouveia came across each other. Transportation by subway takes a few minutes to walk about the city. She was relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:103
+Duerr and Kreis connected at the job fair. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work studying management for others in a area, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:104
+At the community garden, Sewell and Lefebvre came across each other. The park has many plants and flowers. After a long day at work reading and treating patrons with pool flowers, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:105
+At the social community gathering, Salvo and Melanson came across each other. We all live our lives trying to feed each other and the community. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:106
+Berliner and Belair ran into each other at the improvisation class. The class has interesting sessions. He was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:107
+Simko and Halvorsen started a conversation at the public transport. Please note that the bus routes for each vehicle are subject to change while they are in operation. After a long day at work studying management for others in a area, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:108
+Rothermel and Albertson connected at the community service day event. The community is at a crossroads here. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:109
+Gist and Wann connected at the boardwalk arcade. People can play games on stage and not worry about what is going on in the background. After a long day at work unpacking merchandise when it arrives at the bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:110
+At the house party, Shofner and Wescott started a conversation. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:111
+At the birthday party, Gargano and Mellen started a conversation. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. He was relieved to unwind after a demanding day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:112
+At the house party, Steinbach and Delph started a conversation. The party is filled with local and national celebrities and entertainers. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:113
+At the library, Word and Dudas started a conversation. Book clubs organize discussions on specific books. They were relieved to unwind after a demanding day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:114
+Buettner and Smathers ran into each other at the religious and spiritual gathering. The community is a small group that engages at the community level to achieve great social and cultural well - being. They were relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:115
+Ordonez and Stansfield ran into each other at the design expo. A large number of people attend these events. After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:116
+At the carpool, Bolling and Dahl came across each other. With no trains or subway service, buses are not public. He was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:117
+Alvizo and Bodnar connected at the carpool. Public transportation is good for daily commutes. After a long day at work treating the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:118
+Goyette and Yearwood connected at the design expo. This is a very busy and demanding schedule for the members of the community. After a long day at work working for the management, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:119
+Heinrichs and Bergquist started a conversation at the new year party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. After a long day at work fixing and translating problems with accessories, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:120
+Winner and Burkhalter ran into each other at the book store. In the book - club, one can choose to spend time with friends who want books. She was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:121
+At the evening language class, Kendig and Burnam came across each other. It's a huge place! She was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:122
+At the museum tour, Landgraf and Sannicolas came across each other. The museum has no such thing as free entry. He was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:123
+Prendergast and Mccullen connected at the library. Just show up, book on the night, talk or do the next talk. She was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:124
+At the job fair, Grove and Eslick came across each other. There is also a very high rate of volunteerism in the events. He was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:125
+At the hotel, Nystrom and Mcroy started a conversation. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:126
+At the job fair, Hohman and Burnam came across each other. Participation is the best way is to get the most out of these festivals! She was relieved to unwind after a long day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:127
+At the museum tour, Sturdevant and Leeper started a conversation. This museum and art is what we need more of. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:128
+At the boardwalk arcade, Crowder and Aho started a conversation. Many people enjoy sports in general but not some game like basketball, baseball and hockey in an indoor sport. He was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:129
+Kershner and Pfaff ran into each other at the birthday party. The party is designed to be an enjoyable party, but not all will enjoy the view. He was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:130
+Heil and Sayers connected at the museum tour. People can enter for free to take a look at some items from the museum. She was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:131
+Walston and Benner started a conversation at the rock climbing gym. The gym is designed to cater to the high end needs of the person. After a long day at work working for the management, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:132
+At the library, Leu and Shiner came across each other. Readers may read more books on a particular topic. After a long day at work fixing and translating problems with accessories, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:133
+At the archery class, Welling and Satterfield came across each other. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:134
+Laviolette and Plumlee connected at the improvisation class. All the group members have the freedom to get together. He was relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:135
+At the food festival, Ensign and Millsaps came across each other. It is being held to commemorate the 70's and 80's people. He was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:136
+Degeorge and Garfias started a conversation at the rock climbing gym. The gym is located on the southeast side of the campus, which runs from 10 a.m. to 5 p.m. daily at Lenny's Club. He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:137
+Helt and Istre started a conversation at the yoga class. The yoga class lasts for as long as the participants like. He was relieved to unwind after a long day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:138
+At the evening language class, Vose and Peed started a conversation. The classes teach the same number of skills expected in a business class. He was relieved to unwind after a demanding day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:139
+Schmit and Wurst ran into each other at the food co-op. The other beverages served here are ok. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:140
+At the food co-op, Platt and Quirino started a conversation. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work working for the management, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:141
+Hausman and Stalker started a conversation at the yoga class. The practice takes about twenty minutes, and it is also very active. He was relieved to unwind after a demanding day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:142
+At the food co-op, Evangelista and Tiner started a conversation. The coffee tastes good. She was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:143
+At the group vacation, Dingler and Hillis started a conversation. The tour is a very exciting one for fans in Japan. She was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:144
+At the social community gathering, Cardone and Guadarrama started a conversation. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. She was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:145
+Purser and Okeefe connected at the carpool. Public transportation also includes safe - weather service. Ze was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:146
+Lobdell and Leday connected at the social community gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. She was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:147
+Birney and Azar ran into each other at the ski resort party. The party is filled with local and national celebrities and entertainers. He was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:148
+Luse and Snavely connected at the carpool. Each public bus will have street lights, but some buses will be powered on by electric lights for short periods. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:149
+At the train, Gibbon and Garber started a conversation. The government updated the first error in fares but a second mistake appears in the original version that said free. After a long day at work working for the management, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:150
+Bergeson and Balentine connected at the evening language class. The class has interesting sessions. He was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:151
+At the wine tasting, Mclaurin and Mishra started a conversation. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:152
+Kowalik and Yerkes ran into each other at the carpool. The public transports are public. She was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:153
+Panter and Eberhardt started a conversation at the boardwalk arcade. The games were fun, the food was amazing, the people were friendly, but there was a huge difference. She was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:154
+Bardwell and Killen ran into each other at the boardwalk arcade. There is a lot of other play places on the map. He was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:155
+At the music and art festival, Mas and Shilling started a conversation. A lot of people are always talking and eating together. They were relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:156
+At the train, Wurster and Cost came across each other. Public transportation also includes safe - weather service. After a long day at work treating the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:157
+At the food co-op, Warlick and Chirinos came across each other. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work troubleshooting a customer's or court's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:158
+Kot and Petroff started a conversation at the music and art festival. A large number of people attend these events. He was relieved to unwind after a long day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:159
+Heatherly and Goodlett ran into each other at the hotel. The other items that are great here are the coffee creamer. After a long day at work fixing and translating problems with accessories, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:160
+Lechner and Leong connected at the museum tour. The museums show how the city looked thousands of years ago. She was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:161
+Cotten and Rigsby connected at the job fair. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work repairing the water buses or pipes, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:162
+At the music and art festival, Fluharty and Garciahernande started a conversation. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work cutting photos professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:163
+At the holiday party, Som and Kaler came across each other. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. She was relieved to unwind after a long day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:164
+At the job fair, Bento and Sesay came across each other. These events and events help the local community become more active, and the whole community grows through these programs. They were relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:165
+Boudreau and Blum connected at the wine tasting. People ca n't be too disappointed at the spot for cheap coffee. Ze was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:166
+At the yoga class, Raiford and Prabhu came across each other. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. She was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:167
+Mccracken and Robards started a conversation at the french class. The class is fun! She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:168
+Hetherington and Zertuche connected at the food co-op. The coffee cake is quite good. He was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:169
+At the house party, Vowell and Christner started a conversation. The party is free entry for everyone. After a long day at work treating the kitchen area at restaurants, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:170
+At the french class, Collison and Landaverde started a conversation. The classes sometimes have "class" games. She was relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:171
+Largo and Okelley started a conversation at the birthday party. The party is sponsored by the Patriots. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:172
+At the design expo, Zhuang and Tilson started a conversation. It is being held to commemorate the 70's and 80's people. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:173
+Flemming and Crowl started a conversation at the french class. Classes take place every Friday at 8:00 pm. She was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:174
+At the social community gathering, Bailes and Batiste came across each other. The service is what all the people have been working to do. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:175
+At the boardwalk arcade, Hubler and Vicars started a conversation. The games are a lot of fun. He was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:176
+Ard and Zurita ran into each other at the carpool. Public transports are easy to find. He was relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:177
+Leeper and Saffell connected at the commuter bus. Public transports are easy to find. They were relieved to unwind after a long day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:178
+Pastrana and Figueiredo ran into each other at the fundraiser. This is a very busy and demanding schedule for the members of the community. She was relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:179
+At the community service day event, Barr and Binger came across each other. The place is very beautiful. She was relieved to unwind after a long day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:180
+Texeira and Auten ran into each other at the carpool. The public transport can move at all times without interruption. Ey was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:181
+At the book store, Apel and Gatson started a conversation. Readers may read more books on a particular topic. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:182
+Highsmith and Esser started a conversation at the fundraiser. It is being held to commemorate the 70's and 80's people. He was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:183
+At the library, Kangas and Casares came across each other. There are ways to find the great websites out there. After a long day at work selling buses, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:184
+At the open mic night, Murtaugh and Muto started a conversation. The event is free and open to all people. After a long day at work cleaning and fixing any organizations with eyes and eye sight, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:185
+Downes and Coldiron connected at the community garden. The park has a running track. He was relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:186
+Budde and Shipley connected at the improvisation class. Classes take place every Friday at 8:00 pm. After a long day at work managing and reporting the news on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:187
+Days and Brewster connected at the food festival. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. After a long day at work treating the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:188
+Owensby and Iacono connected at the book store. Readers may read more books on a particular topic. She was relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:189
+Hass and Foxworth ran into each other at the museum tour. People can enter for free to take a look at some items from the museum. She was relieved to unwind after a demanding day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:190
+Vollmer and Tellier connected at the book store. There are ways to find the great websites out there. They were relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:191
+At the flea market, Carrol and Gremillion came across each other. The market is flooded with money from European Union states, but it has been almost half, or 40 percent, of the total economy, according to data released last week by IFS. He was relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:192
+At the food co-op, Swanner and Bier came across each other. It is a cool place to hang out. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:193
+Priestley and Oster ran into each other at the community service day event. Community service is wonderful. She was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:194
+At the new year party, Gardella and Bonaparte came across each other. The party is going to be full. After a long day at work fixing and translating problems with accessories, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:195
+At the street fair, Main and Olivar started a conversation. The event is still underway. After a long day at work cleaning and fixing any organizations with eyes and eye sight, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:196
+Riche and Wozniak connected at the holiday party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. She was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:197
+Philpott and Willbanks ran into each other at the holiday party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. He was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:198
+Wiles and Gurule ran into each other at the ski resort party. The party is also filled by the band. Ey was relieved to unwind after a long day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:199
+Remick and Lucci connected at the ski resort party. The party is also filled by the band. After a long day at work troubleshooting a customer's or court's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:200
+Sturgill and Specht ran into each other at the group vacation. The tour is limited to ten spots a day. He was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:201
+Knapp and Remer started a conversation at the house party. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. She was relieved to unwind after a demanding day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:202
+At the public park, Hutcherson and Patron started a conversation. The park is a closed parking lot and a playground. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:203
+Blakemore and Tuthill connected at the public park. The park has a park toilet as well! He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:204
+At the community service day event, Guilliams and Scala started a conversation. The service is what all the people have been working to do. After a long day at work fixing and translating problems with accessories, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:205
+At the music and art festival, Moravec and Tutor came across each other. It has been said that all the different cultural events can be fun! After a long day at work keeping organizations in a bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:206
+At the yoga class, Roundtree and Leu started a conversation. The class starts with a warm - up session. He was relieved to unwind after a demanding day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:207
+At the food festival, Hausman and Svoboda came across each other. Many of the events are very popular in the city. After a long day at work working for the management, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:208
+Bookman and Villa ran into each other at the french class. The class has interesting sessions. He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:209
+Knowlton and Bugbee started a conversation at the birthday party. The party is designed to be an enjoyable party, but not all will enjoy the view. They were relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:210
+At the job fair, Lefever and Winn started a conversation. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:211
+Maggio and Fults connected at the social community gathering. The community has an open kitchen. Ze was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:212
+At the group vacation, Maldonado and Tarlton started a conversation. The tour is an annual event held in Phoenix, Arizona in which nearly 2,000 members of more than 250 religious traditions, from the Roman Catholic Church to Mormons and even some Christian denominations, march in celebration of Sunday's mass. He was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:213
+Swift and Shurtz started a conversation at the public park. The park has many plants and flowers. He was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:214
+Yutzy and Knop connected at the public park. The park site for more information about the location. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:215
+Heppner and Olague ran into each other at the street fair. It is a very informal and there is no money to spend on these events. He was relieved to unwind after a long day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:216
+Chaparro and Zullo started a conversation at the train. People have different schedules. She was relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:217
+Zakrzewski and Nickel connected at the house party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:218
+Pruett and Coss connected at the community garden. The birds are wild and hungry! After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:219
+Brockett and Kelch ran into each other at the library. One can get started with reading here in many ways! She was relieved to unwind after a demanding day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:220
+Rosado and Tilson ran into each other at the community garden. There are different varieties of plants here! She was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:221
+Brannock and Mcmullan ran into each other at the archery class. Classes take place every week at the downtown campus. He was relieved to unwind after a long day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:222
+Dunaway and Gin ran into each other at the group vacation. The tours showcase the different activities that people can do. He was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:223
+Amrhein and Bona connected at the ski resort party. The party is also filled by the band. She was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:224
+Finney and Alcorta started a conversation at the hotel. On weekend nights, this place is crowded. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:225
+Steil and Hanger ran into each other at the carpool. Each public bus will have a fixed schedule. She was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:226
+Blood and Riedel connected at the religious and spiritual gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. After a long day at work cleaning and fixing any organizations with eyes and eye sight, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:227
+At the new year party, Buettner and Hynes came across each other. The party is going to be full. After a long day at work repairing the water buses or pipes, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:228
+Salo and Friedrichs connected at the religious and spiritual gathering. We all live our lives trying to feed each other and the community. He was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:229
+At the evening language class, Carrow and Coloma came across each other. This class has amazing outcomes. She was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:230
+At the food festival, Langer and Preciado came across each other. This event is to help make the community a better place. After a long day at work keeping organizations in a bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:231
+At the community service day event, Inniss and Seldon started a conversation. Community service is wonderful. She was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:232
+At the evening language class, Wortham and Seigler started a conversation. Classes use tasks which are very common and have multiple modules. He was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:233
+Phillippi and Nebel started a conversation at the train. The public buses come equipped with the same service options as trains. He was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:234
+At the book store, Carr and Puig started a conversation. There, one can read at least three books before, or one book in between to find out what's going on together. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:235
+Taranto and Cogan started a conversation at the house party. The party is free entry for everyone. He was relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:236
+Schmaltz and Provost ran into each other at the religious and spiritual gathering. We all live our lives trying to feed each other and the community. After a long day at work troubleshooting a customer's or court's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:237
+At the library, Threlkeld and Heinrichs came across each other. Book clubs organize monthly meetings. After a long day at work making and checking buildings professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:238
+At the ski resort party, Hannigan and Hutter started a conversation. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:239
+Vanzant and Coburn connected at the book store. Book clubs help expand social circles. He was relieved to unwind after a demanding day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:240
+Recinos and Swingle ran into each other at the book store. There are ways to find the great websites out there. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:241
+At the train, Gajewski and Breedlove started a conversation. With no trains or subway service, buses are not public. He was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:242
+Pinnock and Ewald started a conversation at the carpool. People have different schedules. He was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:243
+Westra and Peng connected at the archery class. All the group members have the freedom to get together. After a long day at work cleaning and fixing any organizations with eyes and eye sight, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:244
+At the french class, Creasy and Stringer started a conversation. Each session teaches a different theme. She was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:245
+Pettigrew and Halterman started a conversation at the yoga class. The yoga program provides support and encouragement. She was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:246
+At the music and art festival, Cleghorn and Brookshire started a conversation. It is open to the public. He was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:247
+At the community service day event, Luoma and Kern came across each other. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. They were relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:248
+Carreras and Thornsberry connected at the design expo. A large number of people attend these events. They were relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:249
+Stroud and Fertig started a conversation at the communal dining restaurant. The coffee cake is quite good. After a long day at work acting in a seat or a location, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:250
+Bova and Borowski connected at the train. Transportation by subway takes a few minutes to walk about the city. After a long day at work reading and treating patrons with pool flowers, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:251
+At the flea market, Garvey and Bustillo started a conversation. The market is getting a lot of positive news. After a long day at work troubleshooting a customer's or court's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:252
+Fawcett and Meinke ran into each other at the commuter bus. People have different schedules. Ze was relieved to unwind after a long day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:253
+Kinzel and Lechner started a conversation at the public transport. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. She was relieved to unwind after a long day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:254
+At the boardwalk arcade, Mendelson and Markovich started a conversation. A lot of games have many different endings. After a long day at work cutting photos professionally, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:255
+Frailey and Garten started a conversation at the evening language class. Classes have a special event called a "Shuffle Jam". They were relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:256
+At the community service day event, Patten and Kral started a conversation. The place is very beautiful. He was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:257
+Zaremba and Coto connected at the social community gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. After a long day at work fixing and translating problems with accessories, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:258
+At the museum tour, Bent and Hemming started a conversation. Museums have free exhibitions. She was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:259
+At the rock climbing gym, Murga and Dimaio started a conversation. The gym is also a haven for fitness enthusiasts. He was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:260
+Mun and Lomonaco connected at the evening language class. The class has interesting sessions. She was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:261
+Lefler and Litchfield ran into each other at the archery class. The class is fun! He was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:262
+At the evening language class, Gorski and Braggs came across each other. Each session teaches a different theme. She was relieved to unwind after a long day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:263
+Mcdonell and Abell started a conversation at the fundraiser. It is a very informal and there is no money to spend on these events. He was relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:264
+At the street fair, Guarino and Hollman started a conversation. A lot of people participate in these events! He was relieved to unwind after a demanding day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:265
+At the holiday party, Stilley and Viles started a conversation. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. He was relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:266
+At the library, Mccarron and Ruane came across each other. Book clubs organize discussions on specific books. They were relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:267
+Haake and Trombetta started a conversation at the ski resort party. The party is free entry for everyone. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:268
+Pulliam and Iyer ran into each other at the design expo. This is a very busy and demanding schedule for the members of the community. He was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:269
+Trevizo and Nickens ran into each other at the religious and spiritual gathering. We all live our lives trying to feed each other and the community. She was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:270
+Gunnells and Huckaby started a conversation at the house party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! She was relieved to unwind after a demanding day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:271
+At the boardwalk arcade, Bullock and Westerberg came across each other. A lot of cool stuff and places to look for interesting artifacts and stuff nearby. He was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:272
+Vitek and Licea ran into each other at the archery class. People should check out the classes online, it wo n't be boring! She was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:273
+Sylla and Kenney connected at the new year party. The party is filled with local and national celebrities and entertainers. He was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:274
+Reising and Tharp ran into each other at the archery class. The class is fun! He was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:275
+At the birthday party, Tredway and Bolivar started a conversation. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. He was relieved to unwind after a demanding day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:276
+Wehr and Quattlebaum ran into each other at the food co-op. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work keeping organizations in a bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:277
+Breunig and Breeding ran into each other at the improvisation class. The classes teach the same number of skills expected in a business class. He was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:278
+Preciado and Mcmillin started a conversation at the holiday party. The party is free entry for everyone. She was relieved to unwind after a long day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:279
+Scheib and Cosgrove started a conversation at the hotel. The staff is attentive and friendly. It's nice that they had a nice view of the area. She was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:280
+At the museum tour, Bullock and Person came across each other. The museum also has exhibitions with some very interesting archaeological places. He was relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:281
+At the library, Gibney and Younan started a conversation. Book clubs organize monthly meetings. After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:282
+At the improvisation class, Alderson and Gilpin started a conversation. The class tries to make the course enjoyable. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:283
+Bolden and Feld connected at the public park. There is a lot of green. It really does n't matter where one looks! After a long day at work troubleshooting a customer's or court's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:284
+Elledge and Reynaga connected at the ski resort party. The party is going to be full. They were relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:285
+At the house party, Albarado and Moree came across each other. The party is going to be full. She was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:286
+Autrey and Goza connected at the open mic night. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:287
+Stansfield and Stamey started a conversation at the religious and spiritual gathering. The community's support is essential if a community exists to provide for each other. After a long day at work treating the kitchen area at restaurants, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:288
+Lasseter and Fleisher started a conversation at the community service day event. The place is very beautiful. He was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:289
+At the new year party, Boyle and Dingess came across each other. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:290
+Platt and Bott ran into each other at the community garden. The park is super crowded. She was relieved to unwind after a demanding day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:291
+At the flea market, Cashion and Canale started a conversation. The market is open to all genders and ages. She was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:292
+Gravitt and Urena connected at the new year party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. After a long day at work repairing the water buses or pipes, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:293
+At the street fair, Hipple and Moseley started a conversation. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work studying management for others in a area, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:294
+Doan and Mathison started a conversation at the design expo. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work cleaning and fixing any organizations with eyes and eye sight, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:295
+At the holiday party, Crowl and Solorio started a conversation. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! She was relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:296
+Ono and Scannell started a conversation at the commuter bus. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. Ey was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:297
+Trumble and Barbee ran into each other at the community service day event. The place is very beautiful. After a long day at work managing and reporting the news on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:298
+Englund and Pesina started a conversation at the community service day event. It is a place of faith. He was relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:299
+Cockrum and Mauney started a conversation at the music and art festival. Participation is the best way is to get the most out of these festivals! She was relieved to unwind after a long day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:300
+Jeppson and Vilchez ran into each other at the holiday party. The party is going to be full. She was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:301
+Wilsey and Westberg started a conversation at the book store. Book clubs are one of the coolest groups to be a part of. After a long day at work cleaning and fixing any organizations with eyes and eye sight, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:302
+Fifer and Bryner connected at the book store. In the book - club, one can choose to spend time with friends who want books. She was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:303
+Guay and Cisneros ran into each other at the hotel. The beer is excellent. Ey was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:304
+Butterfield and Horrell connected at the community service day event. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:305
+Lago and Mackinnon started a conversation at the open mic night. The event is being held on Friday, July 8, 2018 at Mott Center. Ey was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:306
+At the food co-op, Canas and Slack came across each other. The spot is located just a short walk away from the main park. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:307
+At the food festival, Suits and Coffield came across each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:308
+At the social community gathering, Lotz and Corral came across each other. We all live our lives trying to feed each other and the community. He was relieved to unwind after a demanding day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:309
+Zayas and Choquette ran into each other at the public transport. Public transport is environmentally sustainable. After a long day at work cleaning and fixing any organizations with eyes and eye sight, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:310
+Burkhart and Tansey connected at the train. Public transportation is good for daily commutes. After a long day at work making and checking buildings professionally, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:311
+Marzullo and Lemaster started a conversation at the group vacation. The tour is a very exciting one for fans in Japan. She was relieved to unwind after a long day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:312
+At the social community gathering, Geier and Difrancesco came across each other. We all live our lives trying to feed each other and the community. She was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:313
+At the flea market, Gros and Greathouse started a conversation. Markets are full of surprises! He was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:314
+At the group vacation, Kurland and Cherian started a conversation. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. She was relieved to unwind after a demanding day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:315
+At the community service day event, Locklear and Flood started a conversation. It is a place of faith. They were relieved to unwind after a long day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:316
+At the holiday party, Money and Telfer came across each other. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. After a long day at work acting in a seat or a location, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:317
+Mori and Burd ran into each other at the public park. The park is beautiful. She was relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:318
+Zertuche and Muth ran into each other at the holiday party. The party is designed to be an enjoyable party, but not all will enjoy the view. He was relieved to unwind after a long day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:319
+At the job fair, Deroche and Leija started a conversation. It is being held to commemorate the 70's and 80's people. They were relieved to unwind after a long day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:320
+At the open mic night, Lafreniere and Currier started a conversation. A lot of people participate in these events! After a long day at work repairing the water buses or pipes, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:321
+Holleran and Benevides started a conversation at the improvisation class. It's a huge place! She was relieved to unwind after a demanding day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:322
+Dorfman and Olivarez started a conversation at the hotel. It is a cool place to hang out. After a long day at work treating the kitchen area at restaurants, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:323
+Canfield and Melin connected at the boardwalk arcade. There are some good options for food too. He was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:324
+Cirillo and Bolling ran into each other at the food festival. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work keeping organizations in a bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:325
+Ottley and Kuang connected at the rock climbing gym. It's a perfect place to get a new look. After a long day at work unpacking merchandise when it arrives at the bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:326
+Creel and Borg started a conversation at the music and art festival. A lot of people are always talking and eating together. She was relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:327
+At the yoga class, Girard and Alkire started a conversation. The class starts with a warm - up session. After a long day at work troubleshooting a customer's or court's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:328
+At the carpool, Canipe and Deardorff came across each other. Public transportation also includes safe - weather service. After a long day at work fixing and translating problems with accessories, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:329
+At the library, Hausman and Teneyck started a conversation. Readers may read more books on a particular topic. She was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:330
+At the street fair, Meraz and Pafford started a conversation. It has been said that all the different cultural events can be fun! He was relieved to unwind after a long day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:331
+Bias and Lovett started a conversation at the public park. The birds are wild and hungry! They were relieved to unwind after a demanding day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:332
+At the archery class, Granata and Blackwood came across each other. The classes sometimes have "class" games. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:333
+Sautter and Hedge ran into each other at the fundraiser. The event is still underway. Ze was relieved to unwind after a long day at work managing and reporting the news on television.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:334
+At the public transport, Thorpe and Lacourse started a conversation. Many routes and public lanes will see changes and closures within the next year. She was relieved to unwind after a demanding day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:335
+Willems and Boley connected at the yoga class. During a yoga session, sometimes, people feel that the breathing is becoming more relaxed, and the movement a bit easier to perform. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:336
+At the archery class, Kensinger and Devoe came across each other. The classes sometimes have "class" games. After a long day at work managing and reporting the news on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:337
+Kropp and Bruton connected at the improvisation class. All the group members have the freedom to get together. After a long day at work studying the fires and the fish, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:338
+At the new year party, Cuba and Waguespack started a conversation. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:339
+At the evening language class, Utterback and Volker came across each other. Classes have a special event called a "Shuffle Jam". Ze was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:340
+Halligan and Lightsey ran into each other at the communal dining restaurant. A great, comfortable location for a relaxed bar. After a long day at work cutting photos professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:341
+Roundy and Abels connected at the boardwalk arcade. It feels good to have a different sense of environment. They were relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:342
+Mcaninch and Siemens connected at the book store. Just show up, book on the night, talk or do the next talk. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:343
+At the house party, Ulibarri and Haislip came across each other. The party is going to be full. She was relieved to unwind after a demanding day at work selling buses.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:344
+Hodgkins and Glick started a conversation at the train. Please note that some buses in the park are only available to people who are at least 18 years. After a long day at work troubleshooting a customer's or court's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:345
+Ledezma and Araki started a conversation at the wine tasting. It is a quiet spot to hang out, it would definitely leave people satisfied. After a long day at work cutting photos professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:346
+At the communal dining restaurant, Olmstead and Bouma started a conversation. The drinks are served on time. She was relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:347
+Tomczak and Thrush started a conversation at the library. Book clubs organize discussions on specific books. After a long day at work troubleshooting a customer's or court's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:348
+At the commuter bus, Heinen and Wathen came across each other. Public transports are eco-friendly. They were relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:349
+At the open mic night, Whitson and Paschall came across each other. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work selling buses, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:350
+At the library, Deharo and Pulley came across each other. If there are a lot of books then one does n't need to go to a book club. After a long day at work unpacking merchandise when it arrives at the bakery, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:351
+At the group vacation, Bey and Yon came across each other. The tour is limited to ten spots a day. They were relieved to unwind after a demanding day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:352
+Kirkendoll and Silguero ran into each other at the street fair. A lot of people are always talking and eating together. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:353
+Askew and Swiger ran into each other at the music and art festival. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He was relieved to unwind after a demanding day at work studying the fires and the fish.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:354
+Deguzman and Roll connected at the design expo. Participation is the best way is to get the most out of these festivals! Ey was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:355
+Breneman and Rosati ran into each other at the communal dining restaurant. One of the few spots for everyone. After a long day at work managing and reporting the news on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:356
+Spielman and Olney ran into each other at the book store. Nowadays a few types of web - sites do it all. That says more than anything, the community is an awesome resource for other things besides books for anyone to read. They were relieved to unwind after a demanding day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:357
+Etherton and Meiser ran into each other at the museum tour. It is nice to visit the ruins of ancient cities mentioned there. These are very unique places, and museums have to give us some special insight. She was relieved to unwind after a long day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:358
+Bowes and Hoard ran into each other at the rock climbing gym. People can really make a lasting impression off each other at the gym! She was relieved to unwind after a long day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:359
+At the evening language class, Altamirano and Spengler started a conversation. Classes teach new things every week. They were relieved to unwind after a long day at work troubleshooting a customer's or court's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:360
+Gills and Delvillar started a conversation at the wine tasting. The staff is attentive and friendly. It's nice that they had a nice view of the area. He was relieved to unwind after a long day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:361
+Overholt and Rhinehart ran into each other at the street fair. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work cutting photos professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:362
+At the boardwalk arcade, Boehmer and Laplant started a conversation. A lot of games have many different endings. She was relieved to unwind after a demanding day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:363
+Keeling and Etheridge connected at the rock climbing gym. The gym is located in Yap in Taipei, China and is the world's biggest gymnasium of its kind. She was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:364
+Ammann and Mule started a conversation at the open mic night. This is a very busy and demanding schedule for the members of the community. After a long day at work managing a customer's or school's financial records, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:365
+Givens and Kozlowski ran into each other at the public transport. With no trains or subway service, buses are not public. After a long day at work cutting photos professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:366
+Alber and Goebel ran into each other at the wine tasting. The beer is excellent. She was relieved to unwind after a demanding day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:367
+Ruhland and Martindale connected at the open mic night. There is also a very high rate of volunteerism in the events. After a long day at work reading and treating patrons with pool flowers, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:368
+At the community garden, Carreras and Ammann came across each other. The park is a closed parking lot and a playground. She was relieved to unwind after a long day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:369
+At the wine tasting, Pollak and Tilford started a conversation. The service was great - it was only 90 $ for the coffee. He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:370
+Dameron and Sherlock ran into each other at the french class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He was relieved to unwind after a demanding day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:371
+At the public transport, Waldman and Ota started a conversation. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. After a long day at work cleaning and correcting any problems with eyes and eye sight, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:372
+Manger and Mullaney connected at the fundraiser. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. After a long day at work cutting photos professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:373
+Ordway and Shaeffer connected at the community garden. The park is very peaceful. After a long day at work selling buses, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:374
+Ke and Hurst connected at the new year party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He was relieved to unwind after a demanding day at work reading and treating patrons with pool flowers.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:375
+Tutor and Harrop ran into each other at the religious and spiritual gathering. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. He was relieved to unwind after a long day at work cleaning and fixing any organizations with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:376
+Calton and Fonda ran into each other at the food co-op. One of the few spots for everyone. He was relieved to unwind after a long day at work managing a customer's or school's financial records.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:377
+At the ski resort party, Merola and Jeppson came across each other. The party is sponsored by the Patriots. He was relieved to unwind after a demanding day at work making and checking buildings professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:378
+Hendren and Kinnison connected at the design expo. These events and events help the local community become more active, and the whole community grows through these programs. They were relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:379
+At the community service day event, Avallone and Casale came across each other. It is a place of faith. They were relieved to unwind after a demanding day at work working for the management.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:380
+At the yoga class, Weaver and Herrington came across each other. A yoga class helps live a happier life. Ey was relieved to unwind after a long day at work unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:381
+Priddy and Mancera ran into each other at the new year party. The party is sponsored by the Patriots. She was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:382
+Bracewell and Grate started a conversation at the street fair. Many of the events are very popular in the city. He was relieved to unwind after a demanding day at work fixing and translating problems with accessories.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:383
+At the commuter bus, Rhoden and Braddy started a conversation. People have different schedules. After a long day at work studying the fires and the fish, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:384
+Bee and Toll started a conversation at the group vacation. The tour is limited to ten spots a day. Ze was relieved to unwind after a demanding day at work cutting photos professionally.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:385
+Mouton and Sipe ran into each other at the music and art festival. It has been said that all the different cultural events can be fun! After a long day at work making and checking buildings professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:386
+Samples and Mancino connected at the train. Please note that the bus routes for each vehicle are subject to change while they are in operation. After a long day at work reading and treating patrons with pool flowers, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:387
+Toliver and Atencio started a conversation at the community service day event. The community is moving through a number of options that would provide greater support to the community in future. She was relieved to unwind after a demanding day at work studying the products and the restaurant.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:388
+Cotner and Benning connected at the new year party. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. After a long day at work keeping organizations in a bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:389
+Aubin and Kirtley connected at the design expo. Festivals are normally conducted as cultural events. After a long day at work cutting photos professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:390
+Calvert and Bogart started a conversation at the group vacation. In a foreign land, the first stop should always be a tour. After a long day at work cleaning and correcting any problems with eyes and eye sight, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:391
+Laux and Jaworski ran into each other at the design expo. The event is being held on Friday, July 8, 2018 at Mott Center. Ze was relieved to unwind after a long day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:392
+At the archery class, Bookout and Kleiman started a conversation. Every class takes 7 to 13 minutes or more to become complete. He was relieved to unwind after a long day at work cleaning and correcting any problems with eyes and eye sight.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:393
+Cheatwood and Slowik connected at the museum tour. This museum and art is what we need more of. He was relieved to unwind after a demanding day at work studying management for others in a area.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:394
+Olaughlin and Suess ran into each other at the religious and spiritual gathering. The community has an open kitchen. They were relieved to unwind after a long day at work acting in a seat or a location.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:395
+At the rock climbing gym, Alvis and Kirsch came across each other. It's a small and fun place. He was relieved to unwind after a long day at work repairing the water buses or pipes.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:396
+At the food co-op, Fawcett and Dubay came across each other. A great, comfortable location for a relaxed bar. He was relieved to unwind after a demanding day at work keeping organizations in a bakery.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:397
+Graciano and Mcquillan ran into each other at the communal dining restaurant. There are a lot of vegetarian food options here. He was relieved to unwind after a demanding day at work treating the kitchen area at restaurants.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:398
+At the museum tour, Bretz and Maner started a conversation. The museum also has exhibitions with some very interesting archaeological places. After a long day at work cleaning and fixing any organizations with eyes and eye sight, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_2_ents/task-text-only/validation:399
+Trigueros and Voigt started a conversation at the music and art festival. It has been said that all the different cultural events can be fun! She was relieved to unwind after a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool.

@@ -1,0 +1,1199 @@
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:0
+Weiland, Pruneda, and Throckmorton bumped into each other at the open gallery museum. The archives are used for the collection of some of the most famous treasures. After a long day at work preparing food for eyes in a restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:1
+At the retreat, Riddle, Fenn, and Sikora encountered each other. The party is going to be full. She pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:2
+At the book club, Boggan, Defazio, and Sievert bumped into each other. In one case, some people would like to have friends with a friend or find them on a different social media. He pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:3
+At the business expo, Terhune, Fitzsimmons, and Hutsell encountered each other. Participation is the best way is to get the most out of these festivals! After a long day at work repairing the warehouse systems or reports, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:4
+At the hotel, Pugliese, Drexler, and Fries came across each other. One of the few spots for everyone. He pondered whether choosing unpacking merchandise when it arrives at the university as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:5
+Cazares, Suchy, and Duong ran into each other at the evening language class. Classes often contain people that know how to the technology to access it. When a question related to unpacking merchandise when it arrives at the bakery arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:6
+At the business expo, Segars, Morlan, and Walther came across each other. Festivals are normally conducted as cultural events. After a long day at work unpacking merchandise when it arrives at the university, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:7
+At the volunteer organization meet, Bomberger, Colosimo, and Stubbs came across each other. The best part is that the opportunities for fun and fun are always there in volunteering. After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:8
+At the sports bar, Rosato, Grimmett, and Vosburgh came across each other. People ca n't be too disappointed at the spot for cheap coffee. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:9
+At the wedding, Loveall, Slagle, and Bodkin encountered each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. When a question related to writing books or problems professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:10
+Belfiore, Pendleton, and Blum bumped into each other at the retreat. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. After a long day at work unpacking merchandise when it arrives at the bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:11
+Flippen, Graf, and Borbon bumped into each other at the evening language class. Classes have a special event called a "Shuffle Jam". He pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:12
+Petrey, Tack, and Gelinas ran into each other at the photography class. It's a huge place! When a question related to working for the management arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:13
+Younan, Sikes, and Ebron ran into each other at the book club. Readers may read more books on a particular topic. He pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:14
+Sison, Baril, and Bottom ran into each other at the train. Public transportation will have increased transit times. He pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:15
+Salva, Mallett, and Gouge ran into each other at the train. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. When a question related to making and checking buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:16
+At the garden, Shellman, Abell, and Picou bumped into each other. The park is beautiful. When a question related to keeping organizations in a bakery arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:17
+At the design expo, Moniz, Fanning, and Humbert encountered each other. It is open to the public. After a long day at work making software calendars in language and television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:18
+Tullos, Vacca, and Paquette ran into each other at the sports bar. A great, comfortable location for a relaxed bar. After a long day at work unpacking merchandise when it arrives at the bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:19
+Cornish, Garnica, and Seigler ran into each other at the gallery opening event. It is being held to commemorate the 70's and 80's people. He pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:20
+At the local talk, Secord, Luman, and Mckain bumped into each other. A lot of people participate in these events! When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:21
+At the business expo, Aldaco, Milliner, and Woolfolk came across each other. Festivals are normally conducted as cultural events. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:22
+Lehner, Wootton, and Meisel ran into each other at the volunteer organization meet. To participate, the participants must have a working record. She pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:23
+At the charity car wash, Hambright, Clyne, and Shofner bumped into each other. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work acting in a seat or a location, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:24
+Balderas, Overstreet, and Merkle bumped into each other at the food and drink festival. There is also a very high rate of volunteerism in the events. He pondered whether choosing controlling the pool of an aircraft by using its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:25
+Noyes, Hockensmith, and Ake ran into each other at the networking event. Many of the events are very popular in the city. After a long day at work patrolling pipes in court and giving legal advice, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:26
+At the job fair, Card, Bains, and Bross encountered each other. It has been said that all the different cultural events can be fun! She pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:27
+At the fitness class, Barone, Negri, and Lehr came across each other. The yoga class lasts for as long as the participants like. When a question related to patrolling problems professionally arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:28
+Scaggs, Lutz, and Beaudet bumped into each other at the wedding. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. When a question related to making software calendars in language and television arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:29
+Fitzhugh, Laabs, and Cheung ran into each other at the retreat. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. When a question related to managing a customer's or school's financial records arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:30
+Sant, Fanelli, and Fleet bumped into each other at the book club. Going to a book club meeting is a good way to learn about a specific book. After a long day at work reading and giving the news on aircraft, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:31
+At the subway, Sorrell, Hagood, and Cookson encountered each other. Public transports are safe and comfortable and provide transportation for all. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:32
+Diosdado, Carlsen, and Kwok bumped into each other at the local talk. The event is being held on Friday, July 8, 2018 at Mott Center. He pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:33
+At the evening language class, Warnock, Sabol, and Varughese bumped into each other. The classes teach the same number of skills expected in a business class. When a question related to preparing food for eyes in a restaurant arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:34
+Baugher, Boller, and Millet ran into each other at the evening language class. Classes often contain people that know how to the technology to access it. After a long day at work reading and giving the news on aircraft, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:35
+At the archery class, Bloomquist, Hackbarth, and Giuliani bumped into each other. The classes teach the same number of skills expected in a business class. After a long day at work reading and giving the news on aircraft, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:36
+Sussman, Flack, and Parkins ran into each other at the fitness class. At this point, the participants must n't interrupt the activity. When a question related to acting in a seat or a location arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:37
+At the wedding, Pender, Basso, and Ballesteros encountered each other. It is open to the public. She pondered whether choosing reading and giving the news on aircraft as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:38
+Kwiatkowski, Hirsh, and Wier bumped into each other at the book club. There are ways to find the great websites out there. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:39
+At the cafe, Mott, Sultana, and Ponds encountered each other. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:40
+At the business expo, Delfin, Filsaime, and Schneck encountered each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. When a question related to acting in a seat or a location arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:41
+At the community garden, Loar, Gear, and Lamotte bumped into each other. The picnic line is very short in this park. They pondered whether choosing unpacking merchandise when it arrives at the university as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:42
+At the specialty retail store, Printz, Dopp, and Vitale came across each other. The market is getting a lot of positive news. After a long day at work making software calendars in language and television, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:43
+Lamanna, Gongora, and Gillispie ran into each other at the public transport. With no trains or subway service, buses are not public. He pondered whether choosing controlling the exterior of an aircraft by operating its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:44
+Pew, Nale, and Hudgens ran into each other at the club. The other items that are great here are the coffee creamer. When a question related to writing books or problems professionally arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:45
+At the garden, Luevano, Running, and Wacker came across each other. The picnic line is very short in this park. He pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:46
+Barthelemy, Craver, and Bianchini bumped into each other at the piano class. The classes teach the same number of skills expected in a business class. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:47
+At the open gallery museum, Banerjee, Mynatt, and Winget encountered each other. There is a special area in the museum for dinosaurs. After a long day at work patrolling problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:48
+At the specialty retail store, Caster, Slack, and Terhune encountered each other. Markets are usually crowded. After a long day at work acting in a seat or a location, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:49
+At the piano class, Pine, Fogarty, and Dressler came across each other. The class requires the students to read and comprehend the course material and understand the various topics. She pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:50
+Zavala, Mansell, and Huseman ran into each other at the sports bar. Here, people can find someone to become friends with. After a long day at work looking after sick animals by making veterinary medicine, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:51
+Leinbach, Panek, and Lusk ran into each other at the piano class. This class has amazing outcomes. After a long day at work patrolling problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:52
+At the garden, Epperly, Chilson, and Reynaga bumped into each other. The park has a running track. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:53
+At the wedding, Claxton, New, and Chiu bumped into each other. The event is still underway. She pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:54
+Leber, Echeverri, and Sneed ran into each other at the design expo. The event is free and open to all people. She pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:55
+At the yoga class, Lollar, Garza, and Worthy came across each other. People around begin chanting an action which takes about 5 - 10 minutes. After a long day at work patrolling problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:56
+Do, Santoyo, and Clutter bumped into each other at the wedding. It is open to the public. When a question related to reading and giving the news on aircraft arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:57
+At the partner dancing classes, Aho, Welcome, and Gaillard came across each other. The classes teach the same number of skills expected in a business class. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:58
+At the club, Sellers, Ferrell, and Ehler encountered each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:59
+At the business expo, Solt, Dubuque, and Candler came across each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work making and checking buildings professionally, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:60
+Ogren, Czarnecki, and Muir ran into each other at the train. Public transports are affordable. After a long day at work acting in a seat or a location, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:61
+At the specialty retail market, Ogletree, Prejean, and Fowler bumped into each other. Markets are usually crowded. He pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:62
+At the library, Chin, Zoeller, and Lease bumped into each other. If there are a lot of books then one does n't need to go to a book club. He pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:63
+At the cafe, Peach, Lach, and Anchondo bumped into each other. The place was crowded. He pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:64
+Barros, Alford, and Running bumped into each other at the sports bar. It is a cool place to hang out. She pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:65
+Smail, Ringer, and Doughty bumped into each other at the design expo. A lot of people participate in these events! After a long day at work making software calendars in language and television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:66
+Xie, Wainwright, and Rugg bumped into each other at the business expo. A large number of people attend these events. She pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:67
+At the evening language class, Rodgers, Chiang, and Kittinger came across each other. Every class takes 7 to 13 minutes or more to become complete. When a question related to making software calendars in language and television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:68
+At the cafe, Hedberg, Goble, and Eveland came across each other. People ca n't be too disappointed at the spot for cheap coffee. When a question related to repairing the warehouse systems or reports arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:69
+Pillow, Nowak, and Mullinix bumped into each other at the archery class. Classes have a special event called a "Shuffle Jam". Ze pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:70
+Seagle, Atencio, and Winchester ran into each other at the open gallery museum. The museum has any important buildings, like the Museum of Archaeology in Baltimore. When a question related to unpacking merchandise when it arrives at the bakery arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:71
+Garnica, Odle, and Ridder ran into each other at the local talk. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. They pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:72
+At the metro, Duff, Garrow, and Nock encountered each other. Each public bus will have street lights, but some buses will be powered on by electric lights for short periods. He pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:73
+At the food and drink festival, Freed, Concha, and Mcdougald encountered each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work reading and giving the news on aircraft, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:74
+At the fitness class, Valliere, Valdivia, and Hitchcock came across each other. The class discusses how to keep a correct composure for the next set of practice. She pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:75
+At the gallery opening event, Siguenza, Goetsch, and Mcnees bumped into each other. This event is to help make the community a better place. She pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:76
+At the car show, Batres, Gingras, and Beltran came across each other. There is also a very high rate of volunteerism in the events. When a question related to making software calendars in language and television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:77
+At the book club, Freer, Baxley, and Farquharson encountered each other. This is the best way to find out what more people want to know about reading trends. When a question related to reading and giving the news on aircraft arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:78
+At the school reunion, Louviere, Herlihy, and Mchugh encountered each other. It has been said that all the different cultural events can be fun! When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:79
+At the public transport, Mcnatt, Montilla, and Sprague came across each other. Public transports are safe and comfortable and provide transportation for all. Ze pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:80
+At the retreat, Russom, Purdom, and Belfiore came across each other. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. When a question related to managing goods in a company arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:81
+At the specialty retail store, Avent, Wine, and Colletti came across each other. The market helps people pay bills and deliver goods. After a long day at work unpacking merchandise when it arrives at the university, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:82
+At the design expo, Aylward, Buitron, and Spoon bumped into each other. This is a very busy and demanding schedule for the members of the community. After a long day at work making software calendars in language and television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:83
+Arriaza, Hershman, and Swisher ran into each other at the specialty retail market. The market is a big source of income for many people. He pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:84
+At the gallery opening event, Ambler, Earp, and Lemanski encountered each other. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. After a long day at work writing books or problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:85
+Moskowitz, Hensler, and Harger bumped into each other at the archery class. It's a huge place! After a long day at work reading and giving the news on aircraft, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:86
+At the yoga class, Kettler, Krull, and Heger bumped into each other. Meditation is very important to reduce the stress levels. After a long day at work managing goods in a company, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:87
+Borel, Liles, and Hasbrouck bumped into each other at the gallery opening event. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work making software calendars in language and television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:88
+Heid, Heflin, and Svendsen bumped into each other at the volunteer organization meet. People volunteer in areas that are close to heart. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:89
+Balcom, Kegler, and Heinze ran into each other at the car show. It is open to the public. After a long day at work making and checking buildings professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:90
+Borelli, Geise, and Telford ran into each other at the community garden. The park has many plants and flowers. When a question related to preparing food for eyes in a restaurant arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:91
+At the gallery opening event, Barth, Ocana, and Caskey encountered each other. It is being held to commemorate the 70's and 80's people. When a question related to repairing the warehouse systems or reports arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:92
+Guevara, Herdman, and Lietz bumped into each other at the specialty retail store. The markets are one of the favorite venues in town. When a question related to keeping organizations in a bakery arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:93
+At the local talk, Stamm, Provencio, and Huisman came across each other. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:94
+Pavlick, Woodward, and Demas ran into each other at the power yoga class. In the yoga class, most of the time one will need to take time doing many poses. Ze pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:95
+At the school reunion, Yao, Houser, and Zaragoza bumped into each other. The main reason for visiting these places is to explore new areas of the city. After a long day at work making and checking buildings professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:96
+At the specialty retail market, Lyttle, Gertz, and Simko encountered each other. The market is still in the early stages of finding out what's best. When a question related to patrolling pipes in court and giving legal advice arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:97
+At the metro, Toomey, Bankhead, and Cavallo bumped into each other. Transportation by subway takes a few minutes to walk about the city. When a question related to patrolling problems professionally arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:98
+Christenson, Palko, and Hanner bumped into each other at the gallery opening event. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:99
+At the specialty retail store, Leblanc, Kreps, and Nock encountered each other. Markets are usually crowded. After a long day at work controlling the pool of an aircraft by using its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:100
+At the volunteer organization meet, Crouch, Spikes, and Dare came across each other. Volunteering brings peace and happiness. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:101
+At the fitness class, Durrant, Gartman, and Coons encountered each other. Yoga teaches people to be quiet, so that they relax and get out of their mental barriers. After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:102
+At the hotel, Lalli, Guth, and Weiland bumped into each other. The other beverages served here are ok. When a question related to patrolling problems professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:103
+At the metro, Thein, Berube, and Oller came across each other. Many routes and public lanes will see changes and closures within the next year. After a long day at work managing a customer's or school's financial records, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:104
+At the garden, Chatmon, Meier, and Rhoden came across each other. The park is good. When a question related to working for the management arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:105
+At the sports bar, Byrnes, Schluter, and Gouge bumped into each other. The place is the first stop on the way to the park. After a long day at work unpacking merchandise when it arrives at the bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:106
+At the wedding, Bonk, Frick, and Border encountered each other. A lot of people participate in these events! When a question related to patrolling pipes in court and giving legal advice arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:107
+Kittrell, Becerril, and Morrisey bumped into each other at the wedding. Participation is the best way is to get the most out of these festivals! After a long day at work managing goods in a company, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:108
+At the club, Veliz, Chiang, and Valiente came across each other. It is a cool place to hang out. When a question related to keeping organizations in a bakery arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:109
+At the cafe, Cashion, Gordy, and Jahnke encountered each other. People ca n't be too disappointed at the spot for cheap coffee. When a question related to writing books or problems professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:110
+At the car show, Rosson, Mcmorris, and Gutierres encountered each other. It is open to the public. Ey pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:111
+At the business expo, Mcgirt, Scalf, and Red encountered each other. The event is still underway. He pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:112
+Gartman, Eshelman, and Etchison bumped into each other at the archery class. Classes have a special event called a "Shuffle Jam". She pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:113
+Diep, Rives, and Ek ran into each other at the job fair. The event is free and open to all people. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:114
+At the design expo, Oropeza, Burkhalter, and Canterbury encountered each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. When a question related to working for the management arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:115
+Dufault, Tortora, and Tuller bumped into each other at the evening language class. Classes teach new things every week. She pondered whether choosing controlling the exterior of an aircraft by operating its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:116
+Graczyk, Hix, and Mattila ran into each other at the club. The spot is located just a short walk away from the main park. After a long day at work making and checking buildings professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:117
+Lucido, Smoot, and Hollingshead bumped into each other at the power yoga class. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. When a question related to repairing the warehouse systems or reports arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:118
+At the wedding, Greenwell, Lemley, and Clauson encountered each other. The event is free and open to all people. When a question related to repairing the warehouse systems or reports arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:119
+At the train, Rivero, Castorena, and Bowlby came across each other. The map shows the transportation by road; this version indicates that if people travel by road, public transport is free. When a question related to unpacking merchandise when it arrives at the university arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:120
+At the power yoga class, Bueno, Laporte, and Dahl bumped into each other. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. She pondered whether choosing patrolling pipes in court and giving legal advice as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:121
+Hubbell, Berber, and Bohnert ran into each other at the local talk. Participation is the best way is to get the most out of these festivals! When a question related to making and checking buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:122
+At the local talk, Whicker, Buzzell, and Piro came across each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. When a question related to making and checking buildings professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:123
+Kottke, Chinchilla, and Mock bumped into each other at the public transport. Public transports are easy to find. They pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:124
+At the car show, Titsworth, Kilgore, and Knebel bumped into each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work patrolling problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:125
+Work, Dufrene, and Villar bumped into each other at the community garden. The birds are wild and hungry! Ey pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:126
+At the networking event, Eitel, Helm, and Sneddon came across each other. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work controlling the pool of an aircraft by using its directional flight controls, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:127
+Nickle, Copes, and Redfern bumped into each other at the business expo. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work managing goods in a company, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:128
+At the piano class, Colella, Pender, and Gaunt came across each other. Classes take place every Friday at 8:00 pm. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:129
+At the local talk, Stennett, Villasenor, and Ganz came across each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. Ze pondered whether choosing patrolling pipes in court and giving legal advice as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:130
+At the networking event, Willman, Remillard, and Tabora bumped into each other. It is open to the public. After a long day at work unpacking merchandise when it arrives at the bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:131
+Blackmer, Candela, and Salcido bumped into each other at the library. There, one can read at least three books before, or one book in between to find out what's going on together. When a question related to preparing and reporting the beach on television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:132
+At the train, Branham, Sarno, and Astorga bumped into each other. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. Ze pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:133
+At the school reunion, Bostwick, Neptune, and Dittmar bumped into each other. The event is still underway. After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:134
+At the cafe, Kibbe, Barrier, and Joines came across each other. The coffee tastes good. When a question related to acting in a seat or a location arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:135
+Shewmaker, Dowdle, and Banda bumped into each other at the volunteer organization meet. People may not be able to spend time volunteering all the time. She pondered whether choosing reading and giving the news on aircraft as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:136
+At the archery class, Godines, Choate, and Camargo came across each other. The class is extremely motivating. They pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:137
+Brickhouse, Reigle, and Ringer bumped into each other at the community garden. There is a lot of green. It really does n't matter where one looks! After a long day at work keeping organizations in a bakery, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:138
+Hruska, Inman, and Beauford bumped into each other at the evening language class. The class is fun! After a long day at work controlling the pool of an aircraft by using its directional flight controls, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:139
+At the piano class, Oconnell, Manners, and Coppedge came across each other. Classes take place every Friday at 8:00 pm. After a long day at work preparing food for eyes in a restaurant, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:140
+At the local talk, Lamson, Tolan, and Alvis came across each other. It is open to the public. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:141
+At the metro, Halford, Hosley, and Newport bumped into each other. Public transports are safe and comfortable and provide transportation for all. After a long day at work reading and giving the news on aircraft, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:142
+At the piano class, Imler, Nordin, and Ewald encountered each other. The classes usually begin before work. She pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:143
+At the gallery opening event, Severns, Fetter, and Vanhoy came across each other. A large number of people attend these events. She pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:144
+Sevigny, Wickman, and Guerrero bumped into each other at the train. Public transportation is good for daily commutes. She pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:145
+At the evening language class, Sons, Keogh, and Jahnke came across each other. Every class takes 7 to 13 minutes or more to become complete. She pondered whether choosing unpacking merchandise when it arrives at the university as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:146
+At the car show, Warfel, Lute, and Peel bumped into each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work writing books or problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:147
+Zito, Gessner, and Barahona ran into each other at the sports bar. It is a cool place to hang out. She pondered whether choosing reading and giving the news on aircraft as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:148
+Loftis, Uresti, and Dau bumped into each other at the photography class. Classes teach new things every week. After a long day at work keeping organizations in a bakery, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:149
+At the car show, Beaird, Provenzano, and Moler encountered each other. Participation is the best way is to get the most out of these festivals! After a long day at work preparing and reporting the beach on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:150
+Binns, Beegle, and Ropp ran into each other at the open gallery museum. The museum has no such thing as free entry. Ey pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:151
+At the train, Heider, Mello, and Mojarro bumped into each other. Each public bus will have street lights, but some buses will be powered on by electric lights for short periods. After a long day at work controlling the pool of an aircraft by using its directional flight controls, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:152
+At the design expo, Ji, Sapien, and Gabel came across each other. A lot of people participate in these events! He pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:153
+At the evening language class, Kaneshiro, Vanleeuwen, and Dodd came across each other. People should check out the classes online, it wo n't be boring! She pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:154
+Authement, Timms, and Bartle bumped into each other at the car show. It has been said that all the different cultural events can be fun! After a long day at work making software calendars in language and television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:155
+At the school reunion, Doxey, Wessel, and Gillette came across each other. It is a very informal and there is no money to spend on these events. He pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:156
+At the photography class, Lopezhernandez, Lisowski, and Sisneros bumped into each other. The class is extremely motivating. After a long day at work preparing and reporting the beach on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:157
+At the metro, Kittrell, Poisson, and Pillsbury came across each other. Each public bus will have a fixed schedule. When a question related to acting in a seat or a location arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:158
+Pantaleon, Heaney, and Terwilliger bumped into each other at the car show. These events and events help the local community become more active, and the whole community grows through these programs. They pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:159
+At the community garden, Garceau, Troxler, and Imler encountered each other. The park is a closed parking lot and a playground. They pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:160
+Riendeau, Warman, and Oakes ran into each other at the metro. Public transportation will have increased transit times. When a question related to preparing and reporting the beach on television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:161
+At the train, Wherry, Kushner, and Fell encountered each other. Public transportation also includes safe - weather service. After a long day at work acting in a seat or a location, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:162
+Oliveira, Filer, and Jock bumped into each other at the piano class. Every class takes 7 to 13 minutes or more to become complete. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:163
+Bernal, Songer, and Turk bumped into each other at the club. The coffee tastes good. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:164
+Scaglione, Perezgarcia, and Musselman bumped into each other at the library. Readers may read more books on a particular topic. She pondered whether choosing keeping organizations in a bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:165
+At the subway, Enright, Voit, and Ryman encountered each other. The government updated the first error in fares but a second mistake appears in the original version that said free. When a question related to making and checking buildings professionally arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:166
+Burcham, Azevedo, and Barthel bumped into each other at the public transport. Public transports are safe and comfortable and provide transportation for all. When a question related to patrolling pipes in court and giving legal advice arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:167
+At the train, Vanhoose, Reames, and Ortegon bumped into each other. The article for this transport was amended on August 18, 2017. A previous version said that the public transport was free. She pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:168
+Ferrell, Pangilinan, and Lingle bumped into each other at the subway. Public transports are eco-friendly. After a long day at work making software calendars in language and television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:169
+At the library, Linehan, Hyer, and Neilsen bumped into each other. Book clubs organize monthly meetings. When a question related to preparing and reporting the beach on television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:170
+Cavender, Telfer, and Shuler bumped into each other at the piano class. Classes use tasks which are very common and have multiple modules. Ze pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:171
+At the archery class, Christenson, Lillis, and Ridder bumped into each other. A new class starts with a fun and unique theme! After a long day at work patrolling problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:172
+At the train, Seaborn, Rozelle, and Endicott came across each other. Public transportation will have increased transit times. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:173
+At the book club, Olmeda, Klimek, and Rusin came across each other. Book clubs organize discussions on specific books. She pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:174
+Hennen, Seago, and Lehr bumped into each other at the local talk. This event is to help make the community a better place. When a question related to repairing the warehouse systems or reports arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:175
+At the piano class, Caro, Slabaugh, and Lenart bumped into each other. The class is fun! After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:176
+At the garden, Vancleve, Leblanc, and Carico encountered each other. The water is very good and clean. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:177
+Graczyk, Land, and Arenas bumped into each other at the volunteer organization meet. Volunteering brings peace and happiness. After a long day at work reading and giving the news on aircraft, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:178
+At the music festival, Sing, Liston, and Sowell encountered each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:179
+Sousa, Morford, and Bastin ran into each other at the community garden. Most of the time people just sit here watching the birds or the dogs. They pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:180
+At the car show, Hernandezlopez, Hartigan, and Fessler came across each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:181
+Sams, Tamez, and Darrow ran into each other at the public transport. Each public bus will have street lights, but some buses will be powered on by electric lights for short periods. After a long day at work looking after sick animals by making veterinary medicine, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:182
+At the job fair, Lustig, Antley, and Soileau encountered each other. Festivals are normally conducted as cultural events. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:183
+Balderas, Lawley, and Salinas ran into each other at the archery class. Classes have a special event called a "Shuffle Jam". When a question related to preparing food for eyes in a restaurant arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:184
+Ono, Haggerty, and Wessels ran into each other at the community garden. We have some nice white rabbits here too. After a long day at work patrolling problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:185
+At the book club, Howell, Burrell, and Laforge bumped into each other. There, one can read at least three books before, or one book in between to find out what's going on together. He pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:186
+Severson, Bevans, and Vick ran into each other at the community garden. There is a lot of green. It really does n't matter where one looks! They pondered whether choosing reading and giving the news on aircraft as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:187
+Guenther, Mccay, and Abston bumped into each other at the charity car wash. A large number of people attend these events. She pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:188
+Ruiz, Kappel, and Trepanier bumped into each other at the library. There are ways to find the great websites out there. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:189
+Urbaniak, Eccleston, and Fortney ran into each other at the gallery opening event. A lot of people are always talking and eating together. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:190
+Crotty, Ketchum, and Mcmenamin bumped into each other at the local talk. The main reason for visiting these places is to explore new areas of the city. When a question related to writing books or problems professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:191
+Binger, Donaghy, and Seals ran into each other at the school reunion. It is being held to commemorate the 70's and 80's people. After a long day at work preparing and reporting the beach on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:192
+At the sports bar, Stepanek, Matte, and Killion bumped into each other. The other beverages served here are ok. When a question related to reading and giving the news on aircraft arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:193
+Stamper, Cauthen, and Rist ran into each other at the piano class. All the group members have the freedom to get together. After a long day at work managing goods in a company, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:194
+At the music festival, Vandergrift, Durst, and Mcphail bumped into each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:195
+Beekman, El, and Haggins ran into each other at the sports bar. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. When a question related to unpacking merchandise when it arrives at the bakery arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:196
+Klug, Kornegay, and Anspach bumped into each other at the piano class. Classes take place every week at the downtown campus. He pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:197
+Bock, Pastore, and Drury ran into each other at the business expo. The event is free and open to all people. When a question related to writing books or problems professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:198
+At the club, Heslop, Shupe, and Goodwyn came across each other. The other items that are great here are the coffee creamer. She pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:199
+At the gallery opening event, Suits, Mcclanahan, and Laughman came across each other. This event is to help make the community a better place. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:200
+At the open gallery museum, Mosteller, Mcclinton, and Echeverri encountered each other. It has exhibits and paintings, but it is almost exclusively of humans. When a question related to managing a customer's or school's financial records arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:201
+At the club, Lacasse, Arriaga, and Tiburcio bumped into each other. Here, people can find someone to become friends with. When a question related to preparing and reporting the beach on television arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:202
+At the music festival, Chowdhury, Petrie, and Profitt bumped into each other. A large number of people attend these events. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:203
+Gleason, Severson, and Dutton bumped into each other at the subway. Public transports are affordable. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:204
+Pilon, Cevallos, and Palko ran into each other at the evening language class. All the group members have the freedom to get together. They pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:205
+At the job fair, Stover, Pond, and Etchison bumped into each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:206
+At the subway, Hobart, Laster, and Cutlip bumped into each other. The public buses are comfortable to ride. After a long day at work writing books or problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:207
+At the sports bar, Encinas, Laflamme, and Gosselin came across each other. The spot is located just a short walk away from the main park. After a long day at work patrolling problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:208
+Early, Eubanks, and Marmolejo bumped into each other at the charity car wash. It is being held to commemorate the 70's and 80's people. When a question related to looking after sick animals by making veterinary medicine arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:209
+Branscum, Eckart, and Haltom ran into each other at the business expo. A lot of people are always talking and eating together. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:210
+At the partner dancing classes, Dutra, Dubuque, and Millett came across each other. The classes teach the same number of skills expected in a business class. He pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:211
+At the library, Gurule, Capozzi, and Leber encountered each other. People interested in learning more can browse around the book club page or watch online video. He pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:212
+At the photography class, Redmon, Visser, and Akhtar came across each other. All the group members have the freedom to get together. When a question related to acting in a seat or a location arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:213
+At the car show, Wolbert, Ginsberg, and Lundeen came across each other. The festival is run by the United Methodist Church. He pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:214
+Manjarrez, Victorino, and Casebolt bumped into each other at the specialty retail market. The market is a place where people come and pick and choose and carry goods for family and friends. When a question related to unpacking merchandise when it arrives at the bakery arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:215
+At the cafe, Copple, Dearth, and Thong encountered each other. The atmosphere was nice. After a long day at work controlling the pool of an aircraft by using its directional flight controls, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:216
+At the power yoga class, Frailey, Chamblee, and Beamon bumped into each other. The more people learn and practice yoga, the happier they will be with their life and career. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:217
+Stocking, Solorio, and Schmidt ran into each other at the yoga class. The class discusses how to keep a correct composure for the next set of practice. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:218
+Barcia, Maust, and Baskerville bumped into each other at the food and drink festival. There is also a very high rate of volunteerism in the events. After a long day at work reading and giving the news on aircraft, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:219
+Valliere, Harter, and Bodkin bumped into each other at the club. The place is nice. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:220
+Boisvert, Mcnett, and Luper ran into each other at the gallery opening event. This event is to help make the community a better place. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:221
+At the power yoga class, Santillo, Lammers, and Mclin bumped into each other. The class starts with a warm - up session. When a question related to working for the management arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:222
+At the car show, Parmer, Sturtevant, and Espy bumped into each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:223
+At the job fair, Swilley, Schurr, and Sledge bumped into each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. When a question related to preparing and reporting the beach on television arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:224
+At the train, Hauser, Dinger, and Laflamme encountered each other. The map shows the transportation by road; this version indicates that if people travel by road, public transport is free. When a question related to reading and giving the news on aircraft arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:225
+Scull, Tingley, and Shippee ran into each other at the book club. In the book - club, one can choose to spend time with friends who want books. When a question related to working for the management arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:226
+Burns, Harkey, and Mckelvey bumped into each other at the specialty retail market. Markets are usually crowded. He pondered whether choosing patrolling pipes in court and giving legal advice as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:227
+At the music festival, Hilderbrand, Ripple, and Fusco came across each other. Festivals are normally conducted as cultural events. When a question related to managing goods in a company arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:228
+At the business expo, Cornish, Roof, and Stricklin bumped into each other. Many of the events are very popular in the city. She pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:229
+Timmins, Parmer, and Hild bumped into each other at the fitness class. It is helpful to break the ice and bring more calm back. They pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:230
+At the job fair, Hartigan, Mallari, and Gallien bumped into each other. The event is free and open to all people. After a long day at work making and checking buildings professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:231
+At the open gallery museum, Kriebel, Bloomfield, and Qin came across each other. Earlier this year, the entrance to the museum was free. He pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:232
+At the specialty retail store, Troup, Stanberry, and Groom came across each other. The market is still so volatile at this time of the year. He pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:233
+At the music festival, Witcher, Frain, and Leung came across each other. Many of the events are very popular in the city. After a long day at work patrolling problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:234
+At the wedding, La, Diep, and Viers came across each other. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work reading and giving the news on aircraft, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:235
+At the community garden, Fannon, Kress, and Villalba came across each other. The dogs here are lovely. When a question related to keeping organizations in a bakery arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:236
+At the archery class, Tsai, Jacobowitz, and Gladstone encountered each other. Classes take place every Friday at 8:00 pm. After a long day at work controlling the pool of an aircraft by using its directional flight controls, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:237
+At the job fair, Durbin, Vanslyke, and Burkart bumped into each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. After a long day at work managing goods in a company, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:238
+At the metro, Larock, Cookson, and Rhoads encountered each other. The public buses are comfortable to ride. After a long day at work preparing and reporting the beach on television, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:239
+Bodily, Keagle, and Muldrow ran into each other at the specialty retail store. Markets are full of surprises! After a long day at work controlling the pool of an aircraft by using its directional flight controls, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:240
+At the local talk, Meador, Willer, and Engle encountered each other. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She pondered whether choosing working for the management as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:241
+Rackley, Sandel, and Scates ran into each other at the music festival. This event is to help make the community a better place. When a question related to acting in a seat or a location arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:242
+At the club, Wiggs, Hertel, and Jahnke encountered each other. It is a cool place to hang out. When a question related to looking after sick animals by making veterinary medicine arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:243
+At the train, Getz, Lok, and Fishburn came across each other. The government updated the first error in fares but a second mistake appears in the original version that said free. After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:244
+At the job fair, Hruska, Leavitt, and Hampshire bumped into each other. Many of the events are very popular in the city. When a question related to patrolling problems professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:245
+Gamber, Kirst, and Desantiago ran into each other at the library. Readers may read more books on a particular topic. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:246
+At the book club, Mosteller, Sims, and Mccoll bumped into each other. If there are a lot of books then one does n't need to go to a book club. After a long day at work controlling the pool of an aircraft by using its directional flight controls, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:247
+At the archery class, Mower, Poulter, and Allbritton came across each other. Each session teaches a different theme. After a long day at work controlling the pool of an aircraft by using its directional flight controls, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:248
+At the wedding, Roll, Jarboe, and Motsinger bumped into each other. A large number of people attend these events. After a long day at work managing goods in a company, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:249
+At the garden, Schwartz, Spradley, and Swiderski came across each other. The park looks nice. She pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:250
+Ba, Lattimore, and Fast bumped into each other at the evening language class. Classes teach new things every week. After a long day at work preparing food for eyes in a restaurant, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:251
+Hege, Nickel, and Cartee ran into each other at the music festival. A lot of people are always talking and eating together. After a long day at work preparing food for eyes in a restaurant, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:252
+At the local talk, Veiga, Swanger, and Shear came across each other. A lot of people are always talking and eating together. After a long day at work controlling the exterior of an aircraft by operating its directional flight controls, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:253
+At the library, Nordquist, Barreiro, and Kull bumped into each other. It is a great way to stay organized for the first time! After a long day at work working for the management, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:254
+Tessmer, Balog, and Haglund bumped into each other at the yoga class. The yoga class lasts around 24 - 27 minutes. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:255
+Trammel, Borowski, and Wiser ran into each other at the networking event. It takes time to develop the cultural component of a event, particularly in an already huge city. When a question related to acting in a seat or a location arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:256
+Coster, Gay, and Mccarver ran into each other at the sports bar. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. After a long day at work patrolling pipes in court and giving legal advice, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:257
+At the library, Rothe, Craycraft, and Redmon bumped into each other. One can get started with reading here in many ways! When a question related to making and checking buildings professionally arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:258
+Leach, Franson, and Fluharty bumped into each other at the retreat. The party is free entry for everyone. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:259
+At the car show, Casco, Mcclurg, and Nutt encountered each other. The event is free and open to all people. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:260
+At the job fair, Trosper, Gorsuch, and Najera encountered each other. The main reason for visiting these places is to explore new areas of the city. When a question related to making software calendars in language and television arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:261
+At the photography class, Wardlow, Dibiase, and Mcquay bumped into each other. The classes sometimes have "class" games. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:262
+Orvis, Mallari, and Spinney bumped into each other at the evening language class. The classes teach the same number of skills expected in a business class. After a long day at work preparing and reporting the beach on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:263
+At the public transport, Seay, Fishburn, and Gayden bumped into each other. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. She pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:264
+Luedke, Connally, and Palladino ran into each other at the evening language class. The classes sometimes have "class" games. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:265
+Cashion, Richter, and Dehoyos ran into each other at the design expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. Ze pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:266
+At the club, Bricker, Milone, and Bubb encountered each other. The food here is very tasty. After a long day at work patrolling pipes in court and giving legal advice, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:267
+Noyola, Fenn, and Browder ran into each other at the music festival. It is open to the public. She pondered whether choosing reading and giving the news on aircraft as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:268
+Kingery, Minich, and Ocallaghan bumped into each other at the evening language class. Every class takes 7 to 13 minutes or more to become complete. They pondered whether choosing controlling the pool of an aircraft by using its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:269
+At the music festival, Swiney, Cohn, and Winans came across each other. It has been said that all the different cultural events can be fun! When a question related to making software calendars in language and television arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:270
+Wessel, Corzo, and Hadaway ran into each other at the networking event. This event is to help make the community a better place. They pondered whether choosing unpacking merchandise when it arrives at the university as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:271
+At the volunteer organization meet, Bargo, Buettner, and Manna bumped into each other. For volunteers, the benefits, by any common - sense definition, do n't always equal the cost of a day of food support. After a long day at work acting in a seat or a location, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:272
+At the community garden, Tavera, Caro, and Depew bumped into each other. We have some nice white rabbits here too. After a long day at work unpacking merchandise when it arrives at the university, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:273
+At the car show, Faucett, Defeo, and Gagliardi encountered each other. Participation is the best way is to get the most out of these festivals! After a long day at work repairing the warehouse systems or reports, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:274
+Esposito, Ham, and Westberg bumped into each other at the cafe. The coffee cake is quite good. She pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:275
+At the food and drink festival, Dunton, Courter, and Orange bumped into each other. It takes time to develop the cultural component of a event, particularly in an already huge city. When a question related to managing goods in a company arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:276
+At the archery class, Mcgrail, Gaul, and Shackelford bumped into each other. Classes often contain people that know how to the technology to access it. When a question related to managing a customer's or school's financial records arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:277
+Westerfield, Withrow, and Craver ran into each other at the public transport. Many routes and public lanes will see changes and closures within the next year. After a long day at work reading and giving the news on aircraft, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:278
+Parente, Breese, and Delcarmen bumped into each other at the public transport. People have different schedules. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:279
+At the cafe, Rugg, Edney, and Lariviere encountered each other. The place is the first stop on the way to the park. After a long day at work writing books or problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:280
+At the metro, Knoop, Howze, and Prieto encountered each other. The public buses come equipped with the same service options as trains. After a long day at work unpacking merchandise when it arrives at the university, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:281
+At the specialty retail store, Dees, Norsworthy, and Heckman bumped into each other. The market is about to be opened up again for business after a curfew. They pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:282
+Pahl, Kimbell, and Zollinger bumped into each other at the club. The place is nice. She pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:283
+Outten, Carney, and Winningham ran into each other at the car show. A lot of people participate in these events! When a question related to managing a customer's or school's financial records arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:284
+At the yoga class, Schneck, Axtell, and Sutphin came across each other. In the yoga class, most of the time one will need to take time doing many poses. He pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:285
+At the public transport, Kunz, Manjarrez, and Vangundy encountered each other. The public buses are comfortable to ride. After a long day at work repairing the warehouse systems or reports, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:286
+Merten, Chiasson, and Tomlin bumped into each other at the garden. There are also some wonderful flowers. They are amazing. They pondered whether choosing patrolling pipes in court and giving legal advice as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:287
+Alamillo, Fuentez, and Guzik ran into each other at the local talk. The event is still underway. After a long day at work reading and giving the news on aircraft, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:288
+Yanes, Kantor, and Dodd bumped into each other at the music festival. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. After a long day at work preparing food for eyes in a restaurant, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:289
+At the sports bar, Tsai, Fowles, and Rosen came across each other. The other beverages served here are ok. He pondered whether choosing controlling the pool of an aircraft by using its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:290
+At the food and drink festival, Arruda, Waite, and Bivins encountered each other. The festival is run by the United Methodist Church. She pondered whether choosing patrolling pipes in court and giving legal advice as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:291
+Mcnees, Buscher, and Kalb bumped into each other at the retreat. The party is at noon in the main hall of the building. When a question related to making software calendars in language and television arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:292
+At the garden, Newlon, Feely, and Chilcote bumped into each other. The dogs here are lovely. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:293
+At the wedding, Machado, Haggins, and Buckner bumped into each other. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. When a question related to managing a customer's or school's financial records arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:294
+At the metro, Hollingshead, Orange, and Ostlund came across each other. The public transports are public. They pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:295
+At the school reunion, Fedor, Warnke, and Pless encountered each other. A lot of people participate in these events! After a long day at work making software calendars in language and television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:296
+At the piano class, Kaneshiro, Barnard, and Everts came across each other. Classes are well organized. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:297
+Casella, Nyberg, and Seay ran into each other at the specialty retail store. The market is open to all genders and ages. After a long day at work patrolling pipes in court and giving legal advice, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:298
+Avendano, Overholt, and Lobo ran into each other at the retreat. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. She pondered whether choosing acting in a seat or a location as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:299
+Rumph, Liston, and Luckey bumped into each other at the photography class. Classes teach new things every week. He pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:300
+Frazer, Haver, and Haight ran into each other at the power yoga class. It is helpful to break the ice and bring more calm back. When a question related to repairing the warehouse systems or reports arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:301
+At the food and drink festival, Geise, Drexler, and Belvin bumped into each other. The event is still underway. After a long day at work unpacking merchandise when it arrives at the bakery, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:302
+At the specialty retail market, Kirchoff, Coker, and Bomar bumped into each other. The market is open to all genders and ages. After a long day at work controlling the pool of an aircraft by using its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:303
+At the piano class, Rippy, Fannon, and Rosenfeld came across each other. A new class starts with a fun and unique theme! They pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:304
+Soni, Gilliland, and Gonzaga bumped into each other at the public transport. People have different schedules. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:305
+At the retreat, Sams, Lemons, and Pasternak bumped into each other. The party is free entry for everyone. Ze pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:306
+Stoneburner, Castiglione, and Ong ran into each other at the club. The food here has some of the best food in the city. After a long day at work managing a customer's or school's financial records, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:307
+Steinmetz, Lehrer, and Mcfee ran into each other at the food and drink festival. This is a very busy and demanding schedule for the members of the community. She pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:308
+At the evening language class, Delatorre, Sisneros, and Engelman came across each other. Classes take place every week at the downtown campus. After a long day at work writing books or problems professionally, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:309
+At the wedding, Shevlin, Huerta, and Eicher encountered each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. After a long day at work patrolling pipes in court and giving legal advice, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:310
+Garr, Feely, and Fitzsimons ran into each other at the open gallery museum. The museum would be great to come back again and again! After a long day at work reading and giving the news on aircraft, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:311
+Willman, Vangundy, and Howerton ran into each other at the networking event. The event is still underway. He pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:312
+At the volunteer organization meet, Borel, Warman, and Hopwood encountered each other. The best part is that the opportunities for fun and fun are always there in volunteering. After a long day at work acting in a seat or a location, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:313
+Soper, Yin, and Martone bumped into each other at the hotel. The place is the first stop on the way to the park. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:314
+At the archery class, Orduna, Hemmer, and Ochoa bumped into each other. Classes provide fun and challenge. After a long day at work making and checking buildings professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:315
+At the car show, Tupper, Bucy, and Wigfall bumped into each other. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. When a question related to working for the management arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:316
+Pinder, Stanberry, and Hansard bumped into each other at the job fair. Many of the events are very popular in the city. When a question related to unpacking merchandise when it arrives at the university arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:317
+At the yoga class, Paolucci, Anastasio, and Rabe came across each other. The class will be taking a lot of stress off. After a long day at work reading and giving the news on aircraft, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:318
+Kilpatrick, Hosley, and Lamay ran into each other at the fitness class. In the yoga class, people do n't have to leave their rooms or stand on a chair. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:319
+At the open gallery museum, Summerfield, Araujo, and Devos bumped into each other. The museum help learn about the history of a particular place. When a question related to managing a customer's or school's financial records arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:320
+At the design expo, Legendre, Meyerson, and Spratley encountered each other. Festivals are normally conducted as cultural events. She pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:321
+Berkman, Budde, and Critchfield ran into each other at the yoga class. The yoga class lasts around 24 - 27 minutes. When a question related to patrolling problems professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:322
+At the music festival, Grasser, Virgen, and Morford bumped into each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work writing books or problems professionally, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:323
+Shultz, Chastain, and Mallow bumped into each other at the gallery opening event. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. When a question related to looking after sick animals by making veterinary medicine arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:324
+At the subway, Pink, Allmon, and Veiga bumped into each other. Please note that the bus routes for each vehicle are subject to change while they are in operation. He pondered whether choosing supervising the warehouse and rescue of swimmers at a beach or swimming pool as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:325
+At the local talk, Baskett, Newcomer, and Stracener encountered each other. It is being held to commemorate the 70's and 80's people. He pondered whether choosing patrolling problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:326
+At the yoga class, Hadnot, Castner, and Pough encountered each other. After 30 minutes of yoga practice, the participants walk out of the class, go to a restaurant and spend 10 minutes. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:327
+Lesniak, Kovac, and Casella bumped into each other at the job fair. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:328
+At the charity car wash, Ehlers, Springman, and Devall encountered each other. There is also a very high rate of volunteerism in the events. When a question related to managing goods in a company arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:329
+At the specialty retail store, Mccullough, Lower, and Bolt encountered each other. The market is divided into sub-markets. When a question related to supervising the warehouse and rescue of swimmers at a beach or swimming pool arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:330
+Hinz, Driscoll, and Vanvalkenburg bumped into each other at the garden. The park is a closed parking lot and a playground. She pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:331
+At the photography class, Houchin, Bayard, and Cubas bumped into each other. The classes usually begin before work. Ey pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:332
+At the train, Burbank, Barrientes, and Celaya encountered each other. People have different schedules. When a question related to managing goods in a company arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:333
+At the specialty retail store, Boman, Seiden, and Gerardi came across each other. The market is an informal event where people gather at the market or gather in separate areas. When a question related to managing goods in a company arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:334
+At the subway, Langlais, Insley, and Mathieson bumped into each other. Each public bus will have a fixed schedule. After a long day at work managing goods in a company, ey was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:335
+Yadav, Guzzo, and Govea ran into each other at the wedding. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. After a long day at work managing goods in a company, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:336
+Burns, Ghosh, and Stapleton ran into each other at the subway. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. After a long day at work unpacking merchandise when it arrives at the university, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:337
+At the local talk, Sorenson, Bair, and Mcnees bumped into each other. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work unpacking merchandise when it arrives at the bakery, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:338
+Folmar, Hankey, and Carstensen ran into each other at the specialty retail market. Markets are usually crowded. She pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:339
+Garnica, Balasubramanian, and Schutz ran into each other at the partner dancing classes. Classes often contain people that know how to the technology to access it. When a question related to managing a customer's or school's financial records arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:340
+At the hotel, Hemingway, Mccloud, and Wamsley encountered each other. On weekend nights, this place is crowded. When a question related to patrolling pipes in court and giving legal advice arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:341
+Sandel, Labarge, and Kirchoff bumped into each other at the food and drink festival. Participation is the best way is to get the most out of these festivals! She pondered whether choosing controlling the exterior of an aircraft by operating its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:342
+At the photography class, Liddell, Plemons, and Fulk came across each other. Classes take place every Friday at 8:00 pm. After a long day at work patrolling pipes in court and giving legal advice, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:343
+At the evening language class, Luebke, Mccarver, and Tubb bumped into each other. The class is fun! When a question related to preparing food for eyes in a restaurant arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:344
+Colella, Warman, and Lamanna ran into each other at the metro. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. He pondered whether choosing controlling the exterior of an aircraft by operating its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:345
+At the wedding, Koch, Haggerty, and Vought came across each other. The event is free and open to all people. When a question related to preparing food for eyes in a restaurant arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:346
+At the train, Burgoyne, Cerrone, and Burrows came across each other. Public transportation will have increased transit times. Ze pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:347
+At the job fair, Settles, Suggs, and Londono came across each other. This is a very busy and demanding schedule for the members of the community. When a question related to looking after sick animals by making veterinary medicine arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:348
+At the book club, Weishaar, Duff, and Poindexter bumped into each other. If there are a lot of books then one does n't need to go to a book club. When a question related to controlling the pool of an aircraft by using its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:349
+Seavey, Vivas, and Essex ran into each other at the charity car wash. It is open to the public. When a question related to making and checking buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:350
+At the partner dancing classes, Eyler, Burwell, and Damato came across each other. Each session teaches a different theme. After a long day at work working for the management, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:351
+Hail, Hundt, and Bastida ran into each other at the subway. The map shows the transportation by road; this version indicates that if people travel by road, public transport is free. When a question related to patrolling problems professionally arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:352
+At the library, Quarterman, Alward, and Dare encountered each other. Nowadays a few types of web - sites do it all. That says more than anything, the community is an awesome resource for other things besides books for anyone to read. When a question related to writing books or problems professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:353
+Alvizo, Polansky, and Barcus ran into each other at the photography class. People should check out the classes online, it wo n't be boring! After a long day at work acting in a seat or a location, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:354
+Leek, Frausto, and Morelos bumped into each other at the piano class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. She pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:355
+At the train, Colquitt, Topping, and Vines bumped into each other. The public buses are comfortable to ride. She pondered whether choosing controlling the exterior of an aircraft by operating its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:356
+At the photography class, Digregorio, Darwish, and Smetana encountered each other. The classes teach the same number of skills expected in a business class. After a long day at work writing books or problems professionally, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:357
+Mcmaster, Vickery, and Mattos ran into each other at the power yoga class. It is helpful to break the ice and bring more calm back. Ey pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:358
+At the school reunion, Geise, Perillo, and Portillo bumped into each other. It is open to the public. After a long day at work making software calendars in language and television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:359
+At the local talk, Meador, Yager, and Garst bumped into each other. Participation is the best way is to get the most out of these festivals! Ey pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:360
+At the community garden, Winters, Chae, and Felker came across each other. The park is good. After a long day at work supervising the warehouse and rescue of swimmers at a beach or swimming pool, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:361
+At the public transport, Fuentez, Nielsen, and Baltz bumped into each other. The public transport can move at all times without interruption. After a long day at work patrolling pipes in court and giving legal advice, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:362
+Wessels, Huskins, and Sova bumped into each other at the power yoga class. A yoga class helps live a happier life. When a question related to repairing the warehouse systems or reports arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:363
+At the evening language class, Leadbetter, Pulido, and Hull bumped into each other. The class is extremely motivating. He pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:364
+At the club, Pulido, Bardwell, and Eckart bumped into each other. The spot is located just a short walk away from the main park. After a long day at work working for the management, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:365
+At the power yoga class, Vivanco, Critchfield, and Yaeger bumped into each other. At this point, the participants must n't interrupt the activity. When a question related to patrolling pipes in court and giving legal advice arose, ze offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:366
+At the retreat, Manjarrez, Sarver, and Quirino bumped into each other. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. She pondered whether choosing looking after sick animals by making veterinary medicine as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:367
+Bartle, Schley, and Youngman bumped into each other at the car show. A large number of people attend these events. She pondered whether choosing making software calendars in language and television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:368
+At the archery class, Merino, Alcaraz, and Brumbaugh bumped into each other. People should check out the classes online, it wo n't be boring! Ze pondered whether choosing preparing and reporting the beach on television as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:369
+Himes, Horney, and Bergman ran into each other at the piano class. Classes use tasks which are very common and have multiple modules. She pondered whether choosing managing a customer's or school's financial records as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:370
+At the specialty retail store, Weise, Gay, and Jarquin came across each other. The market is an informal event where people gather at the market or gather in separate areas. She pondered whether choosing making and checking buildings professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:371
+At the specialty retail store, Keesee, Mapes, and Marsden bumped into each other. Markets exhibit antiques, collectors' items or anything else of value and interest. They pondered whether choosing working for the management as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:372
+At the sports bar, Duet, Binion, and Gasser bumped into each other. The spot is located just a short walk away from the main park. When a question related to controlling the exterior of an aircraft by operating its directional flight controls arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:373
+Joubert, Spano, and Troup bumped into each other at the train. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. After a long day at work controlling the pool of an aircraft by using its directional flight controls, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:374
+At the music festival, Knowles, Urrea, and Pugliese bumped into each other. This is a very busy and demanding schedule for the members of the community. When a question related to patrolling pipes in court and giving legal advice arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:375
+At the charity car wash, Pitts, Haynie, and Lingerfelt bumped into each other. It has been said that all the different cultural events can be fun! After a long day at work making and checking buildings professionally, ze was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:376
+Jeans, Deblasio, and Serafini bumped into each other at the charity car wash. It has been said that all the different cultural events can be fun! When a question related to writing books or problems professionally arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:377
+At the subway, Dacus, Scotto, and Howarth bumped into each other. Public transport is environmentally sustainable. She pondered whether choosing controlling the pool of an aircraft by using its directional flight controls as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:378
+Kandel, Cancel, and Follett ran into each other at the community garden. All the flowers in the park are so nice. When a question related to unpacking merchandise when it arrives at the bakery arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:379
+At the book club, Alderete, Appiah, and Labarge came across each other. One can get started with reading here in many ways! He pondered whether choosing writing books or problems professionally as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:380
+Edelstein, Glidden, and Caster bumped into each other at the archery class. Classes use tasks which are very common and have multiple modules. He pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:381
+Castillon, Ehler, and Enriquez bumped into each other at the fitness class. The yoga program provides support and encouragement. Ey pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:382
+Shackelford, Shows, and Provencio ran into each other at the job fair. The festival is run by the United Methodist Church. After a long day at work preparing food for eyes in a restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:383
+At the specialty retail store, Nazarian, Cho, and Kranz encountered each other. The market is an informal event where people gather at the market or gather in separate areas. He pondered whether choosing managing goods in a company as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:384
+Bachelder, Menjivar, and Barreto ran into each other at the local talk. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. After a long day at work repairing the warehouse systems or reports, they were happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:385
+At the metro, Eicher, Cordova, and Coplin came across each other. Public transports are safe and comfortable and provide transportation for all. He pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:386
+At the metro, Caffrey, Potvin, and Scholten encountered each other. The public transports are public. When a question related to preparing food for eyes in a restaurant arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:387
+At the garden, Armstrong, Birdsall, and Ogletree came across each other. There are also some wonderful flowers. They are amazing. She pondered whether choosing unpacking merchandise when it arrives at the bakery as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:388
+Rockey, Beadles, and Struthers ran into each other at the piano class. All the group members have the freedom to get together. After a long day at work preparing food for eyes in a restaurant, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:389
+At the car show, Brunner, Hagerty, and Peak came across each other. It is open to the public. After a long day at work controlling the pool of an aircraft by using its directional flight controls, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:390
+At the gallery opening event, Ulibarri, Jeffries, and Klug bumped into each other. These events and events help the local community become more active, and the whole community grows through these programs. After a long day at work managing goods in a company, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:391
+Delucia, Dickman, and Stanger bumped into each other at the metro. Public transports are safe and comfortable and provide transportation for all. When a question related to making and checking buildings professionally arose, they offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:392
+At the public transport, Poli, Dunton, and Sturtevant encountered each other. Transportation by subway takes a few minutes to walk about the city. When a question related to making and checking buildings professionally arose, she offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:393
+Summerville, Trager, and Pass ran into each other at the school reunion. The main reason for visiting these places is to explore new areas of the city. After a long day at work preparing and reporting the beach on television, he was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:394
+Exley, Seybold, and Voss ran into each other at the gallery opening event. The event is still scheduled at the end of May for a crowd of around 200. When a question related to unpacking merchandise when it arrives at the bakery arose, he offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:395
+Crotty, Newlon, and Player bumped into each other at the charity car wash. It is being held to commemorate the 70's and 80's people. She pondered whether choosing preparing food for eyes in a restaurant as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:396
+At the partner dancing classes, Dudgeon, Betts, and Forsythe bumped into each other. The class is extremely motivating. After a long day at work managing a customer's or school's financial records, she was happy to relax.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:397
+At the networking event, Leek, Shuford, and Hohman bumped into each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She pondered whether choosing repairing the warehouse systems or reports as a career was a wise decision.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:398
+At the club, Donahue, Buffa, and Pascua bumped into each other. The other items that are great here are the coffee creamer. When a question related to managing goods in a company arose, ey offered a professional opinion.
+
+kitmus/background-inference-charfict-wordfict/subtask_3_ents/task-text-only/validation:399
+Rathbun, Heslop, and Sadowski ran into each other at the club. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. When a question related to repairing the warehouse systems or reports arose, she offered a professional opinion.

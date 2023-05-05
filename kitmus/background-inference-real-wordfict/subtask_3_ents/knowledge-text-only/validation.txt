@@ -1,0 +1,1199 @@
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:0
+Kinnear is a hairdresser. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a hairdresser is patrolling problems professionally. Fragoso is a dentist. The work of a dentist is preparing food for eyes in a restaurant. Munk is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:1
+The work of a model is repairing the warehouse systems or reports. Rivera is a model. Nail is a hairdresser. The work of a hairdresser is patrolling problems professionally. Hardman is a politician. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:2
+The work of a fisher is making software calendars in language and television. Donaldson is an accountant. The work of a model is repairing the warehouse systems or reports. Caddell is a fisher. The work of an accountant is patrolling pipes in court and giving legal advice. Guerrero is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:3
+Patillo is a janitor. The work of a model is repairing the warehouse systems or reports. The work of a nurse is working for the management. Obert is a nurse. Braithwaite is a model. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:4
+The work of a truck driver is looking after sick animals by making veterinary medicine. Doby is an electrician. Bierman is a sofware engineer. Svoboda is a truck driver. The work of an electrician is keeping organizations in a bakery. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:5
+The work of a truck driver is looking after sick animals by making veterinary medicine. Sahagun is a travel agent. Poff is a truck driver. The work of a hairdresser is patrolling problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Decaro is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:6
+Brough is a nurse. The work of a model is repairing the warehouse systems or reports. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Sundberg is a sofware engineer. Shorty is a model. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:7
+Prichard is an astronomer. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a bus driver is reading and giving the news on aircraft. Schiff is a bus driver. The work of an astronomer is acting in a seat or a location. Shanklin is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:8
+The work of an accountant is patrolling pipes in court and giving legal advice. Mazariegos is an accountant. The work of an optician is managing a customer's or school's financial records. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Barr is a food preparation worker. Paterson is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:9
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a waiter is writing books or problems professionally. Lesniak is a waiter. The work of a nurse is working for the management. Dusek is a nurse. Calderon is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:10
+Hutchings is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Mellen is an actor. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Pedroza is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:11
+Hartle is a nurse. The work of a nurse is working for the management. Gaddy is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Brindley is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:12
+The work of an electrician is keeping organizations in a bakery. Twombly is a pilot. Costigan is a nurse. The work of a nurse is working for the management. The work of a pilot is preparing and reporting the beach on television. Spratt is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:13
+Hubble is an optician. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of an optician is managing a customer's or school's financial records. Cribb is a model. Kass is a travel agent. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:14
+Shreves is a politician. The work of a model is repairing the warehouse systems or reports. Muldrow is a model. The work of a politician is making and checking buildings professionally. Justiniano is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:15
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Pixley is a travel agent. The work of an optician is managing a customer's or school's financial records. Fannon is an optician. The work of a politician is making and checking buildings professionally. Whittier is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:16
+Polk is a model. Pleitez is a fisher. Trudel is an electrician. The work of a model is repairing the warehouse systems or reports. The work of an electrician is keeping organizations in a bakery. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:17
+The work of a fisher is making software calendars in language and television. The work of a model is repairing the warehouse systems or reports. Dews is a dentist. Norsworthy is a fisher. Smythe is a model. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:18
+Narayanan is an accountant. Labarre is an astronomer. Grimmer is a travel agent. The work of an astronomer is acting in a seat or a location. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:19
+Henkel is a waiter. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Garmon is a politician. Camero is a sofware engineer. The work of a politician is making and checking buildings professionally. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:20
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Hsu is an actor. Fujimoto is a food preparation worker. Inskeep is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:21
+Claussen is an actor. The work of an optician is managing a customer's or school's financial records. The work of a model is repairing the warehouse systems or reports. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Bullard is an optician. Tousignant is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:22
+The work of a politician is making and checking buildings professionally. Coonrod is a politician. The work of a fisher is making software calendars in language and television. The work of a waiter is writing books or problems professionally. Hillenbrand is a fisher. Cheema is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:23
+The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a dentist is preparing food for eyes in a restaurant. Lacour is a truck driver. Hui is an astronomer. The work of an astronomer is acting in a seat or a location. Hurwitz is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:24
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a pilot is preparing and reporting the beach on television. Jolicoeur is a pilot. Abalos is a firefighter. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Gore is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:25
+Human is an accountant. Streit is a politician. Bojorquez is an actor. The work of a politician is making and checking buildings professionally. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:26
+The work of an electrician is keeping organizations in a bakery. The work of a model is repairing the warehouse systems or reports. Gargano is a model. Kulik is a fisher. Dubey is an electrician. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:27
+Enright is a hairdresser. Valtierra is a travel agent. The work of an astronomer is acting in a seat or a location. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a hairdresser is patrolling problems professionally. Claunch is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:28
+Lansing is a fisher. The work of a fisher is making software calendars in language and television. The work of an electrician is keeping organizations in a bakery. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Hogge is an electrician. Neilsen is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:29
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Sartor is an optician. The work of an optician is managing a customer's or school's financial records. Bae is a sofware engineer. Kavanagh is a firefighter. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:30
+The work of a dentist is preparing food for eyes in a restaurant. The work of a bus driver is reading and giving the news on aircraft. Atteberry is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. Cueto is a bus driver. Yamashita is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:31
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an astronomer is acting in a seat or a location. The work of a waiter is writing books or problems professionally. Pecora is an astronomer. Shick is a food preparation worker. Pai is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:32
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Mcswain is a hairdresser. The work of a hairdresser is patrolling problems professionally. The work of a truck driver is looking after sick animals by making veterinary medicine. Cubas is a truck driver. Dowdy is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:33
+The work of a dentist is preparing food for eyes in a restaurant. Abell is a firefighter. Lindauer is a travel agent. Brzezinski is a dentist. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:34
+Flom is a bus driver. Lay is a travel agent. The work of a fisher is making software calendars in language and television. The work of a bus driver is reading and giving the news on aircraft. Ottman is a fisher. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:35
+The work of an optician is managing a customer's or school's financial records. The work of a bus driver is reading and giving the news on aircraft. The work of a waiter is writing books or problems professionally. Rawlings is a waiter. Macaluso is an optician. Ortiz is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:36
+Christensen is an actor. Mcgonigal is a nurse. The work of a nurse is working for the management. The work of an astronomer is acting in a seat or a location. Galyean is an astronomer. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:37
+Fleet is a bus driver. The work of a bus driver is reading and giving the news on aircraft. Bejarano is a janitor. Lo is a truck driver. The work of a janitor is managing goods in a company. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:38
+Roose is an electrician. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a nurse is working for the management. The work of an electrician is keeping organizations in a bakery. Hamlin is a food preparation worker. Rogalski is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:39
+The work of a truck driver is looking after sick animals by making veterinary medicine. Brewington is a truck driver. The work of a waiter is writing books or problems professionally. The work of an accountant is patrolling pipes in court and giving legal advice. Compean is a waiter. Tews is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:40
+Cantin is a dentist. Dopp is an astronomer. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Alaimo is a firefighter. The work of an astronomer is acting in a seat or a location. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:41
+The work of a fisher is making software calendars in language and television. The work of a politician is making and checking buildings professionally. Cumberland is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Ruch is a politician. Lampkin is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:42
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Graybill is a food preparation worker. Efird is a fisher. Ta is a model. The work of a model is repairing the warehouse systems or reports. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:43
+Newcomb is a janitor. Bechard is an accountant. Bookout is a food preparation worker. The work of a janitor is managing goods in a company. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:44
+Welker is a truck driver. The work of a waiter is writing books or problems professionally. The work of a janitor is managing goods in a company. Manansala is a waiter. Lampert is a janitor. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:45
+Culhane is an electrician. The work of a politician is making and checking buildings professionally. Cupp is a truck driver. Allbright is a politician. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:46
+The work of a model is repairing the warehouse systems or reports. Wiese is a model. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Gammill is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. Mowry is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:47
+Ogrady is a waiter. Taulbee is a hairdresser. The work of a politician is making and checking buildings professionally. The work of a hairdresser is patrolling problems professionally. Delreal is a politician. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:48
+Caulder is an optician. The work of an optician is managing a customer's or school's financial records. The work of a hairdresser is patrolling problems professionally. Obert is a hairdresser. Hulme is an astronomer. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:49
+The work of a pilot is preparing and reporting the beach on television. The work of an electrician is keeping organizations in a bakery. Granville is a pilot. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Grindle is a travel agent. Barksdale is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:50
+The work of a truck driver is looking after sick animals by making veterinary medicine. Shires is a truck driver. The work of a fisher is making software calendars in language and television. The work of a politician is making and checking buildings professionally. Demps is a politician. Brandow is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:51
+Stephens is a nurse. Twyman is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a hairdresser is patrolling problems professionally. Fiore is a hairdresser. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:52
+Stambaugh is an astronomer. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an astronomer is acting in a seat or a location. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Pellegrin is a food preparation worker. Snell is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:53
+The work of an accountant is patrolling pipes in court and giving legal advice. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Flory is an actor. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Koh is an accountant. Mouton is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:54
+The work of a dentist is preparing food for eyes in a restaurant. Hiatt is an astronomer. The work of an electrician is keeping organizations in a bakery. Scholes is a dentist. Toscano is an electrician. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:55
+Sidwell is a hairdresser. The work of a bus driver is reading and giving the news on aircraft. The work of an astronomer is acting in a seat or a location. Shrout is a bus driver. Gonsales is an astronomer. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:56
+The work of a nurse is working for the management. Linhart is a bus driver. Purdie is a nurse. The work of a bus driver is reading and giving the news on aircraft. The work of an electrician is keeping organizations in a bakery. Devera is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:57
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. Kha is a pilot. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a pilot is preparing and reporting the beach on television. Bohner is a food preparation worker. Chambliss is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:58
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a janitor is managing goods in a company. Merchant is an actor. Flock is a food preparation worker. Mccaffery is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:59
+The work of an optician is managing a customer's or school's financial records. The work of a politician is making and checking buildings professionally. The work of a dentist is preparing food for eyes in a restaurant. Blazek is a dentist. Ridgeway is a politician. Gartman is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:60
+Kingsbury is a bus driver. The work of an astronomer is acting in a seat or a location. Grounds is an astronomer. Winship is a pilot. The work of a pilot is preparing and reporting the beach on television. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:61
+The work of an optician is managing a customer's or school's financial records. Booze is a pilot. The work of a politician is making and checking buildings professionally. The work of a pilot is preparing and reporting the beach on television. Veith is an optician. Lindblom is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:62
+Stacks is a hairdresser. Risinger is a sofware engineer. Sudol is a model. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a hairdresser is patrolling problems professionally. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:63
+Strozier is an astronomer. The work of a bus driver is reading and giving the news on aircraft. Farnum is a bus driver. Schram is a nurse. The work of an astronomer is acting in a seat or a location. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:64
+Lach is an accountant. The work of an astronomer is acting in a seat or a location. Askins is an optician. The work of an optician is managing a customer's or school's financial records. The work of an accountant is patrolling pipes in court and giving legal advice. Cupp is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:65
+Sopko is a fisher. Migliore is a politician. The work of a fisher is making software calendars in language and television. The work of a pilot is preparing and reporting the beach on television. The work of a politician is making and checking buildings professionally. Tietjen is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:66
+The work of a fisher is making software calendars in language and television. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Minich is a pilot. Deyo is a firefighter. Detwiler is a fisher. The work of a pilot is preparing and reporting the beach on television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:67
+The work of a fisher is making software calendars in language and television. Stoddard is a fisher. Dilorenzo is a pilot. The work of a janitor is managing goods in a company. Ding is a janitor. The work of a pilot is preparing and reporting the beach on television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:68
+The work of a model is repairing the warehouse systems or reports. Conatser is a travel agent. Danks is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Rieck is a model. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:69
+The work of an astronomer is acting in a seat or a location. Gremillion is an astronomer. The work of a dentist is preparing food for eyes in a restaurant. Donatelli is an optician. Wachtel is a dentist. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:70
+Studley is a waiter. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a waiter is writing books or problems professionally. Lopezperez is a travel agent. The work of a janitor is managing goods in a company. Chinchilla is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:71
+The work of a janitor is managing goods in a company. Hollier is an astronomer. The work of an astronomer is acting in a seat or a location. The work of a politician is making and checking buildings professionally. Garmon is a janitor. Vanepps is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:72
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Holleran is a travel agent. The work of a politician is making and checking buildings professionally. The work of a bus driver is reading and giving the news on aircraft. Browder is a bus driver. Cadiz is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:73
+The work of a bus driver is reading and giving the news on aircraft. Reeser is a bus driver. Leanos is a pilot. The work of a model is repairing the warehouse systems or reports. Dimauro is a model. The work of a pilot is preparing and reporting the beach on television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:74
+Theisen is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Bolduc is a model. The work of a waiter is writing books or problems professionally. The work of a model is repairing the warehouse systems or reports. Knebel is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:75
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a bus driver is reading and giving the news on aircraft. Vandermolen is a bus driver. Naples is a waiter. The work of a waiter is writing books or problems professionally. So is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:76
+Boomer is a truck driver. Pino is a sofware engineer. Boyes is a fisher. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:77
+The work of a politician is making and checking buildings professionally. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Marks is a sofware engineer. Gallion is a bus driver. The work of a bus driver is reading and giving the news on aircraft. Hepburn is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:78
+Troup is a firefighter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a fisher is making software calendars in language and television. Hughley is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Hungerford is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:79
+The work of an electrician is keeping organizations in a bakery. Sussman is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a hairdresser is patrolling problems professionally. Winkle is an electrician. Helm is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:80
+The work of a janitor is managing goods in a company. Pedroza is a model. Lary is a janitor. The work of a pilot is preparing and reporting the beach on television. The work of a model is repairing the warehouse systems or reports. Meacham is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:81
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Gregoire is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Culotta is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Lapierre is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:82
+The work of a nurse is working for the management. The work of a janitor is managing goods in a company. Friel is a nurse. Roesch is a janitor. The work of a fisher is making software calendars in language and television. Kuczynski is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:83
+Baeza is a model. The work of a pilot is preparing and reporting the beach on television. The work of a model is repairing the warehouse systems or reports. Saari is a pilot. Bruning is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:84
+Mcnatt is a waiter. Gardea is a nurse. The work of a nurse is working for the management. Gerber is a dentist. The work of a waiter is writing books or problems professionally. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:85
+The work of a bus driver is reading and giving the news on aircraft. The work of a waiter is writing books or problems professionally. The work of a politician is making and checking buildings professionally. Hoskin is a bus driver. Portis is a waiter. Westgate is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:86
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Gadd is a food preparation worker. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Riera is a firefighter. The work of a janitor is managing goods in a company. Hone is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:87
+Whitbeck is a fisher. The work of a bus driver is reading and giving the news on aircraft. The work of a pilot is preparing and reporting the beach on television. Newhart is a pilot. The work of a fisher is making software calendars in language and television. Mooneyham is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:88
+Ciulla is a pilot. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a pilot is preparing and reporting the beach on television. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Szabo is a travel agent. Hennen is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:89
+Daum is an astronomer. Paugh is a hairdresser. Guill is a politician. The work of a politician is making and checking buildings professionally. The work of a hairdresser is patrolling problems professionally. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:90
+The work of a dentist is preparing food for eyes in a restaurant. The work of a truck driver is looking after sick animals by making veterinary medicine. Than is a sofware engineer. Quiros is a dentist. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Crespin is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:91
+Hann is an accountant. Shull is a hairdresser. The work of a hairdresser is patrolling problems professionally. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a model is repairing the warehouse systems or reports. Macdonald is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:92
+The work of a nurse is working for the management. The work of an electrician is keeping organizations in a bakery. Ohara is a nurse. Bandy is an electrician. The work of a pilot is preparing and reporting the beach on television. Crumrine is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:93
+The work of a dentist is preparing food for eyes in a restaurant. Harshaw is a dentist. The work of an astronomer is acting in a seat or a location. The work of a model is repairing the warehouse systems or reports. Neufeld is an astronomer. Weinstock is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:94
+The work of a pilot is preparing and reporting the beach on television. Frier is an actor. Bauman is a pilot. The work of an optician is managing a customer's or school's financial records. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Kolesar is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:95
+The work of an astronomer is acting in a seat or a location. Kollar is an astronomer. Steinke is a politician. The work of a model is repairing the warehouse systems or reports. The work of a politician is making and checking buildings professionally. Bolanos is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:96
+Albro is a janitor. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Meadows is an accountant. The work of a janitor is managing goods in a company. The work of an accountant is patrolling pipes in court and giving legal advice. Hibbard is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:97
+Kovar is a hairdresser. The work of a dentist is preparing food for eyes in a restaurant. Remillard is a model. The work of a hairdresser is patrolling problems professionally. The work of a model is repairing the warehouse systems or reports. Vannoy is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:98
+Menzel is an optician. Rebollar is a model. The work of an optician is managing a customer's or school's financial records. The work of a model is repairing the warehouse systems or reports. The work of a fisher is making software calendars in language and television. Baehr is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:99
+Hartline is an electrician. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of an electrician is keeping organizations in a bakery. Holleran is a firefighter. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Silguero is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:100
+The work of a nurse is working for the management. The work of a janitor is managing goods in a company. The work of a pilot is preparing and reporting the beach on television. Lerma is a pilot. Murrow is a janitor. Howes is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:101
+Piekarski is a food preparation worker. Woodbury is a model. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Croce is a sofware engineer. The work of a model is repairing the warehouse systems or reports. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:102
+Jessop is a politician. The work of a politician is making and checking buildings professionally. Kinnear is a hairdresser. The work of a hairdresser is patrolling problems professionally. Vanzant is a nurse. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:103
+The work of an optician is managing a customer's or school's financial records. Secrest is a janitor. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Evangelista is an optician. Estey is a food preparation worker. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:104
+Moyes is an optician. The work of a nurse is working for the management. The work of an electrician is keeping organizations in a bakery. Schoenberg is a nurse. Noto is an electrician. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:105
+Fannon is a fisher. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Paramo is a travel agent. The work of a fisher is making software calendars in language and television. Tsao is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:106
+Goodlett is a politician. Willhite is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a politician is making and checking buildings professionally. The work of an accountant is patrolling pipes in court and giving legal advice. Heckman is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:107
+The work of a dentist is preparing food for eyes in a restaurant. The work of a hairdresser is patrolling problems professionally. Singer is a janitor. Vallejos is a dentist. Studebaker is a hairdresser. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:108
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a waiter is writing books or problems professionally. Sheeran is a waiter. Stoddard is a sofware engineer. Reichardt is an electrician. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:109
+Greenwood is a travel agent. Maust is an astronomer. The work of a waiter is writing books or problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Graber is a waiter. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:110
+Vandusen is a hairdresser. Dinsmore is a fisher. The work of a hairdresser is patrolling problems professionally. Lagarde is an electrician. The work of an electrician is keeping organizations in a bakery. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:111
+Ainsworth is an optician. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a truck driver is looking after sick animals by making veterinary medicine. Liggett is a truck driver. The work of an optician is managing a customer's or school's financial records. Baskin is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:112
+Frisby is an actor. Piekarski is an astronomer. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Galvez is a dentist. The work of an astronomer is acting in a seat or a location. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:113
+Lease is an accountant. Somerville is a janitor. Tadesse is a food preparation worker. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:114
+Mcphail is a sofware engineer. The work of a nurse is working for the management. Nazarian is a nurse. The work of a truck driver is looking after sick animals by making veterinary medicine. Humphries is a truck driver. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:115
+Musick is a food preparation worker. Ethridge is a janitor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a janitor is managing goods in a company. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Eckenrode is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:116
+The work of a fisher is making software calendars in language and television. The work of an astronomer is acting in a seat or a location. The work of a politician is making and checking buildings professionally. Hairston is an astronomer. Near is a fisher. Sweatt is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:117
+Breed is an electrician. Haug is a model. Cermak is a pilot. The work of an electrician is keeping organizations in a bakery. The work of a pilot is preparing and reporting the beach on television. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:118
+Loos is a janitor. Pathak is a model. The work of a model is repairing the warehouse systems or reports. The work of a janitor is managing goods in a company. Naylor is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:119
+Matsuda is a sofware engineer. The work of a model is repairing the warehouse systems or reports. The work of a pilot is preparing and reporting the beach on television. Hemminger is a model. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Herrick is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:120
+The work of a janitor is managing goods in a company. Hamon is an electrician. The work of an accountant is patrolling pipes in court and giving legal advice. Hoppes is a janitor. Cothern is an accountant. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:121
+The work of a politician is making and checking buildings professionally. Gose is a firefighter. Duffield is a politician. The work of a model is repairing the warehouse systems or reports. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Arce is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:122
+The work of a politician is making and checking buildings professionally. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Musselwhite is a janitor. The work of a janitor is managing goods in a company. Selig is a politician. Savell is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:123
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Otoole is a travel agent. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a politician is making and checking buildings professionally. Priebe is a truck driver. Farooq is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:124
+Monsalve is a sofware engineer. Nettleton is a hairdresser. Bushey is a nurse. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a nurse is working for the management. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:125
+The work of a pilot is preparing and reporting the beach on television. Lueck is a politician. The work of a politician is making and checking buildings professionally. The work of a nurse is working for the management. Leyden is a pilot. Licona is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:126
+The work of an accountant is patrolling pipes in court and giving legal advice. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Vanwagner is a sofware engineer. Batz is a firefighter. Spies is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:127
+The work of a model is repairing the warehouse systems or reports. The work of a janitor is managing goods in a company. Ley is a model. The work of a dentist is preparing food for eyes in a restaurant. Szczepanski is a janitor. Dunton is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:128
+Fleet is a model. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a model is repairing the warehouse systems or reports. Coder is an actor. Mccowan is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:129
+The work of a model is repairing the warehouse systems or reports. Steere is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Pasillas is a model. Sliger is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:130
+Bouie is a politician. Pardue is a firefighter. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Strock is a travel agent. The work of a politician is making and checking buildings professionally. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:131
+The work of a pilot is preparing and reporting the beach on television. Pecoraro is a food preparation worker. Stoops is a nurse. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a nurse is working for the management. Hokanson is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:132
+The work of an electrician is keeping organizations in a bakery. Swearingen is a nurse. The work of a hairdresser is patrolling problems professionally. Puleo is a hairdresser. The work of a nurse is working for the management. Ruppert is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:133
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Heaps is a travel agent. Nordman is a pilot. Hofman is a food preparation worker. The work of a pilot is preparing and reporting the beach on television. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:134
+The work of an astronomer is acting in a seat or a location. The work of a politician is making and checking buildings professionally. The work of a bus driver is reading and giving the news on aircraft. Overton is a bus driver. Glasper is an astronomer. Matis is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:135
+Gladden is an astronomer. Treiber is a firefighter. Reeb is a bus driver. The work of an astronomer is acting in a seat or a location. The work of a bus driver is reading and giving the news on aircraft. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:136
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Hickey is a travel agent. Agrawal is a dentist. The work of a model is repairing the warehouse systems or reports. Heady is a model. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:137
+The work of a fisher is making software calendars in language and television. Pereda is an electrician. The work of an electrician is keeping organizations in a bakery. Hetrick is a fisher. The work of a hairdresser is patrolling problems professionally. Migliore is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:138
+Duhon is a hairdresser. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Sanfilippo is a firefighter. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a hairdresser is patrolling problems professionally. Blumenthal is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:139
+The work of an astronomer is acting in a seat or a location. The work of a model is repairing the warehouse systems or reports. Arzola is a model. The work of a dentist is preparing food for eyes in a restaurant. Clouse is an astronomer. Grandy is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:140
+The work of a nurse is working for the management. Dance is a nurse. Dunston is an astronomer. The work of an astronomer is acting in a seat or a location. Bracero is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:141
+The work of a bus driver is reading and giving the news on aircraft. Mcintosh is an actor. Chea is a bus driver. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a hairdresser is patrolling problems professionally. Spinner is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:142
+The work of a politician is making and checking buildings professionally. The work of a hairdresser is patrolling problems professionally. The work of a waiter is writing books or problems professionally. Thrall is a waiter. Adkison is a politician. Daggett is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:143
+The work of a janitor is managing goods in a company. The work of a dentist is preparing food for eyes in a restaurant. Severe is an electrician. Power is a dentist. The work of an electrician is keeping organizations in a bakery. Philips is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:144
+Gruber is an astronomer. The work of a pilot is preparing and reporting the beach on television. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of an astronomer is acting in a seat or a location. Hose is a pilot. Axtell is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:145
+Lineberger is a fisher. Holzman is a sofware engineer. The work of a fisher is making software calendars in language and television. Greenwood is a dentist. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:146
+Fogel is an accountant. The work of a waiter is writing books or problems professionally. Mashburn is a model. Johanson is a waiter. The work of a model is repairing the warehouse systems or reports. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:147
+The work of a model is repairing the warehouse systems or reports. The work of a bus driver is reading and giving the news on aircraft. Mole is a bus driver. Boyer is a model. Mendivil is an optician. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:148
+The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an electrician is keeping organizations in a bakery. Bish is an electrician. Broomfield is a food preparation worker. Padron is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:149
+The work of a politician is making and checking buildings professionally. The work of an accountant is patrolling pipes in court and giving legal advice. Cuccia is a politician. Bobb is an accountant. The work of a pilot is preparing and reporting the beach on television. Keck is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:150
+The work of a bus driver is reading and giving the news on aircraft. Ortuno is a bus driver. Sipe is a janitor. Karr is a dentist. The work of a janitor is managing goods in a company. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:151
+Pauli is an electrician. The work of an astronomer is acting in a seat or a location. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Mcfadden is an astronomer. Lebo is a firefighter. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:152
+Madewell is an actor. The work of a bus driver is reading and giving the news on aircraft. The work of a waiter is writing books or problems professionally. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Chmura is a bus driver. Hunsinger is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:153
+The work of a politician is making and checking buildings professionally. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Bondurant is a politician. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Velazquez is a food preparation worker. Loy is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:154
+The work of a dentist is preparing food for eyes in a restaurant. Crabb is an astronomer. Michaud is a fisher. Letson is a dentist. The work of an astronomer is acting in a seat or a location. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:155
+The work of an electrician is keeping organizations in a bakery. Pingel is a travel agent. Penning is an electrician. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Pape is a hairdresser. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:156
+Chatman is an astronomer. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a pilot is preparing and reporting the beach on television. Bilyeu is an actor. Cuthbert is a pilot. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:157
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. Glade is an astronomer. The work of an astronomer is acting in a seat or a location. Vallejos is a sofware engineer. Daher is a waiter. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:158
+The work of a nurse is working for the management. The work of a bus driver is reading and giving the news on aircraft. The work of an electrician is keeping organizations in a bakery. Greenfield is a nurse. Bartolo is an electrician. Rosier is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:159
+Thrall is a pilot. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Haughey is an actor. Troutt is a janitor. The work of a pilot is preparing and reporting the beach on television. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:160
+The work of a bus driver is reading and giving the news on aircraft. The work of a janitor is managing goods in a company. Chamberlin is a bus driver. Galyon is a janitor. The work of a pilot is preparing and reporting the beach on television. Rutledge is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:161
+The work of an optician is managing a customer's or school's financial records. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Pettiford is an optician. Knudson is an astronomer. Burnett is a travel agent. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:162
+Wellborn is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Huitron is a nurse. The work of a bus driver is reading and giving the news on aircraft. Haynes is a bus driver. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:163
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a nurse is working for the management. The work of a janitor is managing goods in a company. Amundson is a nurse. Diaz is a janitor. Solberg is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:164
+Hug is an electrician. Minnis is a model. Leeman is a dentist. The work of an electrician is keeping organizations in a bakery. The work of a dentist is preparing food for eyes in a restaurant. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:165
+Kovach is a bus driver. The work of a politician is making and checking buildings professionally. Talbert is an accountant. The work of a bus driver is reading and giving the news on aircraft. Huseman is a politician. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:166
+Gledhill is an accountant. The work of a nurse is working for the management. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a hairdresser is patrolling problems professionally. Staker is a nurse. Wilsey is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:167
+Custer is a travel agent. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Huizenga is a sofware engineer. The work of a waiter is writing books or problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Snead is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:168
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a fisher is making software calendars in language and television. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Busby is a sofware engineer. Covert is a fisher. Flock is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:169
+Hagedorn is a politician. The work of a politician is making and checking buildings professionally. The work of a pilot is preparing and reporting the beach on television. The work of a model is repairing the warehouse systems or reports. Luevano is a model. Heredia is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:170
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a janitor is managing goods in a company. The work of an astronomer is acting in a seat or a location. Hufford is a janitor. Daye is an astronomer. Delbosque is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:171
+The work of a hairdresser is patrolling problems professionally. Hollier is a hairdresser. The work of a pilot is preparing and reporting the beach on television. Baehr is a pilot. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Deemer is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:172
+The work of a fisher is making software calendars in language and television. Shand is an optician. Burden is a fisher. Igo is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:173
+The work of a dentist is preparing food for eyes in a restaurant. Wigley is a dentist. Sanches is an astronomer. Gorski is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:174
+The work of a pilot is preparing and reporting the beach on television. Mounts is a pilot. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a model is repairing the warehouse systems or reports. Valtierra is a model. Twomey is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:175
+Audet is a food preparation worker. The work of a pilot is preparing and reporting the beach on television. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Vlahos is a pilot. The work of a politician is making and checking buildings professionally. Jepson is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:176
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Silguero is an actor. Tindle is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Kneeland is an electrician. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:177
+The work of a bus driver is reading and giving the news on aircraft. The work of an electrician is keeping organizations in a bakery. Willman is an electrician. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Swindell is a bus driver. Sweatt is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:178
+Felder is an actor. Minch is a truck driver. Soucie is a nurse. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a nurse is working for the management. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:179
+Huynh is an actor. Essary is a dentist. Melanson is a truck driver. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:180
+The work of an optician is managing a customer's or school's financial records. Olander is a hairdresser. The work of a politician is making and checking buildings professionally. The work of a hairdresser is patrolling problems professionally. Natal is an optician. Burriss is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:181
+The work of a pilot is preparing and reporting the beach on television. The work of a truck driver is looking after sick animals by making veterinary medicine. Mettler is a pilot. Geier is a hairdresser. The work of a hairdresser is patrolling problems professionally. Lechuga is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:182
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a bus driver is reading and giving the news on aircraft. Trawick is a firefighter. Masuda is a politician. The work of a politician is making and checking buildings professionally. Lemaire is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:183
+The work of a dentist is preparing food for eyes in a restaurant. Romans is a dentist. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Gore is a truck driver. Dant is a food preparation worker. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:184
+Altieri is a hairdresser. Fogg is a fisher. The work of a bus driver is reading and giving the news on aircraft. The work of a hairdresser is patrolling problems professionally. Schweigert is a bus driver. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:185
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Sills is a travel agent. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a pilot is preparing and reporting the beach on television. Serino is an actor. Carballo is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:186
+The work of a bus driver is reading and giving the news on aircraft. The work of a waiter is writing books or problems professionally. The work of an optician is managing a customer's or school's financial records. Board is a bus driver. Fava is a waiter. Cost is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:187
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Eubank is a travel agent. Belanger is an actor. The work of a waiter is writing books or problems professionally. Reliford is a waiter. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:188
+Fyfe is a pilot. Matamoros is a fisher. The work of a waiter is writing books or problems professionally. The work of a fisher is making software calendars in language and television. The work of a pilot is preparing and reporting the beach on television. Tavera is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:189
+Palos is a fisher. Denk is a food preparation worker. The work of an optician is managing a customer's or school's financial records. Copas is an optician. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:190
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Espinal is a waiter. Doctor is a firefighter. Wieser is a pilot. The work of a pilot is preparing and reporting the beach on television. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:191
+The work of a janitor is managing goods in a company. Vanscoy is a pilot. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Bonn is a food preparation worker. The work of a pilot is preparing and reporting the beach on television. Clore is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:192
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Dahlman is a sofware engineer. Corsi is a bus driver. The work of a bus driver is reading and giving the news on aircraft. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Upchurch is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:193
+The work of a janitor is managing goods in a company. The work of a truck driver is looking after sick animals by making veterinary medicine. Bohnert is a janitor. Knobloch is a model. The work of a model is repairing the warehouse systems or reports. Kalish is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:194
+Kummer is an actor. The work of a dentist is preparing food for eyes in a restaurant. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a janitor is managing goods in a company. Moseley is a janitor. Heng is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:195
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Renda is an accountant. Haltom is a travel agent. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a model is repairing the warehouse systems or reports. Lyttle is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:196
+The work of a pilot is preparing and reporting the beach on television. Zermeno is a pilot. The work of an astronomer is acting in a seat or a location. Cruikshank is an astronomer. Jetton is a bus driver. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:197
+The work of an astronomer is acting in a seat or a location. Kramp is a politician. The work of a politician is making and checking buildings professionally. The work of a waiter is writing books or problems professionally. Garabedian is an astronomer. Laduke is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:198
+The work of a model is repairing the warehouse systems or reports. Spieker is an accountant. Brabham is a model. The work of an accountant is patrolling pipes in court and giving legal advice. Hoopes is a janitor. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:199
+Faught is a nurse. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a nurse is working for the management. Spada is a food preparation worker. The work of a model is repairing the warehouse systems or reports. Beets is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:200
+The work of a janitor is managing goods in a company. The work of a dentist is preparing food for eyes in a restaurant. The work of an optician is managing a customer's or school's financial records. Hiatt is an optician. Cullison is a janitor. Steinman is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:201
+Arbogast is a pilot. The work of a pilot is preparing and reporting the beach on television. Honda is a fisher. The work of a waiter is writing books or problems professionally. The work of a fisher is making software calendars in language and television. Dengler is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:202
+The work of a hairdresser is patrolling problems professionally. Faucette is a hairdresser. Acharya is a food preparation worker. Catoe is a bus driver. The work of a bus driver is reading and giving the news on aircraft. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:203
+Cost is an actor. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Borland is a travel agent. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Dahlin is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:204
+The work of a nurse is working for the management. Rebollar is a dentist. Juarez is a nurse. The work of a dentist is preparing food for eyes in a restaurant. The work of an optician is managing a customer's or school's financial records. Goodall is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:205
+The work of an accountant is patrolling pipes in court and giving legal advice. Heimann is a fisher. Smead is an accountant. The work of a fisher is making software calendars in language and television. The work of an optician is managing a customer's or school's financial records. Galvez is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:206
+Wanamaker is an accountant. The work of a waiter is writing books or problems professionally. The work of an optician is managing a customer's or school's financial records. The work of an accountant is patrolling pipes in court and giving legal advice. Farina is a waiter. Gomes is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:207
+Tatman is a janitor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Emmons is a hairdresser. The work of a janitor is managing goods in a company. The work of a hairdresser is patrolling problems professionally. Pizarro is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:208
+The work of a pilot is preparing and reporting the beach on television. Cuba is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. Ung is a janitor. Clubb is a pilot. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:209
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a fisher is making software calendars in language and television. Gupta is a food preparation worker. Ye is a nurse. Lauer is a fisher. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:210
+Gillard is a food preparation worker. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Ridgeway is an actor. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Norden is a travel agent.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:211
+Vanhorn is an electrician. The work of an astronomer is acting in a seat or a location. Toscano is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an electrician is keeping organizations in a bakery. Leath is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:212
+The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a dentist is preparing food for eyes in a restaurant. Ospina is a dentist. The work of an astronomer is acting in a seat or a location. Youngs is an astronomer. Mckillip is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:213
+Lis is a waiter. Lineberry is a nurse. Valle is a dentist. The work of a dentist is preparing food for eyes in a restaurant. The work of a nurse is working for the management. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:214
+Quiroga is an electrician. Jarman is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Kleist is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:215
+Wilhite is a travel agent. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Forward is a sofware engineer. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Florio is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:216
+The work of an accountant is patrolling pipes in court and giving legal advice. The work of a waiter is writing books or problems professionally. Jent is a firefighter. Capron is an accountant. Wickstrom is a waiter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:217
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a bus driver is reading and giving the news on aircraft. Petitt is a travel agent. Mattoon is a food preparation worker. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Snodgrass is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:218
+Mullaney is a bus driver. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a janitor is managing goods in a company. The work of a bus driver is reading and giving the news on aircraft. Eyre is an accountant. Crowe is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:219
+Calderon is a dentist. Theisen is an optician. Bowlin is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an optician is managing a customer's or school's financial records. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:220
+The work of a nurse is working for the management. Harward is an optician. The work of an electrician is keeping organizations in a bakery. The work of an optician is managing a customer's or school's financial records. Dancer is a nurse. Lozada is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:221
+Cleaver is a nurse. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Luedtke is a travel agent. The work of a truck driver is looking after sick animals by making veterinary medicine. Winnett is a truck driver. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:222
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Laboy is a travel agent. The work of a fisher is making software calendars in language and television. The work of a waiter is writing books or problems professionally. Zaragoza is a waiter. Delmonte is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:223
+The work of an astronomer is acting in a seat or a location. Bouck is an astronomer. The work of a model is repairing the warehouse systems or reports. The work of a pilot is preparing and reporting the beach on television. Bennion is a pilot. Muniz is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:224
+The work of a bus driver is reading and giving the news on aircraft. Emmons is a bus driver. The work of a nurse is working for the management. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Navarrete is a travel agent. Pursell is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:225
+The work of a nurse is working for the management. Rumph is a nurse. Wertman is a janitor. Barreras is a sofware engineer. The work of a janitor is managing goods in a company. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:226
+The work of a waiter is writing books or problems professionally. The work of a politician is making and checking buildings professionally. Wareham is a politician. Mcevoy is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Krawczyk is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:227
+Held is a dentist. Cureton is a model. The work of a model is repairing the warehouse systems or reports. The work of a dentist is preparing food for eyes in a restaurant. Barraza is a janitor. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:228
+Counts is a waiter. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a waiter is writing books or problems professionally. Utley is a fisher. The work of a fisher is making software calendars in language and television. Henkel is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:229
+The work of an astronomer is acting in a seat or a location. Kottke is a bus driver. The work of a pilot is preparing and reporting the beach on television. Laboy is a pilot. Gandy is an astronomer. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:230
+The work of a politician is making and checking buildings professionally. Rumbaugh is a waiter. The work of a waiter is writing books or problems professionally. The work of a bus driver is reading and giving the news on aircraft. Natal is a politician. Capasso is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:231
+The work of an astronomer is acting in a seat or a location. Baltes is an accountant. Mohn is an astronomer. The work of an accountant is patrolling pipes in court and giving legal advice. Harshman is a dentist. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:232
+The work of a janitor is managing goods in a company. Etheridge is a hairdresser. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Barakat is a firefighter. The work of a hairdresser is patrolling problems professionally. Wycoff is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:233
+Boes is a hairdresser. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Bencomo is a food preparation worker. The work of a nurse is working for the management. The work of a hairdresser is patrolling problems professionally. Fielder is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:234
+Lease is a food preparation worker. Debruin is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Feltz is a bus driver. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:235
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Wagar is an electrician. Raasch is a food preparation worker. Papke is a travel agent. The work of an electrician is keeping organizations in a bakery. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:236
+The work of a hairdresser is patrolling problems professionally. Huisman is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Treadway is a firefighter. Huls is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:237
+The work of a pilot is preparing and reporting the beach on television. The work of a janitor is managing goods in a company. Rembert is a janitor. The work of a bus driver is reading and giving the news on aircraft. Depaul is a bus driver. Seiler is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:238
+The work of an optician is managing a customer's or school's financial records. Tat is a sofware engineer. The work of a pilot is preparing and reporting the beach on television. Pai is a pilot. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Feehan is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:239
+Durante is a sofware engineer. Tieu is a firefighter. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Bolen is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:240
+The work of a janitor is managing goods in a company. Sproles is a janitor. Kettler is a nurse. The work of a model is repairing the warehouse systems or reports. Lamay is a model. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:241
+Kirsch is a travel agent. Masters is an astronomer. Dossett is a waiter. The work of an astronomer is acting in a seat or a location. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:242
+Huffine is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Greenwood is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Vaz is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:243
+Vancamp is a travel agent. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a pilot is preparing and reporting the beach on television. Armitage is a food preparation worker. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Noack is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:244
+The work of a hairdresser is patrolling problems professionally. Blumenthal is a hairdresser. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Uriostegui is an astronomer. Bourne is a sofware engineer. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:245
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a hairdresser is patrolling problems professionally. Ziemer is an actor. Mcroberts is a hairdresser. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Wallick is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:246
+The work of a dentist is preparing food for eyes in a restaurant. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a nurse is working for the management. Bednar is a firefighter. Hooks is a nurse. Steinman is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:247
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Simons is a fisher. Stallman is a firefighter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Fujita is a travel agent. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:248
+The work of a model is repairing the warehouse systems or reports. The work of a waiter is writing books or problems professionally. Waxman is a model. The work of a janitor is managing goods in a company. Bussell is a waiter. Blankenship is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:249
+Wooten is a politician. The work of a dentist is preparing food for eyes in a restaurant. The work of a politician is making and checking buildings professionally. The work of an astronomer is acting in a seat or a location. Spinks is a dentist. Center is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:250
+The work of an accountant is patrolling pipes in court and giving legal advice. Witmer is an accountant. The work of a dentist is preparing food for eyes in a restaurant. The work of a hairdresser is patrolling problems professionally. Turgeon is a dentist. Tardiff is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:251
+Blasingame is an actor. Flannigan is a hairdresser. Beresford is a dentist. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a dentist is preparing food for eyes in a restaurant. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:252
+Imhoff is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a fisher is making software calendars in language and television. The work of a politician is making and checking buildings professionally. Moscato is a fisher. Hollander is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:253
+The work of an electrician is keeping organizations in a bakery. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a nurse is working for the management. Vines is a nurse. Hake is a firefighter. Dickinson is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:254
+Pell is a bus driver. The work of a bus driver is reading and giving the news on aircraft. The work of a nurse is working for the management. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Lefevre is a nurse. Raju is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:255
+Pospisil is a bus driver. The work of a nurse is working for the management. The work of an astronomer is acting in a seat or a location. Rothschild is an astronomer. Wire is a nurse. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:256
+The work of a waiter is writing books or problems professionally. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an optician is managing a customer's or school's financial records. Mcgarity is an optician. Armistead is an accountant. Petrillo is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:257
+Ospina is an accountant. Pulver is an astronomer. The work of a politician is making and checking buildings professionally. The work of an astronomer is acting in a seat or a location. Mattei is a politician. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:258
+Romanowski is a janitor. The work of a fisher is making software calendars in language and television. The work of a janitor is managing goods in a company. Brandl is a fisher. The work of a politician is making and checking buildings professionally. Mcbroom is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:259
+The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a model is repairing the warehouse systems or reports. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Hayslett is a food preparation worker. Lasater is a model. Whetzel is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:260
+Westover is an optician. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an optician is managing a customer's or school's financial records. The work of a fisher is making software calendars in language and television. Vanek is an actor. Knauss is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:261
+Brackett is an optician. Leiva is a bus driver. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a bus driver is reading and giving the news on aircraft. Brickhouse is an actor. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:262
+Lacoste is an astronomer. Mulder is a dentist. The work of an astronomer is acting in a seat or a location. The work of a pilot is preparing and reporting the beach on television. Capasso is a pilot. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:263
+Helms is an actor. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Noack is a janitor. Crump is a sofware engineer. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:264
+Huntoon is a model. The work of a model is repairing the warehouse systems or reports. The work of a truck driver is looking after sick animals by making veterinary medicine. Sesay is a truck driver. Kircher is a fisher. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:265
+The work of a model is repairing the warehouse systems or reports. Edelstein is a model. The work of a pilot is preparing and reporting the beach on television. Hsieh is a pilot. Graber is a fisher. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:266
+Curlee is an accountant. Hidalgo is a model. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a fisher is making software calendars in language and television. The work of a model is repairing the warehouse systems or reports. Odegard is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:267
+Hardman is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Forster is a travel agent. Hinkle is a bus driver. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:268
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Bramlett is a waiter. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Dyer is a firefighter. The work of a waiter is writing books or problems professionally. Trahan is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:269
+Baas is a food preparation worker. Stickles is a fisher. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of an optician is managing a customer's or school's financial records. The work of a fisher is making software calendars in language and television. Woodall is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:270
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of an astronomer is acting in a seat or a location. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Fassett is a firefighter. Tomasello is an astronomer. Pape is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:271
+Vitiello is an optician. The work of an optician is managing a customer's or school's financial records. Schreier is an astronomer. Luce is a nurse. The work of an astronomer is acting in a seat or a location. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:272
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a model is repairing the warehouse systems or reports. Urrea is a sofware engineer. Audet is a model. Horsman is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:273
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Velarde is a firefighter. Schock is a sofware engineer. The work of a model is repairing the warehouse systems or reports. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Eustace is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:274
+Vickers is an accountant. Schell is an actor. The work of an accountant is patrolling pipes in court and giving legal advice. Conlon is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:275
+Schenk is a bus driver. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a janitor is managing goods in a company. Wiedemann is a food preparation worker. The work of a bus driver is reading and giving the news on aircraft. Shunk is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:276
+Edmunds is a nurse. Cappiello is a janitor. The work of a janitor is managing goods in a company. The work of a nurse is working for the management. Clabaugh is an optician. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:277
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a bus driver is reading and giving the news on aircraft. Warr is an actor. Wiese is a travel agent. Buentello is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:278
+Mcclung is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. Entrekin is a sofware engineer. Dahlgren is a food preparation worker. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:279
+The work of a nurse is working for the management. Ruvalcaba is a nurse. The work of a hairdresser is patrolling problems professionally. Rickert is a hairdresser. Deyo is a waiter. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:280
+Bradt is an accountant. Borel is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Craine is an astronomer. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:281
+The work of a fisher is making software calendars in language and television. Bianchini is an optician. The work of a waiter is writing books or problems professionally. Azevedo is a fisher. Abadie is a waiter. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:282
+Dunford is a truck driver. The work of an optician is managing a customer's or school's financial records. The work of a truck driver is looking after sick animals by making veterinary medicine. Gonsalves is an optician. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Gautier is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:283
+The work of an accountant is patrolling pipes in court and giving legal advice. The work of an optician is managing a customer's or school's financial records. Wittmann is a janitor. Zeh is an accountant. Disbrow is an optician. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:284
+Golston is a fisher. Kwong is a truck driver. Alaimo is a politician. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a fisher is making software calendars in language and television. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:285
+The work of a hairdresser is patrolling problems professionally. Swearengin is a nurse. The work of a model is repairing the warehouse systems or reports. Epley is a hairdresser. Quiroga is a model. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:286
+The work of an accountant is patrolling pipes in court and giving legal advice. Stoltenberg is an accountant. The work of a waiter is writing books or problems professionally. The work of a janitor is managing goods in a company. Warrington is a waiter. Abarca is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:287
+Zimmer is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Laughter is a dentist. The work of a bus driver is reading and giving the news on aircraft. The work of a dentist is preparing food for eyes in a restaurant. Didomenico is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:288
+Deuel is a sofware engineer. Loy is a pilot. Mccasland is a dentist. The work of a dentist is preparing food for eyes in a restaurant. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a pilot is preparing and reporting the beach on television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:289
+Baltz is a firefighter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Huisman is a dentist. The work of a hairdresser is patrolling problems professionally. Ciccarelli is a hairdresser. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:290
+The work of a dentist is preparing food for eyes in a restaurant. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Henninger is an accountant. Villar is a dentist. Shorter is a sofware engineer. The work of an accountant is patrolling pipes in court and giving legal advice.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:291
+The work of an astronomer is acting in a seat or a location. Naples is an astronomer. Chism is a nurse. Gunderson is a fisher. The work of a nurse is working for the management. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:292
+The work of an optician is managing a customer's or school's financial records. Deters is an optician. Bocanegra is a travel agent. Prasad is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:293
+Bartley is an optician. The work of a fisher is making software calendars in language and television. Fikes is a fisher. The work of an optician is managing a customer's or school's financial records. Haltom is a model. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:294
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a dentist is preparing food for eyes in a restaurant. Forman is an astronomer. Cermak is a dentist. The work of an astronomer is acting in a seat or a location. Schenk is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:295
+The work of a nurse is working for the management. The work of a truck driver is looking after sick animals by making veterinary medicine. Pyles is a truck driver. Knepp is a nurse. Buhl is a fisher. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:296
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a nurse is working for the management. Morelli is a nurse. Bondurant is a food preparation worker. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Marciniak is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:297
+Halterman is a dentist. Crump is an accountant. The work of a bus driver is reading and giving the news on aircraft. The work of a dentist is preparing food for eyes in a restaurant. The work of an accountant is patrolling pipes in court and giving legal advice. File is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:298
+The work of a truck driver is looking after sick animals by making veterinary medicine. The work of an astronomer is acting in a seat or a location. The work of a fisher is making software calendars in language and television. Bergin is a fisher. Sisco is a truck driver. Rigney is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:299
+Lore is a nurse. Soucie is a waiter. Keesee is a fisher. The work of a waiter is writing books or problems professionally. The work of a nurse is working for the management. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:300
+Doane is a pilot. The work of a model is repairing the warehouse systems or reports. The work of a politician is making and checking buildings professionally. The work of a pilot is preparing and reporting the beach on television. Simmers is a politician. Leos is a model.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:301
+Bogner is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of an electrician is keeping organizations in a bakery. Svoboda is an electrician. Quiros is an astronomer. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:302
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Pleasant is a firefighter. Borja is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Sellman is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:303
+The work of a model is repairing the warehouse systems or reports. The work of an optician is managing a customer's or school's financial records. Raasch is a model. Chiang is an optician. The work of a dentist is preparing food for eyes in a restaurant. Sirmans is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:304
+Eyer is a travel agent. Schwan is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Wegener is a firefighter. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:305
+The work of an optician is managing a customer's or school's financial records. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Straw is a travel agent. Pough is an optician. The work of an accountant is patrolling pipes in court and giving legal advice. Geier is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:306
+The work of an optician is managing a customer's or school's financial records. The work of a model is repairing the warehouse systems or reports. Clardy is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. Mayeux is a model. Voit is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:307
+The work of a hairdresser is patrolling problems professionally. Medlin is a hairdresser. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Stiffler is a dentist. Pita is a travel agent. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:308
+Foos is an electrician. Hoffman is a travel agent. The work of a waiter is writing books or problems professionally. The work of an electrician is keeping organizations in a bakery. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Bilyeu is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:309
+The work of a waiter is writing books or problems professionally. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of an accountant is patrolling pipes in court and giving legal advice. Farquhar is an accountant. Chavarria is a waiter. Sunderland is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:310
+The work of a waiter is writing books or problems professionally. Renwick is a waiter. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Nepomuceno is a bus driver. Prasad is an actor. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:311
+Pardue is a hairdresser. Epley is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a fisher is making software calendars in language and television. Duclos is a fisher. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:312
+The work of an astronomer is acting in a seat or a location. Mooneyham is a model. The work of a model is repairing the warehouse systems or reports. The work of a pilot is preparing and reporting the beach on television. Grajeda is a pilot. Galyon is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:313
+The work of an accountant is patrolling pipes in court and giving legal advice. Galbreath is an accountant. Arvizu is a truck driver. Labonte is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:314
+The work of a fisher is making software calendars in language and television. Lacher is a politician. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a politician is making and checking buildings professionally. Montalto is a fisher. Barco is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:315
+The work of a fisher is making software calendars in language and television. Yorke is a fisher. Engle is an optician. Depaz is a nurse. The work of an optician is managing a customer's or school's financial records. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:316
+Mccreight is a pilot. The work of a pilot is preparing and reporting the beach on television. Etheridge is a firefighter. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Humphreys is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:317
+The work of an optician is managing a customer's or school's financial records. Laforge is a fisher. The work of a fisher is making software calendars in language and television. Strang is an optician. The work of a bus driver is reading and giving the news on aircraft. Entwistle is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:318
+Spinner is a nurse. Lamy is an electrician. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of an electrician is keeping organizations in a bakery. The work of a nurse is working for the management. Schaub is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:319
+The work of a nurse is working for the management. Bellows is an optician. Burkart is a nurse. The work of a hairdresser is patrolling problems professionally. The work of an optician is managing a customer's or school's financial records. Goulette is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:320
+Mccourt is a waiter. Perkinson is a travel agent. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Gerrish is an actor. The work of a waiter is writing books or problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:321
+The work of a nurse is working for the management. The work of a waiter is writing books or problems professionally. Kersting is a nurse. Lucido is a hairdresser. Cerny is a waiter. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:322
+The work of a bus driver is reading and giving the news on aircraft. Patch is a bus driver. Solari is a waiter. The work of a waiter is writing books or problems professionally. Melanson is a fisher. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:323
+Fujii is an astronomer. The work of a bus driver is reading and giving the news on aircraft. Schaper is a bus driver. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of an astronomer is acting in a seat or a location. Edgerton is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:324
+The work of an electrician is keeping organizations in a bakery. Gross is an electrician. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a fisher is making software calendars in language and television. Imhoff is a fisher. Hardwick is an actor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:325
+The work of a waiter is writing books or problems professionally. Lareau is a waiter. The work of an astronomer is acting in a seat or a location. Oloughlin is an astronomer. The work of a hairdresser is patrolling problems professionally. Howser is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:326
+The work of an astronomer is acting in a seat or a location. The work of a fisher is making software calendars in language and television. Acevedo is a nurse. The work of a nurse is working for the management. Southern is a fisher. Medders is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:327
+Gilmour is a travel agent. The work of an electrician is keeping organizations in a bakery. Jarmon is a pilot. The work of a pilot is preparing and reporting the beach on television. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Halterman is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:328
+Profitt is a firefighter. The work of a hairdresser is patrolling problems professionally. Blanks is a hairdresser. Godsey is a janitor. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:329
+Kimbler is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a politician is making and checking buildings professionally. The work of an optician is managing a customer's or school's financial records. Hegwood is an optician. Kleckner is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:330
+The work of an optician is managing a customer's or school's financial records. The work of a truck driver is looking after sick animals by making veterinary medicine. Lisle is a truck driver. The work of a fisher is making software calendars in language and television. Castleman is a fisher. Dehn is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:331
+The work of a dentist is preparing food for eyes in a restaurant. Temples is a politician. The work of a politician is making and checking buildings professionally. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Popovich is a firefighter. Buckwalter is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:332
+The work of a truck driver is looking after sick animals by making veterinary medicine. Stamper is a janitor. The work of a janitor is managing goods in a company. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Pecina is a truck driver. Kesner is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:333
+The work of an astronomer is acting in a seat or a location. Horvat is a truck driver. The work of a janitor is managing goods in a company. Braaten is a janitor. The work of a truck driver is looking after sick animals by making veterinary medicine. Luttrell is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:334
+The work of a bus driver is reading and giving the news on aircraft. Rivero is a firefighter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a janitor is managing goods in a company. Cornett is a bus driver. Shouse is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:335
+The work of a janitor is managing goods in a company. Mahurin is an electrician. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Appiah is a sofware engineer. Southwick is a janitor. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:336
+The work of a pilot is preparing and reporting the beach on television. Coghlan is a pilot. The work of a politician is making and checking buildings professionally. Hilt is a politician. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Wareham is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:337
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. Trosclair is a travel agent. Naples is an electrician. The work of an electrician is keeping organizations in a bakery. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Godbolt is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:338
+Gilmore is a pilot. The work of a pilot is preparing and reporting the beach on television. The work of a waiter is writing books or problems professionally. Levis is a travel agent. Newcomer is a waiter. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:339
+The work of a janitor is managing goods in a company. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Encinas is a janitor. Gillis is an optician. Garmon is a travel agent. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:340
+Desai is an electrician. Ussery is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. Avellaneda is a firefighter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of an electrician is keeping organizations in a bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:341
+The work of a politician is making and checking buildings professionally. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Kirsch is a food preparation worker. Sellman is a sofware engineer. Monroy is a politician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:342
+The work of a model is repairing the warehouse systems or reports. Ternes is a hairdresser. The work of an accountant is patrolling pipes in court and giving legal advice. Hunsberger is an accountant. Osborn is a model. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:343
+The work of a dentist is preparing food for eyes in a restaurant. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Mcgarity is a dentist. Bard is a travel agent. The work of a nurse is working for the management. Cordray is a nurse.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:344
+The work of a hairdresser is patrolling problems professionally. The work of a dentist is preparing food for eyes in a restaurant. Galyon is a dentist. Coder is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Bookout is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:345
+The work of an accountant is patrolling pipes in court and giving legal advice. Fogg is a dentist. The work of an electrician is keeping organizations in a bakery. The work of a dentist is preparing food for eyes in a restaurant. Liddell is an accountant. Ericksen is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:346
+Healy is an astronomer. Millsap is a model. Bramble is a hairdresser. The work of a model is repairing the warehouse systems or reports. The work of a hairdresser is patrolling problems professionally. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:347
+Harrel is a fisher. The work of a janitor is managing goods in a company. Stipe is a janitor. Silverman is a truck driver. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:348
+The work of a politician is making and checking buildings professionally. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a truck driver is looking after sick animals by making veterinary medicine. Cadiz is a truck driver. Atchley is a politician. Chakraborty is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:349
+The work of a dentist is preparing food for eyes in a restaurant. Sing is a politician. The work of a politician is making and checking buildings professionally. The work of a waiter is writing books or problems professionally. Dennett is a dentist. Moles is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:350
+Puckett is a nurse. The work of a nurse is working for the management. The work of a politician is making and checking buildings professionally. Resto is a politician. The work of a hairdresser is patrolling problems professionally. Dicks is a hairdresser.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:351
+Heiman is a pilot. The work of a hairdresser is patrolling problems professionally. The work of a pilot is preparing and reporting the beach on television. Broadwater is a hairdresser. Barratt is a politician. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:352
+The work of an astronomer is acting in a seat or a location. The work of a dentist is preparing food for eyes in a restaurant. Broman is a waiter. The work of a waiter is writing books or problems professionally. Lerma is an astronomer. Luedke is a dentist.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:353
+Bedolla is an astronomer. The work of a model is repairing the warehouse systems or reports. Drews is a model. The work of an astronomer is acting in a seat or a location. Rumble is a nurse. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:354
+Gorby is a model. The work of a model is repairing the warehouse systems or reports. Thoms is a firefighter. The work of a nurse is working for the management. Esser is a nurse. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:355
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Newbury is a waiter. Gourley is a nurse. The work of a waiter is writing books or problems professionally. Askew is a food preparation worker. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:356
+Gamboa is a waiter. The work of an accountant is patrolling pipes in court and giving legal advice. Altamirano is a politician. The work of a waiter is writing books or problems professionally. Quintal is an accountant. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:357
+Lowenstein is a bus driver. The work of an optician is managing a customer's or school's financial records. Current is an optician. The work of a politician is making and checking buildings professionally. Demartini is a politician. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:358
+Guardiola is a fisher. Quiros is an optician. The work of a model is repairing the warehouse systems or reports. Standard is a model. The work of a fisher is making software calendars in language and television. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:359
+The work of a fisher is making software calendars in language and television. The work of a truck driver is looking after sick animals by making veterinary medicine. Sproles is a fisher. Pesek is a janitor. Stengel is a truck driver. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:360
+The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Ratner is an actor. Bergren is a travel agent. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Mccumber is a hairdresser. The work of a hairdresser is patrolling problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:361
+Foye is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of an optician is managing a customer's or school's financial records. Laughter is a sofware engineer. Ferrero is an optician. The work of a sofware engineer is unpacking merchandise when it arrives at the university.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:362
+Vidrio is a waiter. The work of a bus driver is reading and giving the news on aircraft. The work of a waiter is writing books or problems professionally. The work of a model is repairing the warehouse systems or reports. Schweigert is a model. Sawtelle is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:363
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Sugar is a firefighter. Small is a politician. Sealey is an electrician. The work of an electrician is keeping organizations in a bakery. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:364
+The work of a hairdresser is patrolling problems professionally. The work of a nurse is working for the management. Deluca is a nurse. Small is a janitor. Gupta is a hairdresser. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:365
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Brace is a travel agent. Kersting is an accountant. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Madson is a food preparation worker.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:366
+Catron is an optician. Quiroga is a bus driver. Ledford is a truck driver. The work of an optician is managing a customer's or school's financial records. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a bus driver is reading and giving the news on aircraft.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:367
+Childs is a truck driver. The work of a hairdresser is patrolling problems professionally. Michaud is a hairdresser. Diggs is a fisher. The work of a fisher is making software calendars in language and television. The work of a truck driver is looking after sick animals by making veterinary medicine.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:368
+Frechette is a travel agent. The work of a pilot is preparing and reporting the beach on television. Troxell is a pilot. The work of a dentist is preparing food for eyes in a restaurant. Pappas is a dentist. The work of a travel agent is unpacking merchandise when it arrives at the bakery.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:369
+Leveque is a sofware engineer. The work of a sofware engineer is unpacking merchandise when it arrives at the university. Woodham is a nurse. The work of a nurse is working for the management. The work of an optician is managing a customer's or school's financial records. Smart is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:370
+The work of a nurse is working for the management. The work of a politician is making and checking buildings professionally. Knopf is a nurse. Petrillo is a politician. Tiller is a food preparation worker. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:371
+Vecchione is a pilot. The work of a pilot is preparing and reporting the beach on television. Bickers is a truck driver. Dressel is a nurse. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:372
+The work of a sofware engineer is unpacking merchandise when it arrives at the university. Bashaw is a food preparation worker. The work of a bus driver is reading and giving the news on aircraft. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Gothard is a bus driver. Kea is a sofware engineer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:373
+Keel is a sofware engineer. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a sofware engineer is unpacking merchandise when it arrives at the university. The work of an optician is managing a customer's or school's financial records. Fondren is an optician. Wycoff is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:374
+The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Ponte is a politician. Simek is a food preparation worker. The work of an accountant is patrolling pipes in court and giving legal advice. The work of a politician is making and checking buildings professionally. Bierman is an accountant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:375
+Coplin is a food preparation worker. Nunnally is a politician. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a politician is making and checking buildings professionally. Raby is a travel agent. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:376
+The work of a waiter is writing books or problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Hysell is a travel agent. Kopp is a model. The work of a model is repairing the warehouse systems or reports. Yohn is a waiter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:377
+Swick is an electrician. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of an electrician is keeping organizations in a bakery. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Gower is an actor. Quirk is a firefighter.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:378
+Rothrock is a hairdresser. Kinman is a travel agent. The work of a truck driver is looking after sick animals by making veterinary medicine. The work of a hairdresser is patrolling problems professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Kothari is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:379
+Monroy is a model. Neff is a waiter. The work of a model is repairing the warehouse systems or reports. The work of a waiter is writing books or problems professionally. The work of an electrician is keeping organizations in a bakery. Palma is an electrician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:380
+Mcinnis is a travel agent. The work of a janitor is managing goods in a company. The work of a fisher is making software calendars in language and television. Hakes is a janitor. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Caulder is a fisher.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:381
+Mccaffery is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Goldsberry is a model. The work of an astronomer is acting in a seat or a location. The work of a model is repairing the warehouse systems or reports. Gramling is an astronomer.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:382
+Weinstock is an accountant. The work of a hairdresser is patrolling problems professionally. The work of an accountant is patrolling pipes in court and giving legal advice. Clabaugh is a hairdresser. Spurlin is a dentist. The work of a dentist is preparing food for eyes in a restaurant.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:383
+The work of a hairdresser is patrolling problems professionally. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Larosa is an actor. Carte is a hairdresser. Collura is a janitor. The work of a janitor is managing goods in a company.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:384
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Dawkins is a model. Platt is a firefighter. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. Kulp is an actor. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:385
+The work of a dentist is preparing food for eyes in a restaurant. Spiegel is a dentist. The work of a pilot is preparing and reporting the beach on television. The work of a nurse is working for the management. Johns is a nurse. Chavarria is a pilot.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:386
+Fortin is a dentist. Kitt is a nurse. The work of an electrician is keeping organizations in a bakery. The work of a dentist is preparing food for eyes in a restaurant. Wymer is an electrician. The work of a nurse is working for the management.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:387
+Veith is a travel agent. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a travel agent is unpacking merchandise when it arrives at the bakery. The work of a janitor is managing goods in a company. Latimore is a firefighter. Faz is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:388
+Klass is a nurse. The work of a dentist is preparing food for eyes in a restaurant. Matz is an actor. The work of a nurse is working for the management. Amundsen is a dentist. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:389
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a politician is making and checking buildings professionally. The work of a bus driver is reading and giving the news on aircraft. Mealy is a firefighter. Mellott is a politician. Santora is a bus driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:390
+The work of a janitor is managing goods in a company. Herzog is a janitor. The work of a politician is making and checking buildings professionally. Hutchison is an optician. Jetton is a politician. The work of an optician is managing a customer's or school's financial records.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:391
+The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. The work of a politician is making and checking buildings professionally. Fasano is an astronomer. Hymel is a firefighter. Krapf is a politician. The work of an astronomer is acting in a seat or a location.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:392
+Wiedemann is a travel agent. The work of an optician is managing a customer's or school's financial records. The work of a politician is making and checking buildings professionally. The work of a travel agent is unpacking merchandise when it arrives at the bakery. Ocallaghan is a politician. Delmonte is an optician.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:393
+Wheat is a waiter. Overman is a pilot. The work of a fisher is making software calendars in language and television. The work of a pilot is preparing and reporting the beach on television. Fetter is a fisher. The work of a waiter is writing books or problems professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:394
+The work of a travel agent is unpacking merchandise when it arrives at the bakery. Weisberg is an electrician. Gelfand is a politician. The work of an electrician is keeping organizations in a bakery. Mccullar is a travel agent. The work of a politician is making and checking buildings professionally.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:395
+Bocanegra is a dentist. The work of a food preparation worker is controlling the exterior of an aircraft by operating its directional flight controls. Doctor is a food preparation worker. The work of a dentist is preparing food for eyes in a restaurant. Andino is a fisher. The work of a fisher is making software calendars in language and television.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:396
+Rowlett is an actor. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a truck driver is looking after sick animals by making veterinary medicine. Catania is an optician. The work of an optician is managing a customer's or school's financial records. Hines is a truck driver.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:397
+Thoms is a model. The work of an actor is supervising the warehouse and rescue of swimmers at a beach or swimming pool. The work of a hairdresser is patrolling problems professionally. Dugas is a hairdresser. Alvarado is an actor. The work of a model is repairing the warehouse systems or reports.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:398
+The work of a janitor is managing goods in a company. The work of a waiter is writing books or problems professionally. Albury is a firefighter. Leung is a waiter. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Rossignol is a janitor.
+
+kitmus/background-inference-real-wordfict/subtask_3_ents/knowledge-text-only/validation:399
+Burgett is a bus driver. The work of a model is repairing the warehouse systems or reports. Spieker is a model. The work of a bus driver is reading and giving the news on aircraft. The work of a firefighter is controlling the pool of an aircraft by using its directional flight controls. Portwood is a firefighter.
