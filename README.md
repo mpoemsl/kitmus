@@ -8,6 +8,7 @@ The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources
 
 A preprint is available [on ArXiv](https://arxiv.org/abs/2212.08192).
 
+
 ## Setup
 
 Runs on Python 3.8. Required packages can be installed with `pip install -r requirements.txt`.
@@ -19,4 +20,4 @@ Run `python generate.py` to generate the KITMUS dataset with default hyperparame
 
 Run `python evaluate.py <PATH-TO-GOLD-CONLL-FILE> <PATH-TO-PREDICTED-FILE>` to evaluate a prediction. The predicted file can be a `jsonlines` or `tsv` file.
 
-To learn more about any script and its parameters, run python <script>.py -h.
+To learn more about any script and its parameters, run `python <SCRIPT> -h`.
