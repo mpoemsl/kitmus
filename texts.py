@@ -44,8 +44,7 @@ def generate_texts(
         ]
 
         # sample occupations for entities
-        occs, occ_descs = zip(
-            *rng.choice(occupations, size=n_ents, replace=False))
+        occs, occ_descs = zip(*rng.choice(occupations, size=n_ents, replace=False))
         occs = [
             tuple(zip(occ_name.split(" "), ["NN"] * (occ_name.count(" ") + 1))) for occ_name in occs
         ]
@@ -150,11 +149,9 @@ def create_knowledge_sents(
 
             background_sent = eval(
                 background_sent_template.format(
-                    entity_occupation=str(
-                        list(entity["occupation"])).strip("[]"),
+                    entity_occupation=str(list(entity["occupation"])).strip("[]"),
                     a_an=a_an,
-                    occupation_description=str(
-                        occ2desc[entity["occupation"]]).strip("[]"),
+                    occupation_description=str(occ2desc[entity["occupation"]]).strip("[]"),
                     **vocab
                 )
             )
@@ -190,10 +187,7 @@ def create_task_sents(
 ):
     """Create a task text for one example."""
 
-    mentions = entity_mention_template.format(
-        *[entity["mention"] for entity in entities],
-        **vocab
-    )
+    mentions = entity_mention_template.format(*[entity["mention"] for entity in entities], **vocab)
 
     # determine noise sentence
     if add_noise:
@@ -207,8 +201,7 @@ def create_task_sents(
         noise = []
 
     # determine situation description
-    true_entity = max(
-        entities, key=lambda entity: entity["cluster"] == pronoun_cluster)
+    true_entity = max(entities, key=lambda entity: entity["cluster"] == pronoun_cluster)
     situation = occ2desc[true_entity["occupation"]]
 
     # determine be

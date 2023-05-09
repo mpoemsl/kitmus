@@ -63,8 +63,7 @@ RESOURCE_SPLIT_ORDER = [
 
 def main(export_dir: str, resources_dir: str, **params):
     os.makedirs(export_dir, exist_ok=True)
-    assert os.path.isdir(
-        resources_dir), f"resources_dir {resources_dir} not found!"
+    assert os.path.isdir(resources_dir), f"resources_dir {resources_dir} not found!"
 
     splittable_resources, vocab, pronouns = load_resources(resources_dir)
 
@@ -92,8 +91,7 @@ def main(export_dir: str, resources_dir: str, **params):
             os.path.join(resources_dir, "occupations", f"{occ_prefix}.csv")
         ).values
 
-        splittable_templates, entity_mention_templates = load_templates(
-            resources_dir)
+        splittable_templates, entity_mention_templates = load_templates(resources_dir)
 
         splittable_resources.update(
             {
@@ -147,8 +145,7 @@ def make_variant(
         knowledge_splits = []
         task_splits = []
 
-        entity_mention_template = entity_mention_templates.get(
-            f"{n_ents}_ent_mention")
+        entity_mention_template = entity_mention_templates.get(f"{n_ents}_ent_mention")
 
         # randomly sample disjunct resources for each split
         resource_splits = dict()
@@ -157,8 +154,7 @@ def make_variant(
             resource_values = splittable_resources.get(resource_name)
             if len(resource_values) >= 3:
                 rng.shuffle(resource_values)
-                resource_splits[resource_name] = np.array_split(
-                    resource_values, 3, axis=0)
+                resource_splits[resource_name] = np.array_split(resource_values, 3, axis=0)
             else:
                 resource_splits[resource_name] = [resource_values] * 3
 
@@ -194,10 +190,8 @@ def make_variant(
             task_splits.append(task_texts)
 
             # create subdirs
-            os.makedirs(os.path.join(
-                subtask_dir, "knowledge-text-only"), exist_ok=True)
-            os.makedirs(os.path.join(
-                subtask_dir, "task-text-only"), exist_ok=True)
+            os.makedirs(os.path.join(subtask_dir, "knowledge-text-only"), exist_ok=True)
+            os.makedirs(os.path.join(subtask_dir, "task-text-only"), exist_ok=True)
             os.makedirs(os.path.join(subtask_dir, "full-text"), exist_ok=True)
 
         # check for overlap in examples between splits
@@ -206,32 +200,25 @@ def make_variant(
 
         # export all splits
         for split_name, knowledge_split, task_split in tqdm(
-            zip(["train", "validation", "test"],
-                knowledge_splits, task_splits),
+            zip(["train", "validation", "test"], knowledge_splits, task_splits),
             desc=subtask_dir,
             total=3,
         ):
             # export knowledge texts
-            os.makedirs(os.path.join(
-                subtask_dir, "knowledge-text-only", split_name), exist_ok=True)
-            export(knowledge_split, os.path.join(
-                subtask_dir, "knowledge-text-only", split_name))
+            os.makedirs(os.path.join(subtask_dir, "knowledge-text-only", split_name), exist_ok=True)
+            export(knowledge_split, os.path.join(subtask_dir, "knowledge-text-only", split_name))
 
             # export task texts
-            os.makedirs(os.path.join(subtask_dir, "task-text-only",
-                        split_name), exist_ok=True)
-            export(task_split, os.path.join(
-                subtask_dir, "task-text-only", split_name))
+            os.makedirs(os.path.join(subtask_dir, "task-text-only", split_name), exist_ok=True)
+            export(task_split, os.path.join(subtask_dir, "task-text-only", split_name))
 
             # export merged texts
             full_split = [
                 knowledge_text + task_text
                 for knowledge_text, task_text in zip(knowledge_split, task_split)
             ]
-            os.makedirs(os.path.join(subtask_dir, "full-text",
-                        split_name), exist_ok=True)
-            export(full_split, os.path.join(
-                subtask_dir, "full-text", split_name))
+            os.makedirs(os.path.join(subtask_dir, "full-text", split_name), exist_ok=True)
+            export(full_split, os.path.join(subtask_dir, "full-text", split_name))
 
 
 if __name__ == "__main__":

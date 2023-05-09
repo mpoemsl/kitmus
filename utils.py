@@ -12,8 +12,7 @@ def load_resources(resources_dir):
     ].values
     # load locations
     locations = pd.read_csv(os.path.join(resources_dir, "locations.csv"))
-    locations["noise_fp"] = locations["noise_fp"].apply(
-        lambda p: os.path.join(resources_dir, p))
+    locations["noise_fp"] = locations["noise_fp"].apply(lambda p: os.path.join(resources_dir, p))
     locations = locations.values
 
     # load vocab
@@ -50,7 +49,9 @@ def load_templates(resources_dir):
     ) as fh:
         background_sents = np.asarray(fh.read().strip().split("\n\n"))
 
-    with open(os.path.join(templates_dir, "entity_mention_templates.json"), "r", encoding="utf-8") as fh:
+    with open(
+        os.path.join(templates_dir, "entity_mention_templates.json"), "r", encoding="utf-8"
+    ) as fh:
         entity_mention_templates = json.load(fh)
 
     splittable_templates = {
@@ -68,12 +69,9 @@ def check_overlap(splits):
 
     train, validation, test = map(set, splits)
 
-    assert len(train.intersection(validation)
-               ) == 0, "Overlap between train and validation set!"
-    assert len(train.intersection(test)
-               ) == 0, "Overlap between train and test set!"
-    assert len(validation.intersection(test)
-               ) == 0, "Overlap between validation and test set!"
+    assert len(train.intersection(validation)) == 0, "Overlap between train and validation set!"
+    assert len(train.intersection(test)) == 0, "Overlap between train and test set!"
+    assert len(validation.intersection(test)) == 0, "Overlap between validation and test set!"
 
 
 def export(texts, data_path):
@@ -134,13 +132,11 @@ def create_conll_lines(texts, data_path):
                 elif len(token_tup) == 2:
                     (token, pos), cluster = token_tup, "-"
                 else:
-                    raise Exception(
-                        f"Tuple with wrong length found! {token_tup}")
+                    raise Exception(f"Tuple with wrong length found! {token_tup}")
 
                 line = text_id
                 line += (100 - (len(line) + len("0"))) * " " + "0"
-                line += (106 - (len(line) + len(str(token_ix)))) * \
-                    " " + str(token_ix)
+                line += (106 - (len(line) + len(str(token_ix)))) * " " + str(token_ix)
                 line += (124 - (len(line) + len(token))) * " " + token
                 line += (134 - (len(line) + len(pos))) * " " + pos
                 line += "    *    -    -    -    Speaker#1    *    "
@@ -191,12 +187,10 @@ def create_json_lines(texts, data_path):
             sentences.append(sent_tokens)
             speakers.append(sent_speakers)
 
-        clusters = [unrange(clusters[cluster])
-                    for cluster in sorted(clusters.keys())]
+        clusters = [unrange(clusters[cluster]) for cluster in sorted(clusters.keys())]
 
         line = json.dumps(
-            {"doc_key": text_id, "sentences": sentences,
-                "speakers": speakers, "clusters": clusters}
+            {"doc_key": text_id, "sentences": sentences, "speakers": speakers, "clusters": clusters}
         )
 
         lines.append(line)
@@ -245,8 +239,7 @@ def create_gap_df(texts, data_path):
 
         # extract pronoun str and start char
         pronoun_start_token_ix, pronoun_end_token_ix = mentions["pronoun"]
-        pronoun_str = " ".join(
-            tokens[pronoun_start_token_ix: pronoun_end_token_ix + 1])
+        pronoun_str = " ".join(tokens[pronoun_start_token_ix : pronoun_end_token_ix + 1])
         pronoun_start_char = chars[pronoun_start_token_ix]
 
         # sanity check
@@ -255,8 +248,7 @@ def create_gap_df(texts, data_path):
         ), "Pronoun start char is not correct!"
 
         # zip antecedents together with coref truth values
-        antecedents = mentions["incorrect_antecedents"] + \
-            [mentions["correct_antecedent"]]
+        antecedents = mentions["incorrect_antecedents"] + [mentions["correct_antecedent"]]
         corefs = [False] * len(mentions["incorrect_antecedents"]) + [True]
         antecedents_with_corefs = list(zip(antecedents, corefs))
 
@@ -284,14 +276,12 @@ def create_gap_df(texts, data_path):
             a_end_token_ix, b_end_token_ix = b_end_token_ix, a_end_token_ix
 
         # extract str
-        a_str = " ".join(tokens[a_start_token_ix: a_end_token_ix + 1])
-        b_str = " ".join(tokens[b_start_token_ix: b_end_token_ix + 1])
+        a_str = " ".join(tokens[a_start_token_ix : a_end_token_ix + 1])
+        b_str = " ".join(tokens[b_start_token_ix : b_end_token_ix + 1])
 
         # sanity checks
-        assert text_str[a_start_char:].startswith(
-            a_str), "A start char is not correct!"
-        assert text_str[b_start_char:].startswith(
-            b_str), "B start char is not correct!"
+        assert text_str[a_start_char:].startswith(a_str), "A start char is not correct!"
+        assert text_str[b_start_char:].startswith(b_str), "B start char is not correct!"
 
         # convert bools to strs
         a_coref_str = "TRUE" if a_coref else "FALSE"
@@ -379,8 +369,7 @@ def clusters2mentions(clusters):
         cluster for cluster in clusters.values() if not any(cluster["is_pronoun"])
     ]
 
-    assert len(
-        clusters_with_pronouns) == 1, "There is not exactly one cluster involving a pronoun"
+    assert len(clusters_with_pronouns) == 1, "There is not exactly one cluster involving a pronoun"
     assert (
         sum(clusters_with_pronouns[0]["is_pronoun"]) == 1
     ), "There is more than one pronoun token in the cluster"
@@ -393,8 +382,7 @@ def clusters2mentions(clusters):
         len(pronoun_cluster_mentions) == 2
     ), "There are not exactly two mentions in the pronoun cluster"
 
-    correct_antecedent_mention, pronoun_mention = map(
-        tuple, pronoun_cluster_mentions)
+    correct_antecedent_mention, pronoun_mention = map(tuple, pronoun_cluster_mentions)
     incorrect_antecedent_mentions = [
         tuple(mention)
         for cluster in clusters_without_pronouns
