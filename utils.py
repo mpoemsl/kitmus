@@ -414,7 +414,7 @@ def data_path2min_sent_ix(data_path):
     """Determine first sentence index that belongs to task text in list of sentences."""
 
     if "full-text" in data_path:
-        n_entities = int(data_path.split("_")[1])
+        n_entities = int(data_path.split("_ents")[0][-1])
 
         if (
             "background-inference" in data_path
