@@ -19,7 +19,7 @@ parser.add_argument(
 
 parser.add_argument(
     "--resources_dir",
-    help="Resources directory where resources will be searched",
+    help="Resources directory from which resources will be loaded",
     default="resources/",
     type=str,
 )
