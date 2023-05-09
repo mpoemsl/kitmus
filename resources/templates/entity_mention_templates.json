@@ -1,0 +1,5 @@
+{
+	"2_ent_mention": "[{0}, {and}, {1}]",
+	"3_ent_mention": "[{0}, {comma}, {1}, {comma}, {and}, {2}]",
+	"4_ent_mention": "[{0}, {comma}, {1}, {comma}, {2}, {comma}, {and}, {3}]"
+}

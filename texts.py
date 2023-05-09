@@ -9,6 +9,7 @@ def generate_texts(
     vocab,
     pronouns,
     task_text_templates,
+    entity_mention_template,
     background_sent_templates,
     entspec_sent_templates,
     names,
@@ -43,7 +44,8 @@ def generate_texts(
         ]
 
         # sample occupations for entities
-        occs, occ_descs = zip(*rng.choice(occupations, size=n_ents, replace=False))
+        occs, occ_descs = zip(
+            *rng.choice(occupations, size=n_ents, replace=False))
         occs = [
             tuple(zip(occ_name.split(" "), ["NN"] * (occ_name.count(" ") + 1))) for occ_name in occs
         ]
@@ -88,6 +90,7 @@ def generate_texts(
         task_sents = create_task_sents(
             rng,
             task_text_template,
+            entity_mention_template,
             vocab,
             entities,
             location,
@@ -147,9 +150,11 @@ def create_knowledge_sents(
 
             background_sent = eval(
                 background_sent_template.format(
-                    entity_occupation=str(list(entity["occupation"])).strip("[]"),
+                    entity_occupation=str(
+                        list(entity["occupation"])).strip("[]"),
                     a_an=a_an,
-                    occupation_description=str(occ2desc[entity["occupation"]]).strip("[]"),
+                    occupation_description=str(
+                        occ2desc[entity["occupation"]]).strip("[]"),
                     **vocab
                 )
             )
@@ -170,7 +175,8 @@ def create_knowledge_sents(
 
 def create_task_sents(
     rng,
-    template,
+    task_text_template,
+    entity_mention_template,
     vocab,
     entities,
     location,
@@ -184,34 +190,10 @@ def create_task_sents(
 ):
     """Create a task text for one example."""
 
-    # determine mentions
-    if len(entities) == 2:
-        a, b = entities
-        mentions = [a["mention"], eval(vocab["and"]), b["mention"]]
-
-    elif len(entities) == 3:
-        a, b, c = entities
-        mentions = [
-            a["mention"],
-            eval(vocab["comma"]),
-            b["mention"],
-            eval(vocab["comma"]),
-            eval(vocab["and"]),
-            c["mention"],
-        ]
-
-    elif len(entities) == 4:
-        a, b, c, d = entities
-        mentions = [
-            a["mention"],
-            eval(vocab["comma"]),
-            b["mention"],
-            eval(vocab["comma"]),
-            c["mention"],
-            eval(vocab["comma"]),
-            eval(vocab["and"]),
-            d["mention"],
-        ]
+    mentions = entity_mention_template.format(
+        *[entity["mention"] for entity in entities],
+        **vocab
+    )
 
     # determine noise sentence
     if add_noise:
@@ -225,7 +207,8 @@ def create_task_sents(
         noise = []
 
     # determine situation description
-    true_entity = max(entities, key=lambda entity: entity["cluster"] == pronoun_cluster)
+    true_entity = max(
+        entities, key=lambda entity: entity["cluster"] == pronoun_cluster)
     situation = occ2desc[true_entity["occupation"]]
 
     # determine be
@@ -247,7 +230,7 @@ def create_task_sents(
                 **vocab
             )
         )
-        for sent_template in template
+        for sent_template in task_text_template
     ]
 
     # filter empty noise
