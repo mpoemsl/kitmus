@@ -1,0 +1,1 @@
+[{capital_the}, {work}, {of}, {a_an}, {entity_occupation}, {is}, {occupation_description}, {period}]

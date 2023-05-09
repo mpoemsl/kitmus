@@ -1,2 +1,0 @@
-f"""{mentions} + [('met', 'VBD')] + [('at', 'IN')] + {location} + [('.', '.')]
-"""

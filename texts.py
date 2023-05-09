@@ -1,19 +1,20 @@
 from tqdm import tqdm
 
-# pronouns with associated probabilities
-PRONOUNS = {
-    "a": ("she", "he", "they", "ze", "ey"),
-    "p": (0.4, 0.4, 0.1, 0.05, 0.05),
-}
-
-# template phrases with pos tags
-AN = ("an", "DT")
-IS_A = [("is", "VBZ"), ("a", "DT")]
-THE_WORK_OF_A = [("The", "DT"), ("work", "NN"), ("of", "IN"), ("a", "DT")]
-
 
 def generate_texts(
-    rng, n_examples, n_ents, dir_name, templates, names, occupations, locations, **params
+    rng,
+    n_examples,
+    n_ents,
+    subtask_dir,
+    vocab,
+    pronouns,
+    task_text_templates,
+    background_sent_templates,
+    entspec_sent_templates,
+    names,
+    occupations,
+    locations,
+    **params
 ):
     """Create examples with randomized templates."""
 
@@ -21,12 +22,14 @@ def generate_texts(
     task_texts = []
 
     # create examples
-    for ix in tqdm(range(n_examples), desc=dir_name):
+    for ix in tqdm(range(n_examples), desc=subtask_dir):
         # sample common pronoun for all entities in this example
-        pronoun = rng.choice(**PRONOUNS)
+        pronoun, pronoun_be = rng.choice(
+            a=[pronoun[1:] for pronoun in pronouns], p=[pronoun[0] for pronoun in pronouns]
+        )
 
         # sample task text template
-        template = rng.choice(templates)
+        task_text_template = rng.choice(task_text_templates)
 
         # sample entity cluster
         ent_clusters = list(range(1, n_ents + 1))
@@ -35,7 +38,7 @@ def generate_texts(
         # sample names for entities
         orig_names = rng.choice(names, size=n_ents, replace=False).tolist()
         ent_ments = [
-            [(name, "NNP", "(" + str(cluster) + ")")]
+            (name, "NNP", "(" + str(cluster) + ")")
             for name, cluster in zip(orig_names, ent_clusters)
         ]
 
@@ -56,7 +59,25 @@ def generate_texts(
 
         # create knowledge text
         rng.shuffle(entities)
-        knowledge_sents = create_knowledge_sents(rng, entities, occ2desc, **params)
+        if len(background_sent_templates) > 1:
+            background_sent_template = rng.choice(background_sent_templates)
+        else:
+            background_sent_template = background_sent_templates[0]
+
+        if len(entspec_sent_templates) > 1:
+            entspec_sent_template = rng.choice(entspec_sent_templates)
+        else:
+            entspec_sent_template = entspec_sent_templates[0]
+
+        knowledge_sents = create_knowledge_sents(
+            rng,
+            entities,
+            occ2desc,
+            background_sent_template,
+            entspec_sent_template,
+            vocab,
+            **params
+        )
 
         # sample location for entities to meet
         location_str, noise_fp = rng.choice(locations)
@@ -64,12 +85,14 @@ def generate_texts(
 
         # create task text
         rng.shuffle(entities)
-        task_sents, ms_temp, ts_temp = create_task_sents(
+        task_sents = create_task_sents(
             rng,
-            template,
+            task_text_template,
+            vocab,
             entities,
             location,
             pronoun,
+            pronoun_be,
             pronoun_cluster,
             occ2desc,
             noise_fp,
@@ -83,40 +106,56 @@ def generate_texts(
     return knowledge_texts, task_texts
 
 
-def create_knowledge_sents(rng, entities, occ2desc, add_background=False, **kwargs):
+def create_knowledge_sents(
+    rng,
+    entities,
+    occ2desc,
+    background_sent_template,
+    entspec_sent_template,
+    vocab,
+    add_background=False,
+    **kwargs
+):
     """Create a knowledge text for one example."""
 
-    # create is-a fact sents linking entities to their occupations
+    # create entitiy-specific knowledge sents linking entities to their occupations
     knowledge_sents = []
 
     for entity in entities:
-        knowledge_sent = entity["mention"] + IS_A
-
-        # check for a/an
         if entity["occupation"][0][0][0] in {"a", "e", "i", "o", "u"}:
-            knowledge_sent[-1] = AN
+            a_an = vocab["an"]
+        else:
+            a_an = vocab["a"]
 
-        knowledge_sent += list(entity["occupation"]) + [(".", ".")]
-        knowledge_sents.append(knowledge_sent)
+        entspec_sent = eval(
+            entspec_sent_template.format(
+                entity_mention=entity["mention"],
+                entity_occupation=str(list(entity["occupation"])).strip("[]"),
+                a_an=a_an,
+                **vocab
+            )
+        )
+        knowledge_sents.append(entspec_sent)
 
-    # add background knowledge
+    # create background knwoedge sents linking occupations to situations
     if add_background:
         for entity in entities:
-            knowledge_sent = list(THE_WORK_OF_A)
-
-            # check for a/an
             if entity["occupation"][0][0][0] in {"a", "e", "i", "o", "u"}:
-                knowledge_sent[-1] = AN
+                a_an = vocab["an"]
+            else:
+                a_an = vocab["a"]
 
-            knowledge_sent += (
-                list(entity["occupation"])
-                + [("is", "VBZ")]
-                + occ2desc[entity["occupation"]]
-                + [(".", ".")]
+            background_sent = eval(
+                background_sent_template.format(
+                    entity_occupation=str(list(entity["occupation"])).strip("[]"),
+                    a_an=a_an,
+                    occupation_description=str(occ2desc[entity["occupation"]]).strip("[]"),
+                    **vocab
+                )
             )
-            knowledge_sents.append(knowledge_sent)
+            knowledge_sents.append(background_sent)
 
-    # capitalize first word of each sent
+    # capitalize first word of each sentence
     for sent in knowledge_sents:
         sent[0] = tuple([sent[0][0].capitalize()] + list(sent[0][1:]))
 
@@ -132,9 +171,11 @@ def create_knowledge_sents(rng, entities, occ2desc, add_background=False, **kwar
 def create_task_sents(
     rng,
     template,
+    vocab,
     entities,
     location,
     pronoun,
+    pronoun_be,
     pronoun_cluster,
     occ2desc,
     noise_fp,
@@ -146,25 +187,31 @@ def create_task_sents(
     # determine mentions
     if len(entities) == 2:
         a, b = entities
-        mentions = a["mention"] + [("and", "CC")] + b["mention"]
+        mentions = [a["mention"], eval(vocab["and"]), b["mention"]]
 
     elif len(entities) == 3:
         a, b, c = entities
-        mentions = (
-            a["mention"] + [(",", ",")] + b["mention"] + [(",", ","), ("and", "CC")] + c["mention"]
-        )
+        mentions = [
+            a["mention"],
+            eval(vocab["comma"]),
+            b["mention"],
+            eval(vocab["comma"]),
+            eval(vocab["and"]),
+            c["mention"],
+        ]
 
     elif len(entities) == 4:
         a, b, c, d = entities
-        mentions = (
-            a["mention"]
-            + [(",", ",")]
-            + b["mention"]
-            + [(",", ",")]
-            + c["mention"]
-            + [(",", ","), ("and", "CC")]
-            + d["mention"]
-        )
+        mentions = [
+            a["mention"],
+            eval(vocab["comma"]),
+            b["mention"],
+            eval(vocab["comma"]),
+            c["mention"],
+            eval(vocab["comma"]),
+            eval(vocab["and"]),
+            d["mention"],
+        ]
 
     # determine noise sentence
     if add_noise:
@@ -174,7 +221,6 @@ def create_task_sents(
 
         # insert a random noise sent in betweeen
         noise = eval(rng.choice(noise_lines))
-
     else:
         noise = []
 
@@ -183,15 +229,28 @@ def create_task_sents(
     situation = occ2desc[true_entity["occupation"]]
 
     # determine be
-    be = ("were", "VBD") if pronoun == "they" else ("was", "VBD")
+    be_with_pos = (pronoun_be, "VBD")
 
-    # determine pronoun
-    pronoun = (pronoun, "PRP", "(" + str(pronoun_cluster) + ")")
+    # determine pronoun mention
+    pronoun_mention = (pronoun, "PRP", "(" + str(pronoun_cluster) + ")")
 
     # fill template
-    task_sents = map(eval, map(eval, template))
+    task_sents = [
+        eval(
+            sent_template.format(
+                mentions=str(mentions).strip("[]"),
+                pronoun=pronoun_mention,
+                be=be_with_pos,
+                noise=noise,
+                location=str(location).strip("[]"),
+                situation=str(situation).strip("[]"),
+                **vocab
+            )
+        )
+        for sent_template in template
+    ]
 
-    # filter empty sents
+    # filter empty noise
     task_sents = list(filter(len, task_sents))
 
     # capitalize first word of each sent
@@ -201,4 +260,4 @@ def create_task_sents(
     # convert to tuples
     task_sents = tuple(map(tuple, task_sents))
 
-    return task_sents, template[0], template[2]
+    return task_sents

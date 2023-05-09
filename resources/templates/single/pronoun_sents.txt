@@ -1,3 +1,0 @@
-f"""[('After', 'IN'), ('a', 'DT'), ('long', 'JJ'), ('day', 'NN'), ('at', 'IN'), ('work', 'NN')] + {situation} + [(',', ',')] + \
-[{pronoun}, {be}] + [('happy', 'JJ'), ('to', 'TO'), ('relax', 'VB'), ('.', '.')]
-"""

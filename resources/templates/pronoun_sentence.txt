@@ -1,0 +1,22 @@
+[{capital_after}, {a}, {long}, {day}, {at}, {work}, {situation}, {comma}, {pronoun}, {be}, {happy}, {to_to}, {relax}, {period}]
+
+
+[{pronoun}, {told}, {anecdotes}, {from}, {a}, {career}, {of}, {situation}, {period}]
+
+
+[{pronoun}, {reflected}, {on}, {whether}, {situation}, {for}, {a}, {living}, {was}, {a}, {good}, {career}, {choice}, {period}]
+
+
+[{capital_when}, {a}, {question}, {related}, {to_in}, {situation}, {arose}, {comma}, {pronoun}, {offered}, {a}, {professional}, {opinion}, {period}]
+
+
+[{pronoun}, {be}, {relieved}, {to_to}, {unwind}, {after}, {a}, {demanding}, {day}, {at}, {work}, {situation}, {period}]
+
+
+[{pronoun}, {be}, {relieved}, {to_to}, {unwind}, {after}, {a}, {long}, {day}, {at}, {work}, {situation}, {period}]
+
+
+[{pronoun}, {shared}, {experiences}, {from}, {a}, {career}, {of}, {situation}, {period}]
+
+
+[{pronoun}, {pondered}, {whether}, {choosing}, {situation}, {as}, {a}, {career}, {was}, {a}, {wise}, {decision}, {period}]

@@ -1,0 +1,40 @@
+[{capital_at}, {location}, {comma}, {mentions}, {met}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {ran}, {into}, {each}, {other}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {started}, {a}, {conversation}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {came}, {across}, {each}, {other}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {encountered}, {each}, {other}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {bumped}, {into}, {each}, {other}, {period}]
+
+
+[{capital_at}, {location}, {comma}, {mentions}, {connected}, {period}]
+
+
+[{mentions}, {met}, {at}, {location}, {period}]
+
+
+[{mentions}, {ran}, {into}, {each}, {other}, {at}, {location}, {period}]
+
+
+[{mentions}, {started}, {a}, {conversation}, {at}, {location}, {period}]
+
+
+[{mentions}, {came}, {across}, {each}, {other}, {at}, {location}, {period}]
+
+
+[{mentions}, {encountered}, {each}, {other}, {at}, {location}, {period}]
+
+
+[{mentions}, {bumped}, {into}, {each}, {other}, {at}, {location}, {period}]
+
+
+[{mentions}, {connected}, {at}, {location}, {period}]

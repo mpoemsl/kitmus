@@ -1,6 +1,56 @@
 import json
+import os
 
+import numpy as np
 import pandas as pd
+
+
+def load_resources(resources_dir):
+    # load names
+    names = pd.read_csv(os.path.join(resources_dir, "names.csv"), usecols=["lastname"])[
+        "lastname"
+    ].values
+    # load locations
+    locations = pd.read_csv(os.path.join(resources_dir, "locations.csv"))
+    locations["noise_fp"] = locations["noise_fp"].apply(lambda p: os.path.join(resources_dir, p))
+    locations = locations.values
+
+    # load templates
+    templates_dir = os.path.join(resources_dir, "templates")
+    with open(os.path.join(templates_dir, "meet_sentence.txt"), "r", encoding="utf-8") as fh:
+        meet_sents = np.asarray(fh.read().strip().split("\n\n"))
+
+    with open(os.path.join(templates_dir, "pronoun_sentence.txt"), "r", encoding="utf-8") as fh:
+        pronoun_sents = np.asarray(fh.read().strip().split("\n\n"))
+
+    with open(
+        os.path.join(templates_dir, "entspec_knowledge_sentence.txt"), "r", encoding="utf-8"
+    ) as fh:
+        entspec_sents = np.asarray(fh.read().strip().split("\n\n"))
+
+    with open(
+        os.path.join(templates_dir, "background_knowledge_sentence.txt"), "r", encoding="utf-8"
+    ) as fh:
+        background_sents = np.asarray(fh.read().strip().split("\n\n"))
+
+    # load vocab
+    with open(os.path.join(resources_dir, "vocab.json"), "r", encoding="utf-8") as fh:
+        vocab = {k: str(tuple(v)) for k, v in json.load(fh).items()}
+
+    # load pronouns
+    with open(os.path.join(resources_dir, "pronouns.json"), "r", encoding="utf-8") as fh:
+        pronouns = [pronoun for pronoun in json.load(fh)["pronouns"]]
+
+    splittable_resources = {
+        "locations": locations,
+        "names": names,
+        "background_sents": background_sents,
+        "entspec_sents": entspec_sents,
+        "meet_sents": meet_sents,
+        "pronoun_sents": pronoun_sents,
+    }
+
+    return splittable_resources, vocab, pronouns
 
 
 def check_overlap(splits):

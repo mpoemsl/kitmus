@@ -3,41 +3,24 @@ import os
 
 import numpy as np
 import pandas as pd
-from texts import generate_texts
 from tqdm import tqdm
-from utils import check_overlap, export
+
+from texts import generate_texts
+from utils import check_overlap, export, load_resources
 
 parser = argparse.ArgumentParser()
 
 parser.add_argument(
-    "--base_dir",
+    "--export_dir",
     help="Base directory where all variants will be stored",
     default="kitmus/",
     type=str,
 )
 
 parser.add_argument(
-    "--names_fp",
-    help="Path to file containing name resources",
-    default="resources/names.csv",
-    type=str,
-)
-parser.add_argument(
-    "--locs_fp",
-    help="Path to file containing location resources",
-    default="resources/locations.csv",
-    type=str,
-)
-parser.add_argument(
-    "--occs_dir",
-    help="Path to dir containing occupation resources",
-    default="resources/occupations/",
-    type=str,
-)
-parser.add_argument(
-    "--templates_dir",
-    help="Path to dir containing templates",
-    default="resources/templates/multi/",
+    "--resources_dir",
+    help="Resources directory where resources will be searched",
+    default="resources/",
     type=str,
 )
 
@@ -59,20 +42,30 @@ parser.add_argument(
 VARIANTS = [
     "background-train",
     "background-train-no-noise",
-    "background-both",
-    "background-inference-real-charfict",
-    "background-inference-real-wordfict",
-    "background-inference-charfict-real",
-    "background-inference-charfict-charfict",
-    "background-inference-charfict-wordfict",
+    # "background-both",
+    # "background-inference-real-charfict",
+    # "background-inference-real-wordfict",
+    # "background-inference-charfict-real",
+    # "background-inference-charfict-charfict",
+    # "background-inference-charfict-wordfict",
+]
+
+RESOURCE_SPLIT_ORDER = [
+    "locations",
+    "names",
+    "occupations",
+    "meet_sents",
+    "pronoun_sents",
+    "background_sents",
+    "entspec_sents",
 ]
 
 
-def main(base_dir="", occs_dir="", names_fp="", locs_fp="", **params):
-    os.makedirs(base_dir, exist_ok=True)
+def main(export_dir: str, resources_dir: str, **params):
+    os.makedirs(export_dir, exist_ok=True)
+    assert os.path.isdir(resources_dir), f"resources_dir {resources_dir} not found!"
 
-    names = pd.read_csv(names_fp, usecols=["lastname"])["lastname"].values
-    locs = pd.read_csv(locs_fp).values
+    splittable_resources, vocab, pronouns = load_resources(resources_dir)
 
     for variant_name in VARIANTS:
         if "no-noise" in variant_name:
@@ -94,41 +87,36 @@ def main(base_dir="", occs_dir="", names_fp="", locs_fp="", **params):
         else:
             occ_prefix = "_".join(variant_name.split("-")[-2:])
 
+        splittable_resources["occupations"] = pd.read_csv(
+            os.path.join(resources_dir, "occupations", f"{occ_prefix}.csv")
+        ).values
+
+        variant_export_dir = os.path.join(export_dir, variant_name)
+
         make_variant(
-            base_dir + variant_name + "/",
-            names,
-            locs,
-            occs_dir + occ_prefix + ".csv",
+            variant_export_dir,
+            splittable_resources,
+            vocab,
+            pronouns,
             add_noise=add_noise,
             add_background=add_background,
-            **params
+            **params,
         )
 
 
 def make_variant(
-    data_dir,
-    names,
-    locs,
-    occs_fp,
+    export_dir,
+    splittable_resources,
+    vocab,
+    pronouns,
     n_examples_train=2000,
     n_examples_dev=400,
     n_examples_test=2000,
     random_seed=42,
-    templates_dir="",
-    **params
+    **params,
 ):
-    # load occupations
-    occupations = pd.read_csv(occs_fp).values
-
-    # load templates
-    with open(templates_dir + "meet_sents.txt", "r", encoding="utf-8") as fh:
-        meet_sents = np.asarray(fh.read().strip().split("\n\n"))
-
-    with open(templates_dir + "pronoun_sents.txt", "r", encoding="utf-8") as fh:
-        pronoun_sents = np.asarray(fh.read().strip().split("\n\n"))
-
     # create data dir
-    os.makedirs(data_dir, exist_ok=True)
+    os.makedirs(export_dir, exist_ok=True)
 
     # gather split examples numbers
     n_examples_splits = (n_examples_train, n_examples_dev, n_examples_test)
@@ -139,51 +127,31 @@ def make_variant(
     # for all subtasks
     for n_ents in [2, 3, 4]:
         # create subtask dir
-        subtask_dir = data_dir + "subtask_" + str(n_ents) + "_ents/"
+        subtask_dir = os.path.join(export_dir, f"subtask_{n_ents}_ents")
         os.makedirs(subtask_dir, exist_ok=True)
 
         # create empty lists
         knowledge_splits = []
         task_splits = []
-        meet_sent_templates = []
-        pronoun_sent_templates = []
 
         # randomly sample disjunct resources for each split
-        rng.shuffle(locs)
-        rng.shuffle(names)
-        rng.shuffle(occupations)
-        rng.shuffle(meet_sents)
-        rng.shuffle(pronoun_sents)
+        resource_splits = dict()
 
-        loc_splits = np.array_split(locs, 3, axis=0)
-        name_splits = np.array_split(names, 3, axis=0)
-        occ_splits = np.array_split(occupations, 3, axis=0)
-
-        meet_splits = (
-            np.array_split(meet_sents, 3, axis=0) if meet_sents.size >= 3 else [meet_sents] * 3
-        )
-        pronoun_splits = (
-            np.array_split(pronoun_sents, 3, axis=0)
-            if pronoun_sents.size >= 3
-            else [pronoun_sents] * 3
-        )
+        for resource_name in RESOURCE_SPLIT_ORDER:
+            resource_values = splittable_resources.get(resource_name)
+            if len(resource_values) >= 3:
+                rng.shuffle(resource_values)
+                resource_splits[resource_name] = np.array_split(resource_values, 3, axis=0)
+            else:
+                resource_splits[resource_name] = [resource_values] * 3
 
         # generate examples for each split
-        for (
-            n_examples,
-            split_names,
-            split_locs,
-            split_occs,
-            split_meet_sents,
-            split_pronoun_sents,
-        ) in zip(
-            n_examples_splits, name_splits, loc_splits, occ_splits, meet_splits, pronoun_splits
-        ):
-            # generate all template combinations
-            split_templates = [
-                (meet_sent, 'f"{noise}"', pronoun_sent)
-                for meet_sent in split_meet_sents
-                for pronoun_sent in split_pronoun_sents
+        for split_ix, n_examples in enumerate(n_examples_splits):
+            # generate all task text template combinations
+            task_text_templates = [
+                (meet_sent, "{noise}", pronoun_sent)
+                for meet_sent in resource_splits["meet_sents"][split_ix]
+                for pronoun_sent in resource_splits["pronoun_sents"][split_ix]
             ]
 
             # generate texts
@@ -192,11 +160,15 @@ def make_variant(
                 n_examples,
                 n_ents,
                 subtask_dir,
-                split_templates,
-                split_names,
-                split_occs,
-                split_locs,
-                **params
+                vocab,
+                pronouns,
+                task_text_templates,
+                resource_splits["background_sents"][split_ix],
+                resource_splits["entspec_sents"][split_ix],
+                resource_splits["names"][split_ix],
+                resource_splits["occupations"][split_ix],
+                resource_splits["locations"][split_ix],
+                **params,
             )
 
             # append texts
@@ -204,9 +176,9 @@ def make_variant(
             task_splits.append(task_texts)
 
             # create subdirs
-            os.makedirs(subtask_dir + "knowledge-text-only/", exist_ok=True)
-            os.makedirs(subtask_dir + "task-text-only/", exist_ok=True)
-            os.makedirs(subtask_dir + "full-text/", exist_ok=True)
+            os.makedirs(os.path.join(subtask_dir, "knowledge-text-only"), exist_ok=True)
+            os.makedirs(os.path.join(subtask_dir, "task-text-only"), exist_ok=True)
+            os.makedirs(os.path.join(subtask_dir, "full-text"), exist_ok=True)
 
         # check for overlap in examples between splits
         check_overlap(knowledge_splits)
@@ -219,17 +191,20 @@ def make_variant(
             total=3,
         ):
             # export knowledge texts
-            export(knowledge_split, subtask_dir + "knowledge-text-only/" + split_name)
+            os.makedirs(os.path.join(subtask_dir, "knowledge-text-only", split_name), exist_ok=True)
+            export(knowledge_split, os.path.join(subtask_dir, "knowledge-text-only", split_name))
 
             # export task texts
-            export(task_split, subtask_dir + "task-text-only/" + split_name)
+            os.makedirs(os.path.join(subtask_dir, "task-text-only", split_name), exist_ok=True)
+            export(task_split, os.path.join(subtask_dir, "task-text-only", split_name))
 
             # export merged texts
             full_split = [
                 knowledge_text + task_text
                 for knowledge_text, task_text in zip(knowledge_split, task_split)
             ]
-            export(full_split, subtask_dir + "full-text/" + split_name)
+            os.makedirs(os.path.join(subtask_dir, "full-text", split_name), exist_ok=True)
+            export(full_split, os.path.join(subtask_dir, "full-text", split_name))
 
 
 if __name__ == "__main__":

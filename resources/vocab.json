@@ -1,0 +1,242 @@
+{
+    "a": [
+        "a",
+        "DT"
+    ],
+    "across": [
+        "across",
+        "IN"
+    ],
+    "after": [
+        "after",
+        "IN"
+    ],
+    "an": [
+        "an",
+        "DT"
+    ],
+    "and": [
+        "and",
+        "CC"
+    ],
+    "anecdotes": [
+        "anecdotes",
+        "NNS"
+    ],
+    "as": [
+        "as",
+        "IN"
+    ],
+    "arose": [
+        "arose",
+        "VBD"
+    ],
+    "at": [
+        "at",
+        "IN"
+    ],
+    "bumped": [
+        "bumped",
+        "VBD"
+    ],
+    "came": [
+        "came",
+        "VBD"
+    ],
+    "capital_after": [
+        "After",
+        "IN"
+    ],
+    "capital_at": [
+        "At",
+        "IN"
+    ],
+    "capital_the": [
+        "The",
+        "DT"
+    ],
+    "capital_when": [
+        "When",
+        "WRB"
+    ],
+    "career": [
+        "career",
+        "NN"
+    ],
+    "choice": [
+        "choice",
+        "NN"
+    ],
+    "choosing": [
+        "choosing",
+        "VBG"
+    ],
+    "comma": [
+        ",",
+        ","
+    ],
+    "connected": [
+        "connected",
+        "VBD"
+    ],
+    "conversation": [
+        "conversation",
+        "NN"
+    ],
+    "day": [
+        "day",
+        "NN"
+    ],
+    "decision": [
+        "decision",
+        "NN"
+    ],
+    "demanding": [
+        "demanding",
+        "JJ"
+    ],
+    "each": [
+        "each",
+        "DT"
+    ],
+    "encountered": [
+        "encountered",
+        "VBD"
+    ],
+    "experiences": [
+        "experiences",
+        "NNS"
+    ],
+    "for": [
+        "for",
+        "IN"
+    ],
+    "from": [
+        "from",
+        "IN"
+    ],
+    "good": [
+        "good",
+        "JJ"
+    ],
+    "happy": [
+        "happy",
+        "JJ"
+    ],
+    "into": [
+        "into",
+        "IN"
+    ],
+    "is": [
+        "is",
+        "VBZ"
+    ],
+    "living": [
+        "living",
+        "NN"
+    ],
+    "long": [
+        "long",
+        "JJ"
+    ],
+    "met": [
+        "met",
+        "VBD"
+    ],
+    "of": [
+        "of",
+        "IN"
+    ],
+    "offered": [
+        "offered",
+        "VBD"
+    ],
+    "on": [
+        "on",
+        "IN"
+    ],
+    "opinion": [
+        "opinion",
+        "NN"
+    ],
+    "other": [
+        "other",
+        "JJ"
+    ],
+    "period": [
+        ".",
+        "."
+    ],
+    "pondered": [
+        "pondered",
+        "VBD"
+    ],
+    "professional": [
+        "professional",
+        "JJ"
+    ],
+    "question": [
+        "question",
+        "NN"
+    ],
+    "ran": [
+        "ran",
+        "VBD"
+    ],
+    "reflected": [
+        "reflected",
+        "VBD"
+    ],
+    "related": [
+        "related",
+        "VBN"
+    ],
+    "relax": [
+        "relax",
+        "VB"
+    ],
+    "relieved": [
+        "relieved",
+        "VBN"
+    ],
+    "shared": [
+        "shared",
+        "VBD"
+    ],
+    "started": [
+        "started",
+        "VBD"
+    ],
+    "to_in": [
+        "to",
+        "IN"
+    ],
+    "to_to": [
+        "to",
+        "TO"
+    ],
+    "told": [
+        "told",
+        "VBD"
+    ],
+    "unwind": [
+        "unwind",
+        "VB"
+    ],
+    "was": [
+        "was",
+        "VBD"
+    ],
+    "whether": [
+        "whether",
+        "IN"
+    ],
+    "wise": [
+        "wise",
+        "JJ"
+    ],
+    "work": [
+        "work",
+        "NN"
+    ]
+}
