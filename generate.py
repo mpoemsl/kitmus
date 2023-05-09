@@ -6,7 +6,7 @@ import pandas as pd
 from tqdm import tqdm
 
 from texts import generate_texts
-from utils import check_overlap, export, load_resources
+from utils import check_overlap, export, load_resources, load_templates
 
 parser = argparse.ArgumentParser()
 
@@ -42,12 +42,12 @@ parser.add_argument(
 VARIANTS = [
     "background-train",
     "background-train-no-noise",
-    # "background-both",
-    # "background-inference-real-charfict",
-    # "background-inference-real-wordfict",
-    # "background-inference-charfict-real",
-    # "background-inference-charfict-charfict",
-    # "background-inference-charfict-wordfict",
+    "background-both",
+    "background-inference-real-charfict",
+    "background-inference-real-wordfict",
+    "background-inference-charfict-real",
+    "background-inference-charfict-charfict",
+    "background-inference-charfict-wordfict",
 ]
 
 RESOURCE_SPLIT_ORDER = [
@@ -87,9 +87,14 @@ def main(export_dir: str, resources_dir: str, **params):
         else:
             occ_prefix = "_".join(variant_name.split("-")[-2:])
 
-        splittable_resources["occupations"] = pd.read_csv(
-            os.path.join(resources_dir, "occupations", f"{occ_prefix}.csv")
-        ).values
+        splittable_resources.update(
+            {
+                "occupations": pd.read_csv(
+                    os.path.join(resources_dir, "occupations", f"{occ_prefix}.csv")
+                ).values,
+                **load_templates(resources_dir),
+            }
+        )
 
         variant_export_dir = os.path.join(export_dir, variant_name)
 

@@ -15,7 +15,23 @@ def load_resources(resources_dir):
     locations["noise_fp"] = locations["noise_fp"].apply(lambda p: os.path.join(resources_dir, p))
     locations = locations.values
 
-    # load templates
+    # load vocab
+    with open(os.path.join(resources_dir, "vocab.json"), "r", encoding="utf-8") as fh:
+        vocab = {k: str(tuple(v)) for k, v in json.load(fh).items()}
+
+    # load pronouns
+    with open(os.path.join(resources_dir, "pronouns.json"), "r", encoding="utf-8") as fh:
+        pronouns = [pronoun for pronoun in json.load(fh)["pronouns"]]
+
+    splittable_resources = {
+        "locations": locations,
+        "names": names,
+    }
+
+    return splittable_resources, vocab, pronouns
+
+
+def load_templates(resources_dir):
     templates_dir = os.path.join(resources_dir, "templates")
     with open(os.path.join(templates_dir, "meet_sentence.txt"), "r", encoding="utf-8") as fh:
         meet_sents = np.asarray(fh.read().strip().split("\n\n"))
@@ -33,24 +49,14 @@ def load_resources(resources_dir):
     ) as fh:
         background_sents = np.asarray(fh.read().strip().split("\n\n"))
 
-    # load vocab
-    with open(os.path.join(resources_dir, "vocab.json"), "r", encoding="utf-8") as fh:
-        vocab = {k: str(tuple(v)) for k, v in json.load(fh).items()}
-
-    # load pronouns
-    with open(os.path.join(resources_dir, "pronouns.json"), "r", encoding="utf-8") as fh:
-        pronouns = [pronoun for pronoun in json.load(fh)["pronouns"]]
-
-    splittable_resources = {
-        "locations": locations,
-        "names": names,
+    templates = {
         "background_sents": background_sents,
         "entspec_sents": entspec_sents,
         "meet_sents": meet_sents,
         "pronoun_sents": pronoun_sents,
     }
 
-    return splittable_resources, vocab, pronouns
+    return templates
 
 
 def check_overlap(splits):
