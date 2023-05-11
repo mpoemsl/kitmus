@@ -1,6 +1,6 @@
 # KITMUS
 
-This repository contains the data set generation code for the `KITMUS` test suite, which is described in the upcoming ACL 2023 paper:
+This repository contains the dataset generation code for the `KITMUS` test suite, which is described in the upcoming ACL 2023 paper:
 
 ```
 The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources
