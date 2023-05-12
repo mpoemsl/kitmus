@@ -15,7 +15,7 @@ def generate_texts(
     names,
     occupations,
     locations,
-    **params
+    **params,
 ):
     """Create examples with randomized templates."""
 
@@ -77,7 +77,7 @@ def generate_texts(
             background_sent_template,
             entspec_sent_template,
             vocab,
-            **params
+            **params,
         )
 
         # sample location for entities to meet
@@ -98,7 +98,7 @@ def generate_texts(
             pronoun_cluster,
             occ2desc,
             noise_fp,
-            **params
+            **params,
         )
 
         # append texts
@@ -116,7 +116,7 @@ def create_knowledge_sents(
     entspec_sent_template,
     vocab,
     add_background=False,
-    **kwargs
+    **kwargs,
 ):
     """Create a knowledge text for one example."""
 
@@ -134,7 +134,7 @@ def create_knowledge_sents(
                 entity_mention=entity["mention"],
                 entity_occupation=str(list(entity["occupation"])).strip("[]"),
                 a_an=a_an,
-                **vocab
+                **vocab,
             )
         )
         knowledge_sents.append(entspec_sent)
@@ -152,7 +152,7 @@ def create_knowledge_sents(
                     entity_occupation=str(list(entity["occupation"])).strip("[]"),
                     a_an=a_an,
                     occupation_description=str(occ2desc[entity["occupation"]]).strip("[]"),
-                    **vocab
+                    **vocab,
                 )
             )
             knowledge_sents.append(background_sent)
@@ -183,7 +183,7 @@ def create_task_sents(
     occ2desc,
     noise_fp,
     add_noise=True,
-    **kwargs
+    **kwargs,
 ):
     """Create a task text for one example."""
 
@@ -220,7 +220,7 @@ def create_task_sents(
                 noise=noise,
                 location=str(location).strip("[]"),
                 situation=str(situation).strip("[]"),
-                **vocab
+                **vocab,
             )
         )
         for sent_template in task_text_template

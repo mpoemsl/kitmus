@@ -3,9 +3,8 @@ import os
 
 import numpy as np
 import pandas as pd
-from tqdm import tqdm
-
 from texts import generate_texts
+from tqdm import tqdm
 from utils import check_overlap, export, load_resources, load_templates
 
 parser = argparse.ArgumentParser()
