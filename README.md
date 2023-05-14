@@ -6,8 +6,17 @@ This repository contains the dataset generation code for the `KITMUS` test suite
 The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources
 ```
 
-A preprint of the paper is available on [ArXiv](https://arxiv.org/abs/2212.08192).
+A preprint of the paper is available on [ArXiv](https://arxiv.org/abs/2212.08192). If you use the dataset or code in your research, please consider [citing](https://github.com/mpoemsl/kitmus#citation) the paper.
 
+## Content
+
+This repository contains:
+
+* The generated `KITMUS` test suite dataset (`kitmus/`)
+* The code to generate the dataset (`generate.py`, `texts.py`, `utils.py`)
+* The templates and resources to generate the `KITMUS` test suite dataset (`resources/`)
+* The train- and test set predictions from the experiments of the paper (`predictions/`)
+* The code to evaluate predictions against gold annotations (`evaluate.py`, `utils.py`)
 
 ## Setup
 
@@ -71,7 +80,7 @@ The easiest way to generate a custom dataset is to specify an alternative resour
 
 The directory `<RESOURCES-DIR>/noise/` is not necessary for generating the `background-train-no-noise` variant. Similarly, only `<RESOURCES-DIR>/occupations/real_real.csv` is needed for the `background-train-*` variants. Take a look at the files provided in `resources/` to understand the necessary fields and structure of each kind of file.
 
-If the custom dataset is in a language with a similar morphological structure as English, it should be sufficient to modify only the resources. For other languages, it may however be necessary to write custom rules in the functions `create_knowledge_sents` and `create_task_sents` in `texts.py`. An example of a custom rule for the English `a/an` distinction can be found in these functions already.
+If the custom dataset is in a language with a similar morphological structure as English, it should be sufficient to modify only the resources. For other languages, it may be necessary to write custom rules in the functions `create_knowledge_sents` and `create_task_sents` in `texts.py`. An example of a custom rule for the English `a/an` distinction is already present in the code.
 
 ## Citation
 
