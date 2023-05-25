@@ -1,5 +1,6 @@
 import argparse
 import json
+from typing import Dict, List, Tuple
 
 import numpy as np
 import pandas as pd
@@ -15,7 +16,10 @@ parser.add_argument("gold_fp", help="Path to gold .v4_gold_conll file", type=str
 parser.add_argument("prediction_fp", help="Path to predicted .jsonlines or .tsv file", type=str)
 
 
-def main(gold_fp="", prediction_fp="", print_ids=False, rand=False):
+def main(
+    gold_fp: str = "",
+    prediction_fp: str = "",
+) -> None:
     gold_corefs, text_tokens = read_conll(gold_fp)
 
     if prediction_fp.endswith(".jsonlines"):
@@ -36,7 +40,10 @@ def main(gold_fp="", prediction_fp="", print_ids=False, rand=False):
     print("Text accuracy is {:.3f}.".format(text_acc))
 
 
-def calculate_antecedent_f1(pred_corefs, gold_corefs):
+def calculate_antecedent_f1(
+    pred_corefs: Dict[str, List[List[Tuple[int, int]]]],
+    gold_corefs: Dict[str, Dict[str, List[Tuple[int, int]]]],
+):
     """Calculate F1 score over boolean prediction of links between and pronoun and each candidate antecedent."""
 
     antecedent_pronoun_preds = []
@@ -87,7 +94,10 @@ def calculate_antecedent_f1(pred_corefs, gold_corefs):
     return f1_score, precision, recall
 
 
-def calculate_text_accuracy(pred_corefs, gold_corefs):
+def calculate_text_accuracy(
+    pred_corefs: Dict[str, List[List[Tuple[int, int]]]],
+    gold_corefs: Dict[str, Dict[str, List[Tuple[int, int]]]],
+):
     """Calculate accuracy over correctness of prediction for one whole text."""
 
     text_preds = []
@@ -136,7 +146,7 @@ def calculate_text_accuracy(pred_corefs, gold_corefs):
     return accuracy, correct_ids
 
 
-def read_jsonlines(prediction_fp):
+def read_jsonlines(prediction_fp: str) -> Dict[str, List[List[Tuple[int, int]]]]:
     """Read jsonlines file and determine predicted coreference clusters."""
 
     with open(prediction_fp, "r") as fh:
@@ -155,10 +165,12 @@ def read_jsonlines(prediction_fp):
     return pred_corefs
 
 
-def read_conll(gold_fp):
+def read_conll(
+    gold_fp: str,
+) -> Tuple[Dict[str, Dict[str, List[Tuple[int, int]]]], Dict[str, List[str]]]:
     """Read conll file and determine gold pronoun coreferent."""
 
-    with open(gold_fp, "r") as fh:
+    with open(gold_fp, "r", encoding="utf-8") as fh:
         conll_lines = fh.readlines()
 
     # determine knowledge/task text boundary for merged setting
@@ -233,7 +245,9 @@ def read_conll(gold_fp):
     return gold_corefs, text_tokens
 
 
-def read_gap(prediction_fp, text_tokens):
+def read_gap(
+    prediction_fp: str, text_tokens: Dict[str, List[str]]
+) -> Dict[str, List[List[Tuple[int, int]]]]:
     """Read GAP-schema tsv file and determine predicted coreference clusters."""
 
     # load tsv file

@@ -1,11 +1,15 @@
 import json
 import os
+from typing import Dict, Iterable, List, Tuple
 
 import numpy as np
 import pandas as pd
 
 
-def load_resources(resources_dir):
+def load_resources(
+    resources_dir: str,
+) -> Tuple[Dict[str, Iterable], Dict[str, str], List[Tuple[float, str, str]]]:
+    """Load resources from resources dir."""
     # load names
     names = pd.read_csv(os.path.join(resources_dir, "names.csv"), usecols=["lastname"])[
         "lastname"
@@ -21,7 +25,7 @@ def load_resources(resources_dir):
 
     # load pronouns
     with open(os.path.join(resources_dir, "pronouns.json"), "r", encoding="utf-8") as fh:
-        pronouns = [pronoun for pronoun in json.load(fh)["pronouns"]]
+        pronouns = list(json.load(fh)["pronouns"])
 
     splittable_resources = {
         "locations": locations,
@@ -31,7 +35,8 @@ def load_resources(resources_dir):
     return splittable_resources, vocab, pronouns
 
 
-def load_templates(resources_dir):
+def load_templates(resources_dir: str) -> Tuple[Dict[str, Iterable], Dict[str, str]]:
+    """Load templates from resources dir."""
     templates_dir = os.path.join(resources_dir, "templates")
     with open(os.path.join(templates_dir, "meet_sentence.txt"), "r", encoding="utf-8") as fh:
         meet_sents = np.asarray(fh.read().strip().split("\n\n"))
@@ -64,7 +69,7 @@ def load_templates(resources_dir):
     return splittable_templates, entity_mention_templates
 
 
-def check_overlap(splits):
+def check_overlap(splits: List[Tuple[Tuple[str]]]) -> None:
     """Checks for overlap in examples between splits."""
 
     train, validation, test = map(set, splits)
@@ -74,7 +79,7 @@ def check_overlap(splits):
     assert len(validation.intersection(test)) == 0, "Overlap between validation and test set!"
 
 
-def export(texts, data_path):
+def export(texts: List[Tuple[Tuple[str]]], data_path: str) -> None:
     """Export text lists to raw txt, conll, jsonlines, and gap format."""
 
     raw_lines = create_raw_lines(texts, data_path)
@@ -96,7 +101,7 @@ def export(texts, data_path):
         gap_df.to_csv(data_path + ".tsv", index=False, sep="\t")
 
 
-def create_raw_lines(texts, data_path):
+def create_raw_lines(texts: List[Tuple[Tuple[str]]], data_path: str) -> List[str]:
     """Create raw lines from text lists."""
 
     lines = []
@@ -115,7 +120,7 @@ def create_raw_lines(texts, data_path):
     return lines
 
 
-def create_conll_lines(texts, data_path):
+def create_conll_lines(texts: List[Tuple[Tuple[str]]], data_path: str) -> List[str]:
     """Create conll lines from text lists."""
 
     lines = []
@@ -132,7 +137,7 @@ def create_conll_lines(texts, data_path):
                 elif len(token_tup) == 2:
                     (token, pos), cluster = token_tup, "-"
                 else:
-                    raise Exception(f"Tuple with wrong length found! {token_tup}")
+                    raise ValueError(f"Tuple with wrong length found! {token_tup}")
 
                 line = text_id
                 line += (100 - (len(line) + len("0"))) * " " + "0"
@@ -155,7 +160,7 @@ def create_conll_lines(texts, data_path):
     return lines
 
 
-def create_json_lines(texts, data_path):
+def create_json_lines(texts: List[Tuple[Tuple[str]]], data_path: str) -> List[str]:
     """Create json lines from text lists."""
 
     lines = []
@@ -198,7 +203,7 @@ def create_json_lines(texts, data_path):
     return lines
 
 
-def create_gap_df(texts, data_path):
+def create_gap_df(texts: List[Tuple[Tuple[str]]], data_path: str) -> pd.DataFrame:
     """Create gap dataframe from text lists."""
 
     min_sent_ix = data_path2min_sent_ix(data_path)
@@ -307,8 +312,11 @@ def create_gap_df(texts, data_path):
     return pd.DataFrame(rows)
 
 
-def unrange(token_ics):
-    """Bundle consecutive indices together to sublists, then select only first index a and last index b in each sublist. Effectively this is the inverse of range(a, b + 1)."""
+def unrange(token_ics: List[int]) -> List[List[int]]:
+    """Bundle consecutive indices together to sublists,
+    then select only first index a and last index b in each sublist.
+    Effectively this is the inverse of range(a, b + 1).
+    """
 
     unranged = [[token_ics[0]]]
 
@@ -323,7 +331,7 @@ def unrange(token_ics):
     return unranged
 
 
-def tokens2str(tokens):
+def tokens2str(tokens: List[str]) -> Tuple[str, List[int]]:
     """Converts list of tokens to a single str line."""
 
     line = ""
@@ -359,7 +367,7 @@ def tokens2str(tokens):
     return line, chars
 
 
-def clusters2mentions(clusters):
+def clusters2mentions(clusters: Dict[int, Dict[str, Iterable]]) -> Dict[str, List[Tuple[int, int]]]:
     """Convert cluster dict with is_pronoun attribute to meaningful mentions dict."""
 
     clusters_with_pronouns = [
@@ -398,7 +406,7 @@ def clusters2mentions(clusters):
     return mentions
 
 
-def data_path2min_sent_ix(data_path):
+def data_path2min_sent_ix(data_path: str) -> int:
     """Determine first sentence index that belongs to task text in list of sentences."""
 
     if "full-text" in data_path:
@@ -419,7 +427,7 @@ def data_path2min_sent_ix(data_path):
     return min_sent_ix
 
 
-def char_ics2token_ics(start_char, end_char, chars):
+def char_ics2token_ics(start_char: int, end_char: int, chars: List[int]) -> Tuple[int, int]:
     """Convert character indices to token indices."""
 
     assert start_char in chars, "Start char not found in gold chars list!"

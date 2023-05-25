@@ -1,5 +1,6 @@
 import argparse
 import os
+from typing import Dict, Iterable, List, Tuple
 
 import numpy as np
 import pandas as pd
@@ -114,15 +115,15 @@ def main(export_dir: str, resources_dir: str, **params):
 
 
 def make_variant(
-    export_dir,
-    splittable_resources,
-    entity_mention_templates,
-    vocab,
-    pronouns,
-    n_examples_train=2000,
-    n_examples_dev=400,
-    n_examples_test=2000,
-    random_seed=42,
+    export_dir: str,
+    splittable_resources: Dict[str, Iterable],
+    entity_mention_templates: Dict[str, str],
+    vocab: Dict[str, str],
+    pronouns: List[Tuple[float, str, str]],
+    n_examples_train: int = 2000,
+    n_examples_dev: int = 400,
+    n_examples_test: int = 2000,
+    random_seed: int = 42,
     **params,
 ):
     # create data dir
@@ -200,7 +201,7 @@ def make_variant(
         # export all splits
         for split_name, knowledge_split, task_split in tqdm(
             zip(["train", "validation", "test"], knowledge_splits, task_splits),
-            desc=subtask_dir,
+            desc=f"Exporting {subtask_dir} splits",
             total=3,
         ):
             # export knowledge texts

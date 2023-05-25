@@ -1,29 +1,32 @@
+from typing import Dict, Iterable, List, Tuple
+
+import numpy as np
 from tqdm import tqdm
 
 
 def generate_texts(
-    rng,
-    n_examples,
-    n_ents,
-    subtask_dir,
-    vocab,
-    pronouns,
-    task_text_templates,
-    entity_mention_template,
-    background_sent_templates,
-    entspec_sent_templates,
-    names,
-    occupations,
-    locations,
+    rng: np.random.Generator,
+    n_examples: int,
+    n_ents: int,
+    subtask_dir: str,
+    vocab: Dict[str, str],
+    pronouns: List[Tuple[float, str, str]],
+    task_text_templates: List[str],
+    entity_mention_template: str,
+    background_sent_templates: List[str],
+    entspec_sent_templates: List[str],
+    names: Iterable,
+    occupations: Iterable,
+    locations: Iterable,
     **params,
-):
+) -> Tuple[List[Tuple[Tuple[str]]], List[Tuple[Tuple[str]]]]:
     """Create examples with randomized templates."""
 
     knowledge_texts = []
     task_texts = []
 
     # create examples
-    for ix in tqdm(range(n_examples), desc=subtask_dir):
+    for ix in tqdm(range(n_examples), desc=f"Generating {subtask_dir} split"):
         # sample common pronoun for all entities in this example
         pronoun, pronoun_be = rng.choice(
             a=[pronoun[1:] for pronoun in pronouns], p=[pronoun[0] for pronoun in pronouns]
@@ -109,18 +112,18 @@ def generate_texts(
 
 
 def create_knowledge_sents(
-    rng,
-    entities,
-    occ2desc,
-    background_sent_template,
-    entspec_sent_template,
-    vocab,
-    add_background=False,
+    rng: np.random.Generator,
+    entities: List[Dict[str, Iterable]],
+    occ2desc: Dict[Tuple, Iterable],
+    background_sent_template: str,
+    entspec_sent_template: str,
+    vocab: Dict[str, str],
+    add_background: bool = False,
     **kwargs,
-):
+) -> Tuple[Tuple[str]]:
     """Create a knowledge text for one example."""
 
-    # create entitiy-specific knowledge sents linking entities to their occupations
+    # create entity-specific knowledge sents linking entities to their occupations
     knowledge_sents = []
 
     for entity in entities:
@@ -171,20 +174,20 @@ def create_knowledge_sents(
 
 
 def create_task_sents(
-    rng,
-    task_text_template,
-    entity_mention_template,
-    vocab,
-    entities,
-    location,
-    pronoun,
-    pronoun_be,
-    pronoun_cluster,
-    occ2desc,
-    noise_fp,
-    add_noise=True,
+    rng: np.random.Generator,
+    task_text_template: str,
+    entity_mention_template: str,
+    vocab: Dict[str, str],
+    entities: List[Dict[str, Iterable]],
+    location: str,
+    pronoun: str,
+    pronoun_be: str,
+    pronoun_cluster: int,
+    occ2desc: Dict[Tuple, Iterable],
+    noise_fp: str,
+    add_noise: bool = True,
     **kwargs,
-):
+) -> Tuple[Tuple[str]]:
     """Create a task text for one example."""
 
     mentions = entity_mention_template.format(*[entity["mention"] for entity in entities], **vocab)
