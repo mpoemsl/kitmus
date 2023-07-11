@@ -1,12 +1,8 @@
 # KITMUS
 
-This repository contains the dataset generation code for the `KITMUS` test suite, which is described in the upcoming ACL 2023 paper:
+This repository contains the dataset generation code for the `KITMUS` test suite, which is described in the ACL 2023 paper [The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources](https://aclanthology.org/2023.acl-long.841/).
 
-```
-The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources
-```
-
-A preprint of the paper is available on [ArXiv](https://arxiv.org/abs/2212.08192). If you use the dataset or code in your research, please consider [citing](https://github.com/mpoemsl/kitmus#citation) the paper.
+If you use the dataset or code in your research, please consider [citing](https://github.com/mpoemsl/kitmus#citation) the paper.
 
 ## Content
 
@@ -85,18 +81,22 @@ If the custom dataset is in a language with a similar morphological structure as
 ## Citation
 
 ```
-@inproceedings{arodi2023kitmus,
-    title = "The {KITMUS} Test: Evaluating Knowledge Integration from
-Multiple Sources",
-    author = {Arodi, Akshatha and P{\"o}msl, Martin and Suleman, Kaheer, and Trischler, Adam and Olteanu, Alexandra and Cheung, Jackie Chi Kit},
+@inproceedings{arodi-etal-2023-kitmus,
+    title = "The {KITMUS} Test: Evaluating Knowledge Integration from Multiple Sources",
+    author = {Arodi, Akshatha  and
+      P{\"o}msl, Martin  and
+      Suleman, Kaheer  and
+      Trischler, Adam  and
+      Olteanu, Alexandra  and
+      Cheung, Jackie Chi Kit},
     booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
     month = jul,
     year = "2023",
     address = "Toronto, Canada",
     publisher = "Association for Computational Linguistics",
-    url = "",
-    doi = "",
-    pages = ""
+    url = "https://aclanthology.org/2023.acl-long.841",
+    pages = "15088--15108",
 }
+
 ```
 
