@@ -1,0 +1,1199 @@
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:0
+At the bar crawl, Abraham Emanuel Fröhlich and Paolo Veronese started a conversation. The tour is a very exciting one for fans in Japan. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:1
+Ivan Petrov and Heinrich Meibom came across each other at the local reading. Book clubs organize discussions on specific books. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:2
+Paul von Hindenburg and Paolo Veronese came across each other at the car show. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:3
+At the school sports event, Lee Tae-gon and Lucian Freud started a conversation. It is a very informal and there is no money to spend on these events. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:4
+Mamo Clark and Sonia Alfano bumped into each other at the group vacation. The tour is not in its 20th year, unfortunately. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:5
+At the new year party, Daniel Lapaine and Lucian Freud met. The party is filled with local and national celebrities and entertainers. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:6
+At the theater festival, Leslie Kaplan and Sonia Alfano met. The main reason for visiting these places is to explore new areas of the city. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:7
+Heinrich Meibom and David Hockney started a conversation at the book store. People interested in learning more can browse around the book club page or watch online video. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:8
+Nia Jax and Seda Aznavour came across each other at the school reunion. A lot of people participate in these events! She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:9
+At the art expo, Seda Aznavour and Sonia Alfano started a conversation. A large number of people attend these events. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:10
+Camille Pissarro and Abraham Emanuel Fröhlich came across each other at the religious and spiritual gathering. The service is what all the people have been working to do. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:11
+At the business meet, Sonia Alfano and Madame de Rémusat met. There is also a very high rate of volunteerism in the events. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:12
+Dexter Scott King and Abraham Emanuel Fröhlich came across each other at the gallery. In the museum there are paintings and paintings of people's lives. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:13
+Anastasio Somoza Debayle and Roger Aaron Brown started a conversation at the religious and spiritual gathering. The community is moving in the right direction and will continue to grow. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:14
+Daniel Lapaine and Abraham Emanuel Fröhlich bumped into each other at the house party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:15
+Sonia Alfano and Alicia Ostriker started a conversation at the bike tour. The tour is held in the small town of Boulogne, North Rhine - Westphalia. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:16
+At the halloweeen party, Heinrich Meibom and Edvard Munch met. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:17
+At the subway, Edvard Munch and Gerald Weinberg started a conversation. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:18
+At the open gallery museum, Liv Arnesen and Seda Aznavour started a conversation. The museum help learn about the history of a particular place. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:19
+At the group vacation, Emil Nolde and Dennis Hastert started a conversation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:20
+Milly Witkop and Nia Jax started a conversation at the crossfit class. The classes usually begin before work. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:21
+Abraham Emanuel Fröhlich and Joseph Beuys came across each other at the trivia night. It is a very informal and there is no money to spend on these events. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:22
+At the bike tour, Halle Berry and Sonia Alfano met. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:23
+At the new year party, Leslie Kaplan and Sonia Alfano started a conversation. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:24
+Taryn Manning and Mamo Clark started a conversation at the religious and spiritual gathering. The community is a small group that engages at the community level to achieve great social and cultural well - being. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:25
+Kylie Jenner and Sonia Alfano came across each other at the local reading. There are ways to find the great websites out there. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:26
+Sonia Alfano and Halle Berry started a conversation at the bar crawl. In a tour, people just grab a ticket and sit beside an excited tourist! She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:27
+Prabhu Ganesan and Paul von Hindenburg started a conversation at the cigar bar. A great, comfortable location for a relaxed bar. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:28
+At the cooking class, Paul von Hindenburg and Joseph Beuys started a conversation. Classes have a special event called a "Shuffle Jam". He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:29
+Strom Thurmond and Prabhu Ganesan started a conversation at the school sports event. The event is still underway. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:30
+Paul von Hindenburg and Johann Jakob Wick bumped into each other at the subway. Each public bus will have a fixed schedule. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:31
+Seda Aznavour and Amanda Seyfried came across each other at the gallery. This museum and art is what we need more of. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:32
+At the group vacation, Kylie Jenner and Elisabeth Cruciger started a conversation. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:33
+At the local reading, Don Diamond and Newt Gingrich started a conversation. Book clubs organize discussions on specific books. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:34
+At the religious and spiritual gathering, Heinrich Joseph von Collin and Camille Pissarro started a conversation. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:35
+Mamo Clark and Danielle Trussoni bumped into each other at the bar crawl. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:36
+At the school reunion, Ralph Nader and Andy Breckman met. A large number of people attend these events. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:37
+At the fundraiser, Sonia Alfano and Kate Bosse-Griffiths met. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:38
+At the business meet, John Connally and Lucian Freud met. Many of the events are very popular in the city. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:39
+Sonia Alfano and Douangdeuane Viravongs started a conversation at the car show. A large number of people attend these events. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:40
+Yitzhak Rabin and Heinrich Meibom started a conversation at the group vacation. The tour is slated to be held in Austin, Texas on May 2, where a new venue, The Art of Improvisation, will be announced. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:41
+At the theater festival, William McKinley and Camille Pissarro started a conversation. It is open to the public. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:42
+At the cigar bar, Ashley Benson and Seda Aznavour met. The other items that are great here are the coffee creamer. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:43
+At the high intensity class, Ashley Benson and Seda Aznavour started a conversation. Classes use tasks which are very common and have multiple modules. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:44
+David Hockney and Michael Wayne bumped into each other at the job fair. A large number of people attend these events. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:45
+Johann Jakob Wick and Lyndon B. Johnson came across each other at the bike tour. Tours can provide with an opportunity to meet foreigners. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:46
+Ottilie von Goethe and Halle Berry bumped into each other at the business meet. The event is still scheduled at the end of May for a crowd of around 200. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:47
+Sonia Alfano and Brooke Shields started a conversation at the gallery. The museum has a history museum and also an aquarium. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:48
+At the cigar bar, Mamo Clark and Sonia Alfano met. The other beverages served here are ok. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:49
+At the book store, Seda Aznavour and Sonia Alfano started a conversation. Readers may read more books on a particular topic. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:50
+Lee Tae-gon and Paul von Hindenburg came across each other at the halloweeen party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:51
+Larry Sellers and Paul Cézanne started a conversation at the group vacation. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:52
+Mamo Clark and Sonia Alfano came across each other at the halloweeen party. The party is filled with local and national celebrities and entertainers. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:53
+Seda Aznavour and Ashley Benson came across each other at the power yoga class. Yoga starts with a sit - down pose and then gives a few minutes of relaxation and then returns later to more complicated exercises. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:54
+At the food co-op, Sonia Alfano and Natalie Babbitt started a conversation. Here, people can find someone to become friends with. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:55
+At the open gallery museum, John Connally and Gerald Weinberg started a conversation. Museums are definitely not boring! He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:56
+Dominic Rains and David Hockney came across each other at the car show. It is open to the public. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:57
+At the poolside event, Lee Tae-gon and Ted Kennedy started a conversation. The main reason for visiting these places is to explore new areas of the city. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:58
+Ivan Petrov and Richard Nixon bumped into each other at the halloweeen party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:59
+Amanda Seyfried and Seda Aznavour came across each other at the house party. The party is sponsored by the Patriots. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:60
+Sonia Alfano and Edith Gyömrői Ludowyk came across each other at the fundraiser. A lot of people are always talking and eating together. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:61
+Londa Schiebinger and Seda Aznavour bumped into each other at the fundraiser. It is open to the public. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:62
+Sonia Alfano and Mamo Clark bumped into each other at the specialty retail store. The market is still so volatile at this time of the year. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:63
+Thilo Irmisch and Richard Nixon started a conversation at the religious and spiritual gathering. We all live our lives trying to feed each other and the community. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:64
+Cameron Kennedy and Heinrich Joseph von Collin started a conversation at the poolside event. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:65
+At the gallery, Andy Breckman and François Mitterrand met. Museums are great places to learn about culture. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:66
+At the bar crawl, Newt Gingrich and Roger Aaron Brown met. Tours show all the important places in a city. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:67
+Brooke Shields and Mamo Clark bumped into each other at the alumni event. A lot of people participate in these events! She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:68
+Georg Major and Andy Breckman bumped into each other at the power yoga class. Yoga teaches people to be quiet, so that they relax and get out of their mental barriers. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:69
+Mamo Clark and Sonia Alfano started a conversation at the school reunion. The festival is run by the United Methodist Church. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:70
+At the car show, Heinrich Joseph von Collin and Pepón Nieto met. The event is free and open to all people. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:71
+At the new year party, Sonia Alfano and Mamo Clark started a conversation. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:72
+Seda Aznavour and Lena Christ came across each other at the school reunion. These events and events help the local community become more active, and the whole community grows through these programs. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:73
+At the bar crawl, Johann Jakob Wick and Theodore Roosevelt met. The tour is an important part of the new generation. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:74
+Liv Arnesen and Sonia Alfano came across each other at the local reading. If there are a lot of books then one does n't need to go to a book club. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:75
+Jacques Chirac and Larry Sellers bumped into each other at the art expo. It takes time to develop the cultural component of a event, particularly in an already huge city. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:76
+At the group vacation, David Hockney and Daniel Lapaine started a conversation. The tour is not in its 20th year, unfortunately. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:77
+Sonia Alfano and Lily Collins bumped into each other at the party. The party is designed to be an enjoyable party, but not all will enjoy the view. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:78
+At the fundraiser, Seda Aznavour and Empress Xiaoquancheng started a conversation. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:79
+At the business meet, Sonia Alfano and Empress Xiaoquancheng met. The event is still underway. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:80
+Lyndon B. Johnson and Roger Aaron Brown came across each other at the open gallery museum. In the museum there are paintings and paintings of people's lives. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:81
+At the job fair, Dominic Rains and Hieronymus Bosch met. This is a very busy and demanding schedule for the members of the community. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:82
+Crystal Harris and Enid Bagnold bumped into each other at the gallery. The museums show how the city looked thousands of years ago. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:83
+Mamo Clark and Sonia Alfano came across each other at the crossfit class. The classes sometimes have "class" games. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:84
+Sonia Alfano and Seda Aznavour bumped into each other at the local reading. In one case, some people would like to have friends with a friend or find them on a different social media. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:85
+At the business meet, Huarui and Sonia Alfano met. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:86
+Danielle Trussoni and Sonia Alfano bumped into each other at the fundraiser. Participation is the best way is to get the most out of these festivals! She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:87
+Theodore Roosevelt and Paolo Veronese came across each other at the open gallery museum. The museum has books, which can come together in a wonderful way. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:88
+Spencer Garrett and Reinmar von Zweter bumped into each other at the dance class. It's a huge place! He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:89
+Sonia Alfano and Halle Berry started a conversation at the school sports event. This is a very busy and demanding schedule for the members of the community. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:90
+Mamo Clark and Sonia Alfano came across each other at the club. There are a lot of vegetarian food options here. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:91
+At the alumni event, Milly Witkop and Nia Jax met. It takes time to develop the cultural component of a event, particularly in an already huge city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:92
+At the school sports event, Mamo Clark and Sonia Alfano started a conversation. It is open to the public. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:93
+Sonia Alfano and Mamo Clark started a conversation at the poolside event. The event is still scheduled at the end of May for a crowd of around 200. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:94
+Alicia Ostriker and Ashley Benson bumped into each other at the dance class. This class has amazing outcomes. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:95
+At the local reading, Milly Witkop and Sonia Alfano met. Book clubs organize monthly meetings. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:96
+At the trivia night, Larry Sellers and Albrecht Dürer met. There is also a very high rate of volunteerism in the events. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:97
+At the new year party, Joseph Beuys and Lee Tae-gon started a conversation. The party is at noon in the main hall of the building. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:98
+At the specialty retail store, Heinrich Meibom and Larry Sellers started a conversation. Markets exhibit antiques, collectors' items or anything else of value and interest. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:99
+At the open gallery museum, John R. Neill and George C. Marshall met. There is a special area in the museum for dinosaurs. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:100
+At the yoga class, Jacques Chirac and Joseph Beuys met. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:101
+Reinmar von Zweter and Joseph Beuys came across each other at the job fair. The festival is run by the United Methodist Church. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:102
+At the local reading, Newt Gingrich and Veit Dietrich met. Book clubs organize discussions on specific books. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:103
+Douangdeuane Viravongs and Mamo Clark bumped into each other at the new year party. The party is also filled by the band. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:104
+At the fundraiser, Sonia Alfano and Sharon Stone started a conversation. This is a very busy and demanding schedule for the members of the community. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:105
+At the group vacation, Zacharias Wagenaer and Daniel Lapaine started a conversation. The tours showcase the different activities that people can do. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:106
+Vincent van Gogh and Ted Kennedy started a conversation at the club. The food here has some of the best food in the city. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:107
+Natalie Portman and Mamo Clark started a conversation at the yoga class. The class instructs to practice an exercise for 1 - 3 seconds followed by a video. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:108
+At the local reading, Kate Bosse-Griffiths and Sonia Alfano started a conversation. Book clubs help expand social circles. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:109
+At the poolside event, Solange Knowles and Elisabeth Cruciger started a conversation. Festivals are normally conducted as cultural events. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:110
+Cindy Crawford and Mamo Clark bumped into each other at the club. The place is the first stop on the way to the park. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:111
+At the car show, Kwame Nkrumah and Thilo Irmisch started a conversation. This event is to help make the community a better place. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:112
+Prabhu Ganesan and Omar Bongo started a conversation at the crossfit class. It is easy to find and enjoy the classes. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:113
+At the high intensity class, Sonia Alfano and Enid Bagnold started a conversation. Classes provide fun and challenge. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:114
+Kate Bosse-Griffiths and Sharon Stone came across each other at the art expo. These events and events help the local community become more active, and the whole community grows through these programs. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:115
+Hieronymus Bosch and Don Diamond came across each other at the bike tour. The tour is a very exciting one for fans in Japan. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:116
+At the group vacation, Sonia Alfano and Sharon Stone started a conversation. The tour is not in its 20th year, unfortunately. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:117
+Halle Berry and Mamo Clark bumped into each other at the poolside event. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:118
+Mamo Clark and Sonia Alfano started a conversation at the halloweeen party. The party is filled with local and national celebrities and entertainers. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:119
+Milly Witkop and Seda Aznavour came across each other at the yoga class. The more people learn and practice yoga, the happier they will be with their life and career. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:120
+At the school sports event, Liv Arnesen and Sonia Alfano met. A lot of people participate in these events! She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:121
+Mamo Clark and Sonia Alfano started a conversation at the music festival. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:122
+Solange Knowles and Elisabeth Cruciger came across each other at the bar crawl. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:123
+At the local reading, Theodore Roosevelt and Johann Jakob Wick met. Book clubs organize discussions on specific books. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:124
+Strom Thurmond and Heinrich Meibom came across each other at the open gallery museum. Earlier this year, the entrance to the museum was free. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:125
+Albrecht Dürer and John R. Neill bumped into each other at the subway. The public transports are public. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:126
+Sonia Alfano and Milly Witkop bumped into each other at the business meet. These events and events help the local community become more active, and the whole community grows through these programs. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:127
+Ralph Nader and Reinmar von Zweter came across each other at the school sports event. The event is being held on Friday, July 8, 2018 at Mott Center. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:128
+Heinrich Joseph von Collin and Strom Thurmond bumped into each other at the bike tour. The tour is coming along in several interesting ways. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:129
+Karen Wynn Fonstad and Solange Knowles started a conversation at the open gallery museum. There is a special area in the museum for dinosaurs. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:130
+Sonia Alfano and Karen Wynn Fonstad bumped into each other at the school sports event. The event is free and open to all people. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:131
+At the bike tour, Kwame Nkrumah and Georg Major started a conversation. The tour is an essential part of a growing number of South African children entering the profession. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:132
+At the alumni event, Dennis Hastert and Daniel Lapaine started a conversation. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:133
+Vincent van Gogh and George C. Marshall bumped into each other at the birthday party. The party is also filled by the band. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:134
+At the theater festival, Natalie Portman and Sonia Alfano started a conversation. The event is still scheduled at the end of May for a crowd of around 200. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:135
+At the art expo, John R. Neill and Jacques Chirac met. The event is still underway. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:136
+Karen Wynn Fonstad and Mamo Clark started a conversation at the power yoga class. After 30 minutes of yoga practice, the participants walk out of the class, go to a restaurant and spend 10 minutes. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:137
+At the art expo, Paul Gauguin and Ted Kennedy met. The event is free and open to all people. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:138
+At the local reading, Thilo Irmisch and Fernando Guillén Gallego started a conversation. Book clubs have like - minded people talking about all kinds of books. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:139
+At the gallery, Sonia Alfano and Empress Xiaoquancheng started a conversation. There is a special area in the museum for dinosaurs. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:140
+Seda Aznavour and Catharina Elisabeth Goethe started a conversation at the club. A great, comfortable location for a relaxed bar. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:141
+Kirsten Dunst and Sonia Alfano started a conversation at the bar crawl. The tour is coming along in several interesting ways. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:142
+Michael Wayne and Thilo Irmisch came across each other at the club. The food here has some of the best food in the city. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:143
+Huarui and Seda Aznavour bumped into each other at the yoga class. The class will be taking a lot of stress off. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:144
+At the alumni event, Roger Aaron Brown and Paul Cézanne met. It is a very informal and there is no money to spend on these events. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:145
+At the food co-op, Veit Dietrich and Ted Kennedy started a conversation. People ca n't be too disappointed at the spot for cheap coffee. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:146
+At the crossfit class, Johann Jakob Wick and Bartolomeo Schedoni started a conversation. Classes take place every Friday at 8:00 pm. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:147
+At the bar crawl, Bartolomeo Schedoni and Ralph Nader met. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:148
+Karen Wynn Fonstad and Halle Berry came across each other at the open gallery museum. Museums have free exhibitions. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:149
+Huarui and Sonia Alfano started a conversation at the alumni event. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:150
+Solange Knowles and Sonia Alfano came across each other at the book club. Readers may read more books on a particular topic. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:151
+At the yoga class, Emil Nolde and Gerald Weinberg met. The yoga class lasts for as long as the participants like. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:152
+At the club, Gerald Weinberg and Prabhu Ganesan started a conversation. The coffee tastes good. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:153
+Mamo Clark and Natalie Portman bumped into each other at the club. There are a lot of vegetarian food options here. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:154
+Leslie Kaplan and Sonia Alfano came across each other at the religious and spiritual gathering. The community has an open kitchen. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:155
+At the trivia night, Prabhu Ganesan and Heinrich Meibom met. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:156
+At the bar crawl, Gerald Weinberg and Spencer Garrett met. The tour is an important part of the new generation. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:157
+Mamo Clark and Kathryn Lasky started a conversation at the car show. It has been said that all the different cultural events can be fun! She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:158
+Mamo Clark and Sonia Alfano bumped into each other at the house party. The party is going to be full. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:159
+Prabhu Ganesan and John Connally came across each other at the specialty retail store. The market is a big source of income for many people. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:160
+Bartolomeo Schedoni and Reinmar von Zweter bumped into each other at the party. The party is also filled by the band. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:161
+At the food co-op, Harry S. Truman and Annibale Carracci met. People ca n't be too disappointed at the spot for cheap coffee. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:162
+Kwame Nkrumah and Camille Pissarro came across each other at the dance class. The class is fun! He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:163
+At the local reading, Joseph Beuys and Prabhu Ganesan started a conversation. Nowadays a few types of web - sites do it all. That says more than anything, the community is an awesome resource for other things besides books for anyone to read. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:164
+Mamo Clark and Sonia Alfano bumped into each other at the specialty retail store. People from across the country are encouraged to join. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:165
+At the religious and spiritual gathering, Paul Gauguin and Heinrich Joseph von Collin started a conversation. The community is a small group that engages at the community level to achieve great social and cultural well - being. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:166
+At the gallery, Joseph Beuys and Ivan Petrov met. The museum is in a historic district of central Athens and the main market district, which has become a major tourism destination, is the heart of the ancient city. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:167
+Dexter Scott King and Gerald Weinberg started a conversation at the high intensity class. The classes usually begin before work. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:168
+Dennis Hastert and Albrecht Dürer bumped into each other at the religious and spiritual gathering. The community is moving in the right direction and will continue to grow. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:169
+At the music festival, Ted Kennedy and Pepón Nieto met. The event is still underway. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:170
+At the alumni event, Roger Aaron Brown and Harry S. Truman started a conversation. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:171
+Heinrich Joseph von Collin and Damien Dante Wayans bumped into each other at the poolside event. The event is still scheduled at the end of May for a crowd of around 200. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:172
+At the cooking class, Andy Breckman and Paul Gauguin met. Classes use tasks which are very common and have multiple modules. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:173
+At the job fair, Sonia Alfano and Seda Aznavour met. This event is to help make the community a better place. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:174
+Sonia Alfano and Liv Arnesen started a conversation at the gallery. The museum has many ancient things. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:175
+Sonia Alfano and Seda Aznavour bumped into each other at the party. The party is sponsored by the Patriots. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:176
+At the dance class, Sharon Stone and Sonia Alfano started a conversation. It's a huge place! She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:177
+Ivan Petrov and Dennis Hastert bumped into each other at the new year party. The party is also filled by the band. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:178
+At the dance class, Sonia Alfano and Seda Aznavour started a conversation. The classes teach the same number of skills expected in a business class. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:179
+Prabhu Ganesan and John R. Neill started a conversation at the book store. In one case, some people would like to have friends with a friend or find them on a different social media. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:180
+At the art expo, Seda Aznavour and Kate Bosse-Griffiths met. The event is still underway. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:181
+Sonia Alfano and Kylie Jenner bumped into each other at the religious and spiritual gathering. The community's support is essential if a community exists to provide for each other. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:182
+Veit Dietrich and François Mitterrand came across each other at the local reading. If there are a lot of books then one does n't need to go to a book club. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:183
+At the alumni event, Veit Dietrich and Paul von Hindenburg met. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:184
+At the business meet, Cindy Crawford and Louise von François started a conversation. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:185
+At the book store, Ivan Petrov and Bartolomeo Schedoni met. Book clubs organize discussions on specific books. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:186
+Zacharias Wagenaer and Mitch McConnell started a conversation at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:187
+Halle Berry and Seda Aznavour came across each other at the gallery. Earlier this year, the entrance to the museum was free. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:188
+At the birthday party, Maddie Ziegler and Sonia Alfano started a conversation. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:189
+Brooke Shields and Seda Aznavour bumped into each other at the food co-op. The place is the first stop on the way to the park. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:190
+Douangdeuane Viravongs and Natalie Portman started a conversation at the business meet. The event is being held on Friday, July 8, 2018 at Mott Center. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:191
+At the group vacation, Reinmar von Zweter and William McKinley started a conversation. Tours can provide with an opportunity to meet foreigners. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:192
+At the local reading, Johann Jakob Wick and Dexter Scott King met. People interested in learning more can browse around the book club page or watch online video. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:193
+Sharon Stone and Empress Xiaoquancheng came across each other at the party. The party is free entry for everyone. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:194
+Gisela Elsner and Seda Aznavour bumped into each other at the local reading. Book clubs help expand social circles. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:195
+At the poolside event, Lucian Freud and Abraham Emanuel Fröhlich met. A lot of people participate in these events! He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:196
+At the school sports event, Heinrich Joseph von Collin and Andy Breckman started a conversation. The event is still scheduled at the end of May for a crowd of around 200. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:197
+Huarui and Ashley Benson came across each other at the cooking class. Each session teaches a different theme. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:198
+At the halloweeen party, Georg Major and Yitzhak Rabin met. The party is free entry for everyone. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:199
+Sonia Alfano and Kathryn Lasky came across each other at the power yoga class. Yoga is best done in silence. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:200
+Mustafa Kemal Atatürk and Gerald Weinberg bumped into each other at the trivia night. It is open to the public. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:201
+Camille Pissarro and Georg Major bumped into each other at the yoga class. The yoga program provides support and encouragement. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:202
+Lyndon B. Johnson and Edvard Munch bumped into each other at the crossfit class. The class is extremely motivating. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:203
+Joseph Beuys and Zacharias Wagenaer started a conversation at the birthday party. The party is designed to be an enjoyable party, but not all will enjoy the view. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:204
+At the school sports event, Brooke Shields and Rachel Yanait Ben-Zvi met. Festivals are normally conducted as cultural events. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:205
+At the cigar bar, Solange Knowles and Seda Aznavour met. The service was great - it was only 0.90 $ for the coffee. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:206
+Sonia Alfano and Taryn Manning bumped into each other at the cigar bar. The place is nice. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:207
+Mamo Clark and Natalie Babbitt started a conversation at the yoga class. People around begin chanting an action which takes about 5 - 10 minutes. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:208
+Fernando Guillén Gallego and Newt Gingrich bumped into each other at the halloweeen party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:209
+At the crossfit class, Natalie Portman and Madame de Rémusat started a conversation. The class is extremely motivating. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:210
+At the bike tour, Annibale Carracci and Georg Major met. The tour is not in its 20th year, unfortunately. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:211
+At the birthday party, Lucian Freud and Cameron Kennedy started a conversation. The party is designed to be an enjoyable party, but not all will enjoy the view. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:212
+At the bar crawl, Seda Aznavour and Kate Bosse-Griffiths met. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:213
+Veit Dietrich and George C. Marshall started a conversation at the group vacation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:214
+At the school reunion, Mamo Clark and Kathryn Lasky met. It takes time to develop the cultural component of a event, particularly in an already huge city. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:215
+Lucian Freud and Michael Wayne bumped into each other at the new year party. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:216
+Amanda Seyfried and Milly Witkop started a conversation at the halloweeen party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:217
+Johann Jakob Wick and Annibale Carracci came across each other at the book club. In the book - club, one can choose to spend time with friends who want books. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:218
+Veit Dietrich and Yitzhak Rabin came across each other at the house party. The party is at noon in the main hall of the building. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:219
+Strom Thurmond and Georg Major bumped into each other at the school reunion. The event is still scheduled at the end of May for a crowd of around 200. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:220
+George C. Marshall and Larry Sellers started a conversation at the bar crawl. Tours show all the important places in a city. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:221
+At the group vacation, Paul Cézanne and Dexter Scott King started a conversation. In a tour, people just grab a ticket and sit beside an excited tourist! He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:222
+Seda Aznavour and Sonia Alfano bumped into each other at the dance class. A new class starts with a fun and unique theme! She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:223
+At the poolside event, Sonia Alfano and Mamo Clark started a conversation. The festival is run by the United Methodist Church. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:224
+Reinmar von Zweter and Fernando Guillén Gallego came across each other at the halloweeen party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:225
+At the open gallery museum, Abraham Emanuel Fröhlich and Camille Pissarro started a conversation. The museum would be great to come back again and again! He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:226
+Seda Aznavour and Catharina Elisabeth Goethe started a conversation at the trivia night. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:227
+At the power yoga class, Vincent van Gogh and Dennis Hastert met. The class instructs to practice an exercise for 1 - 3 seconds followed by a video. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:228
+At the job fair, Strom Thurmond and Jean Dubuffet started a conversation. Festivals are normally conducted as cultural events. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:229
+At the poolside event, Sonia Alfano and Mamo Clark started a conversation. The event is being held on Friday, July 8, 2018 at Mott Center. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:230
+Liv Arnesen and Mamo Clark started a conversation at the school reunion. A lot of people participate in these events! She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:231
+At the food co-op, Mamo Clark and Danielle Trussoni met. The coffee cake is quite good. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:232
+Heinrich Meibom and Pepón Nieto started a conversation at the dance class. Classes use tasks which are very common and have multiple modules. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:233
+Larry Sellers and Anastasio Somoza Debayle started a conversation at the subway. The public buses are comfortable to ride. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:234
+Adlai Stevenson II and Bartolomeo Schedoni bumped into each other at the dance class. A new class starts with a fun and unique theme! He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:235
+At the art expo, Dominic Rains and Lucian Freud started a conversation. Many of the events are very popular in the city. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:236
+Mamo Clark and Ottilie von Goethe started a conversation at the theater festival. The event is free and open to all people. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:237
+Seda Aznavour and Lily Collins bumped into each other at the group vacation. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:238
+At the new year party, Sonia Alfano and Amanda Seyfried met. The party is free entry for everyone. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:239
+Sonia Alfano and Kirsten Dunst started a conversation at the open gallery museum. People can browse the displays and learn more about the history and culture of the museum. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:240
+At the club, Georg Major and Daniel Lapaine started a conversation. The service was great - it was only 0.90 $ for the coffee. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:241
+Roger Aaron Brown and Ralph Nader started a conversation at the theater festival. It is being held to commemorate the 70's and 80's people. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:242
+At the job fair, Dexter Scott King and François Mitterrand started a conversation. A lot of people participate in these events! He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:243
+At the theater festival, Prabhu Ganesan and Reinmar von Zweter met. It is open to the public. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:244
+At the halloweeen party, Annibale Carracci and Don Diamond started a conversation. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:245
+Seda Aznavour and Avdotya Panaeva came across each other at the poolside event. The festival is run by the United Methodist Church. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:246
+Edvard Munch and Mitch McConnell came across each other at the car show. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:247
+Yitzhak Rabin and Johann Jakob Wick bumped into each other at the subway. Public transports are affordable. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:248
+At the music festival, Emil Nolde and Thilo Irmisch started a conversation. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:249
+Gerald Weinberg and John Connally started a conversation at the yoga class. Yoga is best done in silence. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:250
+At the school sports event, Edvard Munch and Don Diamond started a conversation. Many of the events are very popular in the city. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:251
+At the club, Prabhu Ganesan and Edvard Munch started a conversation. The atmosphere was nice. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:252
+At the cooking class, Madame de Rémusat and Sonia Alfano started a conversation. Classes have a special event called a "Shuffle Jam". She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:253
+At the gallery, Sonia Alfano and Lily Collins met. It has exhibits and paintings, but it is almost exclusively of humans. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:254
+Maddie Ziegler and Mamo Clark bumped into each other at the birthday party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:255
+Michael Wayne and Thilo Irmisch came across each other at the cooking class. Classes take place every week at the downtown campus. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:256
+At the dance class, Zacharias Wagenaer and Adlai Stevenson II started a conversation. All the group members have the freedom to get together. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:257
+Clara Thompson and Sonia Alfano started a conversation at the music festival. This event is to help make the community a better place. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:258
+At the book club, Sonia Alfano and Natalie Babbitt started a conversation. People interested in learning more can browse around the book club page or watch online video. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:259
+Kathryn Lasky and Solange Knowles came across each other at the theater festival. It is open to the public. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:260
+William McKinley and Damien Dante Wayans started a conversation at the group vacation. In a tour, people just grab a ticket and sit beside an excited tourist! He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:261
+Daniel Lapaine and Heinrich Joseph von Collin bumped into each other at the cigar bar. The coffee tastes good. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:262
+Daniel Lapaine and George C. Marshall started a conversation at the poolside event. The event is still underway. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:263
+Sonia Alfano and Clara Thompson came across each other at the religious and spiritual gathering. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:264
+Johann Jakob Wick and Dennis Hastert came across each other at the new year party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:265
+Sonia Alfano and Sharon Stone bumped into each other at the trivia night. It is open to the public. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:266
+Karen Wynn Fonstad and Sonia Alfano started a conversation at the cigar bar. The spot is located just a short walk away from the main park. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:267
+Douangdeuane Viravongs and Kirsten Dunst bumped into each other at the bike tour. In a foreign land, the first stop should always be a tour. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:268
+Sonia Alfano and Seda Aznavour bumped into each other at the theater festival. A large number of people attend these events. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:269
+Heinrich Meibom and Gamal Abdel Nasser bumped into each other at the art expo. A lot of people participate in these events! He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:270
+Maddie Ziegler and Sonia Alfano came across each other at the new year party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:271
+Roger Aaron Brown and Veit Dietrich started a conversation at the house party. The party is at noon in the main hall of the building. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:272
+Douangdeuane Viravongs and Natalie Portman bumped into each other at the job fair. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:273
+Seda Aznavour and Karen Wynn Fonstad started a conversation at the gallery. The museum also has exhibitions with some very interesting archaeological places. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:274
+Douangdeuane Viravongs and Nia Jax bumped into each other at the cooking class. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:275
+Seda Aznavour and Amanda Seyfried bumped into each other at the power yoga class. The class starts with a warm - up session. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:276
+At the poolside event, Kylie Jenner and Londa Schiebinger started a conversation. A lot of people are always talking and eating together. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:277
+At the religious and spiritual gathering, Spencer Garrett and Zacharias Wagenaer met. It is a place of faith. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:278
+Mustafa Kemal Atatürk and Andy Breckman started a conversation at the cooking class. Every class takes 7 to 13 minutes or more to become complete. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:279
+At the bar crawl, Hieronymus Bosch and Gerald Weinberg started a conversation. The tour is expected to run for the weekend of March 13 through 22. Tickets are $ 13 minimum, $ 16 per person for those ages 13 - 19. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:280
+Clara Thompson and Brooke Shields started a conversation at the school reunion. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:281
+Albrecht Dürer and Ted Kennedy came across each other at the theater festival. Many of the events are very popular in the city. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:282
+At the new year party, Theodore Roosevelt and Spencer Garrett started a conversation. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:283
+Paolo Veronese and Veit Dietrich bumped into each other at the cooking class. The class tries to make the course enjoyable. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:284
+At the bike tour, Abraham Emanuel Fröhlich and Lucian Freud started a conversation. Tours help one discover the city. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:285
+Gerald Weinberg and Dennis Hastert came across each other at the party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:286
+At the job fair, Madame de Rémusat and Seda Aznavour started a conversation. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:287
+Yitzhak Rabin and Pepón Nieto came across each other at the new year party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:288
+Gamal Abdel Nasser and Roger Aaron Brown came across each other at the job fair. There is also a very high rate of volunteerism in the events. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:289
+At the theater festival, Fernando Guillén Gallego and Georg Major started a conversation. There is also a very high rate of volunteerism in the events. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:290
+Ashley Benson and Huarui bumped into each other at the subway. The public transports are public. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:291
+At the art expo, Paul Gauguin and Richard Nixon met. It is being held to commemorate the 70's and 80's people. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:292
+Johann Jakob Wick and François Mitterrand bumped into each other at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:293
+Paul Cézanne and John R. Neill started a conversation at the club. The place is the first stop on the way to the park. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:294
+At the subway, Mustafa Kemal Atatürk and Vincent van Gogh met. Public transports are easy to find. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:295
+At the cooking class, Roger Aaron Brown and David Hockney met. Each session teaches a different theme. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:296
+At the car show, Veit Dietrich and Vincent van Gogh met. A lot of people participate in these events! He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:297
+Yitzhak Rabin and Zacharias Wagenaer started a conversation at the high intensity class. Every class takes 7 to 13 minutes or more to become complete. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:298
+At the alumni event, Mamo Clark and Natalie Babbitt started a conversation. It is being held to commemorate the 70's and 80's people. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:299
+At the car show, Sharon Stone and Londa Schiebinger met. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:300
+Bartolomeo Schedoni and Harry S. Truman started a conversation at the new year party. The party is designed to be an enjoyable party, but not all will enjoy the view. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:301
+At the music festival, Paul Gauguin and Harry S. Truman started a conversation. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:302
+At the art expo, Seda Aznavour and Sharon Stone started a conversation. Many of the events are very popular in the city. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:303
+At the job fair, Leslie Kaplan and Seda Aznavour met. Many of the events are very popular in the city. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:304
+At the house party, Heinrich Joseph von Collin and Mitch McConnell met. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:305
+At the crossfit class, Johann Jakob Wick and Paolo Veronese met. The classes usually begin before work. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:306
+At the car show, Damien Dante Wayans and David Hockney started a conversation. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:307
+At the business meet, Clara Thompson and Kirsten Dunst met. The event is still scheduled at the end of May for a crowd of around 200. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:308
+Lucian Freud and Dominic Rains bumped into each other at the yoga class. In the yoga class, one can sit on the grass or just sit or hold two chairs in a circle and breathe the whole time. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:309
+Larry Sellers and Zacharias Wagenaer started a conversation at the halloweeen party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:310
+Pepón Nieto and Paul Cézanne came across each other at the art expo. It is open to the public. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:311
+At the halloweeen party, Lyndon B. Johnson and Joseph Beuys started a conversation. The party is designed to be an enjoyable party, but not all will enjoy the view. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:312
+Emil Nolde and John R. Neill started a conversation at the crossfit class. The class tries to make the course enjoyable. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:313
+Natalie Babbitt and Sonia Alfano bumped into each other at the art expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:314
+At the dance class, Don Diamond and Newt Gingrich met. The class requires the students to read and comprehend the course material and understand the various topics. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:315
+Amanda Seyfried and Mamo Clark started a conversation at the poolside event. It takes time to develop the cultural component of a event, particularly in an already huge city. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:316
+Mustafa Kemal Atatürk and Cameron Kennedy bumped into each other at the art expo. A large number of people attend these events. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:317
+At the yoga class, Georg Major and Hieronymus Bosch started a conversation. Meditation is very important to reduce the stress levels. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:318
+At the book store, Liv Arnesen and Lily Collins started a conversation. Readers may read more books on a particular topic. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:319
+Avdotya Panaeva and Sonia Alfano came across each other at the high intensity class. The class is fun! She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:320
+Michael Wayne and Hieronymus Bosch came across each other at the school reunion. The event is being held on Friday, July 8, 2018 at Mott Center. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:321
+Damien Dante Wayans and Yitzhak Rabin started a conversation at the gallery. People can enter for free to take a look at some items from the museum. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:322
+George C. Marshall and Lee Tae-gon bumped into each other at the school sports event. The festival is run by the United Methodist Church. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:323
+Newt Gingrich and Johann Jakob Wick bumped into each other at the alumni event. This event is to help make the community a better place. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:324
+Mamo Clark and Sonia Alfano came across each other at the art expo. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:325
+Heinrich Joseph von Collin and Newt Gingrich started a conversation at the yoga class. The yoga class lasts around 24 - 27 minutes. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:326
+Seda Aznavour and Sonia Alfano came across each other at the house party. The party is the best place to see the first of the season after winning the last four and getting to watch all six for the same reason. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:327
+At the job fair, Gerald Weinberg and Dexter Scott King started a conversation. These events and events help the local community become more active, and the whole community grows through these programs. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:328
+At the specialty retail store, Ralph Nader and Larry Sellers started a conversation. The market is still in the early stages of finding out what's best. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:329
+Daniel Lapaine and Edvard Munch started a conversation at the new year party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:330
+At the religious and spiritual gathering, Sonia Alfano and Mamo Clark met. Community service is wonderful. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:331
+At the yoga class, Adlai Stevenson II and Paul Cézanne started a conversation. During a yoga session, sometimes, people feel that the breathing is becoming more relaxed, and the movement a bit easier to perform. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:332
+At the cigar bar, Maddie Ziegler and Clara Thompson started a conversation. The other beverages served here are ok. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:333
+Milly Witkop and Natalie Portman started a conversation at the job fair. It is open to the public. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:334
+At the high intensity class, Johann Jakob Wick and Lee Tae-gon started a conversation. All the group members have the freedom to get together. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:335
+Crystal Harris and Seda Aznavour started a conversation at the subway. Many routes and public lanes will see changes and closures within the next year. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:336
+Mamo Clark and Leslie Kaplan started a conversation at the music festival. There is also a very high rate of volunteerism in the events. She pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:337
+Danielle Trussoni and Mamo Clark started a conversation at the food co-op. The other items that are great here are the coffee creamer. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:338
+Sonia Alfano and Seda Aznavour started a conversation at the party. The party is at noon in the main hall of the building. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:339
+Zacharias Wagenaer and Theodore Roosevelt Jr. came across each other at the art expo. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:340
+At the school sports event, Paolo Veronese and Prabhu Ganesan met. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:341
+Lee Tae-gon and Theodore Roosevelt came across each other at the club. On weekend nights, this place is crowded. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:342
+Damien Dante Wayans and Kwame Nkrumah came across each other at the art expo. The event is still scheduled at the end of May for a crowd of around 200. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:343
+Hieronymus Bosch and Michael Wayne came across each other at the cigar bar. The place was crowded. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:344
+Larry Sellers and Mustafa Kemal Atatürk bumped into each other at the group vacation. The tour is limited to ten spots a day. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:345
+At the gallery, Solange Knowles and Kate Bosse-Griffiths met. The museum has art exhibitions sometimes. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:346
+Natalie Portman and Sonia Alfano started a conversation at the school sports event. A large number of people attend these events. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:347
+At the high intensity class, Zacharias Wagenaer and Albrecht Dürer met. Every class takes 7 to 13 minutes or more to become complete. He told anecdotes from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:348
+At the bike tour, Don Diamond and Veit Dietrich met. The tour is an annual event held in Phoenix, Arizona in which nearly 2,000 members of more than 250 religious traditions, from the Roman Catholic Church to Mormons and even some Christian denominations, march in celebration of Sunday's mass. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:349
+Enid Bagnold and Brooke Shields came across each other at the cooking class. The classes teach the same number of skills expected in a business class. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:350
+Jean Dubuffet and Andy Breckman came across each other at the food co-op. The drinks are served on time. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:351
+At the job fair, Maddie Ziegler and Sonia Alfano started a conversation. A lot of people are always talking and eating together. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:352
+Kylie Jenner and Sonia Alfano bumped into each other at the car show. The main reason for visiting these places is to explore new areas of the city. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:353
+Joseph Beuys and Dominic Rains came across each other at the yoga class. Yoga is the best solution to all the problems related to stress. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:354
+Cindy Crawford and Natalie Babbitt started a conversation at the school sports event. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:355
+At the car show, Solange Knowles and Mamo Clark met. A lot of people participate in these events! She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:356
+Anastasio Somoza Debayle and Hieronymus Bosch started a conversation at the birthday party. The party is designed to be an enjoyable party, but not all will enjoy the view. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:357
+Ted Kennedy and John R. Neill came across each other at the car show. Many of the events are very popular in the city. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:358
+Paolo Veronese and Thilo Irmisch started a conversation at the cigar bar. The drinks are served on time. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:359
+Kathleen E. Woodiwiss and Solange Knowles came across each other at the poolside event. The event is free and open to all people. She pondered whether choosing working in fashion and modeling clothes and accessories as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:360
+Sonia Alfano and Seda Aznavour came across each other at the school reunion. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:361
+At the business meet, Sonia Alfano and Seda Aznavour started a conversation. Participation is the best way is to get the most out of these festivals! She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:362
+Camille Pissarro and Damien Dante Wayans came across each other at the religious and spiritual gathering. We have to work together through different platforms. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:363
+Damien Dante Wayans and Strom Thurmond bumped into each other at the dance class. Classes use tasks which are very common and have multiple modules. He pondered whether choosing acting in a play or a movie as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:364
+At the religious and spiritual gathering, Gamal Abdel Nasser and Roger Aaron Brown met. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. He told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:365
+At the party, Jean Dubuffet and Harry S. Truman met. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:366
+Heinrich Meibom and Ted Kennedy started a conversation at the school sports event. It is open to the public. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:367
+Dominic Rains and Paolo Veronese started a conversation at the religious and spiritual gathering. The community has an open kitchen. He pondered whether choosing painting pictures or the interior and exterior of buildings professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:368
+Maddie Ziegler and Seda Aznavour started a conversation at the school reunion. The event is still underway. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:369
+Mamo Clark and Sonia Alfano bumped into each other at the business meet. It has been said that all the different cultural events can be fun! She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:370
+At the house party, Luise Büchner and Sonia Alfano started a conversation. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:371
+Mustafa Kemal Atatürk and Zacharias Wagenaer bumped into each other at the trivia night. It is being held to commemorate the 70's and 80's people. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:372
+Natalie Portman and Enid Bagnold came across each other at the theater festival. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:373
+At the high intensity class, Theodore Roosevelt Jr. and Cameron Kennedy started a conversation. The class has interesting sessions. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:374
+At the high intensity class, Kirsten Dunst and Nancy A. Collins started a conversation. Every class takes 7 to 13 minutes or more to become complete. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:375
+At the business meet, Hieronymus Bosch and Joe Biden met. This is a very busy and demanding schedule for the members of the community. He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:376
+Sonia Alfano and Clara Thompson started a conversation at the yoga class. The yoga class lasts for as long as the participants like. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:377
+Adlai Stevenson II and Thilo Irmisch started a conversation at the job fair. The event is still scheduled at the end of May for a crowd of around 200. He told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:378
+Kylie Jenner and Seda Aznavour came across each other at the trivia night. Many of the events are very popular in the city. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:379
+Nia Jax and Mamo Clark bumped into each other at the high intensity class. It is easy to find and enjoy the classes. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:380
+Seda Aznavour and Crystal Harris bumped into each other at the poolside event. The main reason for visiting these places is to explore new areas of the city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:381
+Sonia Alfano and Kathleen E. Woodiwiss bumped into each other at the party. The party is sponsored by the Patriots. She told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:382
+Emil Nolde and Richard Nixon started a conversation at the fundraiser. It is open to the public. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:383
+Veit Dietrich and Ted Kennedy bumped into each other at the new year party. The party is free entry for everyone. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:384
+Gerald Weinberg and Adlai Stevenson II came across each other at the halloweeen party. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. He pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:385
+At the subway, Veit Dietrich and Daniel Lapaine started a conversation. Each public bus will have a fixed schedule. He told anecdotes from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:386
+At the poolside event, Damien Dante Wayans and Camille Pissarro started a conversation. The main reason for visiting these places is to explore new areas of the city. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:387
+Nia Jax and Enid Bagnold came across each other at the trivia night. It takes time to develop the cultural component of a event, particularly in an already huge city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:388
+Mamo Clark and Halle Berry came across each other at the bike tour. The tour is also the longest walk on the tour. She told anecdotes from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:389
+At the school reunion, Lily Collins and Seda Aznavour started a conversation. This is a very busy and demanding schedule for the members of the community. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:390
+At the poolside event, Seda Aznavour and Sonia Alfano started a conversation. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:391
+Sonia Alfano and Huarui bumped into each other at the open gallery museum. On the museum wall is a framed mosaic, made up of images of creatures from a world that we think were at least 200 million years. She pondered whether choosing writing books or novels professionally as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:392
+William McKinley and Prabhu Ganesan bumped into each other at the high intensity class. It's a huge place! He pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:393
+At the group vacation, Mamo Clark and Sonia Alfano met. The tour is limited to ten spots a day. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:394
+At the gallery, Douangdeuane Viravongs and Sonia Alfano started a conversation. Earlier this year, the entrance to the museum was free. She pondered whether choosing seeking an elected seat in government as a career was a wise decision.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:395
+Spencer Garrett and Georg Major bumped into each other at the gallery. The museums show how the city looked thousands of years ago. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:396
+At the party, Ottilie von Goethe and Mamo Clark started a conversation. The party is also filled by the band. She told anecdotes from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:397
+Seda Aznavour and Sonia Alfano bumped into each other at the art expo. The event is still scheduled at the end of May for a crowd of around 200. She told anecdotes from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:398
+At the group vacation, Sonia Alfano and Seda Aznavour started a conversation. Tours help one discover the city. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_2_ents/full-text/validation:399
+Kwame Nkrumah and Larry Sellers bumped into each other at the birthday party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. He reflected on whether acting in a play or a movie for a living was a good career choice.

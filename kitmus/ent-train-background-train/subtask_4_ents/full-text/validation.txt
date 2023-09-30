@@ -1,0 +1,1199 @@
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:0
+At the park, Kathleen E. Woodiwiss, Jade Jagger, Sonia Alfano, and Mo Collins encountered each other. The park has a lot of gardens. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:1
+Vincent van Gogh, Ron Paul, Hermann Brockhaus, and Nico Minardos came across each other at the ski resort party. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:2
+At the food court, Vic Armstrong, Pierre-Auguste Renoir, Rajiv Gandhi, and Heinrich Ritter bumped into each other. The beer is excellent. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:3
+At the sports bar, Sonia Alfano, Mo Collins, Leslie Kaplan, and Ciara met. It is a quiet spot to hang out, it would definitely leave people satisfied. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:4
+Charlize Theron, Sonia Alfano, Mary Anne Clarke, and Mo Collins came across each other at the design expo. The event is still scheduled at the end of May for a crowd of around 200. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:5
+Pierre-auguste Renoir, Björn Gustafson, Richard Nixon, and Franz Xaver Haberl ran into each other at the food and drink festival. It is being held to commemorate the 70's and 80's people. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:6
+Sonia Alfano, Ottilie Wildermuth, Kirsten Dunst, and Mo Collins ran into each other at the business expo. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:7
+At the food co-op, Franz Xaver Haberl, Sinan Albayrak, David Hockney, and Ziaur Rahman met. The food here is very tasty. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:8
+Sonia Alfano, Natalie Portman, Natalie Babbitt, and Mo Collins came across each other at the club. The place is nice. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:9
+At the food court, Sonia Alfano, Milly Witkop, Amy Smart, and Mo Collins encountered each other. People ca n't be too disappointed at the spot for cheap coffee. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:10
+Gerald Weinberg, Jimmy Carter, Dexter Scott King, and Pierre-Auguste Renoir came across each other at the paintball courses. The classes usually begin before work. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:11
+At the park, Joseph P. Kennedy Sr., Gustav Klimt, Zacharias Wagenaer, and Michael Wayne bumped into each other. The picnic line is very short in this park. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:12
+At the halloweeen party, Lily Collins, Alicia Ostriker, Sonia Alfano, and Mo Collins bumped into each other. The party is sponsored by the Patriots. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:13
+Heinrich Meibom, Don Diamond, Ziaur Rahman, and Albrecht Dürer came across each other at the improvisation class. Classes teach new things every week. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:14
+At the boardwalk arcade, Arnold Schoenberg, Ludger Pistor, John Howard, and John R. Neill bumped into each other. There are some good options for food too. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:15
+At the party, Johann Jakob Wick, Michael Wayne, Cy Twombly, and Richard Nixon encountered each other. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:16
+Sonia Alfano, Gisela Elsner, Amy Smart, and Mo Collins came across each other at the archery class. The class is fun! After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:17
+At the museum tour, Sinan Albayrak, Friedrich Lorentz, Rudy Giuliani, and Dante Gabriel Rossetti met. Museums have free exhibitions. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:18
+At the retreat, Dante Gabriel Rossetti, John R. Neill, John Howard, and Dexter Scott King met. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:19
+At the food and drink festival, David Hockney, Ludger Pistor, Zacharias Wagenaer, and Kwame Nkrumah encountered each other. The event is being held on Friday, July 8, 2018 at Mott Center. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:20
+At the business expo, Birgit Zotz, Sonia Alfano, Jade Jagger, and Mo Collins bumped into each other. It is being held to commemorate the 70's and 80's people. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:21
+At the dance class, Arnold Schoenberg, Otto Sutermeister, David Dinkins, and Nico Minardos encountered each other. Classes use tasks which are very common and have multiple modules. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:22
+At the gallery, Sonia Alfano, Alicia Ostriker, Mo Collins, and Kirsten Dunst encountered each other. The museum has any important buildings, like the Museum of Archaeology in Baltimore. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:23
+Dante Gabriel Rossetti, Ludger Pistor, David Dinkins, and Heinrich Meibom ran into each other at the community service day event. A variety of services, like the Community Safety Team, can be added to keep communities safe if they make the right decision in terms of safety. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:24
+At the museum, Veit Dietrich, Frank Frazetta, Ramón Barea, and George W. Bush encountered each other. People can browse the displays and learn more about the history and culture of the museum. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:25
+At the dance class, Mo Collins, Lily Collins, Barbara Wood, and Sonia Alfano met. The classes sometimes have "class" games. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:26
+At the party, John MacGregor, Ramón Barea, George H. W. Bush, and Cy Twombly met. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:27
+At the public transport, Sonia Alfano, Marjorie Grene, Mo Collins, and Liv Tyler encountered each other. The public transport can move at all times without interruption. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:28
+At the high intensity class, Ogdo Aksyonova, Sonia Alfano, Megan Fox, and Mo Collins encountered each other. The classes sometimes have "class" games. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:29
+David Hockney, Ziaur Rahman, Dexter Scott King, and John MacGregor came across each other at the community service day event. The community is moving through a number of options that would provide greater support to the community in future. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:30
+Sonia Alfano, Mo Collins, Ciara, and Astrid Hjertenæs Andersen came across each other at the high intensity class. The class is fun! She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:31
+At the food co-op, Johann Friedrich Rochlitz, Joseph P. Kennedy Sr., Spencer Garrett, and Gustav Klimt encountered each other. The service was great - it was only 0.90 $ for the coffee. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:32
+Ramón Barea, Albrecht Dürer, George McGovern, and John MacGregor came across each other at the gallery. The museum has an enormous collection of famous paintings. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:33
+Veit Dietrich, Spencer Garrett, David Hockney, and Franklin D. Roosevelt ran into each other at the music and art festival. The event is free and open to all people. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:34
+At the public transport, Ottilie von Goethe, Sonia Alfano, Solange Knowles, and Mo Collins bumped into each other. Please note that the bus routes for each vehicle are subject to change while they are in operation. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:35
+At the retreat, Sonia Alfano, Mo Collins, Gabrielle Union, and Gisela Elsner met. The party is designed to be an enjoyable party, but not all will enjoy the view. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:36
+At the concert, Sonia Alfano, Lily Collins, Mo Collins, and Edith Gyömrői Ludowyk bumped into each other. It is being held to commemorate the 70's and 80's people. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:37
+At the park, Natalie Babbitt, Solange Knowles, Mo Collins, and Sonia Alfano bumped into each other. The park has a lot of gardens. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:38
+Gustav Klimt, Heinrich Meibom, Nico Minardos, and Rajiv Gandhi ran into each other at the fundraiser. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:39
+At the food festival, Liv Tyler, Sonia Alfano, Lizzie Doron, and Mo Collins met. It is open to the public. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:40
+At the club, Stanisław Radziwiłł, Cy Twombly, Nico Minardos, and Hermann Brockhaus encountered each other. The atmosphere was nice. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:41
+Björn Gustafson, Anwar Sadat, John R. Neill, and Arnold Schoenberg ran into each other at the concert. There is also a very high rate of volunteerism in the events. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:42
+Kirsten Dunst, Mo Collins, Ottilie Wildermuth, and Sonia Alfano came across each other at the beach. The beach is much cleaner than the most popular beach of the city. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:43
+At the archery class, Richard Nixon, Heinrich Meibom, Spencer Garrett, and Pierre-Auguste Renoir met. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:44
+At the specialty retail store, Sonia Alfano, Kirsten Dunst, Gisela Elsner, and Mo Collins bumped into each other. The market is a big source of income for many people. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:45
+At the public transport, Sonia Alfano, Kirsten Dunst, Milly Witkop, and Mo Collins encountered each other. Each public bus will have a fixed schedule. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:46
+At the charity run, Mo Collins, Douangdeuane Viravongs, Sonia Alfano, and Lily Collins met. Many people enjoy sports in general but not some game like basketball, baseball and hockey in an indoor sport. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:47
+At the museum tour, Mo Collins, Kirsten Dunst, Natalie Babbitt, and Sonia Alfano met. This museum and art is what we need more of. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:48
+At the improvisation class, Mo Collins, Lizzie Doron, Sonia Alfano, and Charlize Theron bumped into each other. The class has interesting sessions. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:49
+At the business expo, William Howard Taft, Johann Jakob Wick, Piero Chiambretti, and Cy Twombly bumped into each other. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:50
+At the french class, Sonia Alfano, Ottilie Wildermuth, Mo Collins, and Gabrielle Union bumped into each other. Classes use tasks which are very common and have multiple modules. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:51
+At the job fair, Mo Collins, Megan Fox, Sonia Alfano, and Adrienne Thomas met. It is open to the public. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:52
+Sonia Alfano, Charlize Theron, Mo Collins, and Milly Witkop came across each other at the ski resort party. The party is going to be full. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:53
+Sonia Alfano, Natalie Portman, Mo Collins, and Mary Anne Clarke came across each other at the park. There are different varieties of plants here! After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:54
+Liv Tyler, Sonia Alfano, Birgit Zotz, and Mo Collins ran into each other at the archery class. The class has interesting sessions. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:55
+At the halloweeen party, Gustav Klimt, Ludger Pistor, Hermann Brockhaus, and George W. Romney encountered each other. The party is free entry for everyone. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:56
+At the improvisation class, John Howard, Frank Frazetta, Heinrich Meibom, and Sinan Albayrak bumped into each other. The class tries to make the course enjoyable. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:57
+At the cooking class, Cy Twombly, Piero Chiambretti, Veit Dietrich, and Stanisław Radziwiłł met. The class requires the students to read and comprehend the course material and understand the various topics. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:58
+Zacharias Wagenaer, Piero Chiambretti, Vincent van Gogh, and David Dinkins came across each other at the park. Most of the time people just sit here watching the birds or the dogs. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:59
+At the ski resort party, Joseph Horovitz, Sinan Albayrak, Ziaur Rahman, and Vincent van Gogh met. The party is sponsored by the Patriots. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:60
+At the park, Sonia Alfano, Douangdeuane Viravongs, Lily Collins, and Mo Collins met. The trees are very nice for watching birds. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:61
+At the music and art festival, Joseph P. Kennedy Sr., Arnold Schoenberg, Michael Wayne, and Otto Sutermeister bumped into each other. Many of the events are very popular in the city. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:62
+Jennifer Morrison, Marie Takvam, Sonia Alfano, and Mo Collins came across each other at the gallery. The museum has many ancient things. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:63
+At the charity run, Marilyn Monroe, Sonia Alfano, Kathleen E. Woodiwiss, and Mo Collins bumped into each other. The games are a lot of fun. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:64
+At the networking event, Zacharias Wagenaer, Don Diamond, Dante Gabriel Rossetti, and Joseph P. Kennedy II bumped into each other. The festival is run by the United Methodist Church. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:65
+Sonia Alfano, Charlize Theron, Ottilie von Goethe, and Mo Collins ran into each other at the fundraiser. It is a very informal and there is no money to spend on these events. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:66
+Arved Fuchs, Dante Gabriel Rossetti, Ross Perot, and Dexter Scott King came across each other at the high intensity class. The class has interesting sessions. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:67
+Sonia Alfano, Liz Greene, Mo Collins, and Lily Collins came across each other at the cooking class. Classes take place every Friday at 8:00 pm. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:68
+At the retreat, Sonia Alfano, Amy Smart, Mo Collins, and Esther Bendahan encountered each other. The party is sponsored by the Patriots. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:69
+At the design expo, Arnold Schoenberg, Nico Minardos, Friedrich Lorentz, and Ron Paul encountered each other. These events and events help the local community become more active, and the whole community grows through these programs. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:70
+At the specialty retail store, Vincent van Gogh, Joseph P. Kennedy II, Friedrich Lorentz, and Björn Gustafson met. The market is still so volatile at this time of the year. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:71
+At the cooking class, Gabrielle Union, Sonia Alfano, Mo Collins, and Ogdo Aksyonova bumped into each other. Classes have a special event called a "Shuffle Jam". After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:72
+At the dance class, Marie Takvam, Sonia Alfano, Mo Collins, and Ashley Benson bumped into each other. The classes teach the same number of skills expected in a business class. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:73
+At the public transport, Liv Tyler, Sonia Alfano, Leslie Kaplan, and Mo Collins met. The public buses are comfortable to ride. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:74
+At the improvisation class, Mo Collins, Charlize Theron, Marie Takvam, and Sonia Alfano bumped into each other. The class is fun! She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:75
+At the improvisation class, Ludger Pistor, Arnold Schoenberg, John Connally, and Thorwald Proll bumped into each other. The class has interesting sessions. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:76
+Alfred Weidenmann, Vincent van Gogh, John Howard, and Ludger Pistor ran into each other at the museum tour. Museums are definitely not boring! He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:77
+At the coffee shop, Ashley Benson, Mo Collins, Esther Bendahan, and Sonia Alfano met. The coffee tea is great. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:78
+At the sports bar, Mo Collins, Sonia Alfano, Lily Collins, and Ogdo Aksyonova met. The spot is located just a short walk away from the main park. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:79
+Lauren Brooke, Mo Collins, Sonia Alfano, and Jade Jagger ran into each other at the paintball courses. Classes take place every week at the downtown campus. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:80
+Solange Knowles, Sonia Alfano, Liz Greene, and Mo Collins came across each other at the charity run. In the past year the whole city has been excited about this place. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:81
+Sonia Alfano, Mo Collins, Ashley Benson, and Birgit Zotz came across each other at the community service day event. The service is what all the people have been working to do. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:82
+Franz Xaver Haberl, Franklin D. Roosevelt, Arnold Schoenberg, and Piero Chiambretti came across each other at the community service day event. The community is at a crossroads here. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:83
+At the club, Albrecht Dürer, John Connally, Ramón Barea, and Hermann Simon bumped into each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:84
+At the food and drink festival, Mo Collins, Sonia Alfano, Jennifer Morrison, and Leslie Kaplan encountered each other. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:85
+Nancy A. Collins, Mo Collins, Marilyn Monroe, and Sonia Alfano came across each other at the business expo. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:86
+Frank Frazetta, Joseph Horovitz, Cameron Kennedy, and George H. W. Bush ran into each other at the networking event. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:87
+Ramón Barea, Hermann Brockhaus, Joseph P. Kennedy II, and Cy Twombly came across each other at the french class. Classes teach new things every week. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:88
+Charlize Theron, Marie Takvam, Mo Collins, and Sonia Alfano came across each other at the museum tour. The museum has no such thing as free entry. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:89
+At the high intensity class, Hermann Brockhaus, Vic Armstrong, Vincent van Gogh, and Rajiv Gandhi bumped into each other. The class is fun! He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:90
+At the coffee shop, Mo Collins, Suzan-Lori Parks, Natalie Portman, and Sonia Alfano met. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:91
+At the beach, Gerald Weinberg, Cy Twombly, Harry S. Truman, and Cameron Kennedy met. The beach is much cleaner than the most popular beach of the city. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:92
+Strom Thurmond, Zacharias Wagenaer, Arnold Schoenberg, and Ludger Pistor came across each other at the public transport. The subway and streetcar routes generally go through downtown, so it's possible at any time that people could be waiting on another group of people on a regular bus. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:93
+At the beach, Franklin D. Roosevelt, Franz Xaver Haberl, Vincent van Gogh, and Don Diamond encountered each other. The beach is full of a sense of awe and awe - inspiring beauty. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:94
+Sonia Alfano, Mo Collins, Liz Greene, and Marilyn Monroe came across each other at the food court. The coffee tastes good. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:95
+At the charity run, George W. Romney, Ramón Barea, Pierre-Auguste Renoir, and Joseph Horovitz encountered each other. It feels good to have a different sense of environment. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:96
+Arnold Schoenberg, John R. Neill, George W. Bush, and Michael Wayne ran into each other at the food and drink festival. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:97
+Hermann Simon, Richard Nixon, Prabhu Ganesan, and Vincent van Gogh came across each other at the boardwalk arcade. Nearly everyone loves sports and games. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:98
+At the food festival, Mo Collins, Barbie, Kathleen E. Woodiwiss, and Sonia Alfano met. It is open to the public. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:99
+At the food festival, Lauren Brooke, Jennifer Morrison, Sonia Alfano, and Mo Collins encountered each other. The main reason for visiting these places is to explore new areas of the city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:100
+At the fundraiser, Gustav Klimt, John MacGregor, Stanisław Radziwiłł, and Björn Gustafson encountered each other. Many of the events are very popular in the city. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:101
+Milly Witkop, Sonia Alfano, Marilyn Monroe, and Mo Collins ran into each other at the dance class. The class has interesting sessions. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:102
+Jennifer Morrison, Mo Collins, Sonia Alfano, and Ogdo Aksyonova came across each other at the sports bar. It is a quiet spot to hang out, it would definitely leave people satisfied. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:103
+Pierre-auguste Renoir, David Dinkins, Don Diamond, and Alfred Weidenmann came across each other at the food festival. Many of the events are very popular in the city. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:104
+Ottilie Wildermuth, Sonia Alfano, Mo Collins, and Solange Knowles ran into each other at the wine tasting. The drinks are served on time. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:105
+At the party, David Hockney, Ramón Barea, Thorwald Proll, and Strom Thurmond bumped into each other. The party is also filled by the band. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:106
+Sonia Alfano, Ottilie von Goethe, Mo Collins, and Kirsten Dunst came across each other at the food festival. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:107
+Joseph P. Kennedy Sr., Zacharias Wagenaer, Dexter Scott King, and Cy Twombly came across each other at the design expo. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:108
+At the boardwalk arcade, Hermann Simon, George McGovern, Vic Armstrong, and David Hockney encountered each other. The city is a great place to find something to do. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:109
+At the improvisation class, Sonia Alfano, Gabrielle Union, Mo Collins, and Barbara Wood met. Each session teaches a different theme. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:110
+Arnold Schoenberg, Don Diamond, Heinrich Meibom, and Ziaur Rahman came across each other at the specialty retail store. The markets are one of the favorite venues in town. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:111
+Jamie Selkirk, Juan Perón, Albrecht Dürer, and Heinrich Meibom ran into each other at the coffee shop. The beer is excellent. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:112
+At the business expo, Liv Tyler, Mo Collins, Barbara Wood, and Sonia Alfano encountered each other. The main reason for visiting these places is to explore new areas of the city. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:113
+Kathleen E. Woodiwiss, Sonia Alfano, Mo Collins, and Lily Collins came across each other at the beach. The beach is much cleaner than the most popular beach of the city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:114
+Sonia Alfano, Mo Collins, Liv Tyler, and Gisela Elsner ran into each other at the park. There are different varieties of plants here! After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:115
+Mo Collins, Sonia Alfano, Marie Takvam, and Charlize Theron came across each other at the concert. This is a very busy and demanding schedule for the members of the community. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:116
+At the fundraiser, Johann Friedrich Rochlitz, Sinan Albayrak, George W. Bush, and Dante Gabriel Rossetti bumped into each other. The event is still underway. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:117
+At the public transport, Megan Fox, Sonia Alfano, Esther Bendahan, and Mo Collins met. Each public bus will have a fixed schedule. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:118
+At the museum, Sonia Alfano, Liv Arnesen, Jade Jagger, and Mo Collins bumped into each other. The museum help learn about the history of a particular place. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:119
+Harry S. Truman, Joseph Horovitz, Vincent van Gogh, and Nico Minardos ran into each other at the halloweeen party. The party is filled with local and national celebrities and entertainers. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:120
+Albrecht Dürer, Björn Gustafson, Juan Perón, and Friedrich Lorentz came across each other at the cooking class. Every class takes 7 to 13 minutes or more to become complete. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:121
+John Howard, Alfred Weidenmann, Arnold Schoenberg, and Sinan Albayrak ran into each other at the retreat. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:122
+At the cooking class, Mo Collins, Barbara Wood, Sonia Alfano, and Marilyn Monroe met. It's a huge place! She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:123
+Sonia Alfano, Kirsten Dunst, Mo Collins, and Birgit Zotz ran into each other at the party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:124
+Kathleen E. Woodiwiss, Mo Collins, Marilyn Monroe, and Sonia Alfano came across each other at the fundraiser. The event is still scheduled at the end of May for a crowd of around 200. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:125
+At the food festival, Sonia Alfano, Esther Bendahan, Mo Collins, and Marilyn Monroe bumped into each other. It has been said that all the different cultural events can be fun! She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:126
+Albrecht Dürer, Veit Dietrich, Ramón Barea, and Harry S. Truman ran into each other at the music and art festival. This event is to help make the community a better place. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:127
+At the wine tasting, Dexter Scott King, Heinrich Meibom, Harry S. Truman, and Albrecht Dürer encountered each other. On weekend nights, this place is crowded. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:128
+At the party, Sonia Alfano, Mo Collins, Barbara Wood, and Natalie Portman met. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:129
+Albrecht Dürer, Ramón Barea, John MacGregor, and Kwame Nkrumah came across each other at the walking tour. Tours show all the important places in a city. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:130
+Sonia Alfano, Ciara, Mo Collins, and Barbara Wood came across each other at the boardwalk arcade. People can play games on stage and not worry about what is going on in the background. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:131
+At the design expo, Sonia Alfano, Mo Collins, Jennifer Morrison, and Mary Anne Clarke encountered each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:132
+At the museum tour, Sonia Alfano, Jennifer Morrison, Mo Collins, and Suzan-Lori Parks met. The museums show how the city looked thousands of years ago. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:133
+Simon Jones, Joseph Horovitz, Arnold Schoenberg, and Joseph P. Kennedy II came across each other at the ski resort party. The party is a "pony - house holiday" in which young people celebrate together by eating chocolate and drinking champagne at the same time. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:134
+At the wine tasting, Arnold Schoenberg, Jamie Selkirk, Rajiv Gandhi, and Friedrich Lorentz bumped into each other. The place is the first stop on the way to the park. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:135
+At the club, Woodrow Wilson, Gustav Klimt, Alfred Weidenmann, and Don Diamond encountered each other. The other beverages served here are ok. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:136
+At the museum, Mo Collins, Alicia Ostriker, Sonia Alfano, and Gabrielle Union encountered each other. This museum and art is what we need more of. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:137
+Liv Tyler, Sonia Alfano, Leslie Kaplan, and Mo Collins came across each other at the improvisation class. Classes take place every week at the downtown campus. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:138
+Mo Collins, Leslie Kaplan, Amy Smart, and Sonia Alfano ran into each other at the gallery. The museum has no such thing as free entry. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:139
+At the beach, Londa Schiebinger, Mo Collins, Sonia Alfano, and Kirsten Dunst encountered each other. The beach is very quiet. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:140
+At the food festival, Sonia Alfano, Mo Collins, Birgit Zotz, and Natalie Portman encountered each other. The festival is run by the United Methodist Church. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:141
+Vic Armstrong, George W. Bush, Pierre-Auguste Renoir, and Thorwald Proll ran into each other at the party. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:142
+Charlize Theron, Mo Collins, Esther Bendahan, and Sonia Alfano ran into each other at the paintball courses. Classes teach new things every week. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:143
+Nico Minardos, Franz Xaver Haberl, John Connally, and Pierre-Auguste Renoir came across each other at the halloweeen party. The party is free entry for everyone. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:144
+Frank Frazetta, John R. Neill, Ramón Barea, and Ziaur Rahman came across each other at the halloweeen party. The party is sponsored by the Patriots. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:145
+At the sports bar, Nico Minardos, Pierre-Auguste Renoir, Joseph Horovitz, and Anwar Sadat encountered each other. The food here is very tasty. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:146
+At the beach, Stanisław Radziwiłł, Franz Xaver Haberl, Jamie Selkirk, and Cy Twombly bumped into each other. For years, there was very little activity to this point in the sand of the beach, and now it's all but empty. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:147
+Mo Collins, Marilyn Monroe, Londa Schiebinger, and Sonia Alfano came across each other at the community service day event. Community service is wonderful. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:148
+At the museum, Nancy A. Collins, Sonia Alfano, Mo Collins, and Kirsten Dunst bumped into each other. This museum and art is what we need more of. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:149
+Sonia Alfano, Astrid Hjertenæs Andersen, Ashley Benson, and Mo Collins ran into each other at the food and drink festival. A lot of people are always talking and eating together. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:150
+At the music and art festival, Mo Collins, Gisela Elsner, Kirsten Dunst, and Sonia Alfano met. A lot of people are always talking and eating together. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:151
+At the community service day event, Johann Friedrich Rochlitz, George W. Bush, Pierre-Auguste Renoir, and Jamie Selkirk met. The community is at a crossroads here. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:152
+At the community service day event, Joe Manchin, Dexter Scott King, Alfred Weidenmann, and Gustav Klimt bumped into each other. We all live our lives trying to feed each other and the community. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:153
+At the concert, Albrecht Dürer, Hermann Simon, Ludger Pistor, and Dwight D. Eisenhower encountered each other. Participation is the best way is to get the most out of these festivals! He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:154
+At the club, Lily Collins, Astrid Hjertenæs Andersen, Sonia Alfano, and Mo Collins met. The other items that are great here are the coffee creamer. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:155
+Nico Minardos, Heinrich Meibom, Gustav Klimt, and Joseph P. Kennedy Sr. came across each other at the networking event. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:156
+At the public transport, Ciara, Mo Collins, Sonia Alfano, and Adrienne Thomas met. Public transportation also includes safe - weather service. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:157
+At the public transport, John R. Neill, Gustav Klimt, Dexter Scott King, and Juan Perón bumped into each other. Many routes and public lanes will see changes and closures within the next year. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:158
+At the public transport, Jennifer Morrison, Liv Arnesen, Sonia Alfano, and Mo Collins encountered each other. People have different schedules. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:159
+Sonia Alfano, Mo Collins, Natalie Babbitt, and Amy Smart ran into each other at the food co-op. The staff is attentive and friendly. It's nice that they had a nice view of the area. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:160
+Harry S. Truman, Michael Wayne, Pierre-Auguste Renoir, and Friedrich Lorentz came across each other at the food court. The other items that are great here are the coffee creamer. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:161
+At the ski resort party, Barbara Wood, Barbie, Sonia Alfano, and Mo Collins bumped into each other. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:162
+Dennis Hastert, Nico Minardos, Albrecht Dürer, and Thorwald Proll ran into each other at the paintball courses. Classes use tasks which are very common and have multiple modules. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:163
+Patrice Lumumba, Gustav Klimt, Friedrich Lorentz, and Michael Wayne ran into each other at the ski resort party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:164
+At the ski resort party, Dexter Scott King, Frank Frazetta, George McGovern, and Hermann Simon encountered each other. The party is designed to be an enjoyable party, but not all will enjoy the view. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:165
+Piero Chiambretti, David Hockney, Alfred Weidenmann, and Strom Thurmond came across each other at the retreat. Everyone is invited to pick up their own table, sit a little closer and enjoy a glass of wine in a place that's less crowded than it is. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:166
+Heinrich Meibom, Gustav Klimt, Vic Armstrong, and Woodrow Wilson ran into each other at the dance class. It's a huge place! After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:167
+At the high intensity class, Ziaur Rahman, Albrecht Dürer, Friedrich Lorentz, and Jamie Selkirk met. The class is extremely motivating. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:168
+At the party, Mo Collins, Londa Schiebinger, Solange Knowles, and Sonia Alfano encountered each other. The party is filled with local and national celebrities and entertainers. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:169
+Barbie, Mo Collins, Sonia Alfano, and Liz Greene came across each other at the walking tour. The tour is sponsored by the CAA, an advocacy group that's been campaigning to get schools to make changes to the Pledge of Allegiance. Last year, a federal judge ordered schools to end the practice. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:170
+At the food and drink festival, Mo Collins, Sonia Alfano, Liv Tyler, and Ogdo Aksyonova bumped into each other. Many of the events are very popular in the city. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:171
+Joe Manchin, Dante Gabriel Rossetti, Michael Wayne, and Veit Dietrich came across each other at the specialty retail store. The markets are one of the favorite venues in town. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:172
+At the museum tour, Ogdo Aksyonova, Marilyn Monroe, Mo Collins, and Sonia Alfano bumped into each other. The museum is in a historic district of central Athens and the main market district, which has become a major tourism destination, is the heart of the ancient city. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:173
+Mo Collins, Ciara, Sonia Alfano, and Douangdeuane Viravongs came across each other at the paintball courses. Each session teaches a different theme. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:174
+At the party, Mo Collins, Natalie Portman, Sonia Alfano, and Nancy A. Collins encountered each other. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:175
+Londa Schiebinger, Solange Knowles, Sonia Alfano, and Mo Collins came across each other at the wine tasting. The food here has some of the best food in the city. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:176
+Cy Twombly, Heinrich Meibom, Nico Minardos, and Rajiv Gandhi ran into each other at the design expo. This event is to help make the community a better place. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:177
+At the club, Albrecht Dürer, Veit Dietrich, Patrice Lumumba, and Don Diamond encountered each other. The food here is very tasty. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:178
+Birgit Zotz, Sonia Alfano, Mo Collins, and Kirsten Dunst ran into each other at the job fair. The main reason for visiting these places is to explore new areas of the city. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:179
+At the boardwalk arcade, Jimmy Carter, Dante Gabriel Rossetti, Veit Dietrich, and Simon Jones encountered each other. It feels good to have a different sense of environment. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:180
+At the dance class, Jacques Chirac, Simon Jones, Friedrich Lorentz, and Gustav Klimt met. Classes take place every Friday at 8:00 pm. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:181
+At the fundraiser, Veit Dietrich, Vincent van Gogh, Jimmy Carter, and Nico Minardos encountered each other. Many of the events are very popular in the city. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:182
+At the dance class, Mo Collins, Kathleen E. Woodiwiss, Sonia Alfano, and Charlize Theron encountered each other. Every class takes 7 to 13 minutes or more to become complete. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:183
+At the coffee shop, David Dinkins, Don Diamond, Pierre-Auguste Renoir, and Veit Dietrich bumped into each other. The beer is excellent. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:184
+David Dinkins, Cy Twombly, Friedrich Lorentz, and Björn Gustafson ran into each other at the food co-op. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:185
+Barbara Wood, Sonia Alfano, Mo Collins, and Ciara ran into each other at the ski resort party. The party is free entry for everyone. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:186
+Hermann Brockhaus, Arnold Schoenberg, Piero Chiambretti, and George W. Romney came across each other at the high intensity class. All the group members have the freedom to get together. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:187
+At the public transport, Gabrielle Union, Mary Anne Clarke, Mo Collins, and Sonia Alfano met. Public transports are affordable. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:188
+At the food co-op, Ross Perot, Arnold Schoenberg, Joseph Horovitz, and Björn Gustafson met. Here, people can find someone to become friends with. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:189
+At the community service day event, Mo Collins, Lauren Brooke, Sonia Alfano, and Charlize Theron met. Community service is wonderful. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:190
+At the concert, Cy Twombly, Ramón Barea, Heinrich Meibom, and Ron Paul bumped into each other. Many of the events are very popular in the city. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:191
+Michael Wayne, Franklin D. Roosevelt, Arnold Schoenberg, and John R. Neill came across each other at the food festival. Participation is the best way is to get the most out of these festivals! He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:192
+Marie Takvam, Lily Collins, Mo Collins, and Sonia Alfano ran into each other at the wine tasting. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:193
+At the boardwalk arcade, Solange Knowles, Sonia Alfano, Leslie Kaplan, and Mo Collins encountered each other. It is a very relaxed atmosphere. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:194
+Cameron Kennedy, John Connally, Friedrich Lorentz, and Frank Frazetta ran into each other at the networking event. The event is free and open to all people. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:195
+At the walking tour, Jamie Selkirk, Alfred Weidenmann, Arnold Schoenberg, and Dennis Hastert bumped into each other. Tours can provide with an opportunity to meet foreigners. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:196
+At the charity run, Sonia Alfano, Amy Smart, Liz Greene, and Mo Collins bumped into each other. The weather is nice for games today. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:197
+Mo Collins, Sonia Alfano, Adrienne Thomas, and Solange Knowles came across each other at the sports bar. The other items that are great here are the coffee creamer. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:198
+At the food co-op, Sonia Alfano, Natalie Babbitt, Mo Collins, and Jade Jagger met. People ca n't be too disappointed at the spot for cheap coffee. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:199
+At the french class, Harry S. Truman, Ludger Pistor, Arved Fuchs, and David Hockney encountered each other. Classes provide fun and challenge. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:200
+At the walking tour, Arved Fuchs, Pierre-Auguste Renoir, Vic Armstrong, and George W. Bush met. The tour is held in the small town of Boulogne, North Rhine - Westphalia. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:201
+Strom Thurmond, Cy Twombly, John MacGregor, and Dexter Scott King ran into each other at the retreat. The party is also filled by the band. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:202
+Sonia Alfano, Ottilie Wildermuth, Mo Collins, and Solange Knowles came across each other at the museum tour. The museum has no such thing as free entry. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:203
+At the paintball courses, Albrecht Dürer, Stanisław Radziwiłł, Johann Jakob Wick, and Piero Chiambretti encountered each other. Classes teach new things every week. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:204
+Gustav Klimt, Ross Perot, John MacGregor, and Vic Armstrong ran into each other at the concert. The event is still underway. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:205
+Pierre-auguste Renoir, Spencer Garrett, Ziaur Rahman, and Alfred Weidenmann ran into each other at the food festival. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:206
+At the cooking class, Björn Gustafson, Jacques Chirac, John R. Neill, and Arnold Schoenberg bumped into each other. The class requires the students to read and comprehend the course material and understand the various topics. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:207
+Sonia Alfano, Adrienne Thomas, Mo Collins, and Jade Jagger came across each other at the food court. On weekend nights, this place is crowded. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:208
+At the community service day event, Arnold Schoenberg, Otto Sutermeister, Rudy Giuliani, and Don Diamond met. The community has an open kitchen. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:209
+At the food co-op, Esther Bendahan, Sonia Alfano, Mo Collins, and Jennifer Morrison met. There are a lot of vegetarian food options here. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:210
+Pierre-auguste Renoir, Gerald Weinberg, Piero Chiambretti, and Joe Manchin ran into each other at the public transport. Public transportation is good for daily commutes. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:211
+At the walking tour, Gustav Klimt, Franz Xaver Haberl, George W. Bush, and Jamie Selkirk met. The tour is limited to ten spots a day. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:212
+Sonia Alfano, Ottilie Wildermuth, Charlize Theron, and Mo Collins ran into each other at the fundraiser. A lot of people participate in these events! She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:213
+At the specialty retail store, Dexter Scott King, Patrice Lumumba, Johann Jakob Wick, and Gustav Klimt bumped into each other. The market is still so volatile at this time of the year. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:214
+At the ski resort party, Ludger Pistor, Franz Xaver Haberl, Gustav Klimt, and Strom Thurmond met. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:215
+At the halloweeen party, Cameron Kennedy, Arnold Schoenberg, Ross Perot, and Heinrich Meibom bumped into each other. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:216
+At the food and drink festival, Joseph P. Kennedy Sr., Arved Fuchs, Vincent van Gogh, and Spencer Garrett met. It is a very informal and there is no money to spend on these events. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:217
+Hermann Brockhaus, Ross Perot, Michael Wayne, and Dante Gabriel Rossetti ran into each other at the concert. This is a very busy and demanding schedule for the members of the community. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:218
+At the boardwalk arcade, Albrecht Dürer, Jacques Chirac, Otto Sutermeister, and Nico Minardos encountered each other. There is a lot of space to play games here. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:219
+Nico Minardos, Joe Manchin, Zacharias Wagenaer, and Dante Gabriel Rossetti ran into each other at the beach. The ocean is filled with these massive, swirling seas in the ocean bed just before the end of the solar eclipse and is composed mainly of the white carbon oceans. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:220
+At the walking tour, Mo Collins, Solange Knowles, Sonia Alfano, and Douangdeuane Viravongs met. The tour is an important part of the new generation. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:221
+Sonia Alfano, Lizzie Doron, Barbie, and Mo Collins ran into each other at the high intensity class. Classes provide fun and challenge. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:222
+At the specialty retail store, Mo Collins, Sonia Alfano, Jennifer Morrison, and Marjorie Grene met. The market is still in the early stages of finding out what's best. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:223
+At the charity run, Suzan-Lori Parks, Solange Knowles, Mo Collins, and Sonia Alfano encountered each other. The city is a great place to find something to do. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:224
+Jennifer Morrison, Edith Gyömrői Ludowyk, Mo Collins, and Sonia Alfano came across each other at the club. The spot is located just a short walk away from the main park. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:225
+At the food festival, Mo Collins, Douangdeuane Viravongs, Sonia Alfano, and Lily Collins encountered each other. A lot of people are always talking and eating together. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:226
+At the community service day event, Heinrich Meibom, Gustav Klimt, Vic Armstrong, and Kwame Nkrumah bumped into each other. It is important to work together. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:227
+At the job fair, Charlize Theron, Sonia Alfano, Adrienne Thomas, and Mo Collins met. This event is to help make the community a better place. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:228
+Lily Collins, Sonia Alfano, Kathleen E. Woodiwiss, and Mo Collins came across each other at the retreat. The party is free entry for everyone. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:229
+Vincent van Gogh, Dexter Scott King, Arved Fuchs, and Dennis Hastert ran into each other at the business expo. Festivals are normally conducted as cultural events. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:230
+George W. Bush, Hermann Brockhaus, Simon Jones, and Frank Frazetta came across each other at the food festival. This is a very busy and demanding schedule for the members of the community. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:231
+Barbie, Mo Collins, Marie Takvam, and Sonia Alfano came across each other at the boardwalk arcade. The parking lot is beautiful and there are many restaurants available. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:232
+Jennifer Morrison, Sonia Alfano, Gisela Elsner, and Mo Collins came across each other at the paintball courses. A new class starts with a fun and unique theme! She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:233
+At the cooking class, Simon Jones, Albrecht Dürer, Heinrich Ritter, and Jacques Chirac met. The classes teach the same number of skills expected in a business class. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:234
+At the music and art festival, Ron Paul, Gustav Klimt, Zacharias Wagenaer, and Michael Wayne bumped into each other. Festivals are normally conducted as cultural events. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:235
+At the food festival, Mo Collins, Milly Witkop, Sonia Alfano, and Amy Smart encountered each other. It is a very informal and there is no money to spend on these events. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:236
+At the cooking class, Pierre-Auguste Renoir, Johann Friedrich Rochlitz, John Howard, and Ludger Pistor met. The classes sometimes have "class" games. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:237
+John Connally, Veit Dietrich, David Hockney, and Sinan Albayrak came across each other at the sports bar. People ca n't be too disappointed at the spot for cheap coffee. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:238
+At the music and art festival, Jacques Chirac, Vic Armstrong, David Hockney, and Johann Jakob Wick met. A lot of people participate in these events! He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:239
+At the charity run, Ashley Benson, Sonia Alfano, Natalie Babbitt, and Mo Collins bumped into each other. There are some good options for food too. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:240
+At the park, Lily Collins, Mo Collins, Sonia Alfano, and Suzan-Lori Parks met. The park looks nice. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:241
+At the food and drink festival, Sonia Alfano, Mary Anne Clarke, Ciara, and Mo Collins bumped into each other. There is also a very high rate of volunteerism in the events. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:242
+At the food festival, Mo Collins, Amy Smart, Sonia Alfano, and Alicia Ostriker met. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:243
+At the networking event, Mo Collins, Jade Jagger, Leslie Kaplan, and Sonia Alfano bumped into each other. A large number of people attend these events. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:244
+At the community service day event, Pierre-Auguste Renoir, George W. Romney, Nico Minardos, and Franz Xaver Haberl bumped into each other. It is important to work together. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:245
+At the high intensity class, Ramón Barea, Arnold Schoenberg, Joseph P. Kennedy II, and Heinrich Ritter met. The class requires the students to read and comprehend the course material and understand the various topics. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:246
+At the fundraiser, Sonia Alfano, Alicia Ostriker, Mo Collins, and Ashley Benson met. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:247
+At the museum, Suzan-Lori Parks, Sonia Alfano, Mo Collins, and Jennifer Morrison met. On the museum wall is a framed mosaic, made up of images of creatures from a world that we think were at least 200 million years. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:248
+Marilyn Monroe, Mo Collins, Liv Arnesen, and Sonia Alfano ran into each other at the networking event. This event is to help make the community a better place. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:249
+At the park, Sonia Alfano, Liv Arnesen, Ciara, and Mo Collins encountered each other. On the south side, in the woods along the corner of St. Rose and West Broadway, a long wooden fence runs along a line of woods over a raised road. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:250
+At the museum, Gustav Klimt, Rudy Giuliani, Heinrich Meibom, and Ramón Barea met. Museums are great places to learn about culture. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:251
+At the museum, Chuck Schumer, Dexter Scott King, Alfred Weidenmann, and Gustav Klimt met. The museum has many ancient things. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:252
+At the networking event, Johann Friedrich Rochlitz, Cy Twombly, Spencer Garrett, and George McGovern met. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:253
+At the archery class, Prabhu Ganesan, Vincent van Gogh, Stanisław Radziwiłł, and Arved Fuchs met. People should check out the classes online, it wo n't be boring! After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:254
+At the job fair, Pierre-Auguste Renoir, Dexter Scott King, Joseph Horovitz, and Juan Perón bumped into each other. It is a very informal and there is no money to spend on these events. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:255
+At the job fair, Mo Collins, Barbie, Sonia Alfano, and Kathleen E. Woodiwiss bumped into each other. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:256
+At the sports bar, Mo Collins, Liv Tyler, Lauren Brooke, and Sonia Alfano bumped into each other. One of the few spots for everyone. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:257
+At the community service day event, Sonia Alfano, Lizzie Doron, Mo Collins, and Natalie Portman encountered each other. We all live our lives trying to feed each other and the community. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:258
+At the archery class, Sonia Alfano, Gabrielle Union, Mo Collins, and Liz Greene bumped into each other. People should check out the classes online, it wo n't be boring! After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:259
+At the design expo, Joe Manchin, Prabhu Ganesan, Albrecht Dürer, and Heinrich Meibom met. A lot of people are always talking and eating together. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:260
+Gabrielle Union, Sonia Alfano, Liz Greene, and Mo Collins came across each other at the walking tour. The tour is limited to ten spots a day. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:261
+Gustav Klimt, Dexter Scott King, Franz Xaver Haberl, and Ziaur Rahman came across each other at the job fair. It takes time to develop the cultural component of a event, particularly in an already huge city. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:262
+Mo Collins, Birgit Zotz, Barbie, and Sonia Alfano ran into each other at the food and drink festival. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:263
+Mo Collins, Liv Tyler, Sonia Alfano, and Ottilie Wildermuth ran into each other at the public transport. Many routes and public lanes will see changes and closures within the next year. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:264
+Birgit Zotz, Sonia Alfano, Mo Collins, and Lily Collins ran into each other at the retreat. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:265
+Mo Collins, Gabrielle Union, Natalie Babbitt, and Sonia Alfano came across each other at the public transport. The public buses come equipped with the same service options as trains. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:266
+Douangdeuane Viravongs, Mo Collins, Sonia Alfano, and Ciara came across each other at the halloweeen party. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:267
+At the design expo, Dennis Hastert, Simon Jones, John MacGregor, and Dante Gabriel Rossetti encountered each other. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:268
+Dexter Scott King, Gustav Klimt, David Dinkins, and Alfred Weidenmann ran into each other at the wine tasting. There are a lot of vegetarian food options here. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:269
+At the networking event, Albrecht Dürer, Anwar Sadat, Björn Gustafson, and Thorwald Proll encountered each other. Many of the events are very popular in the city. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:270
+At the dance class, Charlize Theron, Mo Collins, Sonia Alfano, and Liz Greene bumped into each other. The class tries to make the course enjoyable. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:271
+Hermann Simon, Vincent van Gogh, Ron Paul, and Vic Armstrong came across each other at the specialty retail store. People from across the country are encouraged to join. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:272
+Mo Collins, Lauren Brooke, Jennifer Morrison, and Sonia Alfano came across each other at the food court. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:273
+Simon Jones, John Connally, Alfred Weidenmann, and Vincent van Gogh ran into each other at the public transport. The government updated the first error in fares but a second mistake appears in the original version that said free. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:274
+Dante Gabriel Rossetti, Cameron Kennedy, Ross Perot, and Franz Xaver Haberl ran into each other at the public transport. Please note that some buses in the park are only available to people who are at least 18 years. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:275
+Veit Dietrich, Rajiv Gandhi, Simon Jones, and Cy Twombly came across each other at the park. Most of the time people just sit here watching the birds or the dogs. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:276
+Pierre-auguste Renoir, Cameron Kennedy, Chuck Schumer, and Johann Jakob Wick came across each other at the ski resort party. The party is also filled by the band. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:277
+Mo Collins, Jennifer Morrison, Sonia Alfano, and Kathleen E. Woodiwiss came across each other at the coffee shop. There are a lot of vegetarian food options here. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:278
+At the museum tour, Sonia Alfano, Kirsten Dunst, Mo Collins, and Barbara Wood met. The museum has art exhibitions sometimes. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:279
+Björn Gustafson, John R. Neill, Joe Manchin, and David Hockney came across each other at the club. The place is nice. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:280
+At the gallery, Sonia Alfano, Amy Smart, Alicia Ostriker, and Mo Collins encountered each other. People can browse the displays and learn more about the history and culture of the museum. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:281
+At the paintball courses, Douangdeuane Viravongs, Kirsten Dunst, Mo Collins, and Sonia Alfano encountered each other. Classes take place every week at the downtown campus. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:282
+William Howard Taft, Gustav Klimt, Vic Armstrong, and Joseph Horovitz ran into each other at the fundraiser. The event is held at 4:30 p.m. Sunday at the Marriott Downtown Hotel in the Marriott Hotel. Admission is Free. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:283
+Kwame Nkrumah, Dante Gabriel Rossetti, Piero Chiambretti, and Thorwald Proll came across each other at the boardwalk arcade. There is a lot of space to play games here. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:284
+At the food court, George W. Bush, Zacharias Wagenaer, Albrecht Dürer, and Michael Wayne encountered each other. The place is the first stop on the way to the park. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:285
+Mo Collins, Sonia Alfano, Marilyn Monroe, and Edith Gyömrői Ludowyk ran into each other at the wine tasting. One of the few spots for everyone. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:286
+At the club, Gerald Weinberg, Cy Twombly, Piero Chiambretti, and Patrice Lumumba bumped into each other. The place is nice. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:287
+Natalie Babbitt, Charlize Theron, Sonia Alfano, and Mo Collins came across each other at the concert. The main reason for visiting these places is to explore new areas of the city. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:288
+Sonia Alfano, Mo Collins, Natalie Babbitt, and Lily Collins came across each other at the walking tour. The tour is coming along in several interesting ways. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:289
+At the public transport, Sonia Alfano, Ashley Benson, Mo Collins, and Milly Witkop encountered each other. Please note that some buses in the park are only available to people who are at least 18 years. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:290
+Cameron Kennedy, Heinrich Meibom, Patrice Lumumba, and Albrecht Dürer ran into each other at the design expo. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:291
+At the concert, Lauren Brooke, Ciara, Mo Collins, and Sonia Alfano bumped into each other. A lot of people participate in these events! She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:292
+Ogdo Aksyonova, Sonia Alfano, Megan Fox, and Mo Collins ran into each other at the food co-op. A great, comfortable location for a relaxed bar. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:293
+At the museum tour, John Howard, Ramón Barea, John R. Neill, and David Hockney encountered each other. On the museum wall is a framed mosaic, made up of images of creatures from a world that we think were at least 200 million years. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:294
+Gerald Weinberg, David Dinkins, Gustav Klimt, and Sinan Albayrak came across each other at the french class. Classes often contain people that know how to the technology to access it. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:295
+At the charity run, Sonia Alfano, Liv Tyler, Mo Collins, and Ottilie von Goethe met. In the past year the whole city has been excited about this place. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:296
+At the music and art festival, Hermann Simon, Jimmy Carter, Frank Frazetta, and Piero Chiambretti bumped into each other. A lot of people participate in these events! After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:297
+At the club, Otto Sutermeister, Gustav Klimt, Prabhu Ganesan, and John Connally bumped into each other. The beer is excellent. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:298
+At the coffee shop, Jade Jagger, Mo Collins, Nancy A. Collins, and Sonia Alfano bumped into each other. It is a cool place to hang out. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:299
+Simon Jones, Patrice Lumumba, Joseph Horovitz, and Dante Gabriel Rossetti came across each other at the specialty retail store. The market helps people pay bills and deliver goods. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:300
+At the party, Barbie, Mo Collins, Marjorie Grene, and Sonia Alfano met. The party is also filled by the band. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:301
+At the club, Johann Friedrich Rochlitz, Strom Thurmond, Pierre-Auguste Renoir, and Ludger Pistor bumped into each other. Located in the middle of a very busy area like the city, the surrounding street is quiet and peaceful. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:302
+At the walking tour, Hermann Simon, Sinan Albayrak, John Connally, and Albrecht Dürer met. The tour is an important part of the new generation. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:303
+Dexter Scott King, Alfred Weidenmann, George W. Romney, and Vincent van Gogh ran into each other at the retreat. The party is designed to be an enjoyable party, but not all will enjoy the view. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:304
+At the dance class, Mo Collins, Nancy A. Collins, Amy Smart, and Sonia Alfano encountered each other. A new class starts with a fun and unique theme! After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:305
+Mo Collins, Esther Bendahan, Sonia Alfano, and Amy Smart came across each other at the halloweeen party. The party is usually a happy - go - lucky night, and the people at the party are also happy with each other. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:306
+At the coffee shop, Joseph Horovitz, Vincent van Gogh, George McGovern, and Michael Wayne met. It is a cool place to hang out. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:307
+At the food court, Heinrich Meibom, Nico Minardos, George McGovern, and Vincent van Gogh bumped into each other. The coffee tastes good. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:308
+Sonia Alfano, Mo Collins, Douangdeuane Viravongs, and Solange Knowles ran into each other at the business expo. These events and events help the local community become more active, and the whole community grows through these programs. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:309
+Gustav Klimt, Michael Wayne, Stanisław Radziwiłł, and Joseph Horovitz ran into each other at the french class. Classes often contain people that know how to the technology to access it. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:310
+George W. Bush, Vic Armstrong, David Hockney, and Hermann Brockhaus ran into each other at the gallery. The museum has any important buildings, like the Museum of Archaeology in Baltimore. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:311
+At the business expo, Megan Fox, Mo Collins, Sonia Alfano, and Adrienne Thomas met. It has been said that all the different cultural events can be fun! She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:312
+Ramón Barea, Heinrich Meibom, Gustav Klimt, and David Dinkins came across each other at the high intensity class. Classes have a special event called a "Shuffle Jam". After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:313
+At the boardwalk arcade, Arnold Schoenberg, Don Diamond, Gerald Weinberg, and David Dinkins bumped into each other. Many people enjoy sports in general but not some game like basketball, baseball and hockey in an indoor sport. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:314
+David Hockney, Heinrich Meibom, Michael Wayne, and Dennis Hastert ran into each other at the food court. One of the few spots for everyone. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:315
+At the food court, Mo Collins, Ciara, Suzan-Lori Parks, and Sonia Alfano met. Here, people can find someone to become friends with. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:316
+At the design expo, Dante Gabriel Rossetti, Zacharias Wagenaer, David Dinkins, and Cameron Kennedy met. It is held in the South - west of Glasgow at 10 pm and ends at 3 pm. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:317
+At the design expo, Ziaur Rahman, John R. Neill, David Hockney, and Cameron Kennedy bumped into each other. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:318
+Megan Fox, Mo Collins, Nancy A. Collins, and Sonia Alfano ran into each other at the cooking class. All the group members have the freedom to get together. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:319
+Jimmy Carter, Simon Jones, Arnold Schoenberg, and Zacharias Wagenaer ran into each other at the high intensity class. Classes take place every Friday at 8:00 pm. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:320
+Arnold Schoenberg, Thorwald Proll, Joe Manchin, and Ludger Pistor ran into each other at the park. The water is very good and clean. He shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:321
+Otto Sutermeister, Vincent van Gogh, Ramón Barea, and Anwar Sadat came across each other at the wine tasting. People ca n't be too disappointed at the spot for cheap coffee. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:322
+At the cooking class, Nico Minardos, Ross Perot, Otto Sutermeister, and Vincent van Gogh bumped into each other. A new class starts with a fun and unique theme! He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:323
+At the gallery, Nico Minardos, Alfred Weidenmann, Rajiv Gandhi, and David Hockney bumped into each other. The museum has many ancient things. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:324
+At the paintball courses, Sonia Alfano, Astrid Hjertenæs Andersen, Mo Collins, and Gabrielle Union met. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:325
+At the sports bar, Gustav Klimt, Thorwald Proll, William Howard Taft, and Vic Armstrong bumped into each other. One of the few spots for everyone. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:326
+Sonia Alfano, Mo Collins, Gisela Elsner, and Lily Collins came across each other at the dance class. The classes teach the same number of skills expected in a business class. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:327
+At the concert, Gisela Elsner, Sonia Alfano, Natalie Portman, and Mo Collins met. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:328
+At the high intensity class, Gabrielle Union, Ogdo Aksyonova, Mo Collins, and Sonia Alfano encountered each other. The class requires the students to read and comprehend the course material and understand the various topics. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:329
+At the design expo, Mo Collins, Jade Jagger, Sonia Alfano, and Ottilie von Goethe encountered each other. This event is to help make the community a better place. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:330
+At the museum tour, Johann Jakob Wick, Dante Gabriel Rossetti, Dwight D. Eisenhower, and Simon Jones bumped into each other. In the museum there are paintings and paintings of people's lives. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:331
+At the high intensity class, Lily Collins, Mo Collins, Londa Schiebinger, and Sonia Alfano bumped into each other. Classes have a special event called a "Shuffle Jam". She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:332
+Mo Collins, Sonia Alfano, Lizzie Doron, and Jennifer Morrison came across each other at the museum. The museum has art exhibitions sometimes. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:333
+At the concert, Sonia Alfano, Lauren Brooke, Mo Collins, and Amy Smart bumped into each other. The event is still scheduled at the end of May for a crowd of around 200. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:334
+At the improvisation class, Pierre-Auguste Renoir, Hermann Simon, Jamie Selkirk, and Dennis Hastert met. The classes usually begin before work. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:335
+Sinan Albayrak, Dwight D. Eisenhower, Johann Jakob Wick, and David Hockney came across each other at the fundraiser. This is a very busy and demanding schedule for the members of the community. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:336
+At the club, Frank Frazetta, Heinrich Ritter, Nico Minardos, and George W. Romney met. The atmosphere was nice. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:337
+At the improvisation class, Marjorie Grene, Sonia Alfano, Jade Jagger, and Mo Collins encountered each other. It is easy to find and enjoy the classes. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:338
+Mo Collins, Amy Smart, Liv Arnesen, and Sonia Alfano came across each other at the food and drink festival. The main reason for visiting these places is to explore new areas of the city. After a long day at work writing books or novels professionally, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:339
+Patrice Lumumba, Gerald Weinberg, Vic Armstrong, and Vincent van Gogh came across each other at the ski resort party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:340
+At the retreat, Alfred Weidenmann, Cy Twombly, Björn Gustafson, and Jacques Chirac bumped into each other. The party is going to be full. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:341
+Liv Tyler, Marjorie Grene, Sonia Alfano, and Mo Collins ran into each other at the community service day event. We need the city's community to take action to support the efforts at its core to provide an equal space for both women and men, or we have to choose to ignore the experience of each one of us. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:342
+At the public transport, Barbara Wood, Mo Collins, Marilyn Monroe, and Sonia Alfano encountered each other. The public buses are comfortable to ride. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:343
+At the food court, Pierre-Auguste Renoir, John Howard, Spencer Garrett, and Hermann Brockhaus met. The food here has some of the best food in the city. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:344
+William Howard Taft, Hermann Simon, Sinan Albayrak, and Pierre-Auguste Renoir ran into each other at the dance class. Classes often contain people that know how to the technology to access it. He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:345
+Mo Collins, Sonia Alfano, Marie Takvam, and Solange Knowles ran into each other at the design expo. It is a very informal and there is no money to spend on these events. She reflected on whether working in fashion and modeling clothes and accessories for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:346
+Harry S. Truman, Cy Twombly, Dexter Scott King, and Gerald Weinberg ran into each other at the food festival. It has been said that all the different cultural events can be fun! After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:347
+At the wine tasting, Mo Collins, Suzan-Lori Parks, Kirsten Dunst, and Sonia Alfano encountered each other. A great, comfortable location for a relaxed bar. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:348
+At the sports bar, Ciara, Sonia Alfano, Lizzie Doron, and Mo Collins bumped into each other. The coffee cake is quite good. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:349
+At the improvisation class, Milly Witkop, Mo Collins, Marilyn Monroe, and Sonia Alfano met. The class tries to make the course enjoyable. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:350
+At the high intensity class, Mo Collins, Sonia Alfano, Ottilie Wildermuth, and Ciara met. The class requires the students to read and comprehend the course material and understand the various topics. She reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:351
+Veit Dietrich, George H. W. Bush, Ramón Barea, and Dante Gabriel Rossetti came across each other at the party. The party is sponsored by the Patriots. After a long day at work seeking an elected seat in government, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:352
+Jennifer Morrison, Mo Collins, Sonia Alfano, and Kathleen E. Woodiwiss came across each other at the design expo. The event is available in English, French and Spanish for $ 10 -LRB- on Monday October 21st -RRB-. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:353
+At the concert, Sonia Alfano, Mo Collins, Ciara, and Esther Bendahan encountered each other. Participation is the best way is to get the most out of these festivals! She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:354
+At the museum, Albrecht Dürer, John R. Neill, Ramón Barea, and Ross Perot met. The museum has an enormous collection of famous paintings. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:355
+At the fundraiser, Franz Xaver Haberl, Vincent van Gogh, Björn Gustafson, and George W. Bush met. The main reason for visiting these places is to explore new areas of the city. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:356
+Strom Thurmond, Piero Chiambretti, Arnold Schoenberg, and Friedrich Lorentz ran into each other at the walking tour. The tour is a partnership between the National Geographic Society and the National Science Foundation's Science Museum, which is an all - volunteers location. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:357
+At the public transport, Cy Twombly, Michael Wayne, Johann Jakob Wick, and Joseph P. Kennedy II met. Please note that some buses in the park are only available to people who are at least 18 years. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:358
+At the food court, Cy Twombly, Rudy Giuliani, Joseph Horovitz, and Cameron Kennedy met. The coffee cake is quite good. He shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:359
+Johann Jakob Wick, Spencer Garrett, Franklin D. Roosevelt, and Gustav Klimt ran into each other at the food festival. There is also a very high rate of volunteerism in the events. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:360
+Sinan Albayrak, Arved Fuchs, Kwame Nkrumah, and Albrecht Dürer came across each other at the dance class. Each session teaches a different theme. He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:361
+At the public transport, Alicia Ostriker, Sonia Alfano, Mo Collins, and Gabrielle Union met. The original article stated that public transport had a fee. The public transport had free or reduced - cost parking. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:362
+At the design expo, Mo Collins, Suzan-Lori Parks, Ashley Benson, and Sonia Alfano bumped into each other. Many of the events are very popular in the city. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:363
+At the museum, Mo Collins, Sonia Alfano, Kathleen E. Woodiwiss, and Amy Smart encountered each other. The museum has books, which can come together in a wonderful way. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:364
+At the coffee shop, Dante Gabriel Rossetti, John MacGregor, Dwight D. Eisenhower, and Prabhu Ganesan encountered each other. Here, people can find someone to become friends with. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:365
+At the museum, Birgit Zotz, Mo Collins, Sonia Alfano, and Amy Smart encountered each other. The archives are used for the collection of some of the most famous treasures. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:366
+At the club, Suzan-Lori Parks, Natalie Portman, Mo Collins, and Sonia Alfano met. On weekend nights, this place is crowded. She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:367
+Richard Nixon, Ramón Barea, Pierre-Auguste Renoir, and Johann Friedrich Rochlitz ran into each other at the community service day event. The community has a very interesting, hard - working and highly - cared - about group of people who are looking to make local food and drink available to all. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:368
+At the ski resort party, Sonia Alfano, Mo Collins, Leslie Kaplan, and Megan Fox met. The party is a chance at discovering and supporting the local economy, local businesses and local musicians. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:369
+At the club, Franz Xaver Haberl, Don Diamond, Rajiv Gandhi, and Arnold Schoenberg bumped into each other. This place is in great shape, there are so many people here all enjoying their day and drinking the whole time. After a long day at work painting pictures or the interior and exterior of buildings professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:370
+At the halloweeen party, Nico Minardos, Ziaur Rahman, Pierre-Auguste Renoir, and Franz Xaver Haberl encountered each other. The party is sponsored by the Patriots. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:371
+Gisela Elsner, Jade Jagger, Sonia Alfano, and Mo Collins ran into each other at the networking event. It is open to the public. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:372
+At the retreat, Kwame Nkrumah, Franz Xaver Haberl, Arnold Schoenberg, and Vic Armstrong met. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:373
+At the music and art festival, Sonia Alfano, Liv Arnesen, Ciara, and Mo Collins encountered each other. The event is being held on Friday, July 8, 2018 at Mott Center. After a long day at work seeking an elected seat in government, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:374
+At the party, Albrecht Dürer, Joe Manchin, Jamie Selkirk, and John MacGregor met. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:375
+At the community service day event, Heinrich Meibom, Gustav Klimt, Franklin D. Roosevelt, and Cameron Kennedy bumped into each other. The community is moving in the right direction and will continue to grow. After a long day at work acting in a play or a movie, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:376
+Jade Jagger, Mo Collins, Milly Witkop, and Sonia Alfano ran into each other at the halloweeen party. The party is now one of the most popular events of the summer season, with kids from all over the globe taking part in it. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:377
+Sonia Alfano, Adrienne Thomas, Solange Knowles, and Mo Collins came across each other at the museum. Museums are definitely not boring! She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:378
+At the park, Simon Jones, Ziaur Rahman, Heinrich Meibom, and Frank Frazetta encountered each other. The trees are very nice for watching birds. He reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:379
+At the sports bar, Sonia Alfano, Marjorie Grene, Mo Collins, and Lily Collins encountered each other. People ca n't be too disappointed at the spot for cheap coffee. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:380
+Ottilie von Goethe, Jennifer Morrison, Sonia Alfano, and Mo Collins came across each other at the club. A great, comfortable location for a relaxed bar. After a long day at work acting in a play or a movie, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:381
+At the improvisation class, Douangdeuane Viravongs, Ashley Benson, Sonia Alfano, and Mo Collins encountered each other. The classes are structured for beginners, and in some cases for people who wish to learn more or have more time. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:382
+At the park, Sonia Alfano, Nancy A. Collins, Mo Collins, and Lily Collins encountered each other. All the flowers in the park are so nice. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:383
+Barbie, Sonia Alfano, Mo Collins, and Mary Anne Clarke ran into each other at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". She shared experiences from a career of working in fashion and modeling clothes and accessories.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:384
+Chuck Schumer, Arnold Schoenberg, Ramón Barea, and Joseph Horovitz came across each other at the gallery. This museum and art is what we need more of. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:385
+At the high intensity class, Mo Collins, Charlize Theron, Adrienne Thomas, and Sonia Alfano encountered each other. The classes teach the same number of skills expected in a business class. She shared experiences from a career of seeking an elected seat in government.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:386
+Arnold Schoenberg, Jacques Chirac, John R. Neill, and Cameron Kennedy came across each other at the party. The party is the main venue for fans of each game against the Patriots, a fact known simply as "no - socks - to - the - wigs". He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:387
+At the business expo, Ciara, Londa Schiebinger, Sonia Alfano, and Mo Collins met. The event is still underway. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:388
+At the improvisation class, Mo Collins, Charlize Theron, Alicia Ostriker, and Sonia Alfano encountered each other. The class tries to make the course enjoyable. She shared experiences from a career of writing books or novels professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:389
+At the specialty retail store, Sonia Alfano, Liv Tyler, Gisela Elsner, and Mo Collins met. The market is still so volatile at this time of the year. After a long day at work working in fashion and modeling clothes and accessories, she was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:390
+Arved Fuchs, Ross Perot, Don Diamond, and Dante Gabriel Rossetti ran into each other at the public transport. The public buses come equipped with the same service options as trains. He shared experiences from a career of painting pictures or the interior and exterior of buildings professionally.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:391
+Ottilie von Goethe, Sonia Alfano, Mo Collins, and Charlize Theron came across each other at the design expo. It is located in the basement of the Museum of Magic in Las Vegas, Nevada. She reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:392
+At the business expo, Spencer Garrett, Rudy Giuliani, Arnold Schoenberg, and Zacharias Wagenaer met. This is a very busy and demanding schedule for the members of the community. He reflected on whether acting in a play or a movie for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:393
+At the paintball courses, William Howard Taft, Joseph Horovitz, Prabhu Ganesan, and Gustav Klimt bumped into each other. Classes have a special event called a "Shuffle Jam". He shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:394
+Woodrow Wilson, Simon Jones, Thorwald Proll, and Vincent van Gogh came across each other at the retreat. Some people are less interested in the party, others play up their personalities with random people to try to get in on the fun and be heard! He reflected on whether seeking an elected seat in government for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:395
+Harry S. Truman, Arved Fuchs, Nico Minardos, and Vincent van Gogh ran into each other at the business expo. It is being held to commemorate the 70's and 80's people. After a long day at work writing books or novels professionally, he was happy to relax.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:396
+At the music and art festival, Kirsten Dunst, Sonia Alfano, Natalie Babbitt, and Mo Collins encountered each other. It is being held to commemorate the 70's and 80's people. She reflected on whether writing books or novels professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:397
+At the boardwalk arcade, Solange Knowles, Gisela Elsner, Sonia Alfano, and Mo Collins met. A lot of cool stuff and places to look for interesting artifacts and stuff nearby. She shared experiences from a career of acting in a play or a movie.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:398
+Pierre-auguste Renoir, Johann Jakob Wick, Rudy Giuliani, and Spencer Garrett came across each other at the job fair. This event is to help make the community a better place. He reflected on whether painting pictures or the interior and exterior of buildings professionally for a living was a good career choice.
+
+kitmus/ent-train-background-train/subtask_4_ents/full-text/validation:399
+At the improvisation class, Pierre-Auguste Renoir, Arved Fuchs, Harry S. Truman, and Ramón Barea met. The classes sometimes have "class" games. After a long day at work writing books or novels professionally, he was happy to relax.

@@ -412,14 +412,13 @@ def data_path2min_sent_ix(data_path: str) -> int:
     if "full-text" in data_path:
         n_entities = int(data_path.split("_ents")[0][-1])
 
-        if (
-            "background-inference" in data_path
-            or "background-both" in data_path
-            or "desc" in data_path
-        ):
-            min_sent_ix = n_entities * 2
-        else:
-            min_sent_ix = n_entities
+        min_sent_ix = n_entities * 2
+
+        if "background-train" in data_path:
+            min_sent_ix -= n_entities
+
+        if "ent-train" in data_path:
+            min_sent_ix -= n_entities
 
     else:
         min_sent_ix = 0

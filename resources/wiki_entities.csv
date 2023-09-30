@@ -1,0 +1,349 @@
+,name,occupation,qid,pronoun
+0,Mitch McConnell,politician,Q355522,he
+1,Joe Biden,politician,Q6279,he
+2,John F. Kennedy,politician,Q9696,he
+3,Jimmy Carter,politician,Q23685,he
+4,Mahatma Gandhi,politician,Q1001,he
+5,George W. Bush,politician,Q207,he
+6,Ronald Reagan,politician,Q9960,he
+7,Bill Clinton,politician,Q1124,he
+8,Franklin D. Roosevelt,politician,Q8007,he
+9,George H. W. Bush,politician,Q23505,he
+10,Rudy Giuliani,politician,Q212648,he
+11,Theodore Roosevelt,politician,Q33866,he
+12,Richard Nixon,politician,Q9588,he
+13,Robert F. Kennedy,politician,Q25310,he
+14,Dwight D. Eisenhower,politician,Q9916,he
+15,Indira Gandhi,politician,Q1149,she
+16,Dianne Feinstein,politician,Q230733,she
+17,Lyndon B. Johnson,politician,Q9640,he
+18,Harry S. Truman,politician,Q11613,he
+19,Omar Bongo,politician,Q172083,he
+20,Gavin Newsom,politician,Q461391,he
+21,John McCain,politician,Q10390,he
+22,Woodrow Wilson,politician,Q34296,he
+23,Bernie Sanders,politician,Q359442,he
+24,Rajiv Gandhi,politician,Q4593,he
+25,Ted Kennedy,politician,Q134549,he
+26,Herbert Hoover,politician,Q35236,he
+27,Mustafa Kemal Atatürk,politician,Q5152,he
+28,William McKinley,politician,Q35041,he
+29,Strom Thurmond,politician,Q324719,he
+30,Joseph P. Kennedy Sr.,politician,Q313696,he
+31,Michael Bloomberg,politician,Q607,he
+32,Robert Mugabe,politician,Q10707,he
+33,John Kerry,politician,Q22316,he
+34,William Howard Taft,politician,Q35648,he
+35,Boris Yeltsin,politician,Q34453,he
+36,Donald Rumsfeld,politician,Q184650,he
+37,Chuck Schumer,politician,Q380900,he
+38,Paul von Hindenburg,politician,Q2667,he
+39,Dan Quayle,politician,Q49214,he
+40,Gamal Abdel Nasser,politician,Q39524,he
+41,Ross Perot,politician,Q313697,he
+42,Ron Paul,politician,Q15257,he
+43,Walter Mondale,politician,Q49216,he
+44,Thomas Sankara,politician,Q202155,he
+45,Newt Gingrich,politician,Q182788,he
+46,Anwar Sadat,politician,Q42013,he
+47,Paul Ryan,politician,Q203966,he
+48,Joe Manchin,politician,Q538868,he
+49,Patrice Lumumba,politician,Q161672,he
+50,Yitzhak Rabin,politician,Q34060,he
+51,Barry Goldwater,politician,Q319129,he
+52,Pratibha Patil,politician,Q47854,she
+53,Bob Dole,politician,Q319079,he
+54,Andrew Cuomo,politician,Q11673,he
+55,Juan Perón,politician,Q93330,he
+56,Ashraf Ghani,politician,Q172388,he
+57,John J. Pershing,politician,Q272383,he
+58,Mike Huckabee,politician,Q158813,he
+59,Kwame Nkrumah,politician,Q8620,he
+60,John Connally,politician,Q311293,he
+61,Adlai Stevenson II,politician,Q311719,he
+62,Ralph Nader,politician,Q193156,he
+63,Jacques Chirac,politician,Q2105,he
+64,Joseph P. Kennedy II,politician,Q1386420,he
+65,François Mitterrand,politician,Q2038,he
+66,George C. Marshall,politician,Q151414,he
+67,George W. Romney,politician,Q520275,he
+68,Theodore Roosevelt Jr.,politician,Q449894,he
+69,Zbigniew Brzezinski,politician,Q168041,he
+70,Anastasio Somoza Debayle,politician,Q218443,he
+71,Pat Nixon,politician,Q158707,she
+72,Ed Koch,politician,Q467122,he
+73,Abdul Rashid Dostum,politician,Q331702,he
+74,Rod Blagojevich,politician,Q151891,he
+75,George McGovern,politician,Q331742,he
+76,Dennis Hastert,politician,Q553626,he
+77,John Howard,politician,Q51330,he
+78,Ziaur Rahman,politician,Q198313,he
+79,David Dinkins,politician,Q467133,he
+80,John Boehner,politician,Q11702,he
+81,Kylie Jenner,model,Q1770624,she
+82,Marilyn Monroe,model,Q4616,she
+83,Charlize Theron,model,Q80046,she
+84,Julia Roberts,model,Q40523,she
+85,Anya Taylor-Joy,model,Q20882479,she
+86,Heidi Klum,model,Q60036,she
+87,Natalie Portman,model,Q37876,she
+88,Barbie,model,Q167447,she
+89,Megan Fox,model,Q80069,she
+90,Janet Jackson,model,Q131324,she
+91,Rebecca Ferguson,model,Q4947838,she
+92,Hailey Bieber,model,Q20983703,she
+93,Halle Berry,model,Q1033016,she
+94,Kirsten Dunst,model,Q76478,she
+95,Rachel Weisz,model,Q134077,she
+96,Lily Collins,model,Q229184,she
+97,Amanda Seyfried,model,Q189226,she
+98,Liv Tyler,model,Q168763,she
+99,Miranda Kerr,model,Q127454,she
+100,Sharon Tate,model,Q228699,she
+101,Mia Goth,model,Q20974095,she
+102,Pamela Anderson,model,Q83325,she
+103,Sienna Miller,model,Q193458,she
+104,Brooke Shields,model,Q189400,she
+105,Jasmine Jobson,model,Q96070592,she
+106,Cindy Crawford,model,Q199801,she
+107,Sherlyn Chopra,model,Q3481958,she
+108,Taryn Manning,model,Q237669,she
+109,Gabrielle Union,model,Q231648,she
+110,Alicia Silverstone,model,Q199945,she
+111,Ava Raine,model,Q27051227,she
+112,Jenna Lyons,model,Q18619322,she
+113,Sharon Stone,model,Q62975,she
+114,Kid Cudi,model,Q299138,he
+115,Stephanie Beatriz,model,Q16832110,she
+116,Jessica Lange,model,Q173585,she
+117,Ashley Benson,model,Q230609,she
+118,Minka Kelly,model,Q232674,she
+119,Maddie Ziegler,model,Q16240603,she
+120,Lil Peep,model,Q29388200,he
+121,Ciara,model,Q203223,she
+122,Lana Turner,model,Q201034,she
+123,Amy Smart,model,Q235272,she
+124,Sandra Dee,model,Q234875,she
+125,Jennifer Morrison,model,Q199929,she
+126,Tawny Kitaen,model,Q260298,she
+127,Solange Knowles,model,Q231228,she
+128,Nia Jax,model,Q20901722,she
+129,Vincent van Gogh,painter,Q5582,he
+130,David Hockney,painter,Q159907,he
+131,Gustav Klimt,painter,Q34661,he
+132,Edvard Munch,painter,Q41406,he
+133,Hieronymus Bosch,painter,Q130531,he
+134,Arnold Schoenberg,painter,Q154770,he
+135,Paul Gauguin,painter,Q37693,he
+136,H. R. Giger,painter,Q312640,he
+137,Albrecht Dürer,painter,Q5580,he
+138,Paul Cézanne,painter,Q35548,he
+139,Roy Lichtenstein,painter,Q151679,he
+140,Pierre-Auguste Renoir,painter,Q39931,he
+141,Lucian Freud,painter,Q154594,he
+142,Dante Gabriel Rossetti,painter,Q186748,he
+143,Giotto,painter,Q7814,he
+144,Frank Frazetta,painter,Q448205,he
+145,Camille Pissarro,painter,Q134741,he
+146,Cy Twombly,painter,Q159566,he
+147,Anthony van Dyck,painter,Q150679,he
+148,Giuseppe Arcimboldo,painter,Q7751,he
+149,Tintoretto,painter,Q706519,he
+150,Joseph Beuys,painter,Q153965,he
+151,Paolo Veronese,painter,Q9440,he
+152,Gustave Moreau,painter,Q203828,he
+153,Josef Albers,painter,Q170071,he
+154,Giovanni Battista Tiepolo,painter,Q186202,he
+155,Emil Nolde,painter,Q152788,he
+156,Jean Dubuffet,painter,Q170076,he
+157,Annibale Carracci,painter,Q7824,he
+158,Sam Phillips,actor,Q321354,he
+159,Mo Collins,actor,Q432973,she
+160,Charlie Ray,actor,Q265584,she
+161,Seyyal Taner,actor,Q447644,she
+162,Ramón Barea,actor,Q18406,he
+163,Ivan Petrov,actor,Q51064267,he
+164,Pepón Nieto,actor,Q276662,he
+165,Vincent Irizarry,actor,Q363037,he
+166,Piero Chiambretti,actor,Q427864,he
+167,Rade Marković,actor,Q299993,he
+168,Marco Hofschneider,actor,Q71839,he
+169,Travis Tritt,actor,Q188235,he
+170,Dexter Scott King,actor,Q362304,he
+171,Jamie Selkirk,actor,Q8289,he
+172,Cheang Pou-soi,actor,Q74138,he
+173,Ludger Pistor,actor,Q95316,he
+174,Roger Aaron Brown,actor,Q44450,he
+175,Harald Eia,actor,Q48739,he
+176,Florian Stetter,actor,Q101768,he
+177,Luciano Rossi,actor,Q450852,he
+178,Sinan Albayrak,actor,Q453992,he
+179,Leonid Kmit,actor,Q26047,he
+180,Victoire de Donnissan de La Rochejaquelein,author,Q462516,she
+181,Alicia Ostriker,author,Q21623,she
+182,Maryline Desbiolles,author,Q33476,she
+183,Edith Gyömrői Ludowyk,author,Q182305,she
+184,Lisa Alther,author,Q273911,she
+185,Kathleen E. Woodiwiss,author,Q291779,she
+186,Milly Witkop,author,Q324915,she
+187,Janice Galloway,author,Q370851,she
+188,Elisabeth von Heyking,author,Q99578,she
+189,Patricia Wentworth,author,Q435401,she
+190,Douangdeuane Viravongs,author,Q177639,she
+191,Astrid Hjertenæs Andersen,author,Q462524,she
+192,Andrea Barrett,author,Q49065,she
+193,Maria Tesselschade Visscher,author,Q456072,she
+194,Lizzie Doron,author,Q461224,she
+195,Helga M. Novak,author,Q88073,she
+196,Avdotya Panaeva,author,Q248977,she
+197,Mary Anne Clarke,author,Q273826,she
+198,Marjorie Grene,author,Q293224,she
+199,Kathryn Lasky,author,Q455852,she
+200,Danielle Trussoni,author,Q457177,she
+201,Clara Thompson,author,Q273601,she
+202,Sarah Kay,author,Q32931,she
+203,Louise von François,author,Q84820,she
+204,Luise Büchner,author,Q92151,she
+205,Rachel Yanait Ben-Zvi,author,Q175372,she
+206,Birgit Zotz,author,Q256407,she
+207,Ogdo Aksyonova,author,Q373347,she
+208,Gisela Elsner,author,Q72791,she
+209,Ottilie von Goethe,author,Q75568,she
+210,Barbara Wood,author,Q273400,she
+211,Kate Bosse-Griffiths,author,Q76944,she
+212,Catharina Elisabeth Goethe,author,Q103757,she
+213,Leslie Kaplan,author,Q442569,she
+214,Hazel Henderson,author,Q456050,she
+215,Nuala Ní Dhomhnaill,author,Q467612,she
+216,Madame de Rémusat,author,Q274062,she
+217,Esther Bendahan,author,Q291206,she
+218,Abbie Cobb,author,Q306470,she
+219,Lena Christ,author,Q77925,she
+220,Elsa Bernstein,author,Q107883,she
+221,Kasia Nosowska,author,Q178832,she
+222,Ottilie Wildermuth,author,Q69311,she
+223,Caroline von Briest,author,Q77933,she
+224,Henriette von Schirach,author,Q78388,she
+225,Karen Wynn Fonstad,author,Q93815,she
+226,Ángela Vallvey,author,Q252049,she
+227,Elisabeth Cruciger,author,Q273289,she
+228,Allison DuBois,author,Q292255,she
+229,Adrienne Thomas,author,Q76307,she
+230,Franz Xaver Haberl,author,Q66955,he
+231,Jacob Bidermann,author,Q71316,he
+232,Thilo Irmisch,author,Q75001,he
+233,Ernst von Hesse-Wartegg,author,Q79034,he
+234,Wilhelm Sievers,author,Q67462,he
+235,Johann Mayrhofer,author,Q86566,he
+236,Ernst von Wildenbruch,author,Q45337,he
+237,Georg Major,author,Q71135,he
+238,Johann Friedrich Rochlitz,author,Q71502,he
+239,Hermann Brockhaus,author,Q78371,he
+240,Benedikt Roezl,author,Q79112,he
+241,Gerald Weinberg,author,Q93132,he
+242,Thorwald Proll,author,Q63805,he
+243,Christian Gottlob Barth,author,Q84831,he
+244,Robert Schindel,author,Q90217,he
+245,John R. Neill,author,Q45111,he
+246,Friedrich Lorentz,author,Q77261,he
+247,Veit Dietrich,author,Q70919,he
+248,Joseph Kürschner,author,Q71318,he
+249,Alfred Weidenmann,author,Q73802,he
+250,Heinrich Meibom,author,Q77277,he
+251,Arved Fuchs,author,Q78264,he
+252,Heinrich Joseph von Collin,author,Q84824,he
+253,Johann Crotus,author,Q72649,he
+254,Karl Hans Strobl,author,Q84676,he
+255,Crystal Harris,model,Q454813,she
+256,Jade Jagger,model,Q531585,she
+257,Vaso Papandreou,politician,Q468103,she
+258,Seda Aznavour,actor,Q466073,she
+259,Lee Tae-ran,actor,Q502035,she
+260,Kerry Ellis,actor,Q463608,she
+261,Dominic Rains,actor,Q339060,he
+262,Daniel Lapaine,actor,Q369113,he
+263,Giovanni Lombardo Radice,actor,Q370632,he
+264,Nathaniel Carl Goodwin,actor,Q462049,he
+265,Andy Irons,actor,Q526273,he
+266,Marcel Herrand,actor,Q320471,he
+267,Michael Wayne,actor,Q168535,he
+268,Björn Gustafson,actor,Q371066,he
+269,Cliff Gorman,actor,Q371710,he
+270,Fernando Guillén Gallego,actor,Q461260,he
+271,Vic Armstrong,actor,Q431505,he
+272,Simon Jones,actor,Q61165367,he
+273,Andy Breckman,actor,Q525458,he
+274,Cameron Kennedy,actor,Q532761,he
+275,Scott Thompson,actor,Q559081,he
+276,Don Diamond,actor,Q37374385,he
+277,Son Ho-young,actor,Q489667,he
+278,Lee Tae-gon,actor,Q625863,he
+279,Nico Minardos,actor,Q530808,he
+280,Jacques Martin,actor,Q741712,he
+281,Larry Sellers,actor,Q533414,he
+282,Spencer Garrett,actor,Q443534,he
+283,Lee Hee-joon,actor,Q492243,he
+284,Damien Dante Wayans,actor,Q517362,he
+285,Jesús Guzmán,actor,Q521853,he
+286,Nancy A. Collins,author,Q447284,she
+287,Patricia Anthony,author,Q448545,she
+288,Lauren Brooke,author,Q508297,she
+289,Nina de Callias,author,Q454246,she
+290,Suzanne Spaak,author,Q459656,she
+291,Isabella Valancy Crawford,author,Q537087,she
+292,Anna Brzezińska,author,Q538323,she
+293,Carla Porta Musa,author,Q663522,she
+294,Jayne Ann Krentz,author,Q438345,she
+295,Heli Koivula Kruger,author,Q440835,she
+296,Rosina Bulwer Lytton,author,Q443655,she
+297,Marie Takvam,author,Q447067,she
+298,Anne Bishop,author,Q460303,she
+299,Kjersti Annesdatter Skomsvold,author,Q460873,she
+300,Marjorie Bowen,author,Q536979,she
+301,Londa Schiebinger,author,Q538238,she
+302,Wajeha al-Huwaider,author,Q542268,she
+303,Marion Bauer,author,Q544344,she
+304,Marie Angélique Arnauld,author,Q440118,she
+305,Enid Bagnold,author,Q447630,she
+306,Liz Greene,author,Q460261,she
+307,Empress Xiaoquancheng,author,Q589406,she
+308,Ada Cambridge,author,Q374462,she
+309,Elizabeth Haydon,author,Q449542,she
+310,Sarah Monette,author,Q465851,she
+311,Natalie Babbitt,author,Q514080,she
+312,Chantal Delsol,author,Q517390,she
+313,Catherine Bernard,author,Q532297,she
+314,John MacGregor,author,Q175690,he
+315,Hermann Simon,author,Q85464,he
+316,Sten Nadolny,author,Q106018,he
+317,Johann Martin Miller,author,Q216127,he
+318,Joseph Horovitz,author,Q214388,he
+319,Georg Klein,author,Q108401,he
+320,Karl von Scherzer,author,Q113510,he
+321,Reinmar von Zweter,author,Q65257,he
+322,Zacharias Wagenaer,author,Q66501,he
+323,Konrad of Megenberg,author,Q66631,he
+324,Robert Rogers,author,Q186571,he
+325,Abraham Emanuel Fröhlich,author,Q115992,he
+326,Carl Schenkel,author,Q122666,he
+327,Johann Jakob Wick,author,Q118632,he
+328,Otto Sutermeister,author,Q116096,he
+329,Gonzague de Reynold,author,Q116750,he
+330,Melinda Bam,model,Q3305072,she
+331,Mamo Clark,actor,Q274127,she
+332,Sammul Chan,actor,Q423212,he
+333,Huarui,author,Q698069,she
+334,Suzan-Lori Parks,author,Q511432,she
+335,Ralph of Caen,author,Q266447,he
+336,Heinrich Ritter,author,Q113928,he
+337,Cindy Lima,model,Q2279795,she
+338,Bartolomeo Schedoni,painter,Q629419,he
+339,Stanisław Radziwiłł,politician,Q33515,he
+340,Sam De Grasse,actor,Q350905,he
+341,Alexander Girardi,actor,Q45302,he
+342,Prabhu Ganesan,actor,Q277665,he
+343,Liv Arnesen,author,Q435222,she
+344,Valens Acidalius,author,Q66909,he
+345,Walter Mehring,author,Q77984,he
+346,Dietrich of Nieheim,author,Q74332,he
+347,Sonia Alfano,politician,Q369718,she
