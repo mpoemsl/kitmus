@@ -2,7 +2,7 @@
 
 This repository contains the dataset generation code for the `KITMUS` test suite, which is described in the ACL 2023 paper [The KITMUS Test: Evaluating Knowledge Integration from Multiple Sources](https://aclanthology.org/2023.acl-long.841/).
 
-In addition, this branch contains a variant with pretrain-time entity-specific information (PTE), which can be found in [kitmus/ent-train-background-train/](kitmus/ent-train-background-train/) and was created from the WikiData-derived entities in [resources/wiki_entities.csv](resources/wiki_entities.csv).
+In addition, this branch contains a variant with Pretrain-Time Entity-Specific (PTES) knowledge, which can be found in [kitmus/ent-train-background-train/](kitmus/ent-train-background-train/) and was created from the WikiData-derived entities in [resources/wiki_entities.csv](resources/wiki_entities.csv).
 
 If you use the dataset or code in your research, please consider [citing](https://github.com/mpoemsl/kitmus#citation) the paper.
 
